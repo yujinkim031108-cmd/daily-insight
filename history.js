@@ -3,115 +3,25 @@ window.historyData = {
   "2026-03-18": {
     "macro": [
       {
-        "title": "증권가 \"FOMC, 금리 동결 전망…유가 충격 해석에 방점\"",
-        "link": "https://www.yna.co.kr/view/AKR20260318068100008?input=1195m",
-        "source": "연합뉴스",
-        "tier": "S",
-        "date": "2026-03-11"
-      },
-      {
-        "title": "“유가 100달러 고착되면 성장 꺾인다”…미국 경제 ‘스태그플레이션...",
-        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8511771&ref=A",
-        "source": "KBS",
-        "tier": "S",
-        "date": "2026-03-11"
-      },
-      {
-        "title": "전쟁에 유가 급등, 환율 급등에 사모신용발 금융시장 불안 가능성까지",
-        "link": "https://www.mt.co.kr/economy/2026/03/18/2026031813364446126",
-        "source": "머니투데이",
-        "tier": "B",
-        "date": "2026-03-18"
-      },
-      {
-        "title": "'사장님 대출 ' 몰리는 은행권 … 연체 리스크 경고음",
-        "link": "https://biz.newdaily.co.kr/site/data/html/2026/03/18/2026031800345.html",
-        "source": "뉴데일리",
-        "tier": "C",
-        "date": "2026-03-18"
-      },
-      {
-        "title": "개인사업자 대출 환승 '초읽기'…고금리 부담 차주 수백만원 아낄까",
-        "link": "https://www.dailian.co.kr/news/view/1621396/?sc=Naver",
-        "source": "데일리안",
-        "tier": "C",
-        "date": "2026-03-11"
-      },
-      {
-        "title": "삼겹살 1인분 2만원 넘었다…물가 비상",
-        "link": "https://www.hankyung.com/article/2026031804201",
+        "title": "대출 갚느라 허덕여도 '외식은 포기안해'…뒤로 가는 한국",
+        "link": "https://www.hankyung.com/article/2026031805601",
         "source": "한국경제",
         "tier": "A",
-        "date": "2026-03-11"
+        "date": "2026-03-18"
       },
       {
-        "title": "미국 유가 50% 급등…\"배럴당 100달러 지속시 성장률 타격\" [FT·시카고대...",
-        "link": "https://biz.sbs.co.kr/article_hub/20000298329?division=NAVER",
-        "source": "SBS",
-        "tier": "A",
-        "date": "2026-03-11"
-      }
-    ],
-    "pm_domestic": [
-      {
-        "title": "지쿠 “이용자 78%, 1회 안내 만으로 주차 습관 개선”",
-        "link": "https://biz.chosun.com/it-science/ict/2026/03/13/GGW6AW4LVJFDREJBTVMZ2LP44Q/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-        "source": "조선일보",
+        "title": "항공 유류할증료 3배↑…4인가족 유럽여행 200만원 추가 ‘폭탄’",
+        "link": "https://www.donga.com/news/Culture/article/all/20260318/133556722/2",
+        "source": "동아일보",
         "tier": "S",
-        "date": "2026-03-11"
+        "date": "2026-03-17"
       },
       {
-        "title": "PM 불법 주차 문제 심각…수원시 '신고 시스템' 확대 운영",
-        "link": "https://www.news1.kr/local/gyeonggi/6103793",
-        "source": "뉴스1",
-        "tier": "B",
-        "date": "2026-03-18"
-      }
-    ],
-    "ebike_delivery": [
-      {
-        "title": "우아한형제들 \"친환경 물류 확대...숨은 배출원 줄인다\"",
-        "link": "https://www.newspenguin.com/news/articleView.html?idxno=21383",
-        "source": "",
-        "tier": "D",
-        "date": "2026-03-18"
-      }
-    ],
-    "pm_overseas": [
-      {
-        "title": "12.9M Reasons Why Chicago Got Micromobility Right",
-        "link": "https://micromobility.substack.com/p/129m-reasons-why-chicago-got-micromobility",
-        "source": "Micromobility Substack",
-        "tier": "",
-        "date": "2026-03-12"
-      },
-      {
-        "title": "Zeus Scooters Acquires Superpedestrian Europe",
-        "link": "https://micromobility.substack.com/p/zeus-scooters-acquires-superpedestrian",
-        "source": "Micromobility Substack",
-        "tier": "",
-        "date": "2026-03-02"
-      },
-      {
-        "title": "Voi's Blockbuster 2025! Revenue up 34% to €178.2M 🚀",
-        "link": "https://micromobility.substack.com/p/vois-blockbuster-2025-revenue-up",
-        "source": "Micromobility Substack",
-        "tier": "",
-        "date": "2026-02-19"
-      },
-      {
-        "title": "Nextbike Wins Munich Bike Contract",
-        "link": "https://micromobility.substack.com/p/nextbike-wins-munich-bike-contract",
-        "source": "Micromobility Substack",
-        "tier": "",
-        "date": "2026-02-09"
-      },
-      {
-        "title": "The 60 Year Ride to Shared E-Bikes",
-        "link": "https://micromobility.substack.com/p/the-60-year-ride-to-shared-e-bikes",
-        "source": "Micromobility Substack",
-        "tier": "",
-        "date": "2026-02-05"
+        "title": "[사설] 팬데믹 때로 치솟은 청년 실업률 , 국가 창업지원 서둘러야",
+        "link": "https://www.khan.co.kr/article/202603181810001",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-03-17"
       }
     ]
   }
