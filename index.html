@@ -1,0 +1,755 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>매일 동향 인사이트</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Noto Sans KR', sans-serif;
+    background: #f4f5f7;
+    color: #1a1a2e;
+    min-height: 100vh;
+  }
+
+  header {
+    background: #1a1a2e;
+    color: #fff;
+    padding: 20px 32px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.25);
+  }
+
+  header h1 {
+    font-size: 1.3rem;
+    font-weight: 700;
+    letter-spacing: -0.3px;
+  }
+
+  header h1 span { color: #7eb8f7; }
+
+  .header-right {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+
+  #last-updated {
+    font-size: 0.78rem;
+    color: #a0aec0;
+  }
+
+  /* Tab nav */
+  .tab-nav {
+    display: flex;
+    gap: 0;
+    background: #f4f5f7;
+    padding: 16px 28px 0;
+    max-width: 1400px;
+    margin: 0 auto;
+  }
+
+  .tab-btn {
+    padding: 9px 22px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    border: none;
+    background: none;
+    cursor: pointer;
+    color: #888;
+    border-bottom: 3px solid transparent;
+    transition: all 0.15s;
+    letter-spacing: -0.2px;
+  }
+
+  .tab-btn.active {
+    color: #1a1a2e;
+    border-bottom-color: #3a6fd8;
+  }
+
+  .tab-btn:hover:not(.active) { color: #555; }
+
+  /* Today tab */
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    padding: 20px 28px 24px;
+    max-width: 1400px;
+    margin: 0 auto;
+  }
+
+  @media (max-width: 900px) {
+    .grid { grid-template-columns: 1fr; }
+    .cal-grid { grid-template-columns: 1fr !important; }
+  }
+
+  .section {
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+    overflow: hidden;
+  }
+
+  .section-header {
+    padding: 14px 20px;
+    font-size: 0.85rem;
+    font-weight: 700;
+    letter-spacing: 0.3px;
+    text-transform: uppercase;
+    color: #fff;
+  }
+
+  .section[data-key="macro"] .section-header        { background: #2d6a4f; }
+  .section[data-key="pm_domestic"] .section-header   { background: #1d4e89; }
+  .section[data-key="ebike_delivery"] .section-header { background: #7b2d8b; }
+  .section[data-key="pm_overseas"] .section-header   { background: #c05c0a; }
+
+  .articles-list { padding: 8px 0; }
+
+  .article-card {
+    padding: 14px 20px;
+    border-bottom: 1px solid #f0f0f0;
+    transition: background 0.15s;
+  }
+
+  .article-card:last-child { border-bottom: none; }
+  .article-card:hover { background: #fafbff; }
+
+  .article-title {
+    font-size: 0.88rem;
+    font-weight: 600;
+    line-height: 1.45;
+    margin-bottom: 7px;
+  }
+
+  .article-title a { color: #1a1a2e; text-decoration: none; }
+  .article-title a:hover { color: #3a6fd8; text-decoration: underline; }
+
+  .article-bullets {
+    list-style: none;
+    margin-bottom: 7px;
+  }
+
+  .article-bullets li {
+    font-size: 0.8rem;
+    color: #4a4a6a;
+    line-height: 1.55;
+    padding-left: 14px;
+    position: relative;
+    margin-bottom: 3px;
+  }
+
+  .article-bullets li::before {
+    content: '•';
+    position: absolute;
+    left: 0;
+    color: #aab;
+  }
+
+  .article-meta { font-size: 0.72rem; color: #9a9ab0; }
+  .article-meta .source { font-weight: 600; }
+
+  .tier-badge {
+    display: inline-block;
+    font-size: 0.6rem;
+    font-weight: 700;
+    padding: 1px 4px;
+    border-radius: 3px;
+    margin-right: 3px;
+    vertical-align: middle;
+  }
+  .tier-S { background: #1a1a2e; color: #fff; }
+  .tier-A { background: #1d4e89; color: #fff; }
+  .tier-B { background: #2d6a4f; color: #fff; }
+  .tier-C { background: #888; color: #fff; }
+  .tier-D { background: #ccc; color: #555; }
+
+  .keyword-tag {
+    display: inline-block;
+    font-size: 0.65rem;
+    color: #6a7080;
+    background: #f0f1f5;
+    border-radius: 4px;
+    padding: 1px 6px;
+    margin-right: 5px;
+    vertical-align: middle;
+  }
+
+  .copy-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 3px;
+    font-size: 0.68rem;
+    color: #9a9ab0;
+    background: none;
+    border: 1px solid #e0e0ea;
+    border-radius: 4px;
+    padding: 2px 7px;
+    cursor: pointer;
+    margin-left: 8px;
+    vertical-align: middle;
+    transition: all 0.15s;
+    white-space: nowrap;
+  }
+  .copy-btn:hover { background: #f0f0f8; color: #555; border-color: #bbb; }
+  .copy-btn.copied { color: #2d6a4f; border-color: #2d6a4f; background: #f0faf5; }
+
+  .empty-state {
+    padding: 32px 20px;
+    text-align: center;
+    color: #aaa;
+    font-size: 0.85rem;
+  }
+
+  .badge-new {
+    display: inline-block;
+    background: #ff4757;
+    color: #fff;
+    font-size: 0.6rem;
+    font-weight: 700;
+    padding: 1px 5px;
+    border-radius: 4px;
+    margin-left: 6px;
+    vertical-align: middle;
+    letter-spacing: 0.3px;
+  }
+
+  /* ── Calendar tab ── */
+  #tab-history {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 20px 28px 40px;
+  }
+
+  .cal-container {
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+    overflow: hidden;
+    margin-bottom: 24px;
+  }
+
+  .cal-nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px 20px;
+    background: #1a1a2e;
+    color: #fff;
+  }
+
+  .cal-nav button {
+    background: none;
+    border: 1px solid rgba(255,255,255,0.25);
+    color: #fff;
+    border-radius: 6px;
+    padding: 4px 12px;
+    cursor: pointer;
+    font-size: 0.82rem;
+    transition: background 0.15s;
+  }
+  .cal-nav button:hover { background: rgba(255,255,255,0.12); }
+
+  .cal-month-label {
+    font-size: 1rem;
+    font-weight: 700;
+    letter-spacing: -0.2px;
+  }
+
+  .cal-weekdays {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    background: #f8f9fc;
+    border-bottom: 1px solid #eee;
+  }
+
+  .cal-weekdays span {
+    text-align: center;
+    font-size: 0.7rem;
+    font-weight: 700;
+    color: #888;
+    padding: 8px 0;
+    letter-spacing: 0.3px;
+  }
+  .cal-weekdays span:first-child { color: #e05050; }
+  .cal-weekdays span:last-child  { color: #5080d0; }
+
+  .cal-days {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 0;
+  }
+
+  .cal-day {
+    min-height: 68px;
+    border-right: 1px solid #f0f0f0;
+    border-bottom: 1px solid #f0f0f0;
+    padding: 6px 8px;
+    cursor: default;
+    transition: background 0.12s;
+    position: relative;
+  }
+
+  .cal-day:nth-child(7n) { border-right: none; }
+
+  .cal-day.has-data {
+    cursor: pointer;
+  }
+  .cal-day.has-data:hover { background: #f0f5ff; }
+
+  .cal-day.other-month .cal-day-num { color: #ccc; }
+
+  .cal-day.today .cal-day-num {
+    background: #3a6fd8;
+    color: #fff;
+    border-radius: 50%;
+    width: 22px;
+    height: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+  }
+
+  .cal-day.selected { background: #eef3ff; }
+
+  .cal-day-num {
+    font-size: 0.78rem;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 4px;
+    line-height: 22px;
+  }
+
+  .cal-day:nth-child(7n+1) .cal-day-num { color: #e05050; }
+  .cal-day:nth-child(7n) .cal-day-num   { color: #5080d0; }
+  .cal-day.other-month .cal-day-num     { color: #ccc !important; }
+  .cal-day.today .cal-day-num           { color: #fff !important; }
+
+  .cal-dots {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3px;
+  }
+
+  .cal-dot {
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+  .cal-dot[data-cat="macro"]          { background: #2d6a4f; }
+  .cal-dot[data-cat="pm_domestic"]    { background: #1d4e89; }
+  .cal-dot[data-cat="ebike_delivery"] { background: #7b2d8b; }
+  .cal-dot[data-cat="pm_overseas"]    { background: #c05c0a; }
+
+  /* History detail panel */
+  #history-detail {
+    display: none;
+  }
+
+  #history-detail.visible { display: block; }
+
+  .hist-date-label {
+    font-size: 1rem;
+    font-weight: 700;
+    color: #1a1a2e;
+    margin-bottom: 16px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #e8e8f0;
+  }
+
+  .hist-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 16px;
+  }
+
+  @media (max-width: 900px) {
+    .hist-grid { grid-template-columns: 1fr; }
+  }
+
+  /* compact article card for history */
+  .hist-article {
+    padding: 10px 14px;
+    border-bottom: 1px solid #f0f0f0;
+  }
+  .hist-article:last-child { border-bottom: none; }
+  .hist-article:hover { background: #fafbff; }
+
+  .hist-article-title {
+    font-size: 0.82rem;
+    font-weight: 600;
+    line-height: 1.4;
+    margin-bottom: 4px;
+  }
+  .hist-article-title a { color: #1a1a2e; text-decoration: none; }
+  .hist-article-title a:hover { color: #3a6fd8; text-decoration: underline; }
+
+  .hist-article-meta { font-size: 0.68rem; color: #9a9ab0; }
+
+  footer {
+    text-align: center;
+    padding: 28px;
+    color: #bbb;
+    font-size: 0.75rem;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>매일 동향 <span>인사이트</span></h1>
+  <div class="header-right">
+    <div id="last-updated">불러오는 중...</div>
+  </div>
+</header>
+
+<nav class="tab-nav">
+  <button class="tab-btn active" onclick="showTab('today', this)">오늘 동향</button>
+  <button class="tab-btn" onclick="showTab('history', this)">히스토리</button>
+</nav>
+
+<main>
+  <!-- Today tab -->
+  <div id="tab-today">
+    <div class="grid" id="grid">
+      <!-- Sections injected by JS -->
+    </div>
+  </div>
+
+  <!-- History tab -->
+  <div id="tab-history" style="display:none">
+    <div class="cal-container">
+      <div class="cal-nav">
+        <button onclick="calPrev()">&#8592; 이전</button>
+        <span class="cal-month-label" id="cal-month-label"></span>
+        <button onclick="calNext()">다음 &#8594;</button>
+      </div>
+      <div class="cal-weekdays">
+        <span>일</span><span>월</span><span>화</span><span>수</span>
+        <span>목</span><span>금</span><span>토</span>
+      </div>
+      <div class="cal-days" id="cal-days"></div>
+    </div>
+
+    <div id="history-detail">
+      <div class="hist-date-label" id="hist-date-label"></div>
+      <div class="hist-grid" id="hist-grid"></div>
+    </div>
+  </div>
+</main>
+
+<footer>자동 업데이트 매일 오전 9시 | 국내: 네이버뉴스 | 해외: Micromobility Substack</footer>
+
+<script src="data.js"></script>
+<script src="history.js"></script>
+<script>
+const SECTION_ORDER = ['macro', 'pm_domestic', 'ebike_delivery', 'pm_overseas'];
+const SECTION_TITLES = {
+  macro: '국내 매크로 경제',
+  pm_domestic: '국내 PM 시장',
+  ebike_delivery: '국내 B2C 전기자전거/배달',
+  pm_overseas: '해외 PM 시장'
+};
+
+// ── Tab switching ──────────────────────────────────────
+function showTab(name, btn) {
+  document.getElementById('tab-today').style.display = name === 'today' ? '' : 'none';
+  document.getElementById('tab-history').style.display = name === 'history' ? '' : 'none';
+  document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  if (name === 'history') renderCal();
+}
+
+// ── Today tab ─────────────────────────────────────────
+function isToday(dateStr) {
+  if (!dateStr) return false;
+  const today = new Date().toISOString().slice(0, 10);
+  return dateStr.slice(0, 10) === today;
+}
+
+function makeArticleCard(art) {
+  const card = document.createElement('div');
+  card.className = 'article-card';
+
+  const title = document.createElement('div');
+  title.className = 'article-title';
+
+  const link = document.createElement('a');
+  link.href = art.link || '#';
+  link.target = '_blank';
+  link.rel = 'noopener noreferrer';
+  link.textContent = art.title;
+  title.appendChild(link);
+
+  if (isToday(art.date)) {
+    const badge = document.createElement('span');
+    badge.className = 'badge-new';
+    badge.textContent = 'NEW';
+    title.appendChild(badge);
+  }
+  card.appendChild(title);
+
+  if (art.bullets && art.bullets.length > 0) {
+    const ul = document.createElement('ul');
+    ul.className = 'article-bullets';
+    art.bullets.forEach(b => {
+      const li = document.createElement('li');
+      li.textContent = b;
+      ul.appendChild(li);
+    });
+    card.appendChild(ul);
+  }
+
+  const meta = document.createElement('div');
+  meta.className = 'article-meta';
+  const parts = [];
+  if (art.tag) parts.push(`<span class="keyword-tag"># ${art.tag}</span>`);
+  if (art.tier && art.tier !== 'D') parts.push(`<span class="tier-badge tier-${art.tier}">${art.tier}</span>`);
+  if (art.source) parts.push(`<span class="source">${art.source}</span>`);
+  if (art.date) parts.push(art.date.slice(0, 10));
+
+  const copyBtn = document.createElement('button');
+  copyBtn.className = 'copy-btn';
+  copyBtn.innerHTML = '&#128279; 링크 복사';
+  copyBtn.addEventListener('click', () => {
+    navigator.clipboard.writeText(art.link || '').then(() => {
+      copyBtn.innerHTML = '&#10003; 복사됨';
+      copyBtn.classList.add('copied');
+      setTimeout(() => {
+        copyBtn.innerHTML = '&#128279; 링크 복사';
+        copyBtn.classList.remove('copied');
+      }, 1500);
+    });
+  });
+
+  meta.innerHTML = parts.join(' &middot; ');
+  meta.appendChild(copyBtn);
+  card.appendChild(meta);
+  return card;
+}
+
+function render() {
+  const data = window.newsData;
+  const grid = document.getElementById('grid');
+
+  document.getElementById('last-updated').textContent = data.lastUpdated
+    ? '마지막 업데이트: ' + data.lastUpdated
+    : '아직 데이터 없음 — crawl.py를 실행하세요';
+
+  grid.innerHTML = '';
+
+  SECTION_ORDER.forEach(key => {
+    const sec = data.sections[key];
+    if (!sec) return;
+
+    const articles = sec.articles || [];
+    const section = document.createElement('div');
+    section.className = 'section';
+    section.dataset.key = key;
+
+    const header = document.createElement('div');
+    header.className = 'section-header';
+    header.textContent = sec.title;
+    section.appendChild(header);
+
+    const list = document.createElement('div');
+    list.className = 'articles-list';
+
+    if (articles.length === 0) {
+      const empty = document.createElement('div');
+      empty.className = 'empty-state';
+      empty.textContent = '오늘 유의미한 기사 없음';
+      list.appendChild(empty);
+    } else {
+      articles.forEach(art => list.appendChild(makeArticleCard(art)));
+    }
+
+    section.appendChild(list);
+    grid.appendChild(section);
+  });
+}
+
+// ── Calendar ──────────────────────────────────────────
+let calYear, calMonth;
+
+function initCal() {
+  const now = new Date();
+  calYear  = now.getFullYear();
+  calMonth = now.getMonth(); // 0-indexed
+}
+
+function calPrev() {
+  calMonth--;
+  if (calMonth < 0) { calMonth = 11; calYear--; }
+  renderCal();
+}
+
+function calNext() {
+  calMonth++;
+  if (calMonth > 11) { calMonth = 0; calYear++; }
+  renderCal();
+}
+
+function renderCal() {
+  const history = window.historyData || {};
+  const MONTHS_KO = ['1월','2월','3월','4월','5월','6월','7월','8월','9월','10월','11월','12월'];
+  document.getElementById('cal-month-label').textContent = `${calYear}년 ${MONTHS_KO[calMonth]}`;
+
+  const container = document.getElementById('cal-days');
+  container.innerHTML = '';
+
+  const todayStr = new Date().toISOString().slice(0, 10);
+  const firstDay = new Date(calYear, calMonth, 1).getDay(); // 0=Sun
+  const daysInMonth = new Date(calYear, calMonth + 1, 0).getDate();
+  const daysInPrev  = new Date(calYear, calMonth, 0).getDate();
+
+  // Fill leading blanks from previous month
+  for (let i = 0; i < firstDay; i++) {
+    const cell = document.createElement('div');
+    cell.className = 'cal-day other-month';
+    const num = document.createElement('div');
+    num.className = 'cal-day-num';
+    num.textContent = daysInPrev - firstDay + 1 + i;
+    cell.appendChild(num);
+    container.appendChild(cell);
+  }
+
+  // Current month days
+  for (let d = 1; d <= daysInMonth; d++) {
+    const dateStr = `${calYear}-${String(calMonth+1).padStart(2,'0')}-${String(d).padStart(2,'0')}`;
+    const dayData = history[dateStr];
+
+    const cell = document.createElement('div');
+    cell.className = 'cal-day';
+    if (dateStr === todayStr) cell.classList.add('today');
+    if (dayData) cell.classList.add('has-data');
+
+    const num = document.createElement('div');
+    num.className = 'cal-day-num';
+
+    // Wrap today's number in a span for circle styling
+    if (dateStr === todayStr) {
+      const inner = document.createElement('span');
+      inner.textContent = d;
+      num.appendChild(inner);
+    } else {
+      num.textContent = d;
+    }
+    cell.appendChild(num);
+
+    if (dayData) {
+      const dots = document.createElement('div');
+      dots.className = 'cal-dots';
+      SECTION_ORDER.forEach(cat => {
+        const arts = dayData[cat];
+        if (arts && arts.length > 0) {
+          const dot = document.createElement('div');
+          dot.className = 'cal-dot';
+          dot.dataset.cat = cat;
+          dot.title = `${SECTION_TITLES[cat]}: ${arts.length}건`;
+          dots.appendChild(dot);
+        }
+      });
+      cell.appendChild(dots);
+
+      cell.addEventListener('click', () => showHistoryDetail(dateStr, dayData, cell));
+    }
+
+    container.appendChild(cell);
+  }
+
+  // Trailing blanks
+  const totalCells = firstDay + daysInMonth;
+  const trailing = (7 - (totalCells % 7)) % 7;
+  for (let i = 1; i <= trailing; i++) {
+    const cell = document.createElement('div');
+    cell.className = 'cal-day other-month';
+    const num = document.createElement('div');
+    num.className = 'cal-day-num';
+    num.textContent = i;
+    cell.appendChild(num);
+    container.appendChild(cell);
+  }
+}
+
+function showHistoryDetail(dateStr, dayData, clickedCell) {
+  // Deselect all, select clicked
+  document.querySelectorAll('.cal-day.selected').forEach(c => c.classList.remove('selected'));
+  clickedCell.classList.add('selected');
+
+  const detail = document.getElementById('history-detail');
+  const label = document.getElementById('hist-date-label');
+  const grid = document.getElementById('hist-grid');
+
+  const [y, m, d] = dateStr.split('-');
+  label.textContent = `${y}년 ${parseInt(m)}월 ${parseInt(d)}일 업데이트`;
+
+  grid.innerHTML = '';
+
+  SECTION_ORDER.forEach(cat => {
+    const arts = dayData[cat];
+    if (!arts || arts.length === 0) return;
+
+    const section = document.createElement('div');
+    section.className = 'section';
+    section.dataset.key = cat;
+
+    const header = document.createElement('div');
+    header.className = 'section-header';
+    header.textContent = SECTION_TITLES[cat];
+    section.appendChild(header);
+
+    const list = document.createElement('div');
+    list.className = 'articles-list';
+
+    arts.forEach(art => {
+      const item = document.createElement('div');
+      item.className = 'hist-article';
+
+      const titleDiv = document.createElement('div');
+      titleDiv.className = 'hist-article-title';
+      const a = document.createElement('a');
+      a.href = art.link || '#';
+      a.target = '_blank';
+      a.rel = 'noopener noreferrer';
+      a.textContent = art.title;
+      titleDiv.appendChild(a);
+      item.appendChild(titleDiv);
+
+      const meta = document.createElement('div');
+      meta.className = 'hist-article-meta';
+      const parts = [];
+      if (art.tier && art.tier !== 'D') parts.push(`<span class="tier-badge tier-${art.tier}">${art.tier}</span>`);
+      if (art.source) parts.push(`<span class="source">${art.source}</span>`);
+      if (art.date) parts.push(art.date.slice(0, 10));
+      meta.innerHTML = parts.join(' &middot; ');
+      item.appendChild(meta);
+
+      list.appendChild(item);
+    });
+
+    section.appendChild(list);
+    grid.appendChild(section);
+  });
+
+  detail.classList.add('visible');
+  // Smooth scroll to detail
+  detail.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+}
+
+// ── Init ──────────────────────────────────────────────
+initCal();
+render();
+</script>
+</body>
+</html>

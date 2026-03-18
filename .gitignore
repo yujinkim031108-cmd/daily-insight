@@ -1,0 +1,5 @@
+run_daily.bat
+run_weekly.bat
+register_scheduler.bat
+__pycache__/
+*.pyc
