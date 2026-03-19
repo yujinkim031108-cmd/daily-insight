@@ -28,49 +28,68 @@ window.historyData = {
   "2026-03-19": {
     "macro": [
       {
-        "title": "[마켓 브리핑] FOMC 금리 유지 결정…이란 전쟁·관세에 인플레 우려",
-        "link": "https://biz.sbs.co.kr/article_hub/20000298416?division=NAVER",
-        "source": "SBS",
-        "tier": "A",
-        "date": "2026-03-19"
-      },
-      {
-        "title": "관세·AI에 중동發 유가 충격, 금리경로 안갯속…워시 와도 가시밭",
-        "link": "https://www.news1.kr/world/international-economy/6106553",
-        "source": "뉴스1",
+        "title": "[임성현 특파원의 월스트리트 인사이트] 커지는 미국 경제 불확실성...차...",
+        "link": "https://www.mk.co.kr/article/11992144",
+        "source": "매일경제",
         "tier": "B",
-        "date": "2026-03-19"
-      },
-      {
-        "title": "구윤철 “환율, 펀더멘털과 괴리 시 적기 대응”",
-        "link": "https://biz.chosun.com/policy/policy_sub/2026/03/19/COFVA5LANZGE3NRS4G2W2GRX6I/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-        "source": "조선일보",
-        "tier": "S",
         "date": "2026-03-18"
       },
       {
-        "title": "이란 전쟁에 고물가·고환율…한은도 4월 기준 금리 동결할 듯",
-        "link": "https://www.newsis.com/view/NISX20260319_0003554801",
-        "source": "뉴시스",
-        "tier": "B",
-        "date": "2026-03-19"
-      }
-    ],
-    "pm_domestic": [
+        "title": "미 연준 ‘금리 한차례 더 인하’ 전망 유지했지만…전쟁 장기화 땐 ‘...",
+        "link": "https://www.hani.co.kr/arti/economy/economy_general/1250088.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-03-18"
+      },
       {
-        "title": "[공유형 퍼스널모빌리티 보행 안전'위협']下. 지자체들 대책 마련 잰걸...",
-        "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3016724",
+        "title": "연준, 이란 전쟁에 금리 인하 물 건너갔나…한은도 7연속 동결 전망",
+        "link": "https://www.etoday.co.kr/news/view/2567170",
         "source": "",
         "tier": "D",
+        "date": "2026-03-18"
+      },
+      {
+        "title": "美 '매파 동결'에 한은 동결 장기화…중동 변수에 통화정책 불확실성↑",
+        "link": "https://www.news1.kr/economy/trend/6106636",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-03-18"
+      },
+      {
+        "title": "가계대출 정책 한달째 '표류' … 은행은 '금리 카드', 실수요자는 '이중...",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/03/19/2026031900126.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-03-19"
+      },
+      {
+        "title": "코스피, 5,800선 붕괴... 국제 긴장 속 원 / 달러 환율 급등",
+        "link": "https://www.tokenpost.kr/news/market/341200",
+        "source": "",
+        "tier": "D",
+        "date": "2026-03-18"
+      },
+      {
+        "title": "불타는 중동 에너지 인프라…숨 막히는 세계 경제",
+        "link": "https://www.yna.co.kr/view/AKR20260319098200009?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-03-19"
+      },
+      {
+        "title": "중동 사태 불확실성에 미 연준 금리 동결…“올해 인하 1번 가능”",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8512826&ref=A",
+        "source": "KBS",
+        "tier": "S",
         "date": "2026-03-18"
       }
     ],
     "ebike_delivery": [
       {
-        "title": "발길 끊긴 전통시장, 배달 앱이 '심폐소생'",
-        "link": "https://www.mt.co.kr/tech/2026/03/19/2026031820082691886",
-        "source": "머니투데이",
-        "tier": "B",
+        "title": "쿠팡 무료배송 인상에 비판 '봇물'...\"탈팡 손실 소비자에 전가\"",
+        "link": "https://www.ytn.co.kr/_ln/0102_202603191317012895",
+        "source": "YTN",
+        "tier": "A",
         "date": "2026-03-18"
       }
     ]
