@@ -8,7 +8,7 @@ Usage:
 """
 
 import os, sys, re, json, time, argparse, textwrap, io
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from urllib.parse import quote
 import requests
 from bs4 import BeautifulSoup
@@ -511,7 +511,8 @@ def main():
     seen_urls = load_seen_urls()
     history   = load_history()
 
-    end_dt   = datetime.now()
+    KST = timezone(timedelta(hours=9))
+    end_dt   = datetime.now(KST)
     start_dt = end_dt - timedelta(days=args.days)
     print(f"[{end_dt.strftime('%Y-%m-%d %H:%M')}] "
           f"수집 기간: {start_dt.strftime('%m/%d')} ~ {end_dt.strftime('%m/%d')} ({args.days}일)\n")
