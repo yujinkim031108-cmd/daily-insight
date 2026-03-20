@@ -136,13 +136,6 @@ window.historyData = {
         "date": "2026-03-19"
       },
       {
-        "title": "새마을금고 지난해 1조 2700억 순손실… 2년 연속 적자",
-        "link": "https://www.seoul.co.kr/news/society/2026/03/20/20260320500209?wlog_tag3=naver",
-        "source": "서울신문",
-        "tier": "B",
-        "date": "2026-03-19"
-      },
-      {
         "title": "1월 은행권 연체 율, 전월比 0.06%p 오른 0.56%…中企·가계 연체 율↑",
         "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=655834",
         "source": "",
@@ -161,7 +154,7 @@ window.historyData = {
         "link": "https://www.newsis.com/view/NISX20260320_0003557284",
         "source": "뉴시스",
         "tier": "B",
-        "date": "2026-03-20"
+        "date": "2026-03-19"
       },
       {
         "title": "IMF “중동 전쟁, 세계 경제 에 하방 리스크”…한국 성장률 전망치 낮출...",
@@ -192,6 +185,36 @@ window.historyData = {
         "source": "연합뉴스",
         "tier": "S",
         "date": "2026-03-19"
+      }
+    ],
+    "pm_overseas": [
+      {
+        "title": "Announcing the Official Afterparty of MME 2026🎊🇩🇪",
+        "link": "https://micromobility.substack.com/p/announcing-the-official-afterparty",
+        "source": "Micromobility Substack",
+        "tier": "",
+        "date": "2026-03-16"
+      },
+      {
+        "title": "12.9M Reasons Why Chicago Got Micromobility Right",
+        "link": "https://micromobility.substack.com/p/129m-reasons-why-chicago-got-micromobility",
+        "source": "Micromobility Substack",
+        "tier": "",
+        "date": "2026-03-12"
+      },
+      {
+        "title": "Life EV Closes $14.9M Rad Power Bikes Deal",
+        "link": "https://micromobility.substack.com/p/life-ev-closes-149m-rad-power-bikes",
+        "source": "Micromobility Substack",
+        "tier": "",
+        "date": "2026-03-09"
+      },
+      {
+        "title": "London E-Scooter Trips Up 54%",
+        "link": "https://micromobility.substack.com/p/london-e-scooter-trips-up-54",
+        "source": "Micromobility Substack",
+        "tier": "",
+        "date": "2026-03-05"
       }
     ]
   }
