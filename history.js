@@ -28,75 +28,6 @@ window.historyData = {
   "2026-03-19": {
     "macro": [
       {
-        "title": "[임성현 특파원의 월스트리트 인사이트] 커지는 미국 경제 불확실성...차...",
-        "link": "https://www.mk.co.kr/article/11992144",
-        "source": "매일경제",
-        "tier": "B",
-        "date": "2026-03-18"
-      },
-      {
-        "title": "미 연준 ‘금리 한차례 더 인하’ 전망 유지했지만…전쟁 장기화 땐 ‘...",
-        "link": "https://www.hani.co.kr/arti/economy/economy_general/1250088.html",
-        "source": "한겨레",
-        "tier": "A",
-        "date": "2026-03-18"
-      },
-      {
-        "title": "연준, 이란 전쟁에 금리 인하 물 건너갔나…한은도 7연속 동결 전망",
-        "link": "https://www.etoday.co.kr/news/view/2567170",
-        "source": "",
-        "tier": "D",
-        "date": "2026-03-18"
-      },
-      {
-        "title": "美 '매파 동결'에 한은 동결 장기화…중동 변수에 통화정책 불확실성↑",
-        "link": "https://www.news1.kr/economy/trend/6106636",
-        "source": "뉴스1",
-        "tier": "B",
-        "date": "2026-03-18"
-      },
-      {
-        "title": "가계대출 정책 한달째 '표류' … 은행은 '금리 카드', 실수요자는 '이중...",
-        "link": "https://biz.newdaily.co.kr/site/data/html/2026/03/19/2026031900126.html",
-        "source": "뉴데일리",
-        "tier": "C",
-        "date": "2026-03-19"
-      },
-      {
-        "title": "코스피, 5,800선 붕괴... 국제 긴장 속 원 / 달러 환율 급등",
-        "link": "https://www.tokenpost.kr/news/market/341200",
-        "source": "",
-        "tier": "D",
-        "date": "2026-03-18"
-      },
-      {
-        "title": "불타는 중동 에너지 인프라…숨 막히는 세계 경제",
-        "link": "https://www.yna.co.kr/view/AKR20260319098200009?input=1195m",
-        "source": "연합뉴스",
-        "tier": "S",
-        "date": "2026-03-19"
-      },
-      {
-        "title": "중동 사태 불확실성에 미 연준 금리 동결…“올해 인하 1번 가능”",
-        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8512826&ref=A",
-        "source": "KBS",
-        "tier": "S",
-        "date": "2026-03-18"
-      }
-    ],
-    "ebike_delivery": [
-      {
-        "title": "쿠팡 무료배송 인상에 비판 '봇물'...\"탈팡 손실 소비자에 전가\"",
-        "link": "https://www.ytn.co.kr/_ln/0102_202603191317012895",
-        "source": "YTN",
-        "tier": "A",
-        "date": "2026-03-18"
-      }
-    ]
-  },
-  "2026-03-19": {
-    "macro": [
-      {
         "title": "[마켓 브리핑] FOMC 금리 유지 결정…이란 전쟁·관세에 인플레 우려",
         "link": "https://biz.sbs.co.kr/article_hub/20000298416?division=NAVER",
         "source": "SBS",
@@ -185,6 +116,75 @@ window.historyData = {
         "source": "Micromobility Substack",
         "tier": "",
         "date": "2026-02-09"
+      }
+    ]
+  },
+  "2026-03-20": {
+    "macro": [
+      {
+        "title": "정부, 8개월 만에 ‘경기 하방위험’ 언급…중동 사태 여파",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8513790&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-03-20"
+      },
+      {
+        "title": "국제 금값 이번주 6년만의 최대 하락률 눈앞",
+        "link": "https://www.yna.co.kr/view/AKR20260320117200009?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-03-19"
+      },
+      {
+        "title": "1월 은행권 연체 율, 전월比 0.06%p 오른 0.56%…中企·가계 연체 율↑",
+        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=655834",
+        "source": "",
+        "tier": "D",
+        "date": "2026-03-19"
+      },
+      {
+        "title": "코스피, 상승폭 줄이며 강보합권… 환율 다시 1500원 '터치'",
+        "link": "https://biz.sbs.co.kr/article_hub/20000298866?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-03-20"
+      },
+      {
+        "title": "IMF “중동 전쟁, 세계 경제 에 하방 리스크”…한국 성장률 전망치 낮출...",
+        "link": "https://www.khan.co.kr/article/202603201500011",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-03-19"
+      },
+      {
+        "title": "\"소비·수출 회복···건설 부진 속 경기 '완만한 회복세'\"",
+        "link": "https://www.ktv.go.kr/content/view?content_id=750554",
+        "source": "",
+        "tier": "D",
+        "date": "2026-03-19"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "이재관 의원 \" 배달의민족 , '우리가게클릭(CPC)' 평균 광고비 공개하기로...",
+        "link": "https://www.newspim.com/news/view/20260320000921",
+        "source": "",
+        "tier": "D",
+        "date": "2026-03-19"
+      },
+      {
+        "title": "쿠팡이츠 , 광화문 일대 주문 막힌다…배민은?",
+        "link": "https://biz.sbs.co.kr/article_hub/20000298759?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-03-19"
+      },
+      {
+        "title": "[게시판] 교통안전공단, 인제군과 배달 종사자 교육·지역경제 활성화 맞...",
+        "link": "https://www.yna.co.kr/view/AKR20260320059100003?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-03-19"
       }
     ]
   }
