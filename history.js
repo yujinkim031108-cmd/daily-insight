@@ -154,14 +154,7 @@ window.historyData = {
         "link": "https://www.khan.co.kr/article/202603201500011",
         "source": "경향신문",
         "tier": "A",
-        "date": "2026-03-19"
-      },
-      {
-        "title": "\"소비·수출 회복···건설 부진 속 경기 '완만한 회복세'\"",
-        "link": "https://www.ktv.go.kr/content/view?content_id=750554",
-        "source": "",
-        "tier": "D",
-        "date": "2026-03-19"
+        "date": "2026-03-20"
       }
     ],
     "ebike_delivery": [
@@ -170,14 +163,7 @@ window.historyData = {
         "link": "https://www.newspim.com/news/view/20260320000921",
         "source": "",
         "tier": "D",
-        "date": "2026-03-19"
-      },
-      {
-        "title": "쿠팡이츠 , 광화문 일대 주문 막힌다…배민은?",
-        "link": "https://biz.sbs.co.kr/article_hub/20000298759?division=NAVER",
-        "source": "SBS",
-        "tier": "A",
-        "date": "2026-03-19"
+        "date": "2026-03-20"
       },
       {
         "title": "[게시판] 교통안전공단, 인제군과 배달 종사자 교육·지역경제 활성화 맞...",
