@@ -136,6 +136,13 @@ window.historyData = {
         "date": "2026-03-19"
       },
       {
+        "title": "새마을금고 지난해 1조 2700억 순손실… 2년 연속 적자",
+        "link": "https://www.seoul.co.kr/news/society/2026/03/20/20260320500209?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-03-19"
+      },
+      {
         "title": "1월 은행권 연체 율, 전월比 0.06%p 오른 0.56%…中企·가계 연체 율↑",
         "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=655834",
         "source": "",
@@ -150,11 +157,25 @@ window.historyData = {
         "date": "2026-03-20"
       },
       {
+        "title": "1월 美 신축 단독주택 판매 60만채 하회·17.6%↓…\"3년4개월래 최저\"",
+        "link": "https://www.newsis.com/view/NISX20260320_0003557284",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-03-20"
+      },
+      {
         "title": "IMF “중동 전쟁, 세계 경제 에 하방 리스크”…한국 성장률 전망치 낮출...",
         "link": "https://www.khan.co.kr/article/202603201500011",
         "source": "경향신문",
         "tier": "A",
         "date": "2026-03-20"
+      },
+      {
+        "title": "\"소비·수출 회복···건설 부진 속 경기 '완만한 회복세'\"",
+        "link": "https://www.ktv.go.kr/content/view?content_id=750554",
+        "source": "",
+        "tier": "D",
+        "date": "2026-03-19"
       }
     ],
     "ebike_delivery": [
