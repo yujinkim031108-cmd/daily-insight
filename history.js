@@ -93,5 +93,99 @@ window.historyData = {
         "date": "2026-03-18"
       }
     ]
+  },
+  "2026-03-19": {
+    "macro": [
+      {
+        "title": "[마켓 브리핑] FOMC 금리 유지 결정…이란 전쟁·관세에 인플레 우려",
+        "link": "https://biz.sbs.co.kr/article_hub/20000298416?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-03-19"
+      },
+      {
+        "title": "관세·AI에 중동發 유가 충격, 금리경로 안갯속…워시 와도 가시밭",
+        "link": "https://www.news1.kr/world/international-economy/6106553",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-03-19"
+      },
+      {
+        "title": "이란 전쟁에 고물가·고환율…한은도 4월 기준 금리 동결할 듯",
+        "link": "https://www.newsis.com/view/NISX20260319_0003554801",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-03-12"
+      },
+      {
+        "title": "'사장님 대출 ' 몰리는 은행권 … 연체 리스크 경고음",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/03/18/2026031800345.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-03-19"
+      },
+      {
+        "title": "개인사업자 대출 환승 '초읽기'…고금리 부담 차주 수백만원 아낄까",
+        "link": "https://www.dailian.co.kr/news/view/1621396/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-03-12"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "지쿠 “이용자 78%, 1회 안내 만으로 주차 습관 개선”",
+        "link": "https://biz.chosun.com/it-science/ict/2026/03/13/GGW6AW4LVJFDREJBTVMZ2LP44Q/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-03-19"
+      },
+      {
+        "title": "전동킥보드 '불법주차 NO' 수원시 신고시스템 강화",
+        "link": "https://gg.newdaily.co.kr/site/data/html/2026/03/17/2026031700170.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-03-19"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "우아한형제들 \"친환경 물류 확대...숨은 배출원 줄인다\"",
+        "link": "https://www.newspenguin.com/news/articleView.html?idxno=21383",
+        "source": "",
+        "tier": "D",
+        "date": "2026-03-19"
+      }
+    ],
+    "pm_overseas": [
+      {
+        "title": "12.9M Reasons Why Chicago Got Micromobility Right",
+        "link": "https://micromobility.substack.com/p/129m-reasons-why-chicago-got-micromobility",
+        "source": "Micromobility Substack",
+        "tier": "",
+        "date": "2026-03-12"
+      },
+      {
+        "title": "Zeus Scooters Acquires Superpedestrian Europe",
+        "link": "https://micromobility.substack.com/p/zeus-scooters-acquires-superpedestrian",
+        "source": "Micromobility Substack",
+        "tier": "",
+        "date": "2026-03-02"
+      },
+      {
+        "title": "Voi's Blockbuster 2025! Revenue up 34% to €178.2M 🚀",
+        "link": "https://micromobility.substack.com/p/vois-blockbuster-2025-revenue-up",
+        "source": "Micromobility Substack",
+        "tier": "",
+        "date": "2026-02-19"
+      },
+      {
+        "title": "Nextbike Wins Munich Bike Contract",
+        "link": "https://micromobility.substack.com/p/nextbike-wins-munich-bike-contract",
+        "source": "Micromobility Substack",
+        "tier": "",
+        "date": "2026-02-09"
+      }
+    ]
   }
 };

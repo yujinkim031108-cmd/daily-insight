@@ -563,9 +563,7 @@ def main():
             })
             time.sleep(0.4)
 
-        # 일간 모드: 이미 표시된 기사 제외
-        if is_daily:
-            final = [a for a in final if a["link"] not in seen_urls]
+        pass  # seen_urls 필터 제거 — 항상 최신 24시간 기사 표시
 
         sections[cat_key] = {"title": cat["title"], "articles": final}
         print()
@@ -612,9 +610,7 @@ def main():
         })
         time.sleep(0.4)
 
-    # 일간 모드: 해외 PM도 seen 필터
-    if is_daily:
-        final_overseas = [a for a in final_overseas if a["link"] not in seen_urls]
+    pass  # seen_urls 필터 제거
 
     sections["pm_overseas"] = {"title": "해외 PM 시장", "articles": final_overseas}
     print()
