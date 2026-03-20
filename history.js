@@ -147,7 +147,7 @@ window.historyData = {
         "link": "https://www.mt.co.kr/economy/2026/03/20/2026032016192249581",
         "source": "머니투데이",
         "tier": "B",
-        "date": "2026-03-19"
+        "date": "2026-03-20"
       }
     ],
     "pm_domestic": [
@@ -180,29 +180,6 @@ window.historyData = {
         "source": "연합뉴스",
         "tier": "S",
         "date": "2026-03-19"
-      }
-    ],
-    "pm_overseas": [
-      {
-        "title": "12.9M Reasons Why Chicago Got Micromobility Right",
-        "link": "https://micromobility.substack.com/p/129m-reasons-why-chicago-got-micromobility",
-        "source": "Micromobility Substack",
-        "tier": "",
-        "date": "2026-03-12"
-      },
-      {
-        "title": "Life EV Closes $14.9M Rad Power Bikes Deal",
-        "link": "https://micromobility.substack.com/p/life-ev-closes-149m-rad-power-bikes",
-        "source": "Micromobility Substack",
-        "tier": "",
-        "date": "2026-03-09"
-      },
-      {
-        "title": "London E-Scooter Trips Up 54%",
-        "link": "https://micromobility.substack.com/p/london-e-scooter-trips-up-54",
-        "source": "Micromobility Substack",
-        "tier": "",
-        "date": "2026-03-05"
       }
     ]
   }
