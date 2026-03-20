@@ -133,14 +133,14 @@ window.historyData = {
         "link": "https://www.yna.co.kr/view/AKR20260320117200009?input=1195m",
         "source": "연합뉴스",
         "tier": "S",
-        "date": "2026-03-19"
+        "date": "2026-03-20"
       },
       {
         "title": "새마을금고 지난해 1조 2700억 순손실… 2년 연속 적자",
         "link": "https://www.seoul.co.kr/news/society/2026/03/20/20260320500209?wlog_tag3=naver",
         "source": "서울신문",
         "tier": "B",
-        "date": "2026-03-19"
+        "date": "2026-03-20"
       },
       {
         "title": "1월 은행권 연체 율, 전월比 0.06%p 오른 0.56%…中企·가계 연체 율↑",
@@ -148,20 +148,6 @@ window.historyData = {
         "source": "",
         "tier": "D",
         "date": "2026-03-19"
-      },
-      {
-        "title": "코스피, 상승폭 줄이며 강보합권… 환율 다시 1500원 '터치'",
-        "link": "https://biz.sbs.co.kr/article_hub/20000298866?division=NAVER",
-        "source": "SBS",
-        "tier": "A",
-        "date": "2026-03-20"
-      },
-      {
-        "title": "1월 美 신축 단독주택 판매 60만채 하회·17.6%↓…\"3년4개월래 최저\"",
-        "link": "https://www.newsis.com/view/NISX20260320_0003557284",
-        "source": "뉴시스",
-        "tier": "B",
-        "date": "2026-03-20"
       },
       {
         "title": "IMF “중동 전쟁, 세계 경제 에 하방 리스크”…한국 성장률 전망치 낮출...",
@@ -173,6 +159,22 @@ window.historyData = {
       {
         "title": "\"소비·수출 회복···건설 부진 속 경기 '완만한 회복세'\"",
         "link": "https://www.ktv.go.kr/content/view?content_id=750554",
+        "source": "",
+        "tier": "D",
+        "date": "2026-03-19"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "더 촘촘해진 경남 시군 ‘시민안전보험’",
+        "link": "https://www.knnews.co.kr/news/articleView.php?idxno=1484636",
+        "source": "",
+        "tier": "D",
+        "date": "2026-03-19"
+      },
+      {
+        "title": "이솔루션, '초격차 안전 기술' 접목한 리튬배터리 솔루션으로 글로벌 시...",
+        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=79183",
         "source": "",
         "tier": "D",
         "date": "2026-03-19"
