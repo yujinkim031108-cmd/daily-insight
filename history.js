@@ -133,7 +133,7 @@ window.historyData = {
         "link": "https://www.yna.co.kr/view/AKR20260320117200009?input=1195m",
         "source": "연합뉴스",
         "tier": "S",
-        "date": "2026-03-19"
+        "date": "2026-03-20"
       },
       {
         "title": "1월 은행권 연체 율, 전월比 0.06%p 오른 0.56%…中企·가계 연체 율↑",
@@ -166,6 +166,22 @@ window.historyData = {
       {
         "title": "\"소비·수출 회복···건설 부진 속 경기 '완만한 회복세'\"",
         "link": "https://www.ktv.go.kr/content/view?content_id=750554",
+        "source": "",
+        "tier": "D",
+        "date": "2026-03-19"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "더 촘촘해진 경남 시군 ‘시민안전보험’",
+        "link": "https://www.knnews.co.kr/news/articleView.php?idxno=1484636",
+        "source": "",
+        "tier": "D",
+        "date": "2026-03-19"
+      },
+      {
+        "title": "이솔루션, '초격차 안전 기술' 접목한 리튬배터리 솔루션으로 글로벌 시...",
+        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=79183",
         "source": "",
         "tier": "D",
         "date": "2026-03-19"
