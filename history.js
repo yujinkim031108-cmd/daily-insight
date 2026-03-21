@@ -182,5 +182,62 @@ window.historyData = {
         "date": "2026-03-19"
       }
     ]
+  },
+  "2026-03-21": {
+    "macro": [
+      {
+        "title": "'공급망 리스크' 반·바·제는 흐림…'중동 반사이익' 조·방·원은 맑음",
+        "link": "https://www.joongang.co.kr/article/25413520",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-03-20"
+      },
+      {
+        "title": "재경부 \"경기 하방위험\"…민생 추경 신속 편성",
+        "link": "https://news.tvchosun.com/site/data/html_dir/2026/03/20/2026032090175.html",
+        "source": "TV조선",
+        "tier": "B",
+        "date": "2026-03-21"
+      },
+      {
+        "title": "1월 은행 연체 율 0.56% 상승 전환…기업·가계 연체 율 모두 늘어",
+        "link": "https://www.hankookilbo.com/news/article/A2026032015320005068?did=NA",
+        "source": "한국일보",
+        "tier": "C",
+        "date": "2026-03-20"
+      },
+      {
+        "title": "“미국 금리인하 기대 소멸”… 원 · 달러 환율 1500원대 재진입",
+        "link": "https://www.mk.co.kr/article/11994267",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-03-20"
+      },
+      {
+        "title": "트럼프 정부 “해상에서 이란산 원유 구매, 4월 19일까지 한 달 허용”",
+        "link": "https://biz.chosun.com/industry/company/2026/03/21/CCMG72X7SRF3HAYDJJS24BQHLA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-03-20"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "\" 전동 킥보드 , 보행자에 위험 초래\" 93%… \"운행 전면 금지 찬성\" 77% 달...",
+        "link": "https://www.hankookilbo.com/news/article/A2026031722190001277?did=NA",
+        "source": "한국일보",
+        "tier": "C",
+        "date": "2026-03-20"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "“이제 다 찍힌다”…커진 번호판에 라이더 들 ‘긴장’",
+        "link": "https://cwn.kr/article/1065549020696111",
+        "source": "",
+        "tier": "D",
+        "date": "2026-03-21"
+      }
+    ]
   }
 };
