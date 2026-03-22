@@ -239,5 +239,69 @@ window.historyData = {
         "date": "2026-03-21"
       }
     ]
+  },
+  "2026-03-22": {
+    "macro": [
+      {
+        "title": "\"시장은 정책 일관성 두려워해…단기 처방 경계해야 신뢰 얻는다\" [월간...",
+        "link": "https://www.joongang.co.kr/article/25413724",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-03-21"
+      },
+      {
+        "title": "환율 1500원대 고착에…한은, 금리결정 ‘딜레마’",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202603220818323370071",
+        "source": "",
+        "tier": "D",
+        "date": "2026-03-21"
+      },
+      {
+        "title": "한국 시중은행 건전성 급락, 대출 포트폴리오 부실화 경고",
+        "link": "https://www.tokenpost.kr/news/economy/341973",
+        "source": "",
+        "tier": "D",
+        "date": "2026-03-21"
+      },
+      {
+        "title": "고유가·외국인 주식 매도세에 환율 고공행진",
+        "link": "https://www.yna.co.kr/view/PYH20260322034400013?input=1196m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-03-21"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "‘킥라니’ 최고속도 15㎞로 낮추자···부산시의회, 조례 개정 추진",
+        "link": "https://www.khan.co.kr/article/202603221033001",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-03-21"
+      },
+      {
+        "title": "부산, 개인형 이동장치 최고속도 시속 15km로 하향 추진",
+        "link": "https://www.yna.co.kr/view/AKR20260320033600051?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-03-22"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "“이제는 안 땡겨지네”…민생쿠폰 사라지니 땡겨요 이용자 반토막",
+        "link": "https://www.sedaily.com/article/20022392?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-03-21"
+      },
+      {
+        "title": "6월 선거 앞두고 ‘ 배달 앱 수수료 상한제’ 재점화…정치권·업계 ‘규...",
+        "link": "https://www.ceoscoredaily.com/page/view/2026031916064781916",
+        "source": "",
+        "tier": "D",
+        "date": "2026-03-21"
+      }
+    ]
   }
 };
