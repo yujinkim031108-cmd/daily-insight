@@ -303,5 +303,76 @@ window.historyData = {
         "date": "2026-03-21"
       }
     ]
+  },
+  "2026-03-23": {
+    "macro": [
+      {
+        "title": "전쟁발 인플레에 글로벌 ‘국채 발작’… 美 금리 인하 물 건너가나",
+        "link": "https://www.chosun.com/economy/economy_general/2026/03/23/6UXYM2TPRZEVXI2I7OGBECQKI4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-03-22"
+      },
+      {
+        "title": "신현송 한은총재 후보자 앞엔 물가·성장·환율 난제(종합)",
+        "link": "https://www.yna.co.kr/view/AKR20260322045451002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-03-23"
+      },
+      {
+        "title": "환율 1500원 뉴노멀…'트릴레마 위기'에 금리·물가 다 꼬인다",
+        "link": "https://www.joongang.co.kr/article/25413876",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-03-23"
+      },
+      {
+        "title": "한국 총부채 사상 첫 6500조 돌파…GDP의 2.5배",
+        "link": "https://www.chosun.com/economy/economy_general/2026/03/23/R7UUMRYHNRBZ3MTI6N7IV7FCQI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-03-22"
+      },
+      {
+        "title": "[단독] 美-이란전쟁 장기화에 추경 대폭 확대…'청년 일자리 사업'도 포...",
+        "link": "https://www.hankyung.com/article/2026032282941",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-03-22"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "‘킥라니’ 최고속도 15㎞로 낮추자···부산시의회, 조례 개정 추진",
+        "link": "https://www.khan.co.kr/article/202603221033001",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-03-22"
+      },
+      {
+        "title": "부산시의회, 개인형 이동장치 최고속도 하향 조정 추진",
+        "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=283731",
+        "source": "MBC",
+        "tier": "S",
+        "date": "2026-03-22"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "쿠팡이츠 서비스, 경기의료원과 배달파트너 건강검진 지원",
+        "link": "https://www.thepowernews.co.kr/view.php?ud=202603230927538570de3f0aa1be_7",
+        "source": "",
+        "tier": "D",
+        "date": "2026-03-22"
+      },
+      {
+        "title": "올여름 ‘38도’ 폭염 오면 ‘중대경보’…‘잠시 멈춤’ 가능할까?",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8514841&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-03-23"
+      }
+    ]
   }
 };
