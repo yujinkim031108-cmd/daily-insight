@@ -307,11 +307,18 @@ window.historyData = {
   "2026-03-23": {
     "macro": [
       {
+        "title": "[이번주 증시 예보] 고유가發 경기침체 가늠자 … 美 3월 PMI 24일 발표",
+        "link": "https://www.mk.co.kr/article/11994860",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-03-23"
+      },
+      {
         "title": "전쟁발 인플레에 글로벌 ‘국채 발작’… 美 금리 인하 물 건너가나",
         "link": "https://www.chosun.com/economy/economy_general/2026/03/23/6UXYM2TPRZEVXI2I7OGBECQKI4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
         "source": "조선일보",
         "tier": "S",
-        "date": "2026-03-22"
+        "date": "2026-03-23"
       },
       {
         "title": "신현송 한은총재 후보자 앞엔 물가·성장·환율 난제(종합)",
@@ -360,8 +367,8 @@ window.historyData = {
     ],
     "ebike_delivery": [
       {
-        "title": "쿠팡이츠 서비스, 경기의료원과 배달파트너 건강검진 지원",
-        "link": "https://www.thepowernews.co.kr/view.php?ud=202603230927538570de3f0aa1be_7",
+        "title": "쿠팡이츠 서비스, 경기의료원과 손잡고 ‘찾아가는 배달파트너 건강검진...",
+        "link": "https://weekly.cnbnews.com/news/article.html?no=209490",
         "source": "",
         "tier": "D",
         "date": "2026-03-22"
