@@ -307,45 +307,38 @@ window.historyData = {
   "2026-03-23": {
     "macro": [
       {
-        "title": "[이번주 증시 예보] 고유가發 경기침체 가늠자 … 美 3월 PMI 24일 발표",
-        "link": "https://www.mk.co.kr/article/11994860",
-        "source": "매일경제",
-        "tier": "B",
-        "date": "2026-03-23"
-      },
-      {
-        "title": "전쟁발 인플레에 글로벌 ‘국채 발작’… 美 금리 인하 물 건너가나",
-        "link": "https://www.chosun.com/economy/economy_general/2026/03/23/6UXYM2TPRZEVXI2I7OGBECQKI4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "title": "'매파' 신현송 한은 총재 후보 \"물가·성장·안정… 균형 고민\"",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092159035",
         "source": "조선일보",
         "tier": "S",
-        "date": "2026-03-23"
+        "date": "2026-03-22"
       },
       {
-        "title": "신현송 한은총재 후보자 앞엔 물가·성장·환율 난제(종합)",
-        "link": "https://www.yna.co.kr/view/AKR20260322045451002?input=1195m",
-        "source": "연합뉴스",
-        "tier": "S",
-        "date": "2026-03-23"
+        "title": "은행 연체율 11년 만에 최곤데 … 건전성 우려에도 커지는 포용금융 압...",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/03/23/2026032300171.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-03-22"
       },
       {
         "title": "환율 1500원 뉴노멀…'트릴레마 위기'에 금리·물가 다 꼬인다",
         "link": "https://www.joongang.co.kr/article/25413876",
         "source": "중앙일보",
         "tier": "S",
-        "date": "2026-03-23"
-      },
-      {
-        "title": "한국 총부채 사상 첫 6500조 돌파…GDP의 2.5배",
-        "link": "https://www.chosun.com/economy/economy_general/2026/03/23/R7UUMRYHNRBZ3MTI6N7IV7FCQI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-        "source": "조선일보",
-        "tier": "S",
         "date": "2026-03-22"
       },
       {
-        "title": "[단독] 美-이란전쟁 장기화에 추경 대폭 확대…'청년 일자리 사업'도 포...",
-        "link": "https://www.hankyung.com/article/2026032282941",
-        "source": "한국경제",
-        "tier": "A",
+        "title": "중동정세 불안…고심 깊어지는 원양업계",
+        "link": "https://www.yna.co.kr/view/PYH20260323139000051?input=1196m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-03-23"
+      },
+      {
+        "title": "“이러다 성장률 0%대, 빈 말 아니다”…이란전쟁 장기화 조짐에 전망치...",
+        "link": "https://www.mk.co.kr/article/11995446",
+        "source": "매일경제",
+        "tier": "B",
         "date": "2026-03-22"
       }
     ],
@@ -358,27 +351,34 @@ window.historyData = {
         "date": "2026-03-22"
       },
       {
-        "title": "부산시의회, 개인형 이동장치 최고속도 하향 조정 추진",
-        "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=283731",
-        "source": "MBC",
-        "tier": "S",
+        "title": "서초구, '길막' 전기자전거 신고하면 3시간 내 수거한다",
+        "link": "https://www.mt.co.kr/policy/2026/03/23/2026032311020698565",
+        "source": "머니투데이",
+        "tier": "B",
         "date": "2026-03-22"
       }
     ],
     "ebike_delivery": [
       {
-        "title": "쿠팡이츠 서비스, 경기의료원과 손잡고 ‘찾아가는 배달파트너 건강검진...",
-        "link": "https://weekly.cnbnews.com/news/article.html?no=209490",
+        "title": "한솥, 한그릇 메뉴 강화",
+        "link": "https://www.sportschosun.com/life/2026-03-23/202603230100156280010908",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-03-23"
+      },
+      {
+        "title": "쿠팡이츠 서비스, 경기의료원과 '찾아가는 배달파트너 건강검진' 무상 지...",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=247804",
         "source": "",
         "tier": "D",
         "date": "2026-03-22"
       },
       {
-        "title": "올여름 ‘38도’ 폭염 오면 ‘중대경보’…‘잠시 멈춤’ 가능할까?",
-        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8514841&ref=A",
-        "source": "KBS",
+        "title": "배달라이더 로 불법취업한 외국인 검거…명의 빌려준 업체도 적발",
+        "link": "https://www.yna.co.kr/view/AKR20260323101900371?input=1195m",
+        "source": "연합뉴스",
         "tier": "S",
-        "date": "2026-03-23"
+        "date": "2026-03-22"
       }
     ]
   }
