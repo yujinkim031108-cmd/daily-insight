@@ -381,5 +381,69 @@ window.historyData = {
         "date": "2026-03-22"
       }
     ]
+  },
+  "2026-03-24": {
+    "macro": [
+      {
+        "title": "日 2월 소비자물가 , 작년比 1.6% 상승",
+        "link": "https://www.yna.co.kr/view/AKR20260324087100073?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-03-24"
+      },
+      {
+        "title": "고유가에 생산자 물가 6개월 연속 상승…이달 더 오른다",
+        "link": "https://biz.sbs.co.kr/article_hub/20000299462?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-03-24"
+      },
+      {
+        "title": "신현송에 쏠리는 시선…시장 전망은 ‘조건부 긴축’",
+        "link": "https://www.joongang.co.kr/article/25414157",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-03-24"
+      },
+      {
+        "title": "임금근로자 대출 2년째 증가...30·40대 위주 주담대 11%↑",
+        "link": "https://www.ytn.co.kr/_ln/0102_202603241341237273",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-03-24"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "서초, 방치 전기자전거 바로 치운다",
+        "link": "https://www.seoul.co.kr/news/publicnews/seoul_local/news_seoul/2026/03/24/20260324021004?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-03-23"
+      },
+      {
+        "title": "\"길막, 신고 하세요\" 서초구, 전기자전거 바로 수거",
+        "link": "https://www.mt.co.kr/policy/2026/03/24/2026032320004044990",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-03-23"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "[이커머스 글로벌진출현황] 쿠팡 대만서 세 자릿수 성장…G마켓·11번가...",
+        "link": "https://www.g-enews.com/view.php?ud=202603231516267627056c162803_1",
+        "source": "",
+        "tier": "D",
+        "date": "2026-03-23"
+      },
+      {
+        "title": "법무부, 외국인 범죄 대응 회의 개최",
+        "link": "https://news.tvchosun.com/site/data/html_dir/2026/03/24/2026032490097.html",
+        "source": "TV조선",
+        "tier": "B",
+        "date": "2026-03-23"
+      }
+    ]
   }
 };
