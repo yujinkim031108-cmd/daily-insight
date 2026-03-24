@@ -385,31 +385,24 @@ window.historyData = {
   "2026-03-24": {
     "macro": [
       {
-        "title": "日 2월 소비자물가 , 작년比 1.6% 상승",
-        "link": "https://www.yna.co.kr/view/AKR20260324087100073?input=1195m",
-        "source": "연합뉴스",
-        "tier": "S",
-        "date": "2026-03-24"
-      },
-      {
-        "title": "고유가에 생산자 물가 6개월 연속 상승…이달 더 오른다",
-        "link": "https://biz.sbs.co.kr/article_hub/20000299462?division=NAVER",
-        "source": "SBS",
+        "title": "“설상가상 美 물가 ”…경유 5달러 돌파",
+        "link": "https://magazine.hankyung.com/business/article/202603230334b",
+        "source": "한국경제",
         "tier": "A",
-        "date": "2026-03-24"
+        "date": "2026-03-23"
       },
       {
-        "title": "신현송에 쏠리는 시선…시장 전망은 ‘조건부 긴축’",
-        "link": "https://www.joongang.co.kr/article/25414157",
-        "source": "중앙일보",
+        "title": "직장인 평균 빚 5275만원…주담대 11% 늘고 연체 율도 올라",
+        "link": "https://www.donga.com/news/Economy/article/all/20260324/133594709/1",
+        "source": "동아일보",
         "tier": "S",
-        "date": "2026-03-24"
+        "date": "2026-03-23"
       },
       {
-        "title": "임금근로자 대출 2년째 증가...30·40대 위주 주담대 11%↑",
-        "link": "https://www.ytn.co.kr/_ln/0102_202603241341237273",
-        "source": "YTN",
-        "tier": "A",
+        "title": "2% 성장률 ‘먹구름’…25조 전쟁 추경 돌파구 될까",
+        "link": "https://www.mk.co.kr/article/11996769",
+        "source": "매일경제",
+        "tier": "B",
         "date": "2026-03-24"
       }
     ],
@@ -438,10 +431,10 @@ window.historyData = {
         "date": "2026-03-23"
       },
       {
-        "title": "법무부, 외국인 범죄 대응 회의 개최",
-        "link": "https://news.tvchosun.com/site/data/html_dir/2026/03/24/2026032490097.html",
-        "source": "TV조선",
-        "tier": "B",
+        "title": "“최저임금 ‘차등 적용’으로 싸울 때 아니다”…플랫폼노동자 확대가...",
+        "link": "https://www.khan.co.kr/article/202603241502001",
+        "source": "경향신문",
+        "tier": "A",
         "date": "2026-03-23"
       }
     ]
