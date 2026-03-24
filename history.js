@@ -389,13 +389,27 @@ window.historyData = {
         "link": "https://magazine.hankyung.com/business/article/202603230334b",
         "source": "한국경제",
         "tier": "A",
-        "date": "2026-03-23"
+        "date": "2026-03-24"
+      },
+      {
+        "title": "[더벨][금융 人사이드] 신현송 한은 총재 후보, 중동 사태 속 균형감 제...",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202603231004264640104333",
+        "source": "",
+        "tier": "D",
+        "date": "2026-03-24"
       },
       {
         "title": "직장인 평균 빚 5275만원…주담대 11% 늘고 연체 율도 올라",
         "link": "https://www.donga.com/news/Economy/article/all/20260324/133594709/1",
         "source": "동아일보",
         "tier": "S",
+        "date": "2026-03-23"
+      },
+      {
+        "title": "1510원 뚫은 환율 ·불안한 증시… 달러 파킹형 ETF에 돈 몰린다",
+        "link": "https://www.mt.co.kr/stock/2026/03/24/2026032415374375487",
+        "source": "머니투데이",
+        "tier": "B",
         "date": "2026-03-23"
       },
       {
