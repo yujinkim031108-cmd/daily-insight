@@ -389,6 +389,13 @@ window.historyData = {
         "link": "https://magazine.hankyung.com/business/article/202603230334b",
         "source": "한국경제",
         "tier": "A",
+        "date": "2026-03-23"
+      },
+      {
+        "title": "\"골드만삭스도 '4·6월 ECB 금리 인상' 예상\"",
+        "link": "https://www.yna.co.kr/view/AKR20260324140800009?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
         "date": "2026-03-24"
       },
       {
@@ -406,13 +413,6 @@ window.historyData = {
         "date": "2026-03-23"
       },
       {
-        "title": "1510원 뚫은 환율 ·불안한 증시… 달러 파킹형 ETF에 돈 몰린다",
-        "link": "https://www.mt.co.kr/stock/2026/03/24/2026032415374375487",
-        "source": "머니투데이",
-        "tier": "B",
-        "date": "2026-03-23"
-      },
-      {
         "title": "2% 성장률 ‘먹구름’…25조 전쟁 추경 돌파구 될까",
         "link": "https://www.mk.co.kr/article/11996769",
         "source": "매일경제",
@@ -427,13 +427,6 @@ window.historyData = {
         "source": "서울신문",
         "tier": "B",
         "date": "2026-03-23"
-      },
-      {
-        "title": "\"길막, 신고 하세요\" 서초구, 전기자전거 바로 수거",
-        "link": "https://www.mt.co.kr/policy/2026/03/24/2026032320004044990",
-        "source": "머니투데이",
-        "tier": "B",
-        "date": "2026-03-23"
       }
     ],
     "ebike_delivery": [
@@ -445,10 +438,10 @@ window.historyData = {
         "date": "2026-03-23"
       },
       {
-        "title": "“최저임금 ‘차등 적용’으로 싸울 때 아니다”…플랫폼노동자 확대가...",
-        "link": "https://www.khan.co.kr/article/202603241502001",
-        "source": "경향신문",
-        "tier": "A",
+        "title": "[Invest]민병철 어피너티 대표 물러난다…'1년 천하' 끝낸 롯데렌탈 고가...",
+        "link": "https://www.investchosun.com/site/data/html_dir/2026/03/24/2026032480100.html",
+        "source": "조선일보",
+        "tier": "S",
         "date": "2026-03-23"
       }
     ]
