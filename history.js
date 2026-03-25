@@ -445,5 +445,76 @@ window.historyData = {
         "date": "2026-03-23"
       }
     ]
+  },
+  "2026-03-25": {
+    "macro": [
+      {
+        "title": "[소날 데사이의 마켓 나우] 이란전쟁의 역설, 더 강해진 미국 자산",
+        "link": "https://www.joongang.co.kr/article/25414510",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-03-25"
+      },
+      {
+        "title": "“설상가상 美 물가 ”…경유 5달러 돌파",
+        "link": "https://magazine.hankyung.com/business/article/202603230334b",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-03-25"
+      },
+      {
+        "title": "중동 리스크 직격탄에…올 성장률 2%선 붕괴 우려",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202603241536469410460",
+        "source": "",
+        "tier": "D",
+        "date": "2026-03-24"
+      },
+      {
+        "title": "임금근로자 평균 대출 5275만원 역대 최대… 주담대 11% 급증",
+        "link": "https://www.seoul.co.kr/news/economy/finance/2026/03/25/20260325030003?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-03-24"
+      },
+      {
+        "title": "원/달러 환율 이틀째 하락…장 초반 1,493.2원",
+        "link": "https://www.yna.co.kr/view/AKR20260325046200002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-03-24"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "“전기자전거 ‘길막’ 불편” 민원 늘자… 서초구 “강제 견인”",
+        "link": "https://www.donga.com/news/Society/article/all/20260325/133599165/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-03-24"
+      },
+      {
+        "title": "\"길막, 신고 하세요\" 서초구, 전기자전거 바로 수거",
+        "link": "https://www.mt.co.kr/policy/2026/03/24/2026032320004044990",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-03-24"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "“속도보다 효율”... 쿠팡 , ‘로켓배송’ 틀 깨는 묶음배송 만지작",
+        "link": "https://www.joongang.co.kr/article/25414599",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-03-24"
+      },
+      {
+        "title": "[단독] 李 대선공약… 배달 오토바이 '앞번호판' 의무화 추진한다",
+        "link": "https://www.joongang.co.kr/article/25414584",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-03-24"
+      }
+    ]
   }
 };
