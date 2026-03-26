@@ -499,64 +499,64 @@ window.historyData = {
   "2026-03-26": {
     "macro": [
       {
-        "title": "[미·이란 전쟁 한달] 3高 장기화 경로 밟나…복합 경제대응에도 'S의 공...",
-        "link": "https://www.yna.co.kr/view/AKR20260325095800002?input=1195m",
-        "source": "연합뉴스",
-        "tier": "S",
-        "date": "2026-03-25"
+        "title": "3고 장기화 경로 밟나…복합 경제대응에도 'S의 공포' 고개",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008492517&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-03-26"
       },
       {
-        "title": "중동 리스크·매파 신현송 변수…해외 IB, 한은 5월 금리인상 가능성 제...",
-        "link": "https://www.news1.kr/economy/trend/6113098",
-        "source": "뉴스1",
-        "tier": "B",
-        "date": "2026-03-25"
-      },
-      {
-        "title": "뉴욕 반등에도 서울 휘청…코스피· 환율 이중압박",
-        "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=100961",
-        "source": "",
-        "tier": "D",
-        "date": "2026-03-25"
-      },
-      {
-        "title": "석유 최고가제 2차 고시 앞두고 전국 주유소 휘발윳값 상승 전환",
-        "link": "https://www.yna.co.kr/view/AKR20260326044100003?input=1195m",
+        "title": "아시아 각국, 에너지 대란에 코로나19식 대응…교통량 축소 초점",
+        "link": "https://www.yna.co.kr/view/AKR20260326112800084?input=1195m",
         "source": "연합뉴스",
         "tier": "S",
         "date": "2026-03-26"
       },
       {
-        "title": "\"골드만삭스, 미 경기하강 위험 30%…유가 급등 영향\"",
-        "link": "https://www.yna.co.kr/view/AKR20260326039500009?input=1195m",
-        "source": "연합뉴스",
-        "tier": "S",
+        "title": "이러다 스태그플레이션 올라…한은 우려",
+        "link": "https://biz.sbs.co.kr/article_hub/20000300010?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-03-26"
+      },
+      {
+        "title": "'종전협상' 불확실성에 코스피 2.5%대 하락... 환율 은 1,509원까지 상승",
+        "link": "https://www.ytn.co.kr/_ln/0102_202603261443380774",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-03-25"
+      },
+      {
+        "title": "정부 \"유류세 추가 인하…휘발유 15%·경유 25%\"",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=1358447",
+        "source": "",
+        "tier": "D",
         "date": "2026-03-25"
       }
     ],
     "pm_domestic": [
       {
-        "title": "검찰, 경찰에 ‘인천 전동 킥보드 사고’ 보완수사 요구",
-        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8518063&ref=A",
-        "source": "KBS",
+        "title": "김포시, “ 킥보드 책임, 이제 사업자 몫” 불법 주차 견인료 2배 인상해...",
+        "link": "https://sports.donga.com/region/article/all/20260326/133612683/1",
+        "source": "동아일보",
         "tier": "S",
         "date": "2026-03-25"
       },
       {
-        "title": "부평구의회, 가족돌봄 아동 지원·PM 안전 조례 상임위 통과",
-        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=865867",
-        "source": "",
-        "tier": "D",
-        "date": "2026-03-26"
+        "title": "[3월 25일(수) 오늘, 서울시] 양재대로 자동차전용도로 해제…전 구간 일...",
+        "link": "https://www.dailian.co.kr/news/view/1625237/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-03-25"
       }
     ],
     "ebike_delivery": [
       {
-        "title": "[이슈픽] 인도에 방치된 전기자전거 , ‘길막’으로 몸살",
-        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8518016&ref=A",
-        "source": "KBS",
-        "tier": "S",
-        "date": "2026-03-25"
+        "title": "음식점 위생등급제 '안심업소' 단일화 … \"더 안전한 식당 못찾는다\"",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/03/26/2026032600157.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-03-26"
       },
       {
         "title": "화성특례시, 전기 이륜차 보급 사업 신청자 모집",
