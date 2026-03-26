@@ -495,5 +495,76 @@ window.historyData = {
         "date": "2026-03-24"
       }
     ]
+  },
+  "2026-03-26": {
+    "macro": [
+      {
+        "title": "[미·이란 전쟁 한달] 3高 장기화 경로 밟나…복합 경제대응에도 'S의 공...",
+        "link": "https://www.yna.co.kr/view/AKR20260325095800002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-03-25"
+      },
+      {
+        "title": "중동 리스크·매파 신현송 변수…해외 IB, 한은 5월 금리인상 가능성 제...",
+        "link": "https://www.news1.kr/economy/trend/6113098",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-03-25"
+      },
+      {
+        "title": "뉴욕 반등에도 서울 휘청…코스피· 환율 이중압박",
+        "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=100961",
+        "source": "",
+        "tier": "D",
+        "date": "2026-03-25"
+      },
+      {
+        "title": "석유 최고가제 2차 고시 앞두고 전국 주유소 휘발윳값 상승 전환",
+        "link": "https://www.yna.co.kr/view/AKR20260326044100003?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-03-26"
+      },
+      {
+        "title": "\"골드만삭스, 미 경기하강 위험 30%…유가 급등 영향\"",
+        "link": "https://www.yna.co.kr/view/AKR20260326039500009?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-03-25"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "검찰, 경찰에 ‘인천 전동 킥보드 사고’ 보완수사 요구",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8518063&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-03-25"
+      },
+      {
+        "title": "부평구의회, 가족돌봄 아동 지원·PM 안전 조례 상임위 통과",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=865867",
+        "source": "",
+        "tier": "D",
+        "date": "2026-03-26"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "[이슈픽] 인도에 방치된 전기자전거 , ‘길막’으로 몸살",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8518016&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-03-25"
+      },
+      {
+        "title": "화성특례시, 전기 이륜차 보급 사업 신청자 모집",
+        "link": "https://www.dailian.co.kr/news/view/1625598/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-03-25"
+      }
+    ]
   }
 };
