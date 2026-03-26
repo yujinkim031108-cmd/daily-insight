@@ -566,5 +566,76 @@ window.historyData = {
         "date": "2026-03-25"
       }
     ]
+  },
+  "2026-03-27": {
+    "macro": [
+      {
+        "title": "2월 美 수입 물가 1.3%↑…\"에너지 급등에 4년래 최대 상승\"",
+        "link": "https://www.newsis.com/view/NISX20260326_0003565133",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-03-26"
+      },
+      {
+        "title": "물가 인상보다 급한 건 성장…멕시코, 기준금리 0.25%p 인하",
+        "link": "https://www.yna.co.kr/view/AKR20260327022600087?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-03-26"
+      },
+      {
+        "title": "이러다 스태그플레이션 올라…한은 우려",
+        "link": "https://biz.sbs.co.kr/article_hub/20000300010?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-03-26"
+      },
+      {
+        "title": "지난해 12월 말 보험사 대출 채권 265조원… 연체 율·부실채권비율 소폭 ...",
+        "link": "https://www.dailian.co.kr/news/view/1626164/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-03-26"
+      },
+      {
+        "title": "트럼프 대이란 압박에 뉴욕증시 급락…나스닥 '조정장' 진입",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1703620",
+        "source": "",
+        "tier": "D",
+        "date": "2026-03-26"
+      },
+      {
+        "title": "금융부채 고위험가구 46만…청년 비중 5년새 22%→35%",
+        "link": "https://www.sedaily.com/article/20024793?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-03-26"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "독일, 전동 킥보드 ‘소유자 책임’으로 확대",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8519347&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-03-27"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "피크타임에 주문 '뚝'‥사장님만 몰랐던 '준비 중'",
+        "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6810572_37004.html",
+        "source": "MBC",
+        "tier": "S",
+        "date": "2026-03-27"
+      },
+      {
+        "title": "[이천소식]시, 배달 라이더 이륜차 무상 안전점검 등",
+        "link": "https://www.newsis.com/view/NISX20260326_0003565574",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-03-27"
+      }
+    ]
   }
 };
