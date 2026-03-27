@@ -570,45 +570,24 @@ window.historyData = {
   "2026-03-27": {
     "macro": [
       {
-        "title": "2월 美 수입 물가 1.3%↑…\"에너지 급등에 4년래 최대 상승\"",
-        "link": "https://www.newsis.com/view/NISX20260326_0003565133",
-        "source": "뉴시스",
-        "tier": "B",
-        "date": "2026-03-26"
-      },
-      {
-        "title": "물가 인상보다 급한 건 성장…멕시코, 기준금리 0.25%p 인하",
-        "link": "https://www.yna.co.kr/view/AKR20260327022600087?input=1195m",
-        "source": "연합뉴스",
+        "title": "미국-이란 전쟁, 외교적 봉합 후 증시 회복 경로 진입할 것",
+        "link": "https://weekly.donga.com/3/all/11/6156589/1",
+        "source": "동아일보",
         "tier": "S",
         "date": "2026-03-26"
       },
       {
-        "title": "이러다 스태그플레이션 올라…한은 우려",
-        "link": "https://biz.sbs.co.kr/article_hub/20000300010?division=NAVER",
-        "source": "SBS",
+        "title": "OECD, 미국 물가 상승률 전망치 1.2%p 상향…전쟁발 인플레 경고음",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8520100&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-03-26"
+      },
+      {
+        "title": "2월 주담대 금리 4.32%, 2년3개월 만에 최고…5개월 연속 상승",
+        "link": "https://www.hani.co.kr/arti/economy/finance/1251443.html",
+        "source": "한겨레",
         "tier": "A",
-        "date": "2026-03-26"
-      },
-      {
-        "title": "지난해 12월 말 보험사 대출 채권 265조원… 연체 율·부실채권비율 소폭 ...",
-        "link": "https://www.dailian.co.kr/news/view/1626164/?sc=Naver",
-        "source": "데일리안",
-        "tier": "C",
-        "date": "2026-03-26"
-      },
-      {
-        "title": "트럼프 대이란 압박에 뉴욕증시 급락…나스닥 '조정장' 진입",
-        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1703620",
-        "source": "",
-        "tier": "D",
-        "date": "2026-03-26"
-      },
-      {
-        "title": "금융부채 고위험가구 46만…청년 비중 5년새 22%→35%",
-        "link": "https://www.sedaily.com/article/20024793?ref=naver",
-        "source": "",
-        "tier": "D",
         "date": "2026-03-26"
       }
     ],
@@ -619,21 +598,35 @@ window.historyData = {
         "source": "KBS",
         "tier": "S",
         "date": "2026-03-27"
+      },
+      {
+        "title": "김포시, “ 킥보드 책임, 이제 사업자 몫” 불법 주차 견인료 2배 인상해...",
+        "link": "https://sports.donga.com/region/article/all/20260326/133612683/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-03-27"
       }
     ],
     "ebike_delivery": [
       {
-        "title": "피크타임에 주문 '뚝'‥사장님만 몰랐던 '준비 중'",
-        "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6810572_37004.html",
-        "source": "MBC",
-        "tier": "S",
-        "date": "2026-03-27"
+        "title": "쿠팡이츠 서비스-전상연, 전통시장 활성화 '동행 프로젝트' 추진",
+        "link": "https://www.100ssd.co.kr/news/articleView.html?idxno=207443",
+        "source": "",
+        "tier": "D",
+        "date": "2026-03-26"
       },
       {
-        "title": "[이천소식]시, 배달 라이더 이륜차 무상 안전점검 등",
-        "link": "https://www.newsis.com/view/NISX20260326_0003565574",
-        "source": "뉴시스",
-        "tier": "B",
+        "title": "화성특례시, 2026년도 상반기 전기 이륜차 보급 사업 신청자 모집",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=1358065",
+        "source": "",
+        "tier": "D",
+        "date": "2026-03-26"
+      },
+      {
+        "title": "과일·비누 50분만에 집앞에…퀵커머스 불붙는다",
+        "link": "https://biz.sbs.co.kr/article_hub/20000300167?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
         "date": "2026-03-27"
       }
     ]
