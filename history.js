@@ -630,5 +630,62 @@ window.historyData = {
         "date": "2026-03-27"
       }
     ]
+  },
+  "2026-03-28": {
+    "macro": [
+      {
+        "title": "물가 얼마나 올랐나?…내주 다주택자 규제도 발표",
+        "link": "https://biz.sbs.co.kr/article_hub/20000300489?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-03-27"
+      },
+      {
+        "title": "고유가·고환율 위기 고조…금리인상 빨라지나[고개 든 금리인상①]",
+        "link": "https://www.newsis.com/view/NISX20260327_0003567454",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-03-27"
+      },
+      {
+        "title": "금융당국, 다주택자 대출 규제 강화...4월 1일 발표 예정",
+        "link": "https://www.ppss.kr/news/articleView.html?idxno=290082",
+        "source": "",
+        "tier": "D",
+        "date": "2026-03-28"
+      },
+      {
+        "title": "\"기름값· 환율 무섭다\" LCC 잇단 감편 운항…비상 경영 돌입",
+        "link": "https://www.news1.kr/industry/general-industry/6117151",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-03-27"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "\"지하철 혼잡도 줄일 것\"…서울시가 내놓은 방안",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008494739&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-03-27"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "배민 통해 정보 빼낸 '사적 보복' 총책 영장 심사",
+        "link": "https://imnews.imbc.com/replay/2026/nw1200/article/6810924_36967.html",
+        "source": "MBC",
+        "tier": "S",
+        "date": "2026-03-28"
+      },
+      {
+        "title": "시정하라니 더 나빠진 배달앱 '준비 중' 꼼수",
+        "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6810850_37004.html",
+        "source": "MBC",
+        "tier": "S",
+        "date": "2026-03-27"
+      }
+    ]
   }
 };
