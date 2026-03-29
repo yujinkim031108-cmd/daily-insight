@@ -687,5 +687,76 @@ window.historyData = {
         "date": "2026-03-27"
       }
     ]
+  },
+  "2026-03-29": {
+    "macro": [
+      {
+        "title": "[이번주 경제]중동전쟁 충격 첫 반영…3월 물가 얼마나 올랐나",
+        "link": "https://www.news1.kr/economy/trend/6117477",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-03-28"
+      },
+      {
+        "title": "벼랑 끝 자영업자…대출금리 0.25%p 오르면 이자 1조8천억↑",
+        "link": "https://www.yna.co.kr/view/AKR20260328043600002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-03-29"
+      },
+      {
+        "title": "은행 주담대 고정 금리 3년5개월 만에 7% 넘어…이란전 여파 확산",
+        "link": "https://www.hani.co.kr/arti/economy/finance/1251585.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-03-28"
+      },
+      {
+        "title": "커지는 금리 딜레마…고심 깊어가는 한은[고개 든 금리인상③]",
+        "link": "https://www.newsis.com/view/NISX20260328_0003567942",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-03-28"
+      },
+      {
+        "title": "금감원, ‘사업자 대출 로 집 구매’ 꼼수 대출 현장점검…하나·농협 첫...",
+        "link": "https://www.chosun.com/economy/economy_general/2026/03/29/YSCCB7LGX5AJPKKKU6QRQGTEGA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-03-28"
+      },
+      {
+        "title": "은행 주담대 금리 7% 뚫었다…영끌족 이자 공포",
+        "link": "https://www.newsis.com/view/NISX20260327_0003567566",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-03-29"
+      },
+      {
+        "title": "중동 리스크에…해외 IB, 한국 성장률 줄하향",
+        "link": "https://www.seoul.co.kr/news/economy/finance/2026/03/29/20260329500038?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-03-29"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "[패트롤] 광명시의회-김포시의회-의왕시의회-포천시의회",
+        "link": "https://www.ekn.kr/web/view.php?key=20260329021182035",
+        "source": "",
+        "tier": "D",
+        "date": "2026-03-28"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "포장재 대란 전통시장 ‘가뭄의 단비’…친환경 봉투 지원 나선 ‘이 회...",
+        "link": "https://www.mk.co.kr/article/12000305",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-03-29"
+      }
+    ]
   }
 };
