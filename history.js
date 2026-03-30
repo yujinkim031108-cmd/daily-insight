@@ -758,5 +758,69 @@ window.historyData = {
         "date": "2026-03-29"
       }
     ]
+  },
+  "2026-03-30": {
+    "macro": [
+      {
+        "title": "한은은 동결, 시장은 상승…연준 기조 변화에 국고채 3.6%대",
+        "link": "https://www.tokenpost.kr/news/cryptocurrency/344500",
+        "source": "",
+        "tier": "D",
+        "date": "2026-03-29"
+      },
+      {
+        "title": "은행 대출이자 부담 낮출까…'코파'로 금리 기준 바뀐다",
+        "link": "https://biz.sbs.co.kr/article_hub/20000300743?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-03-30"
+      },
+      {
+        "title": "“이자내기 무서워요”…치솟는 주담대 금리에 영끌족 ‘비명’",
+        "link": "https://www.mk.co.kr/article/12002178",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-03-30"
+      },
+      {
+        "title": "건설업 26년만에 최악…지난해 지역 경제 1.0% 성장",
+        "link": "https://news.tvchosun.com/site/data/html_dir/2026/03/30/2026033090218.html",
+        "source": "TV조선",
+        "tier": "B",
+        "date": "2026-03-30"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "서울 서초구, ‘길막’ 전기자전거 “즉시 수거”",
+        "link": "https://www.kmib.co.kr/article/view.asp?arcid=1774768772&code=11131400&cp=nv",
+        "source": "",
+        "tier": "D",
+        "date": "2026-03-29"
+      },
+      {
+        "title": "청주시, 전기이륜차 보급 확대…최대 300만 원 지원",
+        "link": "https://www.nocutnews.co.kr/news/6493033?utm_source=naver&utm_medium=article&utm_campaign=20260330101006",
+        "source": "",
+        "tier": "D",
+        "date": "2026-03-29"
+      },
+      {
+        "title": "인천 부평구의회, 12일간 임시회 마무리 “ 조례 안 심사 집중” 진행",
+        "link": "https://sports.donga.com/region/article/all/20260330/133635863/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-03-29"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "고양시, 상반기 ' 전기 이륜차 보급사업' 다음 달부터 접수",
+        "link": "https://www.news1.kr/local/gyeonggi/6118575",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-03-30"
+      }
+    ]
   }
 };
