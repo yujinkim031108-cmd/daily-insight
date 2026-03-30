@@ -773,21 +773,35 @@ window.historyData = {
         "link": "https://biz.sbs.co.kr/article_hub/20000300743?division=NAVER",
         "source": "SBS",
         "tier": "A",
-        "date": "2026-03-30"
+        "date": "2026-03-29"
+      },
+      {
+        "title": "카드론 금리 '내렸다'지만 … 고신용자만 웃는 '착시 하락'",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/03/30/2026033000187.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-03-29"
       },
       {
         "title": "“이자내기 무서워요”…치솟는 주담대 금리에 영끌족 ‘비명’",
         "link": "https://www.mk.co.kr/article/12002178",
         "source": "매일경제",
         "tier": "B",
-        "date": "2026-03-30"
+        "date": "2026-03-29"
       },
       {
-        "title": "건설업 26년만에 최악…지난해 지역 경제 1.0% 성장",
-        "link": "https://news.tvchosun.com/site/data/html_dir/2026/03/30/2026033090218.html",
-        "source": "TV조선",
-        "tier": "B",
-        "date": "2026-03-30"
+        "title": "코스피 5300선 와르르… 환율 1510원 돌파",
+        "link": "https://biz.sbs.co.kr/article_hub/20000300741?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-03-29"
+      },
+      {
+        "title": "브렌트유 월상승률 ‘1990년 걸프전’ 넘어…미국 서민들 불만 쌓여",
+        "link": "https://www.hani.co.kr/arti/international/globaleconomy/1251719.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-03-29"
       }
     ],
     "pm_domestic": [
