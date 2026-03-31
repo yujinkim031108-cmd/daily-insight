@@ -840,6 +840,20 @@ window.historyData = {
   "2026-03-31": {
     "macro": [
       {
+        "title": "대만 중앙은행 총재 \" 물가 안정 위해 필요시 통화 긴축\"",
+        "link": "https://biz.sbs.co.kr/article_hub/20000301026?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-03-31"
+      },
+      {
+        "title": "\"주가가 빠지는 만큼, 피가 마른다..고유가, 러우전쟁보다 후폭풍 심각...",
+        "link": "https://radio.ytn.co.kr/program/?f=2&id=108083&s_mcd=0206&s_hcd=15",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-03-31"
+      },
+      {
         "title": "주담대 금리 7% 시대, \" 대출 이자 줄여주세요\" 신청 늘지만…",
         "link": "https://it.chosun.com/news/articleView.html?idxno=2023092159524",
         "source": "조선일보",
@@ -847,17 +861,10 @@ window.historyData = {
         "date": "2026-03-31"
       },
       {
-        "title": "환율 , 유가 상승· 달러 강세에 이틀째 장중 1,520원대",
-        "link": "https://www.yna.co.kr/view/AKR20260331037900002?input=1195m",
+        "title": "'장중 1,530원' 환율 상승 부추기는 외인…이달 들어 35조 투매",
+        "link": "https://www.yna.co.kr/view/AKR20260331124500008?input=1195m",
         "source": "연합뉴스",
         "tier": "S",
-        "date": "2026-03-31"
-      },
-      {
-        "title": "에너지 시장 안정화 위해 모인 G7 경제장관 \"모든 조치 준비\"",
-        "link": "https://www.mt.co.kr/world/2026/03/31/2026033108360336544",
-        "source": "머니투데이",
-        "tier": "B",
         "date": "2026-03-31"
       }
     ],
@@ -879,17 +886,17 @@ window.historyData = {
     ],
     "ebike_delivery": [
       {
-        "title": "고양시, 상반기 ' 전기 이륜차 보급사업' 다음 달부터 접수",
-        "link": "https://www.news1.kr/local/gyeonggi/6118575",
-        "source": "뉴스1",
+        "title": "'먹깨비' 손잡은 하나은행",
+        "link": "https://www.mk.co.kr/article/12002410",
+        "source": "매일경제",
         "tier": "B",
-        "date": "2026-03-31"
+        "date": "2026-03-30"
       },
       {
-        "title": "전세버스도 라이더 도… 유가 급등에 ‘스톱’",
-        "link": "https://www.chosun.com/national/national_general/2026/03/31/YKVES54QQRDH3OX552KFFDTGSI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-        "source": "조선일보",
-        "tier": "S",
+        "title": "내년 최저임금 얼마?… 미국·이란 전쟁 여파 속 논의 시동",
+        "link": "https://www.hankookilbo.com/news/article/A2026033109490002282?did=NA",
+        "source": "한국일보",
+        "tier": "C",
         "date": "2026-03-31"
       }
     ]
