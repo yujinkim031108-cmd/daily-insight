@@ -836,5 +836,62 @@ window.historyData = {
         "date": "2026-03-30"
       }
     ]
+  },
+  "2026-03-31": {
+    "macro": [
+      {
+        "title": "주담대 금리 7% 시대, \" 대출 이자 줄여주세요\" 신청 늘지만…",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092159524",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-03-31"
+      },
+      {
+        "title": "환율 , 유가 상승· 달러 강세에 이틀째 장중 1,520원대",
+        "link": "https://www.yna.co.kr/view/AKR20260331037900002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-03-31"
+      },
+      {
+        "title": "에너지 시장 안정화 위해 모인 G7 경제장관 \"모든 조치 준비\"",
+        "link": "https://www.mt.co.kr/world/2026/03/31/2026033108360336544",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-03-31"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "청주시, 전기이륜차 보급 확대…최대 300만 원 지원",
+        "link": "https://www.nocutnews.co.kr/news/6493033?utm_source=naver&utm_medium=article&utm_campaign=20260330101006",
+        "source": "",
+        "tier": "D",
+        "date": "2026-03-30"
+      },
+      {
+        "title": "인천 부평구의회, 12일간 임시회 마무리 “ 조례 안 심사 집중” 진행",
+        "link": "https://sports.donga.com/region/article/all/20260330/133635863/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-03-31"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "고양시, 상반기 ' 전기 이륜차 보급사업' 다음 달부터 접수",
+        "link": "https://www.news1.kr/local/gyeonggi/6118575",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-03-31"
+      },
+      {
+        "title": "전세버스도 라이더 도… 유가 급등에 ‘스톱’",
+        "link": "https://www.chosun.com/national/national_general/2026/03/31/YKVES54QQRDH3OX552KFFDTGSI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-03-31"
+      }
+    ]
   }
 };
