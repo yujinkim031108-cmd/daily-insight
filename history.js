@@ -904,6 +904,13 @@ window.historyData = {
   "2026-04-01": {
     "macro": [
       {
+        "title": "中, ‘ 물가 지표’ 돼지고기 값 폭락에 강제 감산 초강수",
+        "link": "https://biz.chosun.com/international/international_general/2026/04/01/IDY7I6GNLREVBKK6CB6JFTITQU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-03-31"
+      },
+      {
         "title": "'중동발 충격' 26.2조 추경...소득 하위 70%에 최대 60만원",
         "link": "https://www.ytn.co.kr/_ln/0102_202604011300564231",
         "source": "YTN",
@@ -911,28 +918,84 @@ window.historyData = {
         "date": "2026-04-01"
       },
       {
-        "title": "가계부채 총량 확 줄고 7%대 고 금리 …대출 받아 집사기 더 어려워진다",
-        "link": "https://www.news1.kr/finance/general-finance/6121493",
-        "source": "뉴스1",
-        "tier": "B",
-        "date": "2026-04-01"
+        "title": "불안할 땐 역시 예금…\"여보, 2금융권 가보자 이자 연 3.5% 넘는대\"",
+        "link": "https://www.hankyung.com/article/2026040108231",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-03-31"
       },
       {
         "title": "모건스탠리 \"4월 한은 금리동결 예상…완화 편향 제거 방향\"",
         "link": "https://www.yna.co.kr/view/AKR20260401133900008?input=1195m",
         "source": "연합뉴스",
         "tier": "S",
+        "date": "2026-04-01"
+      },
+      {
+        "title": "17일부터 다주택자 대출 연장 불허…무주택자의 '일시적 갭투자'는 허용...",
+        "link": "https://www.sportschosun.com/life/2026-04-01/202604010100007310000201",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-04-01"
+      },
+      {
+        "title": "고위험가구·잠재취약차주 '부실 리스크'…금융시장 부실로 번지나",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=299576",
+        "source": "",
+        "tier": "D",
         "date": "2026-03-31"
       },
       {
-        "title": "환율 1,510원 아래로 풀썩…WGBI 효과?",
-        "link": "https://biz.sbs.co.kr/article_hub/20000301384?division=NAVER",
-        "source": "SBS",
+        "title": "트럼프 “2~3주 내 떠날 것”... 이란 “조건부 종전 가능”",
+        "link": "https://www.seoul.co.kr/news/international/2026/04/01/20260401500249?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-04-01"
+      },
+      {
+        "title": "전국 휘발유값 1900원 돌파…서울·제주 1950원 넘어서",
+        "link": "https://www.donga.com/news/Economy/article/all/20260401/133654153/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-03-31"
+      },
+      {
+        "title": "5월 4일 임시공휴일 검토…근로자 날부터 '닷새 황금연휴' 오나",
+        "link": "https://news.jtbc.co.kr/article/NB12292265?influxDiv=NAVER",
+        "source": "JTBC",
         "tier": "A",
         "date": "2026-04-01"
+      },
+      {
+        "title": "中인민일보, '中경제둔화론' 반박…\"서방 매체들, 허위 결론\"",
+        "link": "https://www.yna.co.kr/view/AKR20260401125400083?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-03-31"
       }
     ],
     "pm_domestic": [
+      {
+        "title": "네이버가 만든 브라우저, 웨일 빠르고 안전한 인터넷을 만나보세요",
+        "link": "https://naver.me/5PWfpb8Z",
+        "source": "",
+        "tier": "D",
+        "date": "2026-03-31"
+      },
+      {
+        "title": "35년 SUV역사 '포드 익스플로러', 4월 신 모델로 韓소비자 찾는다",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7157905",
+        "source": "",
+        "tier": "D",
+        "date": "2026-03-31"
+      },
+      {
+        "title": "SK인천석유화학, 벚꽃 동산 산책로 개방",
+        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1244346",
+        "source": "",
+        "tier": "D",
+        "date": "2026-03-31"
+      },
       {
         "title": "달리는 ‘시한폭탄’…국민 10명 중 8명 “ 전동 킥보드 그냥 없애자”",
         "link": "https://www.nongmin.com/article/20260401500161",
@@ -953,21 +1016,77 @@ window.historyData = {
         "source": "뉴스1",
         "tier": "B",
         "date": "2026-04-01"
+      },
+      {
+        "title": "\"삼천리 가서 가스비 내나요?\"··· 이름만 같은 '동명이사' 세계",
+        "link": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=306431",
+        "source": "",
+        "tier": "D",
+        "date": "2026-03-31"
+      },
+      {
+        "title": "[부산 브리핑 모음(4월1일)] 부산도시공사, 서부산 행정복합타운 건립공...",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202603311957489510445",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-01"
       }
     ],
     "ebike_delivery": [
+      {
+        "title": "네이버가 만든 브라우저, 웨일 빠르고 안전한 인터넷을 만나보세요",
+        "link": "https://naver.me/5PWfpb8Z",
+        "source": "",
+        "tier": "D",
+        "date": "2026-03-31"
+      },
+      {
+        "title": "볼보 이윤모 \"EX90으로 프리미엄 전기 차 시장 공략\"",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1354072",
+        "source": "",
+        "tier": "D",
+        "date": "2026-03-31"
+      },
+      {
+        "title": "소상공인들 “자고 나면 포장재 값 올라 무섭다”…한성숙, 배달 앱에 “...",
+        "link": "https://www.khan.co.kr/article/202604011607011",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-04-01"
+      },
       {
         "title": "\"벼랑 끝 소상공인 위해\"…머리 맞댄 정부·업계·배달사(종합)",
         "link": "https://www.newsis.com/view/NISX20260401_0003573264",
         "source": "뉴시스",
         "tier": "B",
-        "date": "2026-04-01"
+        "date": "2026-03-31"
+      },
+      {
+        "title": "\"특정일 대신 일주일 내내\"… SKT, 0(영) 고객 대상 혜택 대폭 확대",
+        "link": "https://www.dailian.co.kr/news/view/1628341/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-03-31"
       },
       {
         "title": "\" 전기 오토바이도 보조금 준다고?\"…김포시, 전기이륜차 민간보급 나서",
         "link": "https://www.cnbnews.com/news/article.html?no=786944",
         "source": "",
         "tier": "D",
+        "date": "2026-03-31"
+      },
+      {
+        "title": "[AI의 종목 이야기] 리비안 분사 전기자전거 '올소' 자금줄 확보",
+        "link": "https://www.newspim.com/news/view/20260401000998",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-01"
+      },
+      {
+        "title": "전수미, 군산서 간담회…\"공약에 시민 목소리 담겠다\"",
+        "link": "https://www.newsis.com/view/NISX20260401_0003573733",
+        "source": "뉴시스",
+        "tier": "B",
         "date": "2026-03-31"
       }
     ]
