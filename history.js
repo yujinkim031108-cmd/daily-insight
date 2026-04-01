@@ -900,5 +900,76 @@ window.historyData = {
         "date": "2026-03-31"
       }
     ]
+  },
+  "2026-04-01": {
+    "macro": [
+      {
+        "title": "'중동발 충격' 26.2조 추경...소득 하위 70%에 최대 60만원",
+        "link": "https://www.ytn.co.kr/_ln/0102_202604011300564231",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-04-01"
+      },
+      {
+        "title": "가계부채 총량 확 줄고 7%대 고 금리 …대출 받아 집사기 더 어려워진다",
+        "link": "https://www.news1.kr/finance/general-finance/6121493",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-04-01"
+      },
+      {
+        "title": "모건스탠리 \"4월 한은 금리동결 예상…완화 편향 제거 방향\"",
+        "link": "https://www.yna.co.kr/view/AKR20260401133900008?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-03-31"
+      },
+      {
+        "title": "환율 1,510원 아래로 풀썩…WGBI 효과?",
+        "link": "https://biz.sbs.co.kr/article_hub/20000301384?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-04-01"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "달리는 ‘시한폭탄’…국민 10명 중 8명 “ 전동 킥보드 그냥 없애자”",
+        "link": "https://www.nongmin.com/article/20260401500161",
+        "source": "",
+        "tier": "D",
+        "date": "2026-03-31"
+      },
+      {
+        "title": "인천 연수구, 송도 학원 2곳 ' 킥보드 없는 거리' 본격 시행",
+        "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3018195",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-01"
+      },
+      {
+        "title": "교통안전공단, 전기 차 72만대 점검…2.5만대 이상 선제 안전조치",
+        "link": "https://www.news1.kr/realestate/general/6121689",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-04-01"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "\"벼랑 끝 소상공인 위해\"…머리 맞댄 정부·업계·배달사(종합)",
+        "link": "https://www.newsis.com/view/NISX20260401_0003573264",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-04-01"
+      },
+      {
+        "title": "\" 전기 오토바이도 보조금 준다고?\"…김포시, 전기이륜차 민간보급 나서",
+        "link": "https://www.cnbnews.com/news/article.html?no=786944",
+        "source": "",
+        "tier": "D",
+        "date": "2026-03-31"
+      }
+    ]
   }
 };
