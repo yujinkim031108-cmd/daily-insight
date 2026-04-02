@@ -1094,39 +1094,39 @@ window.historyData = {
   "2026-04-02": {
     "macro": [
       {
-        "title": "충북 3월 소비자물가지수 2.3% ↑…기름값 등 올라",
-        "link": "https://www.yna.co.kr/view/AKR20260402068700064?input=1195m",
+        "title": "'유가 급등' 3월 소비자물가 2.2%↑…4월엔 오름폭 확대될 듯(종합2보)",
+        "link": "https://www.yna.co.kr/view/AKR20260401172252002?input=1195m",
         "source": "연합뉴스",
         "tier": "S",
-        "date": "2026-04-02"
+        "date": "2026-04-01"
       },
       {
-        "title": "'최고가격제'에도 9.9% 오른 석유류 물가 …농산물 덕분에 버텼다",
-        "link": "https://www.mt.co.kr/economy/2026/04/02/2026040210170052375",
-        "source": "머니투데이",
-        "tier": "B",
+        "title": "3월 소비자 물가 2.2% 상승…'전쟁 영향' 석유류 10% 급등",
+        "link": "https://www.pressian.com/pages/articles/2026040209401975620?utm_source=naver&utm_medium=search",
+        "source": "프레시안",
+        "tier": "C",
         "date": "2026-04-01"
+      },
+      {
+        "title": "\"금이 다시 오르네\"…종전 기대감에 100만원선 재탈환",
+        "link": "https://www.newsis.com/view/NISX20260402_0003574882",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-04-02"
       },
       {
         "title": "종전 기대감 속 WGBI 편입까지…채권시장 다시 웃을까(종합)",
         "link": "https://www.yna.co.kr/view/AKR20260401160951008?input=1195m",
         "source": "연합뉴스",
         "tier": "S",
-        "date": "2026-04-02"
+        "date": "2026-04-01"
       },
       {
-        "title": "모건스탠리 \"4월 한은 금리동결 예상…완화 편향 제거 방향\"",
-        "link": "https://www.yna.co.kr/view/AKR20260401133900008?input=1195m",
+        "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+        "link": "https://www.yna.co.kr/view/AKR20260402065600011?input=1195m",
         "source": "연합뉴스",
         "tier": "S",
-        "date": "2026-04-02"
-      },
-      {
-        "title": "“돈 맡길 땐 2%인데 빌릴 땐 7%, 말이 돼?”…더 벌어진 예대금리차 이...",
-        "link": "https://www.mk.co.kr/article/12005961",
-        "source": "매일경제",
-        "tier": "B",
-        "date": "2026-04-02"
+        "date": "2026-04-01"
       },
       {
         "title": "부산 금융기관 여신 감소폭 축소… 가계 대출 도 줄어",
@@ -1136,25 +1136,25 @@ window.historyData = {
         "date": "2026-04-01"
       },
       {
-        "title": "트럼프 이란 전쟁 연설에 상승폭 줄어드는 코스피",
-        "link": "https://www.news1.kr/photos/7832866",
-        "source": "뉴스1",
-        "tier": "B",
+        "title": "[노정태 칼럼] 환율 보다 더 지켜야 하는 것은",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=683105",
+        "source": "",
+        "tier": "D",
         "date": "2026-04-01"
       },
       {
-        "title": "서삼석 의원, 농어업면세유 가격안정법 대표 발의",
-        "link": "https://www.yna.co.kr/view/AKR20260402068800054?input=1195m",
-        "source": "연합뉴스",
-        "tier": "S",
+        "title": "서삼석, 농어업용 면세유 최고가격제 도입 법안 발의",
+        "link": "https://www.pressian.com/pages/articles/2026040210500038184?utm_source=naver&utm_medium=search",
+        "source": "프레시안",
+        "tier": "C",
         "date": "2026-04-02"
       },
       {
-        "title": "정부 \"중동 전쟁에 외환시장 변동성 확대…WGBI 자금 4.4조 유입\"",
-        "link": "https://www.news1.kr/economy/trend/6122733",
-        "source": "뉴스1",
-        "tier": "B",
-        "date": "2026-04-01"
+        "title": "[초점] 1530원대 찍은 원·달러 환율···'나홀로 약세' 반등 언제쯤?",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=625282",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-02"
       },
       {
         "title": "해방의 날 1년…미국은 다시 위대해졌나 [세상읽기]",
@@ -1235,20 +1235,20 @@ window.historyData = {
         "link": "https://www.joongang.co.kr/article/25416908",
         "source": "중앙일보",
         "tier": "S",
-        "date": "2026-04-01"
+        "date": "2026-04-02"
       },
       {
         "title": "배민·쿠팡이츠 등 배달 앱도 식품 원산지 표시 관리 책임 의무화… 과태...",
         "link": "https://biz.chosun.com/distribution/food/2026/04/02/IP47GCI3HBDQ5HJ63GZ5QGSSQU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
         "source": "조선일보",
         "tier": "S",
-        "date": "2026-04-02"
+        "date": "2026-04-01"
       },
       {
-        "title": "쿠팡이츠 서비스, 배달파트너 무상 안전점검 개시",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=652683",
-        "source": "",
-        "tier": "D",
+        "title": "iM뱅크 첫 로그인, 1만5천원 기프트카드… 쿠팡이츠 사용",
+        "link": "https://www.newsis.com/view/NISX20260402_0003574974",
+        "source": "뉴시스",
+        "tier": "B",
         "date": "2026-04-01"
       },
       {
@@ -1266,10 +1266,10 @@ window.historyData = {
         "date": "2026-04-02"
       },
       {
-        "title": "中企 옴부즈만, ‘성장사다리 포럼’ 개최 “R&D 세액 공제 완화, 女 CEO...",
-        "link": "https://biz.chosun.com/industry/business-venture/2026/04/02/NWJFTIJEJNCNHFBQ6ZBFCJBIEQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-        "source": "조선일보",
-        "tier": "S",
+        "title": "신한은행, 안동시와 공공 배달 앱 협약",
+        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3059682",
+        "source": "",
+        "tier": "D",
         "date": "2026-04-01"
       }
     ]
