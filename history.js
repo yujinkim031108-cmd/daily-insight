@@ -1094,25 +1094,25 @@ window.historyData = {
   "2026-04-02": {
     "macro": [
       {
-        "title": "'유가 급등' 3월 소비자물가 2.2%↑…4월엔 오름폭 확대될 듯(종합2보)",
-        "link": "https://www.yna.co.kr/view/AKR20260401172252002?input=1195m",
-        "source": "연합뉴스",
-        "tier": "S",
+        "title": "3월 국제유가 50%↑, 한국 9.9%↑…최고가격제 먹혔나(종합2보)",
+        "link": "https://www.newsis.com/view/NISX20260402_0003574983",
+        "source": "뉴시스",
+        "tier": "B",
         "date": "2026-04-01"
       },
       {
-        "title": "3월 소비자 물가 2.2% 상승…'전쟁 영향' 석유류 10% 급등",
-        "link": "https://www.pressian.com/pages/articles/2026040209401975620?utm_source=naver&utm_medium=search",
-        "source": "프레시안",
-        "tier": "C",
-        "date": "2026-04-01"
+        "title": "'유가 급등' 3월 소비자 물가 2.2%↑…4월엔 오름폭 확대될 듯(종합2보)",
+        "link": "https://www.yna.co.kr/view/AKR20260401172252002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-04-02"
       },
       {
         "title": "\"금이 다시 오르네\"…종전 기대감에 100만원선 재탈환",
         "link": "https://www.newsis.com/view/NISX20260402_0003574882",
         "source": "뉴시스",
         "tier": "B",
-        "date": "2026-04-02"
+        "date": "2026-04-01"
       },
       {
         "title": "종전 기대감 속 WGBI 편입까지…채권시장 다시 웃을까(종합)",
@@ -1126,7 +1126,7 @@ window.historyData = {
         "link": "https://www.yna.co.kr/view/AKR20260402065600011?input=1195m",
         "source": "연합뉴스",
         "tier": "S",
-        "date": "2026-04-01"
+        "date": "2026-04-02"
       },
       {
         "title": "부산 금융기관 여신 감소폭 축소… 가계 대출 도 줄어",
@@ -1136,17 +1136,17 @@ window.historyData = {
         "date": "2026-04-01"
       },
       {
-        "title": "[노정태 칼럼] 환율 보다 더 지켜야 하는 것은",
-        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=683105",
-        "source": "",
-        "tier": "D",
+        "title": "트럼프 발언에 코스피는 하락, 원 · 달러 환율 은 상승",
+        "link": "https://www.news1.kr/photos/7833015",
+        "source": "뉴스1",
+        "tier": "B",
         "date": "2026-04-01"
       },
       {
-        "title": "서삼석, 농어업용 면세유 최고가격제 도입 법안 발의",
-        "link": "https://www.pressian.com/pages/articles/2026040210500038184?utm_source=naver&utm_medium=search",
-        "source": "프레시안",
-        "tier": "C",
+        "title": "트럼프 연설에 국제유가 5% 급반등, 브렌트 106달러 돌파(상보)",
+        "link": "https://www.news1.kr/world/usa-canada/6123031",
+        "source": "뉴스1",
+        "tier": "B",
         "date": "2026-04-02"
       },
       {
@@ -1242,7 +1242,7 @@ window.historyData = {
         "link": "https://biz.chosun.com/distribution/food/2026/04/02/IP47GCI3HBDQ5HJ63GZ5QGSSQU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
         "source": "조선일보",
         "tier": "S",
-        "date": "2026-04-01"
+        "date": "2026-04-02"
       },
       {
         "title": "iM뱅크 첫 로그인, 1만5천원 기프트카드… 쿠팡이츠 사용",
@@ -1266,8 +1266,8 @@ window.historyData = {
         "date": "2026-04-02"
       },
       {
-        "title": "신한은행, 안동시와 공공 배달 앱 협약",
-        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3059682",
+        "title": "신한은행 '땡겨요', 안동시와 경북 1호 공공 배달 앱 업무협약 체결",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=109964",
         "source": "",
         "tier": "D",
         "date": "2026-04-01"
