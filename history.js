@@ -1094,24 +1094,24 @@ window.historyData = {
   "2026-04-02": {
     "macro": [
       {
-        "title": "3월 국제유가 50%↑, 한국 9.9%↑…최고가격제 먹혔나(종합2보)",
-        "link": "https://www.newsis.com/view/NISX20260402_0003574983",
-        "source": "뉴시스",
-        "tier": "B",
+        "title": "광주·전남 3월 소비자물가 2%대 상승…경유 16% 올라",
+        "link": "https://www.yna.co.kr/view/AKR20260402087200054?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
         "date": "2026-04-01"
       },
       {
-        "title": "'유가 급등' 3월 소비자 물가 2.2%↑…4월엔 오름폭 확대될 듯(종합2보)",
-        "link": "https://www.yna.co.kr/view/AKR20260401172252002?input=1195m",
-        "source": "연합뉴스",
-        "tier": "S",
+        "title": "3월 석유류 가격 9.9%↑...3년 5개월 만에 최대 폭 상승",
+        "link": "https://www.ytn.co.kr/_ln/0102_202604021113316562",
+        "source": "YTN",
+        "tier": "A",
         "date": "2026-04-02"
       },
       {
-        "title": "\"금이 다시 오르네\"…종전 기대감에 100만원선 재탈환",
-        "link": "https://www.newsis.com/view/NISX20260402_0003574882",
-        "source": "뉴시스",
-        "tier": "B",
+        "title": "5대 거래소 일 거래대금…반년 새 6조→3조 반토막",
+        "link": "https://biz.heraldcorp.com/article/10708541?ref=naver",
+        "source": "",
+        "tier": "D",
         "date": "2026-04-01"
       },
       {
@@ -1122,11 +1122,11 @@ window.historyData = {
         "date": "2026-04-01"
       },
       {
-        "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-        "link": "https://www.yna.co.kr/view/AKR20260402065600011?input=1195m",
-        "source": "연합뉴스",
+        "title": "30대 1인당 대출 1억원 돌파…‘사상 최대’",
+        "link": "https://www.donga.com/news/Economy/article/all/20260402/133660404/2",
+        "source": "동아일보",
         "tier": "S",
-        "date": "2026-04-02"
+        "date": "2026-04-01"
       },
       {
         "title": "부산 금융기관 여신 감소폭 축소… 가계 대출 도 줄어",
@@ -1136,31 +1136,31 @@ window.historyData = {
         "date": "2026-04-01"
       },
       {
-        "title": "트럼프 발언에 코스피는 하락, 원 · 달러 환율 은 상승",
-        "link": "https://www.news1.kr/photos/7833015",
-        "source": "뉴스1",
+        "title": "코스피, 트럼프 강경 발언에 3% 급락 전환…5,300선 내줘",
+        "link": "https://www.yna.co.kr/view/AKR20260402085000008?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-04-02"
+      },
+      {
+        "title": "트럼프, 이란 2~3주 총공세 선언…정부 \"'전쟁 계속' 생각으로 수급대응...",
+        "link": "https://www.newsis.com/view/NISX20260402_0003574852",
+        "source": "뉴시스",
         "tier": "B",
+        "date": "2026-04-02"
+      },
+      {
+        "title": "\"청년정책, 돈으로 시작하면 실패합니다\"",
+        "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003220208&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+        "source": "오마이뉴스",
+        "tier": "C",
         "date": "2026-04-01"
       },
       {
-        "title": "트럼프 연설에 국제유가 5% 급반등, 브렌트 106달러 돌파(상보)",
-        "link": "https://www.news1.kr/world/usa-canada/6123031",
-        "source": "뉴스1",
+        "title": "\"청년 취업난, 일자리 미스매치 영향…中企 질 높여야\"",
+        "link": "https://www.newsis.com/view/NISX20260401_0003574261",
+        "source": "뉴시스",
         "tier": "B",
-        "date": "2026-04-02"
-      },
-      {
-        "title": "[초점] 1530원대 찍은 원·달러 환율···'나홀로 약세' 반등 언제쯤?",
-        "link": "https://www.seoulfn.com/news/articleView.html?idxno=625282",
-        "source": "",
-        "tier": "D",
-        "date": "2026-04-02"
-      },
-      {
-        "title": "해방의 날 1년…미국은 다시 위대해졌나 [세상읽기]",
-        "link": "https://www.hani.co.kr/arti/opinion/column/1252260.html",
-        "source": "한겨레",
-        "tier": "A",
         "date": "2026-04-02"
       }
     ],
@@ -1235,28 +1235,28 @@ window.historyData = {
         "link": "https://www.joongang.co.kr/article/25416908",
         "source": "중앙일보",
         "tier": "S",
-        "date": "2026-04-02"
+        "date": "2026-04-01"
       },
       {
-        "title": "배민·쿠팡이츠 등 배달 앱도 식품 원산지 표시 관리 책임 의무화… 과태...",
-        "link": "https://biz.chosun.com/distribution/food/2026/04/02/IP47GCI3HBDQ5HJ63GZ5QGSSQU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-        "source": "조선일보",
-        "tier": "S",
-        "date": "2026-04-02"
-      },
-      {
-        "title": "iM뱅크 첫 로그인, 1만5천원 기프트카드… 쿠팡이츠 사용",
-        "link": "https://www.newsis.com/view/NISX20260402_0003574974",
-        "source": "뉴시스",
+        "title": "내년 공시 한국사→한능검 대체…에스티유니타스, '한능검단기' 출시",
+        "link": "https://www.news1.kr/society/education/6123116",
+        "source": "뉴스1",
         "tier": "B",
         "date": "2026-04-01"
       },
       {
-        "title": "1호팬 EXID 솔지 홈 개막전 시구 확정…\"더 높은 순위에 오를 수 있도록...",
-        "link": "https://www.sportschosun.com/baseball/2026-04-02/202604020100015850000810",
+        "title": "[Daily New유통] LF, 교원투어, 롯데GRS 外",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/02/2026040200023.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-04-02"
+      },
+      {
+        "title": "배민·쿠팡이츠 등 배달앱도 식품 원산지 표시 관리 책임 의무화… 과태...",
+        "link": "https://biz.chosun.com/distribution/food/2026/04/02/IP47GCI3HBDQ5HJ63GZ5QGSSQU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
         "source": "조선일보",
         "tier": "S",
-        "date": "2026-04-01"
+        "date": "2026-04-02"
       },
       {
         "title": "근로자 추정제 초읽기…고물가·고유가에 소상공인 ‘비용 압박’ 우려",
@@ -1266,8 +1266,8 @@ window.historyData = {
         "date": "2026-04-02"
       },
       {
-        "title": "신한은행 '땡겨요', 안동시와 경북 1호 공공 배달 앱 업무협약 체결",
-        "link": "https://www.businessplus.kr/news/articleView.html?idxno=109964",
+        "title": "신한은행 '땡겨요', 안동시와 공공 배달 앱 업무 협약",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=299193",
         "source": "",
         "tier": "D",
         "date": "2026-04-01"
