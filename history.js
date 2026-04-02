@@ -1090,5 +1090,188 @@ window.historyData = {
         "date": "2026-03-31"
       }
     ]
+  },
+  "2026-04-02": {
+    "macro": [
+      {
+        "title": "한은 \"고유가 영향, 4월 이후 소비자물가 오름폭 확대될 것\"",
+        "link": "https://www.nocutnews.co.kr/news/6495247?utm_source=naver&utm_medium=article&utm_campaign=20260402094839",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-01"
+      },
+      {
+        "title": "3월 석유류 가격 9.9%↑...3년 5개월 만에 최대 폭 상승",
+        "link": "https://www.ytn.co.kr/_ln/0102_202604020944504312",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-04-01"
+      },
+      {
+        "title": "[이코노워치] 균형상실 시대의 균형 찾기",
+        "link": "https://www.yna.co.kr/view/AKR20260401105600546?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-04-02"
+      },
+      {
+        "title": "종전 기대감 속 WGBI 편입까지…채권시장 다시 웃을까",
+        "link": "https://www.yna.co.kr/view/AKR20260401160900008?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-04-01"
+      },
+      {
+        "title": "부산 금융기관 여신 감소폭 축소… 가계대출 도 줄어",
+        "link": "https://www.viva100.com/article/20260402500380",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-01"
+      },
+      {
+        "title": "\"월급 들어오면 배팅 앱부터\" Z세대 신용 연체 율 10% 폭등의 비극",
+        "link": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=52047",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-02"
+      },
+      {
+        "title": "롤러코스터 환율 , 이란전쟁 끝날듯말듯 긴장감에…1510원대 반등",
+        "link": "https://www.mk.co.kr/article/12005933",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-04-02"
+      },
+      {
+        "title": "정부 \"중동 전쟁에 외환시장 변동성 확대…WGBI 자금 4.4조 유입\"",
+        "link": "https://www.news1.kr/economy/trend/6122733",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-04-02"
+      },
+      {
+        "title": "중동리스크에 F4 총출동…외국인 4.4조 유입에도 \"변동성 경계\"",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=291482",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-02"
+      },
+      {
+        "title": "해방의 날 1년…미국은 다시 위대해졌나 [세상읽기]",
+        "link": "https://www.hani.co.kr/arti/opinion/column/1252260.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-04-02"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-01"
+      },
+      {
+        "title": "자동차 브랜드들의 역대 만우절 장난 5",
+        "link": "https://www.esquirekorea.co.kr/article/1900036",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-01"
+      },
+      {
+        "title": "전동 이동장치 충전 어디서?...실내 69%, 현관 34%",
+        "link": "https://www.datasom.co.kr/news/articleView.html?idxno=208243",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-01"
+      },
+      {
+        "title": "전동킥보드 '부정 인식' 확산... 국민 77% \"전면 금지 찬성\"",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=338751",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-01"
+      },
+      {
+        "title": "인천 연수구, 송도 학원 2곳 ' 킥보드 없는 거리' 본격 시행",
+        "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3018195",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-01"
+      },
+      {
+        "title": "교통안전공단, 전기 차 72만대 점검…2.5만대 이상 선제 안전조치",
+        "link": "https://www.news1.kr/realestate/general/6121689",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-04-02"
+      },
+      {
+        "title": "\"삼천리 가서 가스비 내나요?\"··· 이름만 같은 '동명이사' 세계",
+        "link": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=306431",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-01"
+      },
+      {
+        "title": "오영훈, 'J-패스' 도입 공약…무제한 교통카드 시대 연다",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3545794",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-01"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-01"
+      },
+      {
+        "title": "[더버터] 코카콜라와 쿠팡의 차이는 ‘라스트 마일’에 있다",
+        "link": "https://www.joongang.co.kr/article/25416908",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-04-01"
+      },
+      {
+        "title": "배민 개인정보 악용해 인분·래커칠 보복대행 혐의 일당 구속송치",
+        "link": "https://biz.chosun.com/topics/topics_social/2026/04/02/SBDKSRJ4BJFKPG552QZ76M2K3M/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-04-01"
+      },
+      {
+        "title": "쿠팡이츠 , 전국 15개 지역서 찾아가는 무상 안전점검 개시",
+        "link": "https://www.news1.kr/industry/distribution/6122760",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-04-02"
+      },
+      {
+        "title": "1호팬 EXID 솔지 홈 개막전 시구 확정…\"더 높은 순위에 오를 수 있도록...",
+        "link": "https://www.sportschosun.com/baseball/2026-04-02/202604020100015850000810",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-04-01"
+      },
+      {
+        "title": "근로자 추정제 초읽기…고물가·고유가에 소상공인 ‘비용 압박’ 우려",
+        "link": "https://biz.chosun.com/industry/business-venture/2026/04/02/ZBW3TZXTW5FUTPCBA4TGPOVX5E/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-04-02"
+      },
+      {
+        "title": "中企 옴부즈만, ‘성장사다리 포럼’ 개최 “R&D 세액 공제 완화, 女 CEO...",
+        "link": "https://biz.chosun.com/industry/business-venture/2026/04/02/NWJFTIJEJNCNHFBQ6ZBFCJBIEQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-04-01"
+      }
+    ]
   }
 };
