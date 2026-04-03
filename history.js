@@ -1280,5 +1280,181 @@ window.historyData = {
         "date": "2026-04-02"
       }
     ]
+  },
+  "2026-04-03": {
+    "macro": [
+      {
+        "title": "울산 남구~동구 잇는 울산대교 통행료 1년간 동결",
+        "link": "https://www.mk.co.kr/article/12007087",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-04-02"
+      },
+      {
+        "title": "IMF “미 연준, 향후 1년간 금리 낮출 여지 거의 없어”",
+        "link": "https://www.chosun.com/economy/economy_general/2026/04/03/UND7YEXXHFFXVFSX2AVV7R7PUY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-04-03"
+      },
+      {
+        "title": "빌릴 땐 7%, 맡길 땐 2%…30대 지갑 닫힌다",
+        "link": "https://www.idaegu.com/news/articleView.html?idxno=659803",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-02"
+      },
+      {
+        "title": "한국은행 로비에 '물가안정' 현판 내걸린 이유",
+        "link": "https://www.mt.co.kr/economy/2026/04/03/2026040109345553270",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-04-03"
+      },
+      {
+        "title": "고금리 속 불안한 영끌…30대 생애 첫 집 매수 60% 육박",
+        "link": "https://www.newsis.com/view/NISX20260403_0003576839",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-04-02"
+      },
+      {
+        "title": "[사설] 30대 영끌 대출 1억… 가계부채 경고음 무겁게 들어야",
+        "link": "https://www.seoul.co.kr/news/editOpinion/editorial/2026/04/03/20260403027006?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-04-03"
+      },
+      {
+        "title": "코스피 2.5% 상승 5,300선 회복... 환율 1,504원~1,511원 유지",
+        "link": "https://www.ytn.co.kr/_ln/0102_202604031439245719",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-04-02"
+      },
+      {
+        "title": "윤재옥 “이재명 정부 추경, 위기 빌미 선거용 돈 살포” 강도 높게 비...",
+        "link": "https://www.kbmaeil.com/article/20260403500202",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-02"
+      },
+      {
+        "title": "트럼프 ‘힘의 외교’ 역풍… 이란·중국, ‘초크 포인트’ 공략으로 반...",
+        "link": "https://biz.chosun.com/international/international_general/2026/04/03/4WS66KY6BVFHTHWJFFBXJILGYY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-04-03"
+      },
+      {
+        "title": "트럼프 관세 1년…\"미중 멀어지고 우방도 흔들렸다\"",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=291606",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-03"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-02"
+      },
+      {
+        "title": "에이치제이웨이브, WIS 2026서 차량용 레이더 안테나 '3D 웨이브가이드...",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1810112",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-02"
+      },
+      {
+        "title": "[체험기] 역대급 보상, 윙 제로 등장...1주년 맞은 'SD건담 지제네 이터...",
+        "link": "https://www.inven.co.kr/webzine/news/?news=314943",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-02"
+      },
+      {
+        "title": "[오늘과 내일/한상준]7장의 투표용지에 담긴 미래",
+        "link": "https://www.donga.com/news/Opinion/article/all/20260402/133666553/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-04-02"
+      },
+      {
+        "title": "배달업 '등록제' 전환 추진…안전기준 미달 사업자 진입 제한",
+        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5007764",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-02"
+      },
+      {
+        "title": "TS교통안전공단, ' 전기 차 특별안전점검' 확대…\"화재 예방‧안전관리 강...",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=700485",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-02"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-02"
+      },
+      {
+        "title": "구리역 환승센터 개통…쾌적한 교통서비스 제공 본격화",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20260403010001000",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-02"
+      },
+      {
+        "title": "[단독]세븐일레븐, 쿠팡이츠 입점한다",
+        "link": "https://www.newsway.co.kr/news/view?ud=2026040313193448312",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-03"
+      },
+      {
+        "title": "배민, '먹어본 이웃의 한마디' 종료 … '나를 더 아는' AI로 돌아온다",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/03/2026040300088.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-04-03"
+      },
+      {
+        "title": "\"야구장에서 줄서지 마세요\" 요기요 , 고척돔 포장 서비스 도입",
+        "link": "https://www.newsis.com/view/NISX20260403_0003576618",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-04-02"
+      },
+      {
+        "title": "[울진소식]울진군, 미혼남녀 '인연캠프' 참가자 모집 등",
+        "link": "https://www.newsis.com/view/NISX20260402_0003575716",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-04-03"
+      },
+      {
+        "title": "배달 업 '등록제' 전환 추진…안전기준 미달 사업자 진입 제한",
+        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5007764",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-02"
+      },
+      {
+        "title": "치킨마루, 봄나들이 시즌 맞아 포장 수요 증가···방문 포장 할인 혜택...",
+        "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=48484",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-02"
+      }
+    ]
   }
 };
