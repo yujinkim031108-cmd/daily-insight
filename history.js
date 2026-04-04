@@ -1456,5 +1456,160 @@ window.historyData = {
         "date": "2026-04-02"
       }
     ]
+  },
+  "2026-04-04": {
+    "macro": [
+      {
+        "title": "소비 줄고 고통 지수 상승…경북 체감경기 '악화' 신호",
+        "link": "https://www.news1.kr/local/daegu-gyeongbuk/6124201",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-04-04"
+      },
+      {
+        "title": "BNP파리바 \"한은, 4월 금리 동결…중동사태 속 선제적 인상 어려워\"",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4407663",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-03"
+      },
+      {
+        "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+        "link": "https://www.yna.co.kr/view/AKR20260404025300011?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-04-04"
+      },
+      {
+        "title": "신현송 한은 총재 후보자, 82억 재산 신고…서울 부동산 다수 보유",
+        "link": "https://news.tf.co.kr/read/economy/2309659.htm",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-04"
+      },
+      {
+        "title": "정부 \"부동산 시장과 금융의 절연\" 선포… 대출 더 죈다",
+        "link": "https://biz.sbs.co.kr/article_hub/20000301685?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-04-03"
+      },
+      {
+        "title": "고환율·고금리에 서울 한복판 사업장까지 공매로 … 이란 전쟁, 금융 부...",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/03/2026040300127.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-04-04"
+      },
+      {
+        "title": "[기자수첩] '뉴노멀'이라는 말장난…1400·1500원 환율 은 '비정상'이다",
+        "link": "https://www.pennmike.com/news/articleView.html?idxno=118120",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-03"
+      },
+      {
+        "title": "미 전투기 2대 격추·추락…이란, 전쟁 후 첫 유인기 격추 확인",
+        "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003221282&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+        "source": "오마이뉴스",
+        "tier": "C",
+        "date": "2026-04-04"
+      },
+      {
+        "title": "변호사 4만명 시대 눈앞…합격자 수 놓고 변협-로스쿨 또 충돌",
+        "link": "https://www.hankyung.com/article/2026040377811",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-04-04"
+      },
+      {
+        "title": "美 전투기 격추에도 “협상 영향 없다”…트럼프, 발전소 타격 강행할까...",
+        "link": "https://www.ekn.kr/web/view.php?key=20260404027054209",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-04"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-03"
+      },
+      {
+        "title": "[Attention!] 시오트 쇼케이스 NAVI 外",
+        "link": "https://www.joongang.co.kr/article/25417419",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-04-03"
+      },
+      {
+        "title": "'방치 킥보드 사라졌다' 파주GTX역, 한달새 벌어진 변화",
+        "link": "https://www.newsis.com/view/NISX20260403_0003576718",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-04-03"
+      },
+      {
+        "title": "배달업계, 필수 등록제로 전환...안전과 신뢰의 새 시대 열리나",
+        "link": "https://www.viva100.com/article/20260403500489",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-03"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-03"
+      },
+      {
+        "title": "\"휘발유 2천원 시대 눈앞\"… 전기자전거 , 친환경 교통수단 부상",
+        "link": "https://www.gpkorea.com/news/articleView.html?idxno=141507",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-03"
+      },
+      {
+        "title": "피도 눈물도 없는 '직장 상사'…몸이 아파도,폭우가 쏟아져도 뛰어야 했...",
+        "link": "https://www.hankookilbo.com/news/article/A2026033123130001942?did=NA",
+        "source": "한국일보",
+        "tier": "C",
+        "date": "2026-04-04"
+      },
+      {
+        "title": "김범석 체제 첫 성적표…배민, 매출 5조원대 예상·이익 감소 관측",
+        "link": "https://www.ddaily.co.kr/page/view/2026040315352438439",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-03"
+      },
+      {
+        "title": "[Daily New유통] 코스맥스, 교원, 동서식품 外",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/03/2026040300059.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-04-04"
+      },
+      {
+        "title": "휘발유 2000원 시대 임박, 전기자전거 수요 늘어",
+        "link": "https://sports.khan.co.kr/article/202604031706003?pt=nv",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-04-03"
+      },
+      {
+        "title": "45조 사채시장에 덤빈 직장 동료 셋… “연 3조 굴리는 핀테크 키워”[...",
+        "link": "https://www.donga.com/news/Economy/article/all/20260403/133672352/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-04-04"
+      }
+    ]
   }
 };
