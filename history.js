@@ -1611,5 +1611,16 @@ window.historyData = {
         "date": "2026-04-04"
       }
     ]
+  },
+  "2026-04-05": {
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-04"
+      }
+    ]
   }
 };
