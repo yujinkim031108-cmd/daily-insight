@@ -1622,5 +1622,146 @@ window.historyData = {
         "date": "2026-04-04"
       }
     ]
+  },
+  "2026-04-06": {
+    "macro": [
+      {
+        "title": "코코아값 떨어졌는데…초콜릿값은 ‘고공행진’",
+        "link": "https://zdnet.co.kr/view/?no=20260406085557",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-05"
+      },
+      {
+        "title": "\"지옥문 열리기 48시간 전\"…트럼프 최후통첩에 코스피 '긴장' [오늘장 ...",
+        "link": "https://www.hankyung.com/article/202604060397i",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-04-06"
+      },
+      {
+        "title": "\"4월 금통위, 인상 논의 시작 전망\"<한화투자證>",
+        "link": "https://www.news2day.co.kr/article/20260406500061",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-05"
+      },
+      {
+        "title": "[ 금통위 poll]②이란 전쟁, 물가에 먼저 타격…전원 \"전망치 상향\"",
+        "link": "https://view.asiae.co.kr/article/2026040607580909339",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-06"
+      },
+      {
+        "title": "번 돈 절반을 은행에…서울 주택구입부담지수 2년 반 만에 '최고'",
+        "link": "https://www.sisajournal.com/news/articleView.html?idxno=368262",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-05"
+      },
+      {
+        "title": "전세사기 집중 시기 우리은행 전세 대출 이자이익 1.7배↑… 은행권 수익...",
+        "link": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=515159",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-04-05"
+      },
+      {
+        "title": "[개장시황] 중동 불안 확대에도 증시 강세…반도체·대형주 ↑",
+        "link": "https://www.ekn.kr/web/view.php?key=20260406021444458",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-05"
+      },
+      {
+        "title": "트럼프, 협상 시한 하루 연장… 유가 ↑·미국 지수 선물↓",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008506374&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-04-05"
+      },
+      {
+        "title": "[전국 주요 신문 사설](6일 조간)",
+        "link": "https://www.yna.co.kr/view/AKR20260406011600011?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-04-05"
+      },
+      {
+        "title": "고용 호조·중앙은행 엑소더스 겹악재… 수급 불균형 늪 빠진 미 국채",
+        "link": "https://www.chosun.com/economy/economy_general/2026/04/06/ETWIB5CXUNFBFCSS5OLCWTDUFQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-04-05"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-05"
+      },
+      {
+        "title": "[패트롤] 고양시-남양주시-양주시-의정부시-파주시",
+        "link": "https://www.ekn.kr/web/view.php?key=20260406021044434",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-05"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-05"
+      },
+      {
+        "title": "‘도넛 전환’ 필요한 서울…사회 기초 ‘부족’, 생태 한계 ‘초과’",
+        "link": "https://h21.hani.co.kr/arti/society/environment/59104.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-04-05"
+      },
+      {
+        "title": "포장재 비용·특례보증 지원…울산시, 소상공인 긴급 대책",
+        "link": "https://www.yna.co.kr/view/AKR20260405047800057?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-04-05"
+      },
+      {
+        "title": "5년만에 부활한 네이버 별점…\"2점 이하 리뷰 테러 막는다\"",
+        "link": "https://www.news1.kr/it-science/general-it/6123659",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-04-05"
+      },
+      {
+        "title": "무신사의 'AI 네이티브' 실험...전준희 CTO \"초격차 패션 테크 생태계 만...",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=653113",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-06"
+      },
+      {
+        "title": "부릉, AI 자동배차 시스템 '부릉플러스' 도입",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1355280",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-05"
+      },
+      {
+        "title": "\"한 달 100만원도 못 버는데\"…'어떡해요' 사장님들 눈물 [사장님 고충백...",
+        "link": "https://www.hankyung.com/article/202604059410i",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-04-06"
+      }
+    ]
   }
 };
