@@ -1626,38 +1626,38 @@ window.historyData = {
   "2026-04-06": {
     "macro": [
       {
-        "title": "코코아값 떨어졌는데…초콜릿값은 ‘고공행진’",
-        "link": "https://zdnet.co.kr/view/?no=20260406085557",
+        "title": "골드만삭스 \"국장 횡보 거쳐 회복할듯…대외·재정 건전성 견조\"",
+        "link": "https://www.yna.co.kr/view/AKR20260406108100008?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-04-05"
+      },
+      {
+        "title": "\" 물가 다시 뛴다\"···유가·항공료에 4월 CPI 반등, 대출 규제에 크레...",
+        "link": "https://www.smartbizn.com/news/articleView.html?idxno=141302",
         "source": "",
         "tier": "D",
         "date": "2026-04-05"
       },
       {
-        "title": "\"지옥문 열리기 48시간 전\"…트럼프 최후통첩에 코스피 '긴장' [오늘장 ...",
-        "link": "https://www.hankyung.com/article/202604060397i",
-        "source": "한국경제",
+        "title": "'확전 불안' 속 코스피 1% 상승...실적발표 앞둔 삼성전자 '강세'",
+        "link": "https://www.ytn.co.kr/_ln/0102_202604061441372822",
+        "source": "YTN",
         "tier": "A",
         "date": "2026-04-06"
       },
       {
-        "title": "\"4월 금통위, 인상 논의 시작 전망\"<한화투자證>",
-        "link": "https://www.news2day.co.kr/article/20260406500061",
-        "source": "",
-        "tier": "D",
-        "date": "2026-04-05"
-      },
-      {
-        "title": "[ 금통위 poll]②이란 전쟁, 물가에 먼저 타격…전원 \"전망치 상향\"",
-        "link": "https://view.asiae.co.kr/article/2026040607580909339",
-        "source": "",
-        "tier": "D",
+        "title": "D램값 630% 급등, 1Q 영업이익 50조 전망..'34만전자' 힘받나",
+        "link": "https://radio.ytn.co.kr/program/?f=2&id=108177&s_mcd=0206&s_hcd=15",
+        "source": "YTN",
+        "tier": "A",
         "date": "2026-04-06"
       },
       {
-        "title": "번 돈 절반을 은행에…서울 주택구입부담지수 2년 반 만에 '최고'",
-        "link": "https://www.sisajournal.com/news/articleView.html?idxno=368262",
-        "source": "",
-        "tier": "D",
+        "title": "금융권 서금원 출연금, 연간 1,973억 추가…“안정적 재원 확보”",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8527915&ref=A",
+        "source": "KBS",
+        "tier": "S",
         "date": "2026-04-05"
       },
       {
@@ -1668,31 +1668,31 @@ window.historyData = {
         "date": "2026-04-05"
       },
       {
-        "title": "[개장시황] 중동 불안 확대에도 증시 강세…반도체·대형주 ↑",
-        "link": "https://www.ekn.kr/web/view.php?key=20260406021444458",
-        "source": "",
-        "tier": "D",
-        "date": "2026-04-05"
-      },
-      {
-        "title": "트럼프, 협상 시한 하루 연장… 유가 ↑·미국 지수 선물↓",
-        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008506374&plink=ORI&cooper=NAVER",
+        "title": "'빚투 끝판왕' 해외 CFD 잔고 급감, 왜?",
+        "link": "https://biz.sbs.co.kr/article_hub/20000302310?division=NAVER",
         "source": "SBS",
         "tier": "A",
         "date": "2026-04-05"
       },
       {
-        "title": "[전국 주요 신문 사설](6일 조간)",
-        "link": "https://www.yna.co.kr/view/AKR20260406011600011?input=1195m",
-        "source": "연합뉴스",
-        "tier": "S",
+        "title": "대한항공·아시아나항공, 5월 국내선 유류할증료 7700원→3만 4100원 뛴다",
+        "link": "https://www.seoul.co.kr/news/economy/2026/04/06/20260406500147?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-04-06"
+      },
+      {
+        "title": "인천 찾은 국힘 지도부… \"유정복표 천원주택 전국 확대\"",
+        "link": "https://news.skbroadband.com/news/articleView.html?idxno=223251",
+        "source": "",
+        "tier": "D",
         "date": "2026-04-05"
       },
       {
-        "title": "고용 호조·중앙은행 엑소더스 겹악재… 수급 불균형 늪 빠진 미 국채",
-        "link": "https://www.chosun.com/economy/economy_general/2026/04/06/ETWIB5CXUNFBFCSS5OLCWTDUFQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-        "source": "조선일보",
-        "tier": "S",
+        "title": "씨티, 美금리인하 시점 6월→9월 미뤄…연내 0.75% 인하는 유지",
+        "link": "https://www.news1.kr/world/international-economy/6126846",
+        "source": "뉴스1",
+        "tier": "B",
         "date": "2026-04-05"
       }
     ],
@@ -1705,8 +1705,22 @@ window.historyData = {
         "date": "2026-04-05"
       },
       {
+        "title": "\"공유킥보드, 소비자가 결함 입증?\"…'정보 비대칭' 법적 보완 시급",
+        "link": "https://www.apnews.kr/news/articleView.html?idxno=3047484",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-05"
+      },
+      {
         "title": "[패트롤] 고양시-남양주시-양주시-의정부시-파주시",
         "link": "https://www.ekn.kr/web/view.php?key=20260406021044434",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-06"
+      },
+      {
+        "title": "중동전쟁 계기 '재생e 중심' 에너지 전환 속도 낸다",
+        "link": "https://www.nocutnews.co.kr/news/6497130?utm_source=naver&utm_medium=article&utm_campaign=20260406114827",
         "source": "",
         "tier": "D",
         "date": "2026-04-05"
@@ -1721,46 +1735,53 @@ window.historyData = {
         "date": "2026-04-05"
       },
       {
-        "title": "‘도넛 전환’ 필요한 서울…사회 기초 ‘부족’, 생태 한계 ‘초과’",
-        "link": "https://h21.hani.co.kr/arti/society/environment/59104.html",
-        "source": "한겨레",
-        "tier": "A",
-        "date": "2026-04-05"
-      },
-      {
-        "title": "포장재 비용·특례보증 지원…울산시, 소상공인 긴급 대책",
-        "link": "https://www.yna.co.kr/view/AKR20260405047800057?input=1195m",
-        "source": "연합뉴스",
-        "tier": "S",
-        "date": "2026-04-05"
-      },
-      {
-        "title": "5년만에 부활한 네이버 별점…\"2점 이하 리뷰 테러 막는다\"",
-        "link": "https://www.news1.kr/it-science/general-it/6123659",
-        "source": "뉴스1",
-        "tier": "B",
-        "date": "2026-04-05"
-      },
-      {
-        "title": "무신사의 'AI 네이티브' 실험...전준희 CTO \"초격차 패션 테크 생태계 만...",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=653113",
-        "source": "",
-        "tier": "D",
-        "date": "2026-04-06"
-      },
-      {
-        "title": "부릉, AI 자동배차 시스템 '부릉플러스' 도입",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1355280",
+        "title": "세나테크놀로지, 美 전기자전거 브랜드 페데고와 파트너십",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=291699",
         "source": "",
         "tier": "D",
         "date": "2026-04-05"
       },
       {
-        "title": "\"한 달 100만원도 못 버는데\"…'어떡해요' 사장님들 눈물 [사장님 고충백...",
-        "link": "https://www.hankyung.com/article/202604059410i",
+        "title": "\"하루 딱 1시간\"…업무시간에 '읽기' 넣은 김봉진의 새 실험 [고은이의...",
+        "link": "https://www.hankyung.com/article/202604061560i",
         "source": "한국경제",
         "tier": "A",
         "date": "2026-04-06"
+      },
+      {
+        "title": "부릉, AI 배차 시스템 '부릉플러스' 도입…배달대행 패러다임 전환",
+        "link": "https://www.etnews.com/20260406000305",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-05"
+      },
+      {
+        "title": "위클리한국주택경제신문",
+        "link": "https://arunews.com",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-05"
+      },
+      {
+        "title": "진주시, 전기이륜차 30대 보급…미세먼지 저감 본격화",
+        "link": "https://pk.newdaily.co.kr/site/data/html/2026/04/06/2026040600280.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-04-05"
+      },
+      {
+        "title": "김영만 천안시장 예비후보 \"플랫폼노동 안심도시 천안\" 선언",
+        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2408291",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-06"
+      },
+      {
+        "title": "김재준 군산시장 예비후보 \"군산 배달 의명수 효율성 부족, 개편 필요\"",
+        "link": "https://www.news1.kr/local/jeonbuk/6126541",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-04-05"
       }
     ]
   }
