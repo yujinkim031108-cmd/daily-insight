@@ -1784,5 +1784,188 @@ window.historyData = {
         "date": "2026-04-05"
       }
     ]
+  },
+  "2026-04-07": {
+    "macro": [
+      {
+        "title": "해맥 연은 총재 \"인플레 2% 계속 웃돌면 美 금리 인상 적절\"",
+        "link": "https://www.newsis.com/view/NISX20260407_0003580378",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-04-07"
+      },
+      {
+        "title": "KDI \"중동發 유가 급등에 경기 하방 위험↑… 물가 ·투자 영향 우려\"",
+        "link": "https://www.news1.kr/economy/trend/6127795",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-04-06"
+      },
+      {
+        "title": "연준 금리 동결 전망 92%…4월 금통위 방향은",
+        "link": "https://www.mk.co.kr/article/12010125",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-04-07"
+      },
+      {
+        "title": "李 마지막 금통위 ‘금리 인상’ 시그널 나오나",
+        "link": "https://biz.heraldcorp.com/article/10711577?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-06"
+      },
+      {
+        "title": "[단독] 새마을금고 이어 단위농협 '非·준조합원 가계대출 ' 셧다운",
+        "link": "https://www.news1.kr/finance/general-finance/6128167",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-04-06"
+      },
+      {
+        "title": "[생보 대출 익스포저]① 삼성생명, 주담대 중심 자산운용…안정성에 방...",
+        "link": "https://www.bloter.net/news/articleView.html?idxno=658798",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-06"
+      },
+      {
+        "title": "삼전 실적에도 중동發 불확실성 발목…코스피 5450선 보합[장중시황]",
+        "link": "https://www.news1.kr/finance/market-exr/6128206",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-04-06"
+      },
+      {
+        "title": "KDI “경기 개선되던 참에 중동전쟁으로 하방위험 확대”",
+        "link": "https://www.busan.com/view/busan/view.php?code=2026040714535887388",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-07"
+      },
+      {
+        "title": "“이란 전쟁 길어지면\"...섬뜩한 경고 나왔다",
+        "link": "https://magazine.hankyung.com/business/article/202604074361b",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-04-07"
+      },
+      {
+        "title": "[강원포럼]강원의 소멸 위기, ‘모두의 창업’과 연대의 힘으로 돌파해...",
+        "link": "https://www.kwnews.co.kr/page/view/2026040610130106849",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-07"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-06"
+      },
+      {
+        "title": "'SD건담 지 제네레이션 이터널' 1주년, 지금이 바로 절호의 기회",
+        "link": "https://www.gameshot.net/common/con_view.php?code=GA69d3a89e97b70",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-06"
+      },
+      {
+        "title": "한밤중 술 취해 하천에 킥보드 던져…대학생 4명 입건",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008508590&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-04-06"
+      },
+      {
+        "title": "“군민 안전 최우선” 고성군, 재난관리·산업재해 예방 강화",
+        "link": "https://www.kukinews.com/article/view/kuk202604070054",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-06"
+      },
+      {
+        "title": "중동 사태로 화두 된 '에너지 대전환'",
+        "link": "https://www.sisaweek.com/news/articleView.html?idxno=234705",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-06"
+      },
+      {
+        "title": "[유통가 레이더] 몽골·인도네시아에서 CJ푸드빌 뚜레쥬르 통했다... 마...",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=338951",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-06"
+      },
+      {
+        "title": "[서초구]서초구 “‘길막’ 전기자전거 보이면 즉시 수거”",
+        "link": "https://www.donga.com/news/Society/article/all/20260406/133660801/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-04-06"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-06"
+      },
+      {
+        "title": "[6·3대전] 허태정 \"햇빛발전소 조성해 햇빛연금 배당할 것\"",
+        "link": "https://www.newsis.com/view/NISX20260407_0003581236",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-04-06"
+      },
+      {
+        "title": "'보복대행' 조직, 배민 외 다른 기관서도 개인정보 탈취 정황…\"의뢰자...",
+        "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/07/2026040790134.html",
+        "source": "TV조선",
+        "tier": "B",
+        "date": "2026-04-06"
+      },
+      {
+        "title": "홈플러스, 쿠팡이츠 와 맞손…퀵커머스 47개 점포로 확대",
+        "link": "https://biz.sbs.co.kr/article_hub/20000302596?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-04-06"
+      },
+      {
+        "title": "삼첩분식, SKT '0 week' 프로모션…로제샹궈떡볶이 흥행 이어간다",
+        "link": "https://www.esgeconomy.com/news/articleView.html?idxno=15100",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-06"
+      },
+      {
+        "title": "진주시, 친환경 이륜차 보급…30대 차종별 지원",
+        "link": "https://www.newsis.com/view/NISX20260407_0003580207",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-04-06"
+      },
+      {
+        "title": "혁신당, 배달 노동자·항공승무원 등 국민추천 인재 8명 영입",
+        "link": "https://www.news1.kr/politics/assembly/6128061",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-04-07"
+      },
+      {
+        "title": "하나은행, 공공 배달 앱 '먹깨비'와 소상공인 금융지원 확대",
+        "link": "https://www.mt.co.kr/finance/2026/04/07/2026040714005371656",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-04-07"
+      }
+    ]
   }
 };
