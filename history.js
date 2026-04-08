@@ -1967,5 +1967,181 @@ window.historyData = {
         "date": "2026-04-07"
       }
     ]
+  },
+  "2026-04-08": {
+    "macro": [
+      {
+        "title": "[유가 2000 쇼크] “종전해도 돌아오지 않는다”…고유가·고 물가 뉴노멀...",
+        "link": "https://www.dailian.co.kr/news/view/1630824/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-04-08"
+      },
+      {
+        "title": "뉴욕 연은 총재 “이란 전쟁 영향, 근원물가 엔 제한적”",
+        "link": "https://www.khan.co.kr/article/202604080659001",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-04-08"
+      },
+      {
+        "title": "HDC, 아이파크몰 살리려고 17년간 '꼼수 계약'...\"과징금 171억·고발\"",
+        "link": "https://news.jtbc.co.kr/article/NB12293286?influxDiv=NAVER",
+        "source": "JTBC",
+        "tier": "A",
+        "date": "2026-04-07"
+      },
+      {
+        "title": "환율이 오르니 내 재산도 쑥쑥…‘모럴 해저드’ 논란 휩싸인 금통위",
+        "link": "https://www.chosun.com/economy/economy_general/2026/04/08/T2HGJXLDZBB3BMFM2IKC7DFGNU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-04-08"
+      },
+      {
+        "title": "농협, 가계 부채 규제에 10일부터 '비조합원 대출 ' 제한… 상호금융 ' 대출 ...",
+        "link": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=515405",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-04-08"
+      },
+      {
+        "title": "올들어 기업 대출 15조 늘린 은행권…대기업 대출 급증",
+        "link": "https://www.newsis.com/view/NISX20260407_0003580896",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-04-07"
+      },
+      {
+        "title": "휴전에 \"휴~살았다\"…산업계 '안도' 석화·항공 '숨통'(종합)",
+        "link": "https://www.news1.kr/industry/general-industry/6129620",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-04-08"
+      },
+      {
+        "title": "중동 리스크에 기업 자금 2.4조 투입…“레고랜드 이후 최대”",
+        "link": "https://www.mydaily.co.kr/page/view/2026040814575264979",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-07"
+      },
+      {
+        "title": "IMF 총재 “세계 경제 성장 전망치 낮출 것…전쟁 영향”",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8530186&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-04-07"
+      },
+      {
+        "title": "안 보이는 것, 애써 찾아내야 할 것",
+        "link": "https://h21.hani.co.kr/arti/society/society_general/59109.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-04-07"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-07"
+      },
+      {
+        "title": "공유 킥보드 등 4대 하천에 투기…대학생 4명 입건",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8529797&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-04-07"
+      },
+      {
+        "title": "“군민 안전 최우선” 고성군, 재난관리·산업재해 예방 강화",
+        "link": "https://www.kukinews.com/article/view/kuk202604070054",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-07"
+      },
+      {
+        "title": "[경남 브리핑 모음(4월7일)] 진주실크박물관, 이상봉 디자이너 실크 작...",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604062158092950187",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-07"
+      },
+      {
+        "title": "[기업INSIDE] 에브리봇, 산업용 자율이동로봇 개발 박차… 피지컬 AI 플랫...",
+        "link": "https://news.mtn.co.kr/news-detail/2026040716400496307",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-07"
+      },
+      {
+        "title": "[서초구]서초구 “‘길막’ 전기자전거 보이면 즉시 수거”",
+        "link": "https://www.donga.com/news/Society/article/all/20260406/133660801/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-04-07"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-07"
+      },
+      {
+        "title": "자전거 무료 대여·대중교통 마일리지…대구시, 승용차 5부제 인센티브...",
+        "link": "https://www.hani.co.kr/arti/area/yeongnam/1253081.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-04-07"
+      },
+      {
+        "title": "배민, 비닐봉투 200만장 지원…플랫폼 업계 ‘상생 경영’ 가속",
+        "link": "https://www.mk.co.kr/article/12011370",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-04-07"
+      },
+      {
+        "title": "쿠팡이츠 서비스, 한국도로교통공단과 배달파트너 교통안전 교육 캠페인...",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=248307",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-07"
+      },
+      {
+        "title": "우아한청년들, 로드러너 스케줄 기능 폐지…자율성 강화",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=200409",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-07"
+      },
+      {
+        "title": "강남구, 전기 차 구매 보조금 최대 100만원 지원[서울25]",
+        "link": "https://www.khan.co.kr/article/202604081133001",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-04-08"
+      },
+      {
+        "title": "[이로운체크]중동 상황에 9.7조 풀고 2.4조 투입...금융당국 전방위 대응",
+        "link": "https://www.eroun.net/news/articleView.html?idxno=77646",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-07"
+      },
+      {
+        "title": "나프다 대란에 상생나선 배민·쿠팡이츠, 소상공인에 비닐봉투· 수수료 ...",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/08/2026040800081.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-04-08"
+      }
+    ]
   }
 };
