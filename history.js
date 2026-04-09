@@ -2143,5 +2143,167 @@ window.historyData = {
         "date": "2026-04-08"
       }
     ]
+  },
+  "2026-04-09": {
+    "macro": [
+      {
+        "title": "[시장 따라잡기] 올해 70% 가까이 뛴 현대차…실적에 발목 잡히나?",
+        "link": "https://biz.sbs.co.kr/article_hub/20000303111?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-04-09"
+      },
+      {
+        "title": "[서환-오전] 호르무즈 해협 봉쇄 속 1,480원대 초반 유지…9.70원↑",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4408631",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-08"
+      },
+      {
+        "title": "신흥국 ‘파산’·유럽 ‘침체’… 이란戰 후폭풍 ‘에너지 제국’ 美,...",
+        "link": "https://biz.chosun.com/international/international_economy/2026/04/09/XBUQF3CVHZH33KTD2Q5KGBHTZI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-04-09"
+      },
+      {
+        "title": "신현송, 기준금리 인상으로 방향 전환 등 주목",
+        "link": "https://www.naeil.com/news/read/584651?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-09"
+      },
+      {
+        "title": "케이뱅크·토스뱅크 행장 나란히 연임…여신 확대 전략 가속화",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1356630",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-08"
+      },
+      {
+        "title": "금리 오르는데 '영끌족' 어쩌나…변동금리 비중 3년4개월 만에 최대",
+        "link": "https://www.newsis.com/view/NISX20260409_0003584405",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-04-09"
+      },
+      {
+        "title": "대구경북 수출, '인도' 새 글로벌 공급망 '급부상'",
+        "link": "https://www.newsis.com/view/NISX20260409_0003584721",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-04-09"
+      },
+      {
+        "title": "[호르무즈 해협 후폭풍] 고환율發 금리 부담…저축은행 '조달-수익성' 동...",
+        "link": "https://dealsite.co.kr/articles/159850",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-09"
+      },
+      {
+        "title": "[브릿지 칼럼] “4월은 장애인 어머니의 마음으로”",
+        "link": "https://www.viva100.com/article/20260408500430",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-08"
+      },
+      {
+        "title": "\"사장님 실수하신 거예요” 이웃 가게 바쁘다고 알바생 빌려줬다가 처벌...",
+        "link": "https://radio.ytn.co.kr/program/?f=2&id=108243&s_mcd=0433&s_hcd=01",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-04-09"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-08"
+      },
+      {
+        "title": "KOTRA해외시장뉴스",
+        "link": "https://dream.kotra.or.kr/kotranews/index.do",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-08"
+      },
+      {
+        "title": "공유 킥보드 등 4대 하천에 투기…대학생 4명 입건",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8529797&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-04-08"
+      },
+      {
+        "title": "오토바이 타다 가슴 약간 다쳤을 뿐인데… 24세男, 심한 호흡곤란 왜?",
+        "link": "https://kormedi.com/?p=2805330",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-08"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-08"
+      },
+      {
+        "title": "[같이경제] 유가 급등이 바꾼 일상…차량 2부제 실효성은?",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8531242&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-04-08"
+      },
+      {
+        "title": "방중 국민당 주석, 일본 11차례 언급하며 비난…내일 시진핑 만날듯",
+        "link": "https://www.joongang.co.kr/article/25418835",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-04-09"
+      },
+      {
+        "title": "쿠팡이츠 , 이륜차 사고 예방 앞장… 교육 수료자 전원 헬멧 지급",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=727926",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-08"
+      },
+      {
+        "title": "배민, 소상공인에 비닐봉투 200만장 무상지원",
+        "link": "https://www.donga.com/news/Economy/article/all/20260408/133701437/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-04-09"
+      },
+      {
+        "title": "[클릭! 자치뉴스] 서울 강남구, 전기 차 보조금 최대 100만 원 지원",
+        "link": "https://www.hankookilbo.com/news/article/A2026040817010003251?did=NA",
+        "source": "한국일보",
+        "tier": "C",
+        "date": "2026-04-09"
+      },
+      {
+        "title": "개혁신당 \"민주·국힘 '쪽지 예산'으로 살찐 추경, 전액 삭감해야\"",
+        "link": "https://www.mt.co.kr/politics/2026/04/09/2026040911081394104",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-04-09"
+      },
+      {
+        "title": "양양군, 공공 배달 앱 '먹깨비' 활성화 추진…소상공인 지원",
+        "link": "https://www.yna.co.kr/view/AKR20260409120400062?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-04-08"
+      }
+    ]
   }
 };
