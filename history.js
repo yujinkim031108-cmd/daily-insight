@@ -2305,5 +2305,167 @@ window.historyData = {
         "date": "2026-04-08"
       }
     ]
+  },
+  "2026-04-10": {
+    "macro": [
+      {
+        "title": "휴전 안도감에 장중 5918 치솟아…환율 1480원선 등락",
+        "link": "https://biz.sbs.co.kr/article_hub/20000303550?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-04-09"
+      },
+      {
+        "title": "중동전쟁에 물가 ·성장 '빨간불'… 한은 7연속 기준금리 동결",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3392875",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-09"
+      },
+      {
+        "title": "11개월 묶인 금리 '딜레마'…\"물가 압력 커지면 대응\"",
+        "link": "https://biz.sbs.co.kr/article_hub/20000303551?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-04-09"
+      },
+      {
+        "title": "[오마이포토] 이창용 한국은행 총재, 마지막 금융통화위원회",
+        "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003223242&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+        "source": "오마이뉴스",
+        "tier": "C",
+        "date": "2026-04-09"
+      },
+      {
+        "title": "은행 막히자 몰린 상호금융…그 문까지 닫히는 가계대출 시장",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1705053",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-10"
+      },
+      {
+        "title": "[단독]“빚내 버티기도 한계” 자영업 대출 자 절반 ‘다중채무’",
+        "link": "https://www.donga.com/news/Economy/article/all/20260409/133710018/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-04-09"
+      },
+      {
+        "title": "\"중동발 물가·성장 불안\"‥기준금리 7회 연속 동결",
+        "link": "https://imnews.imbc.com/replay/2026/nw1400/article/6814237_36974.html",
+        "source": "MBC",
+        "tier": "S",
+        "date": "2026-04-10"
+      },
+      {
+        "title": "“전쟁 끝나도 경제 완벽 복귀 불가”…IMF 총재 성장 둔화 경고",
+        "link": "https://www.mk.co.kr/article/12013699",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-04-09"
+      },
+      {
+        "title": "[10일 화성시] ‘2035 공동주택 리모델링 기본계획 수립 용역’ 추진 등",
+        "link": "https://www.asiatime.co.kr/article/20260410500165",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-10"
+      },
+      {
+        "title": "양경수,\"AI로 일자리 소멸 우려\"...청년·비정규직 대책 요구",
+        "link": "https://www.ppss.kr/news/articleView.html?idxno=292286",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-09"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-09"
+      },
+      {
+        "title": "KOTRA해외시장뉴스",
+        "link": "https://dream.kotra.or.kr/kotranews/index.do",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-09"
+      },
+      {
+        "title": "한국에선 규제에 막힌 방문 피부진료, 뉴욕에서 '대박'",
+        "link": "https://www.hankyung.com/article/2026040878201",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-04-09"
+      },
+      {
+        "title": "알톤, '파이톤 20 에디션 듀얼' 출시…안전성·주행 성능 강화",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=444371",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-09"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-09"
+      },
+      {
+        "title": "DJI, 1500W 괴력 '아비녹스 M2S' 전기 모터 공개… 전기 산악 자전거 시장 ...",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=655748",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-09"
+      },
+      {
+        "title": "배민, 작년매출 5조원 넘어…모기업 보유주식 매입 후 소각(종합)",
+        "link": "https://www.yna.co.kr/view/AKR20260410105551030?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-04-10"
+      },
+      {
+        "title": "과거 독일 본사에 고액 배당 논란 배민, 올해는 4900억원 자사주 소각",
+        "link": "https://biz.chosun.com/distribution/food/2026/04/10/Y4P4E2EM6JEPJGKMNQAUAMP73M/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-04-10"
+      },
+      {
+        "title": "“홈술족 환영합니다”…편의점, 주류예약·픽업 틈새 노린다 [푸드360]",
+        "link": "https://biz.heraldcorp.com/article/10714225?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-10"
+      },
+      {
+        "title": "상주시, 전기이륜차 구매시 최대 300만원 지원",
+        "link": "https://www.ksmnews.co.kr/news/view.php?idx=599539",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-09"
+      },
+      {
+        "title": "배민, 자사주 소각으로 4900억원 환원…독일 DH로 자금 흐름 지속",
+        "link": "https://www.ddaily.co.kr/page/view/2026041014574258371",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-09"
+      },
+      {
+        "title": "배달 앱 사회적 대화 첫날부터 신경전… 수수료 인하 공감에도 갈등 표출",
+        "link": "https://zdnet.co.kr/view/?no=20260410132717",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-10"
+      }
+    ]
   }
 };
