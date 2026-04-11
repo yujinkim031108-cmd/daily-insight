@@ -2467,5 +2467,153 @@ window.historyData = {
         "date": "2026-04-10"
       }
     ]
+  },
+  "2026-04-11": {
+    "macro": [
+      {
+        "title": "\"美CPI, 관세·전쟁만 끝내면 해결…연준 나서면 안 돼\"",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4409007",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-10"
+      },
+      {
+        "title": "미 증시, 이란 휴전에도 혼조… S&P500 소폭 하락 속 '주간 최대 상승'",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3393022",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-10"
+      },
+      {
+        "title": "“수백대 1 바늘구멍에 쥐꼬리 이자, 그 돈으로 주식하는게”…청약통...",
+        "link": "https://www.mk.co.kr/article/12014336",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-04-10"
+      },
+      {
+        "title": "이창용 “물가 상당폭 높아질 것”…마지막까지 부동산 강조",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8533135&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-04-11"
+      },
+      {
+        "title": "[취재수첩] 획일적 대출 규제에 車까지 저당 잡히는 서민들",
+        "link": "https://www.hankyung.com/article/2026041031051",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-04-11"
+      },
+      {
+        "title": "[단독]“빚내 버티기도 한계” 자영업 대출 자 절반 ‘다중채무’",
+        "link": "https://www.donga.com/news/Economy/article/all/20260409/133710018/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-04-11"
+      },
+      {
+        "title": "李 대통령, 이스라엘 반발에 \"반인권 행동 되돌아볼만 한데 실망\"",
+        "link": "https://www.hankookilbo.com/news/article/A2026041110150004661?did=NA",
+        "source": "한국일보",
+        "tier": "C",
+        "date": "2026-04-11"
+      },
+      {
+        "title": "묶인 건 '공급가'…최고가격제 비웃듯 휘발유 최대 2498원",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=837476",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-10"
+      },
+      {
+        "title": "세계은행 총재 \"이란휴전 유지되더라도 경제 에 연쇄영향\"",
+        "link": "https://biz.sbs.co.kr/article_hub/20000303655?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-04-10"
+      },
+      {
+        "title": "[김지수의 인터스텔라] “가족, 친구, 음식만 있으면 무너지지 않아”…...",
+        "link": "https://biz.chosun.com/topics/kjs_interstellar/2026/04/11/HRBU4PO5HZGYLFBV73Z6U2XAMM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-04-10"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-10"
+      },
+      {
+        "title": "“최저가 주유소 찾아가요”… 기름값 2000원 시대 ‘주유테크’ 인기",
+        "link": "https://www.donga.com/news/Economy/article/all/20260410/133717342/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-04-10"
+      },
+      {
+        "title": "알톤, '파이톤 20 에디션 듀얼' 출시…안전성·주행 성능 강화",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=444371",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-10"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-10"
+      },
+      {
+        "title": "휘발유 2,000원 시대, 전기자전거 대안 주목",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=543166",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-10"
+      },
+      {
+        "title": "‘플랫폼 공정경쟁법’ 제정, 한국형 산업 질서의 전환점 되나",
+        "link": "https://www.m-economynews.com/news/article.html?no=66340",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-10"
+      },
+      {
+        "title": "쿠팡 , 모회사에 1조4천억원 첫 중간배당…\"글로벌 투자 재원\"",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=567155",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-10"
+      },
+      {
+        "title": "[2026 금융포럼] 경국현 우리벤처 상무 \"VC 핵심은 투자처와 파트너십\"",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=244477",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-11"
+      },
+      {
+        "title": "배민, 지난해 매출 5조원 돌파…\"역대 최대 실적\"",
+        "link": "https://www.dailian.co.kr/news/view/1632228/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-04-11"
+      },
+      {
+        "title": "은행 참여 속속… 몸집 키우는 한은 디지털화폐 실험",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092160178",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-04-11"
+      }
+    ]
   }
 };
