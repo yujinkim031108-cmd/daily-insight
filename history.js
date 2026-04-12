@@ -2615,5 +2615,153 @@ window.historyData = {
         "date": "2026-04-11"
       }
     ]
+  },
+  "2026-04-12": {
+    "macro": [
+      {
+        "title": "[서환-주간] 美·이란 협상 결렬에 환율 급등 우려…1,500원대 다시 보나",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4409070",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-11"
+      },
+      {
+        "title": "[주간증시전망] ’6000피' 앞두고 결렬된 美·이란 협상…다시 떠오른 전...",
+        "link": "https://biz.chosun.com/stock/stock_general/2026/04/12/VNWA6VBMT5HXZAZ5L7TNCIPUDI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-04-11"
+      },
+      {
+        "title": "7% 터치 대출 금리 , 2% 묶인 예금 금리 …점점 커지는 은행권 예대차",
+        "link": "https://www.mt.co.kr/finance/2026/04/12/2026041015253180486",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-04-11"
+      },
+      {
+        "title": "금리 동결에도 인상론 솔솔…대출금리 더 오르나[엇박자 금리③]",
+        "link": "https://www.newsis.com/view/NISX20260411_0003587194",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-04-12"
+      },
+      {
+        "title": "1분기 가계대출 , 은행 2조 줄고 인뱅 5천억 늘어 ‘풍선효과’",
+        "link": "https://www.hani.co.kr/arti/economy/finance/1253795.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-04-12"
+      },
+      {
+        "title": "\"주담대로 돈 벌면 자본비율 추락\"..은행 스스로 부동산 금융 포기",
+        "link": "https://www.mt.co.kr/finance/2026/04/12/2026040913513652383",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-04-11"
+      },
+      {
+        "title": "\"협상 결렬에 항공유 다시 오를까\"…항공업계, 생존 적신호",
+        "link": "https://www.newsis.com/view/NISX20260412_0003587666",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-04-12"
+      },
+      {
+        "title": "수급불안 속 닭고기·튀김유·포장재 값 일제히↑…치킨업계 ‘가격인상...",
+        "link": "https://www.etoday.co.kr/news/view/2574920",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-11"
+      },
+      {
+        "title": "[시론] 이란전쟁으로 우리가 치러야 할 비용",
+        "link": "https://www.kbsm.net/news/view.php?idx=515608",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-11"
+      },
+      {
+        "title": "[이번주 경제] 3월 고용동향 어떻게…IMF는 韓 성장전망 공개",
+        "link": "https://www.news1.kr/society/general-society/6133522",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-04-11"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-11"
+      },
+      {
+        "title": "“최저가 주유소 찾아가요”… 기름값 2000원 시대 ‘주유테크’ 인기",
+        "link": "https://www.donga.com/news/Economy/article/all/20260410/133717342/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-04-12"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-11"
+      },
+      {
+        "title": "영원무역, OEM 호실적에도 ‘스캇’ 발목…외형 성장 속 수익성은 과제",
+        "link": "https://www.viva100.com/article/20260409500989",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-11"
+      },
+      {
+        "title": "매출 5조원 돌파한 배달의민족",
+        "link": "https://byline.network/?p=9004111222598992",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-11"
+      },
+      {
+        "title": "가격 아닌 연결…유통업계, 협업 중심 경쟁 구조로 전환",
+        "link": "https://www.segye.com/newsView/20260412501922?OutUrl=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-12"
+      },
+      {
+        "title": "포장재 가격 급등, 소상공인들 ‘비상’…배달 플랫폼, 비닐봉투 무료지...",
+        "link": "https://www.ceoscoredaily.com/page/view/2026040916523946346",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-11"
+      },
+      {
+        "title": "상주시, 전기이륜차 110대 보급···탄소중립 실현 박차",
+        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=544673",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-11"
+      },
+      {
+        "title": "'고유가 피해지원금' 놓치지 않고 신청하는 방법",
+        "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=74097",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-11"
+      },
+      {
+        "title": "신혜영 예비후보 \"돈이 머무는 자립형 경제도시 서구 만들겠다\"",
+        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1152196",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-11"
+      }
+    ]
   }
 };
