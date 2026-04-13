@@ -2763,5 +2763,181 @@ window.historyData = {
         "date": "2026-04-11"
       }
     ]
+  },
+  "2026-04-13": {
+    "macro": [
+      {
+        "title": "[성공예감] 중동 전쟁을 테마로 투자? 이 원칙만은 꼭 지키세요 – 홍춘...",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8534258&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-04-13"
+      },
+      {
+        "title": "신현송 \"추경, 올해 성장률 0.2%p 끌어올려… 물가 자극 제한적\"",
+        "link": "https://www.news1.kr/economy/trend/6134506",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-04-12"
+      },
+      {
+        "title": "\"한국은행 7월 금리 인상 전망…호르무즈 봉쇄로 늦어질수도\"",
+        "link": "https://www.goodnews1.com/news/articleView.html?idxno=458730",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-12"
+      },
+      {
+        "title": "\"한은 7월 금리인상 예상\" 글로벌 IB 전망",
+        "link": "https://www.hankyung.com/article/2026041371067",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-04-13"
+      },
+      {
+        "title": "주담대 7% 뚫었는데, 예금은 아직도 2%대…왜?",
+        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=656801",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-12"
+      },
+      {
+        "title": "금감원 \"민감임대 주택 매매예약금 법적 보호 안돼\"...소비자경보 발령",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=339192",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-13"
+      },
+      {
+        "title": "낙폭 줄인 코스피, 5800선 선방…개인 7500억 순매수[시황종합]",
+        "link": "https://www.news1.kr/finance/general-stock/6134803",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-04-13"
+      },
+      {
+        "title": "대한항공, 1분기 '역대 최대' 매출 달성…영업익은 47% 올라",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065597515425127",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-12"
+      },
+      {
+        "title": "와인에 푹 빠진 베트남…중산층이 주류 시장 판도 바꿨다",
+        "link": "https://www.hankyung.com/article/2026041362361",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-04-13"
+      },
+      {
+        "title": "[전문] 박형준 \"부산 특별법, 정치적 셈법에 따라 접근한다면 이재명 정...",
+        "link": "https://news.jtbc.co.kr/article/NB12293943?influxDiv=NAVER",
+        "source": "JTBC",
+        "tier": "A",
+        "date": "2026-04-13"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-12"
+      },
+      {
+        "title": "[Who is ?] 이재웅 쏘카 이사회 의장",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=435521",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-12"
+      },
+      {
+        "title": "속도 확 올려도 떨림 없이 질주… 정숙미 돋보이네 [ 모빌리티 ]",
+        "link": "https://www.segye.com/newsView/20260412508002?OutUrl=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-12"
+      },
+      {
+        "title": "전명자 대전시 서구청장 예비후보 \"차 없이도 서구 어디든 15분에 OK\"",
+        "link": "https://news.tf.co.kr/read/national/2312196.htm",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-12"
+      },
+      {
+        "title": "[목포24시] 與 목포시의원 6개 선거구 후보 확정…본선 구도 '윤곽'",
+        "link": "https://www.sisajournal.com/news/articleView.html?idxno=369237",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-12"
+      },
+      {
+        "title": "에브리봇 모빌리티 , 홈페이지 전면 개편…브랜드 전략 강화",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=292127",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-12"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-12"
+      },
+      {
+        "title": "[전문] 박형준 \"부산 특별법, 정치적 셈법에 따라 접근한다면 이재명 정...",
+        "link": "https://news.jtbc.co.kr/article/NB12293943?influxDiv=NAVER",
+        "source": "JTBC",
+        "tier": "A",
+        "date": "2026-04-12"
+      },
+      {
+        "title": "배민, 단순 ' 배달 앱' 넘어 '커머스 플랫폼' 진화",
+        "link": "https://www.asiatime.co.kr/article/20260413500309",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-12"
+      },
+      {
+        "title": "[이로운주목]배민과 식당주, '교섭'의 문 열릴까…플랫폼 상생의 시험대",
+        "link": "https://www.eroun.net/news/articleView.html?idxno=78016",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-12"
+      },
+      {
+        "title": "이디야커피, 스낵 라인업 확대…베이글칩 신제품 2종 출시",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=244541",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-12"
+      },
+      {
+        "title": "상주시, 전기이륜차 110대 보급···탄소중립 실현 박차",
+        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=544673",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-12"
+      },
+      {
+        "title": "차량 2·5부제 참여시 할인?…내 車보험료 얼마나 줄어들까",
+        "link": "https://www.newsis.com/view/NISX20260413_0003588673",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-04-12"
+      },
+      {
+        "title": "소공연 \"대통령의 '소상공인 단결권·교섭권' 보장 의지 환영\"",
+        "link": "https://www.mt.co.kr/living/2026/04/13/2026041311262084589",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-04-12"
+      }
+    ]
   }
 };
