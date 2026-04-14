@@ -2939,5 +2939,188 @@ window.historyData = {
         "date": "2026-04-12"
       }
     ]
+  },
+  "2026-04-14": {
+    "macro": [
+      {
+        "title": "[뉴스나우] 트럼프 \"이란, 합의 간절히 희망\"...대면 협상 '노딜' 이유는...",
+        "link": "https://www.ytn.co.kr/_ln/0104_202604141222291530",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-04-14"
+      },
+      {
+        "title": "인도 3월 소비자 물가 3.40%·0.19P↑…\"중동전쟁에 물가 압력 커져\"",
+        "link": "https://www.newsis.com/view/NISX20260414_0003590254",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-04-14"
+      },
+      {
+        "title": "美재무 \" 금리 인하 지금은 지켜볼 때…충격 끝나면 美 50년 안정\"",
+        "link": "https://www.news1.kr/world/international-economy/6135920",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-04-13"
+      },
+      {
+        "title": "[오늘의 주요일정]금융·증권(4월14일 화요일)",
+        "link": "https://www.newsis.com/view/NISX20260413_0003589271",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-04-14"
+      },
+      {
+        "title": "가계대출 증가분 60%~70%까지만 주담대…은행별 차등",
+        "link": "https://biz.sbs.co.kr/article_hub/20000304205?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-04-14"
+      },
+      {
+        "title": "은행권 '생산적 금융' 외치지만…현실은 '대기업 쏠림' 왜",
+        "link": "https://news.tf.co.kr/read/economy/2312939.htm",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-13"
+      },
+      {
+        "title": "이창용 ‘서학 개미’ 논란 의식했나… 신현송 “민간 해외투자, 대외 ...",
+        "link": "https://biz.chosun.com/policy/policy_sub/2026/04/14/FAED4AC7XVAFBIUQHTYBOIDVPI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-04-13"
+      },
+      {
+        "title": "석화 기초유분 '긴급 수급조정' 이번주 시행…중동, 韓 비축기지 활용 ...",
+        "link": "https://www.hankyung.com/article/202604140078i",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-04-14"
+      },
+      {
+        "title": "정희용, 글로벌 기관 한국 성장률 전망... 줄줄이 '하향'",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3556782",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-14"
+      },
+      {
+        "title": "국민의힘 “청년 실업 재난 수준…노란봉투법 재개정안 발표 할 것”",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8535161&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-04-14"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-13"
+      },
+      {
+        "title": "[Who is ?] 이재웅 쏘카 이사회 의장",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=435521",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-13"
+      },
+      {
+        "title": "속도 확 올려도 떨림 없이 질주… 정숙미 돋보이네 [ 모빌리티 ]",
+        "link": "https://www.segye.com/newsView/20260412508002?OutUrl=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-13"
+      },
+      {
+        "title": "주정봉 \"직·주·락 결합된 정착형 도시 만들 것\"... '청년도시' 공약 발...",
+        "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003224087&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+        "source": "오마이뉴스",
+        "tier": "C",
+        "date": "2026-04-14"
+      },
+      {
+        "title": "[베트남 주간 이슈] 16년 만의 최고 성장률 베트남…'실용 총리' 출범에...",
+        "link": "https://www.insidevina.com/news/articleView.html?idxno=42955",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-13"
+      },
+      {
+        "title": "퍼블릭뉴스통신(public news-network for TTL)",
+        "link": "https://www.ttlnews.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-13"
+      },
+      {
+        "title": "더블유케어, 전기스쿠터 '비아지오 T2' 론칭… 퍼스널 모빌리티 라인업 ...",
+        "link": "https://www.it-b.co.kr/news/articleView.html?idxno=87762",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-13"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-13"
+      },
+      {
+        "title": "[전문] 박형준 \"부산 특별법, 정치적 셈법에 따라 접근한다면 이재명 정...",
+        "link": "https://news.jtbc.co.kr/article/NB12293943?influxDiv=NAVER",
+        "source": "JTBC",
+        "tier": "A",
+        "date": "2026-04-14"
+      },
+      {
+        "title": "토스 앱에 '부산은행 전용관' 개설…고객 접점 전국으로 확대",
+        "link": "https://www.news1.kr/local/busan-gyeongnam/6135997",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-04-13"
+      },
+      {
+        "title": "쿠팡이츠 , 매출 2조 넘었다…고성장에도 배민과 격차는 여전",
+        "link": "https://www.newsis.com/view/NISX20260414_0003590340",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-04-13"
+      },
+      {
+        "title": "[기획:챗GPT에 줄 서는 기업들(上)] 핵심 데이터 종속 우려",
+        "link": "https://www.viva100.com/article/20260413500717",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-14"
+      },
+      {
+        "title": "영동군 상반기 전기이륜차 30대 보급",
+        "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1073328",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-13"
+      },
+      {
+        "title": "우아한청년들, 라이더 대상 종합소득세 교육 무료 실시",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=445402",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-14"
+      },
+      {
+        "title": "'커머스 힘받은' 네이버, '내실경영' 카카오…1분기 역대급 실적 예고",
+        "link": "https://www.dailian.co.kr/news/view/1633336/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-04-13"
+      }
+    ]
   }
 };
