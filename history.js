@@ -3122,5 +3122,195 @@ window.historyData = {
         "date": "2026-04-13"
       }
     ]
+  },
+  "2026-04-15": {
+    "macro": [
+      {
+        "title": "옐런 前 美재무 \"이란 전쟁, 더 큰 인플레 압력 초래\"",
+        "link": "https://biz.sbs.co.kr/article_hub/20000304486?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-04-14"
+      },
+      {
+        "title": "유가 충격 '비상'…\" 물가 ·성장 상충하면 물가 에 무게\"",
+        "link": "https://biz.sbs.co.kr/article_hub/20000304504?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-04-14"
+      },
+      {
+        "title": "신현송 한은총재 후보자 “중동상황 장기화되면 통화정책 역할 있을 것...",
+        "link": "https://biz.chosun.com/policy/policy_sub/2026/04/15/L4ETRRBAIZB6JLQJ3UXQN2632A/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-04-14"
+      },
+      {
+        "title": "신현송 후보자 \"기준금리 '지켜보는' 방향 맞았다고 생각\"",
+        "link": "https://www.mt.co.kr/economy/2026/04/15/2026041510592495242",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-04-15"
+      },
+      {
+        "title": "KB금융, 하반기 8000억원 규모 자사주 매입 추가 진행 전망 - 한화투자증...",
+        "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=40516",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-14"
+      },
+      {
+        "title": "익숙해진 관치의 역설…발담근 그들만 행복, 비용은 모두의 몫 [더롱뷰...",
+        "link": "https://www.joongang.co.kr/article/25420268",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-04-14"
+      },
+      {
+        "title": "'훨훨' SK하이닉스 최고가 경신…6100선 돌파",
+        "link": "https://biz.sbs.co.kr/article_hub/20000304503?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-04-15"
+      },
+      {
+        "title": "미국, 해상 봉쇄 성공하면…\"이란, 2주내 원유 감산 직면\"",
+        "link": "https://www.yna.co.kr/view/AKR20260415128100009?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-04-14"
+      },
+      {
+        "title": "[진단] 토인비의 경고, 강해 보이는 권력은 왜 무너지는가",
+        "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=382294",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-14"
+      },
+      {
+        "title": "광주, 제조·건설 동반 부진…전남, 수요·생산 개선",
+        "link": "https://www.newsis.com/view/NISX20260415_0003592504",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-04-14"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-14"
+      },
+      {
+        "title": "[TECH한주] 바퀴 달린 모든 것을 연결하는 데이터의 힘, 쏘카가 제안하...",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=400269",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-14"
+      },
+      {
+        "title": "두산에너빌리티 SMR 생산능력 확대 본격화, 박지원 에너지 전환 흐름에...",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=435682",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-14"
+      },
+      {
+        "title": "지바이크 “작년 매출 775억원…공유모빌리티 앱 사용자 1위”",
+        "link": "https://biz.chosun.com/it-science/ict/2026/04/15/FWSPPNFDP5HJJMFR55UYWLIIRQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-04-14"
+      },
+      {
+        "title": "부산시 연제구의회 김현규 의원, 전동킥보드 무단방치 관리 조례 전부개...",
+        "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=382346",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-14"
+      },
+      {
+        "title": "베트남, 1분기 오토바이 판매량 72.9만 대 전년比 8.3%↑…고유가· 규제 ...",
+        "link": "https://www.insidevina.com/news/articleView.html?idxno=42971",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-14"
+      },
+      {
+        "title": "퍼블릭뉴스통신(public news-network for TTL)",
+        "link": "https://www.ttlnews.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-14"
+      },
+      {
+        "title": "전주비전대·김제교육지원청, 특장 모빌리티 인재양성 '맞손'",
+        "link": "https://www.newsis.com/view/NISX20260414_0003590655",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-04-15"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-14"
+      },
+      {
+        "title": "지바이크 “작년 매출 775억원…공유모빌리티 앱 사용자 1위”",
+        "link": "https://biz.chosun.com/it-science/ict/2026/04/15/FWSPPNFDP5HJJMFR55UYWLIIRQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-04-15"
+      },
+      {
+        "title": "[데일리 IT 단신] 네이버, 컨템포러리 패션 서비스 ‘노크잇’ 출시 外",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/15/2026041500257.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-04-15"
+      },
+      {
+        "title": "“여전히 쿠팡 이 1등”...커머스 앱 2위는?",
+        "link": "https://www.mk.co.kr/article/12017457",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-04-15"
+      },
+      {
+        "title": "신세계도 롯데웰푸드도, 필수 된 AI … 자체 역량 강화로 차별화",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/15/2026041500084.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-04-15"
+      },
+      {
+        "title": "대구시, 친환경차 보급 앞당긴다…고유가 대응 '민생 해법' 부각",
+        "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4070023",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-14"
+      },
+      {
+        "title": "은행·보험 자본규제 손질…생산적 금융 98.7조 공급여력 확보",
+        "link": "https://www.sentv.co.kr/article/view/sentv202604150110",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-14"
+      },
+      {
+        "title": "[논설위원의 단도직입]“산재 예방책 정권 부침 없게…노사정 참여 ‘안...",
+        "link": "https://www.khan.co.kr/article/202604141957005",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-04-15"
+      }
+    ]
   }
 };
