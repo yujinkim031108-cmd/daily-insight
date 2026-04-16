@@ -3312,5 +3312,181 @@ window.historyData = {
         "date": "2026-04-15"
       }
     ]
+  },
+  "2026-04-16": {
+    "macro": [
+      {
+        "title": "이란 전쟁 위기속 中 1분기 GDP 성장률 5.0%…3분기만에 반등(종합)",
+        "link": "https://www.newsis.com/view/NISX20260416_0003594144",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-04-15"
+      },
+      {
+        "title": "申총재 역량과 도전 요소들[뉴스와 시각]",
+        "link": "https://www.munhwa.com/article/11582759?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-15"
+      },
+      {
+        "title": "안전자산 아닌 위험자산이었나…국제 금·은값, 저점서 일제히 두자릿수...",
+        "link": "https://www.mk.co.kr/article/12018883",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-04-15"
+      },
+      {
+        "title": "물가는 치솟고 성장은 정체 … 양날의 검 '경기부양책'에 스태그플레이...",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/16/2026041600067.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-04-15"
+      },
+      {
+        "title": "“주담대 급한데 주거래 막혔네, 그럼 ‘여기’서라도”…‘풍선효과’...",
+        "link": "https://www.mk.co.kr/article/12018888",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-04-16"
+      },
+      {
+        "title": "美 연준 “중동 전쟁, 에너지 비용 넘어 기업 전반에 걸쳐 부담”",
+        "link": "https://www.theguru.co.kr/news/article.html?no=100628",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-16"
+      },
+      {
+        "title": "현대차·기아 '가속'…종전 낙관론에 장중 6200선 돌파",
+        "link": "https://biz.sbs.co.kr/article_hub/20000304791?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-04-16"
+      },
+      {
+        "title": "\"석유 최고가격제 후 소비 11% 줄어\"... 원유 2만7300만배럴 확보",
+        "link": "https://www.hankyung.com/article/202604165768i",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-04-15"
+      },
+      {
+        "title": "\"에너지값 오르자 곳간 푼다\"…각국 재정 '빨간불'",
+        "link": "https://www.newsis.com/view/NISX20260416_0003594164",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-04-16"
+      },
+      {
+        "title": "덜 버는데 줄일 수도 없다···고물가 직격탄 맞는 장애인 가구",
+        "link": "https://www.khan.co.kr/article/202604161504001",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-04-15"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-15"
+      },
+      {
+        "title": "[TECH한주] 바퀴 달린 모든 것을 연결하는 데이터의 힘, 쏘카가 제안하...",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=400269",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-15"
+      },
+      {
+        "title": "지바이크 “작년 매출 775억원…공유모빌리티 앱 사용자 1위”",
+        "link": "https://biz.chosun.com/it-science/ict/2026/04/15/FWSPPNFDP5HJJMFR55UYWLIIRQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-04-16"
+      },
+      {
+        "title": "[강기자의 세종실록] ‘홀짝제’ 첫날 정부세종청사 주차장 가봤더니",
+        "link": "https://www.seoul.co.kr/news/plan/Kangjournalist-Sejong/2026/04/16/20260416500017?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-04-15"
+      },
+      {
+        "title": "부산시 연제구의회 김현규 의원, 전동킥보드 무단방치 관리 조례 전부개...",
+        "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=382346",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-15"
+      },
+      {
+        "title": "베트남, 1분기 오토바이 판매량 72.9만 대 전년比 8.3%↑…고유가· 규제 ...",
+        "link": "https://www.insidevina.com/news/articleView.html?idxno=42971",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-15"
+      },
+      {
+        "title": "[유통가 레이더] 이른 더위에 냉방가전 수요 폭증... 롯데하이마트, 에...",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=339366",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-15"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-15"
+      },
+      {
+        "title": "전세계 로봇 회사들 “같이 하자”, 한국인 60대 창업자의 독보적 기술",
+        "link": "https://www.chosun.com/economy/startup_story/2026/04/16/NHV2ZYU46FG5DKTOPJUXEIUB7I/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-04-15"
+      },
+      {
+        "title": "하나센터, 8개 종교·직능 단체와 '북향민 지원' 업무협약",
+        "link": "https://www.newsis.com/view/NISX20260416_0003594180",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-04-16"
+      },
+      {
+        "title": "고물가 속 배송비 낮춰 소비 유도 … 47조 온라인 장보기 시장 '불붙었다...",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/16/2026041600098.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-04-16"
+      },
+      {
+        "title": "‘로켓배송’ 못 끊어…각종 논란에도 커머스 앱 1위는 ‘쿠팡’",
+        "link": "https://www.hani.co.kr/arti/economy/economy_general/1254344.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-04-15"
+      },
+      {
+        "title": "은행·보험 자본규제 합리화 … 98.7조 생산적 금융 공급 여력 확보",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/16/2026041600143.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-04-15"
+      },
+      {
+        "title": "케이앤씨솔루션, 전라남도 영광군 소상공인연합회와 협약…온동네로 지...",
+        "link": "https://www.dailian.co.kr/news/view/1634140/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-04-16"
+      }
+    ]
   }
 };
