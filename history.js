@@ -3488,5 +3488,160 @@ window.historyData = {
         "date": "2026-04-16"
       }
     ]
+  },
+  "2026-04-17": {
+    "macro": [
+      {
+        "title": "학자금대출 연체율 '최고치', 취업해도 빚 못 갚는 청년들",
+        "link": "https://www.bizhankook.com/bk/article/32067",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-16"
+      },
+      {
+        "title": "정부, 韓 경제 2개월째 ‘경기 하방위험’…소비·기업심리 둔화",
+        "link": "https://www.dailian.co.kr/news/view/1634756/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-04-17"
+      },
+      {
+        "title": "[중동전쟁] '막판 밀당' 트럼프가 직접 가면?‥\"이달 코스피 7천 갈수도...",
+        "link": "https://imnews.imbc.com/replay/2026/nw1400/article/6816029_36974.html",
+        "source": "MBC",
+        "tier": "S",
+        "date": "2026-04-16"
+      },
+      {
+        "title": "물가는 치솟고 성장은 정체 … 양날의 검 '경기부양책'에 스태그플레이...",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/16/2026041600067.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-04-16"
+      },
+      {
+        "title": "국내은행 연체율 9개월 만에 최고…'중동 여파' 중소기업 어쩌나",
+        "link": "https://www.joongang.co.kr/article/25421053",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-04-16"
+      },
+      {
+        "title": "2월 국내 은행 대출 연체 율 0.62%…9개월 만에 최고",
+        "link": "https://news.jtbc.co.kr/article/NB12294660?influxDiv=NAVER",
+        "source": "JTBC",
+        "tier": "A",
+        "date": "2026-04-17"
+      },
+      {
+        "title": "'가격 비싸진 미국산 소고기'",
+        "link": "https://www.news1.kr/photos/7861872",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-04-17"
+      },
+      {
+        "title": "전국 평균 휘발유 가격 2000원, 오늘 돌파하나…오후 2시 기준 1999.8원",
+        "link": "https://www.busan.com/view/busan/view.php?code=2026041714253476888",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-16"
+      },
+      {
+        "title": "4대 그룹 총수, 李대통령 인도·베트남 순방에 동행",
+        "link": "https://biz.chosun.com/industry/company/2026/04/17/BTVWU7EBUJESFKCVNWZXSVXHUQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-04-16"
+      },
+      {
+        "title": "데이터처, 21일부터 상반기 지역별 고용조사 실시",
+        "link": "https://biz.sbs.co.kr/article_hub/20000305019?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-04-16"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-16"
+      },
+      {
+        "title": "[단독] ① 지바이크 ' 지쿠 ', 브레이크 이상 의심 기기 방치·안전관리 허...",
+        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=58611",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-16"
+      },
+      {
+        "title": "[강기자의 세종실록] ‘홀짝제’ 첫날 정부세종청사 주차장 가봤더니",
+        "link": "https://www.seoul.co.kr/news/plan/Kangjournalist-Sejong/2026/04/16/20260416500017?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-04-17"
+      },
+      {
+        "title": "용산구 녹지환경 개선 시급…윤정회 의원 \"공원 연결 네트워크 구축해야...",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=213790",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-16"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-16"
+      },
+      {
+        "title": "먼 나라 전쟁에 코피 터지는 한국 [제정임의 탐조등]",
+        "link": "https://www.hani.co.kr/arti/opinion/column/1254641.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-04-17"
+      },
+      {
+        "title": "배민B마트, 1분기 거래액 전년比 36% 증가",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=868028",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-16"
+      },
+      {
+        "title": "\"하늘에서 닭발이 툭…\" 드론과 로봇이 배달하는 배송 혁명 이뤄질까 [...",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008520540&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-04-16"
+      },
+      {
+        "title": "[Who Is ?] 허태수 GS그룹 회장 겸 GS 대표이사",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=435430",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-16"
+      },
+      {
+        "title": "\"지드래곤 사는 아파트 갔더니…\" 라이더 들 손사래 치는 이유",
+        "link": "https://www.hankyung.com/article/2026041777987",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-04-16"
+      },
+      {
+        "title": "[단독] 정치 요동칠수록 김어준 웃었다…‘딴지’ 매출 455억 역대급",
+        "link": "https://www.joongang.co.kr/article/25420928",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-04-17"
+      }
+    ]
   }
 };
