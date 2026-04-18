@@ -3643,5 +3643,160 @@ window.historyData = {
         "date": "2026-04-17"
       }
     ]
+  },
+  "2026-04-18": {
+    "macro": [
+      {
+        "title": "유가· 물가 의 덫…트럼프가 이란과의 협상 끊지 못하는 이유",
+        "link": "https://www.sisajournal.com/news/articleView.html?idxno=369627",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-17"
+      },
+      {
+        "title": "연준 월러 “중동 전쟁 장기화 땐 금리 인하 신중”",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539392&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-04-18"
+      },
+      {
+        "title": "미래·흥국생명 내리고 흥국화재 올리고…보험사 대출 금리 '희비'",
+        "link": "https://www.newsway.co.kr/news/view?ud=2026041710325209961",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-17"
+      },
+      {
+        "title": "'호르무즈 폭탄' 韓 직격 … 두바이유 의존이 毒으로",
+        "link": "https://www.mk.co.kr/article/12020135",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-04-18"
+      },
+      {
+        "title": "기업 대출 늘렸지만 연체도 뛰었다…‘생산적 금융’ 딜레마",
+        "link": "https://www.ekn.kr/web/view.php?key=20260418027418000",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-17"
+      },
+      {
+        "title": "은행 대출 연체 율 0.62%, 9개월새 최고…중소법인은 1% 돌파",
+        "link": "https://www.joongang.co.kr/article/25421167",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-04-17"
+      },
+      {
+        "title": "[기원상 경제진단] 종전의 문턱에 선 코스피, 환호보다 검증이 먼저다",
+        "link": "https://www.ajunews.com/view/20260418135927442",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-17"
+      },
+      {
+        "title": "이란 전쟁發 인플레에 미국 선거구도 바뀌나[글로벌 현장]",
+        "link": "https://magazine.hankyung.com/business/article/202604151717b",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-04-17"
+      },
+      {
+        "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+        "link": "https://www.yna.co.kr/view/AKR20260418029200011?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-04-18"
+      },
+      {
+        "title": "[사설] ‘청년 취업 빙하기’ 정부·기업 함께 넘자",
+        "link": "https://www.joongang.co.kr/article/25421184",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-04-17"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-17"
+      },
+      {
+        "title": "지쿠 전기자전거가 '공짜'?...공직·공공기관 직원 'OK'·취약계층은 'N...",
+        "link": "https://www.mediajeju.com/news/articleView.html?idxno=363879",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-17"
+      },
+      {
+        "title": "[기획] 인천 '전동 킥보드 없는 거리' 시범 시행…\"일단 만족\"",
+        "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1521499",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-17"
+      },
+      {
+        "title": "윤정회 용산구의원, 체감 녹지 부족에 따른 체감 녹지 확대 제안",
+        "link": "https://www.hg-times.com/news/articleView.html?idxno=301317",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-17"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-17"
+      },
+      {
+        "title": "뇌새김 위버스마인드, 지난해 연결 영업익 308억원...역대 최대 실적",
+        "link": "https://zdnet.co.kr/view/?no=20260418000504",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-17"
+      },
+      {
+        "title": "[김기돈 칼럼] AI 알고리즘의 역설: 스마트한 배정이 만든 '새로운 직업...",
+        "link": "https://www.incheontoday.com/news/articleView.html?idxno=317908",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-17"
+      },
+      {
+        "title": "\"하늘에서 닭발이 툭…\" 드론과 로봇이 배달하는 배송 혁명 이뤄질까 [...",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008520540&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-04-18"
+      },
+      {
+        "title": "고윤정, 일본 男배우와 ‘이탈리아 데이트’ 포착?…\"조금 늦었지만 이...",
+        "link": "https://www.tvreport.co.kr/star/article/1033682/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-17"
+      },
+      {
+        "title": "\"지드래곤 사는 아파트 갔더니…\" 라이더 들 손사래 치는 이유",
+        "link": "https://www.hankyung.com/article/2026041777987",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-04-18"
+      },
+      {
+        "title": "치킨집 사장님 뭉쳐 본사와 협상?…프랜차이즈 판 뒤집힐라[소상공인 단...",
+        "link": "https://www.newsis.com/view/NISX20260416_0003593210",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-04-17"
+      }
+    ]
   }
 };
