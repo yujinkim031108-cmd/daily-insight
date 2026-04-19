@@ -3798,5 +3798,160 @@ window.historyData = {
         "date": "2026-04-17"
       }
     ]
+  },
+  "2026-04-19": {
+    "macro": [
+      {
+        "title": "[주간증시전망] 종전 합의 이번에는?…SK하이닉스 실적에 쏠리는 눈",
+        "link": "https://biz.chosun.com/stock/stock_general/2026/04/19/CDG7AYKLHFDUXLHZWNO2KLV42M/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-04-19"
+      },
+      {
+        "title": "스콧 베선트 미국 재무장관 “7월 초까지 ‘트럼프 관세’ 기존 수준으...",
+        "link": "https://magazine.hankyung.com/business/article/202604152691b",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-04-19"
+      },
+      {
+        "title": "'소방수' 이창용 한국은행 총재, 4년 임기 마치고 내일 퇴임",
+        "link": "https://www.newsis.com/view/NISX20260416_0003593798",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-04-18"
+      },
+      {
+        "title": "WGBI 편입 2주 만에 외국인 8조 순매수…일본계 '큰손'도 2.8조 유입",
+        "link": "https://www.news1.kr/economy/trend/6140757",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-04-19"
+      },
+      {
+        "title": "가계대출 역성장에도…4대 금융 1분기 5.2조 '역대 최대' 실적 예고",
+        "link": "https://www.news1.kr/finance/general-finance/6140230",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-04-19"
+      },
+      {
+        "title": "은행 대출 연체 율 0.62%, 9개월새 최고…중소법인은 1% 돌파",
+        "link": "https://www.joongang.co.kr/article/25421167",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-04-18"
+      },
+      {
+        "title": "IMF \"5년 뒤 韓 1인당 GDP 대만에 1만 달러 이상 뒤져\"",
+        "link": "https://www.news1.kr/economy/trend/6141196",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-04-18"
+      },
+      {
+        "title": "[뉴스ON]늑구는 돌아왔지만‥·중동 전쟁 여파에 유가 ·코스피 출렁",
+        "link": "https://dgmbc.com/NewsArticle/835885",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-18"
+      },
+      {
+        "title": "IMF “내년 韓 부채비율, 11개 선진 비기축통화국 평균 넘을 듯”",
+        "link": "https://www.chosun.com/economy/economy_general/2026/04/19/5YDQBXAIMFEOXIQBDXNQ67JBI4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-04-19"
+      },
+      {
+        "title": "올 1분기 실업자 5년 만에 다시 100만명대…실업자 26%가 청년",
+        "link": "https://www.chosun.com/economy/economy_general/2026/04/19/GPHTVADNLBFK7JF4C7A4WA7N2M/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-04-19"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-18"
+      },
+      {
+        "title": "작년 전동킥보드 무면허운전 2만8천건 적발…10건 중 6건 청소년",
+        "link": "https://www.yna.co.kr/view/AKR20260418052800530?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-04-18"
+      },
+      {
+        "title": "천연가스버스 늘리고 5등급차 제한…서울 미세먼지 20년간 47%↓",
+        "link": "https://www.yna.co.kr/view/AKR20260417113200004?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-04-18"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-18"
+      },
+      {
+        "title": "먼 나라 전쟁에 코피 터지는 한국",
+        "link": "https://www.danbinews.com/news/articleView.html?idxno=32857",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-18"
+      },
+      {
+        "title": "\"수수료 낮춰라 vs 어렵다\"… 배달 앱 상생안 협상 '난항'",
+        "link": "https://biz.sbs.co.kr/article_hub/20000305200?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-04-18"
+      },
+      {
+        "title": "쿠팡 , 와우카드 편의점 적립 2배로 확대",
+        "link": "https://www.news1.kr/industry/distribution/6141192",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-04-18"
+      },
+      {
+        "title": "포털 검색·오픈마켓 잇는 AI 대화창…新 커머스 격전지 부상",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=657594",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-18"
+      },
+      {
+        "title": "천연가스버스 늘리고 5등급차 제한…서울 미세먼지 20년간 47%↓",
+        "link": "https://www.yna.co.kr/view/AKR20260417113200004?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-04-18"
+      },
+      {
+        "title": "[6·3 현장/화제 인물] 통합특별시 주 청사 무안 ‘주창’한 나광국 무안...",
+        "link": "https://www.thepowernews.co.kr/view.php?ud=202604180758084559caa2b7671d_7",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-18"
+      },
+      {
+        "title": "배달 앱 수수료 내리나…상생 합의 논의 재개",
+        "link": "https://www.yna.co.kr/view/AKR20260418028500030?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-04-18"
+      }
+    ]
   }
 };
