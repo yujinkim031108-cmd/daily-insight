@@ -3953,5 +3953,118 @@ window.historyData = {
         "date": "2026-04-18"
       }
     ]
+  },
+  "2026-04-20": {
+    "macro": [
+      {
+        "title": "중국 PPI 41개월 만에 반등…저 물가 탈출은 내수에 달렸다",
+        "link": "https://www.hankyung.com/article/202604202193i",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-04-19"
+      },
+      {
+        "title": "[굿모닝 마켓] 뉴욕증시, 지난주 금요일 호르무즈 개방 소식에 급등",
+        "link": "https://biz.sbs.co.kr/article_hub/20000305288?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-04-20"
+      },
+      {
+        "title": "[속보] 中, 사실상 기준금리 LPR 동결, 11개월째…1년물 3.0%·5년물 3.5%",
+        "link": "https://biz.sbs.co.kr/article_hub/20000305332?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-04-20"
+      },
+      {
+        "title": "휴전 종료 앞 긴장 고조에도 코스피 강보합 … '실적 기대감' 하이닉스...",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/20/2026042000081.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-04-20"
+      },
+      {
+        "title": "칠곡군, 호국의 다리 조명 중단…공공부문 에너지 절감 총력",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=1365694",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-19"
+      },
+      {
+        "title": "4대그룹 총수, '기회의 땅' 인도·베트남행…이재명 '세일즈 외교' 지원",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7160563",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-19"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-19"
+      },
+      {
+        "title": "시간을 뚫고 살아남은 섬 사람들이 전해준 것",
+        "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003225924&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+        "source": "오마이뉴스",
+        "tier": "C",
+        "date": "2026-04-19"
+      },
+      {
+        "title": "작년 전동킥보드 무면허운전 2만8천건 적발…10건 중 6건 청소년",
+        "link": "https://www.yna.co.kr/view/AKR20260418052800530?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-04-19"
+      },
+      {
+        "title": "천연가스버스 늘리고 5등급차 제한…서울 미세먼지 20년간 47%↓",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523623&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-04-20"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-19"
+      },
+      {
+        "title": "리들리 스콧의 포스트 아포칼립스 신작…‘도그 스타: 마지막 희망’ 올...",
+        "link": "https://swtvnews.com/news/newsview.php?ncode=1065571751215742",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-19"
+      },
+      {
+        "title": "[패트롤] 군포시-부천시-안산시-안양시-의왕시",
+        "link": "https://www.ekn.kr/web/view.php?key=20260420028408329",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-19"
+      },
+      {
+        "title": "[유통뷰] 할인은 끝났다… 지금은 철학이 있는 브랜드가 고객을 붙든다",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3394854",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-20"
+      },
+      {
+        "title": "김진태, 생활공약 '내 삶이 특별해지는 약속' 1호 발표 ··· \" 배달 라이...",
+        "link": "https://gw.newdaily.co.kr/site/data/html/2026/04/19/2026041900105.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-04-20"
+      }
+    ]
   }
 };
