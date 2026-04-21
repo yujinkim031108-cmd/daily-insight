@@ -4066,5 +4066,139 @@ window.historyData = {
         "date": "2026-04-20"
       }
     ]
+  },
+  "2026-04-21": {
+    "macro": [
+      {
+        "title": "\"미국 금리 인하 지연…중동발 에너지 충격에 세계 경제 '비상'\"",
+        "link": "https://www.gokorea.kr/news/articleView.html?idxno=864175",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-20"
+      },
+      {
+        "title": "중동 파고 속 한은 신현송號 출범…환율·물가·성장 '3중고' 시험대",
+        "link": "https://www.news1.kr/economy/financial-currency/6142603",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-04-20"
+      },
+      {
+        "title": "“은행주, 성장 둔화에도 투자매력 유지…이자마진 방어·주주환원 기대...",
+        "link": "https://www.news2day.co.kr/article/20260421500065",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-20"
+      },
+      {
+        "title": "'종가 기준 최고치' 다시 넘어선 코스피",
+        "link": "https://www.sisajournal.com/news/articleView.html?idxno=370266",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-20"
+      },
+      {
+        "title": "트럼프 '뻥카'..중동전쟁 종전..협상 압박 정치적 메시지",
+        "link": "https://www.datasom.co.kr/news/articleView.html?idxno=208416",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-20"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-20"
+      },
+      {
+        "title": "아우디 ‘신형 A6’ 국내 출격…“韓 시장 핵심 모델로 자리매김” [현...",
+        "link": "https://www.kukinews.com/article/view/kuk202604200211",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-20"
+      },
+      {
+        "title": "시간을 뚫고 살아남은 섬 사람들이 전해준 것",
+        "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003225924&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+        "source": "오마이뉴스",
+        "tier": "C",
+        "date": "2026-04-20"
+      },
+      {
+        "title": "“QR로 간편 신고” 노원구, ‘ 공유 모빌리티 통합신고시스템’ 구축",
+        "link": "https://biz.heraldcorp.com/article/10721634?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-20"
+      },
+      {
+        "title": "[밀착추적] 시각장애인 점자블록 깨지고 막히고...무용지물 '생명선'",
+        "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260420024&PRO_CODE=4",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-20"
+      },
+      {
+        "title": "기술·전문성 갖춘 기업들 '디지털 상생' 보폭 넓힌다",
+        "link": "https://www.hankyung.com/article/2026042021041",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-04-20"
+      },
+      {
+        "title": "생활민주주의 확산과 공공성 회복",
+        "link": "https://www.ngonews.kr/news/articleView.html?idxno=228691",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-20"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-20"
+      },
+      {
+        "title": "리들리 스콧의 포스트 아포칼립스 신작…‘도그 스타: 마지막 희망’ 올...",
+        "link": "https://swtvnews.com/news/newsview.php?ncode=1065571751215742",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-20"
+      },
+      {
+        "title": "배민, 60계치킨·스텔라떡볶이 운영사와 광고·프로모션 협업",
+        "link": "https://www.yna.co.kr/view/AKR20260421053000030?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-04-21"
+      },
+      {
+        "title": "배달 플랫폼 지난달 결제 추정액 3조 돌파…전년比 10%↑",
+        "link": "https://www.newsis.com/view/NISX20260421_0003599449",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-04-20"
+      },
+      {
+        "title": "LG에너지솔루션, 사내 키오스크 눌러서 '터치 기부'…임직원 봉사단 뭉...",
+        "link": "https://www.hankyung.com/article/2026042021101",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-04-20"
+      },
+      {
+        "title": "[단독] \"장사 잘될수록 손해\"…중국집 사장님 한숨 쉰 이유",
+        "link": "https://www.hankyung.com/article/2026042037821",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-04-21"
+      }
+    ]
   }
 };
