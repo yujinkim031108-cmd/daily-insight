@@ -4376,5 +4376,188 @@ window.historyData = {
         "date": "2026-04-22"
       }
     ]
+  },
+  "2026-04-24": {
+    "macro": [
+      {
+        "title": "엔화, 중동 종전협상 난항에 1달러=159엔대 후반 하락 출발",
+        "link": "https://www.newsis.com/view/NISX20260424_0003604859",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-04-24"
+      },
+      {
+        "title": "1분기 '깜짝 성장'에 글로벌 IB들 올해 한국 성장률 줄상향",
+        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=115586",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-23"
+      },
+      {
+        "title": "다시 짙어진 중동 전운에 투심 냉각... 나스닥 0.89%↓",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=1367445",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-23"
+      },
+      {
+        "title": "\"중동 악재, 2분기부터 본격 반영\"…올해 2% 성장률 시험대",
+        "link": "https://www.newsis.com/view/NISX20260423_0003604101",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-04-23"
+      },
+      {
+        "title": "BNK금융, \"부동산 줄이고 산업 늘렸다\"…정부 '생산적 금융' 기조 맞춘 ...",
+        "link": "https://www.upkoreanews.kr/news/articleView.html?idxno=98180",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-23"
+      },
+      {
+        "title": "새마을금고, 가계 대출 올스톱…\"서민들은 사채 쓰라는 거냐\"",
+        "link": "https://realty.chosun.com/site/data/html_dir/2026/04/23/2026042303241.html",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-04-23"
+      },
+      {
+        "title": "가축질병에 흔들린 축산물 수급…예방 방역·시장 안정 병행 과제",
+        "link": "https://www.dailian.co.kr/news/view/1637368/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-04-23"
+      },
+      {
+        "title": "전국 주유소 평균 경윳값 리터당 2천원 돌파",
+        "link": "https://biz.sbs.co.kr/article_hub/20000306489?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-04-24"
+      },
+      {
+        "title": "한화비전, 인도를 전략 거점으로 삼고 영상보안·자동화 시장 공략",
+        "link": "https://www.hellot.net/news/article.html?no=112269",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-23"
+      },
+      {
+        "title": "송언석 \"민주당 공천, 가히 범죄자 시대…범죄 천국·준법 지옥\"",
+        "link": "https://www.dailian.co.kr/news/view/1637344/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-04-23"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-23"
+      },
+      {
+        "title": "순수 알루미늄 강도에 무게는 100분의 1... 서울공대 기계공학부 안성훈...",
+        "link": "https://www.veritas-a.com/news/articleView.html?idxno=607149",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-23"
+      },
+      {
+        "title": "지쿠 로보틱스, AI 창고 솔루션 공개 “자동화 넘어 '진짜' 지능형 창고 ...",
+        "link": "https://www.hellot.net/news/article.html?no=112256",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-23"
+      },
+      {
+        "title": "“공용 복도에 헬스장을?”...벽에 구멍까지 뚫은 이웃 논란",
+        "link": "https://www.chosun.com/national/national_general/2026/04/23/XKCKMJLGUREPBFZWIOQXJ4SQH4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-04-23"
+      },
+      {
+        "title": "성남시의회, '서현동 킥보드 없는 거리' 청원 통과…시범사업 추진 촉구",
+        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5014512",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-23"
+      },
+      {
+        "title": "[단독]행인들 사이로 ‘부아앙’… 오토바이에 사망 年388명",
+        "link": "https://www.donga.com/news/Society/article/all/20260423/133795339/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-04-24"
+      },
+      {
+        "title": "\"서비스는 '무엇을 얻는지'가 본질\"…피지컬 AI 시대가 바꿀 삶은?",
+        "link": "https://www.mt.co.kr/industry/2026/04/23/2026042313254964895",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-04-23"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-23"
+      },
+      {
+        "title": "지바이크 '그라인드', 전년 대비 매출 72% 신장… 전기자전거 시장 공략",
+        "link": "https://magazine.hankyung.com/business/article/202604232504b",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-04-24"
+      },
+      {
+        "title": "[게시판] 배민아카데미, 외식업주에 AI 교육",
+        "link": "https://www.yna.co.kr/view/AKR20260424038400030?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-04-24"
+      },
+      {
+        "title": "무료 혜택 끝, 500원 내기 싫으면 구독해야…배달의민족 ‘한그릇’ 유...",
+        "link": "https://www.sedaily.com/article/20036533?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-23"
+      },
+      {
+        "title": "‘여기’서 주문하면 치킨 최대 1만원 싸게 먹는다",
+        "link": "https://www.mk.co.kr/article/12026265",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-04-24"
+      },
+      {
+        "title": "[단독]행인들 사이로 ‘부아앙’… 오토바이에 사망 年388명",
+        "link": "https://www.donga.com/news/Society/article/all/20260423/133795339/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-04-23"
+      },
+      {
+        "title": "“기댈 곳 없는 프리랜서…권익보호 도움 드려요”",
+        "link": "https://www.khan.co.kr/article/202604232133005",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-04-23"
+      },
+      {
+        "title": "김용일 서울시의원, 민생노동국 추경 심사서 소상공인 지원 사업 실효성...",
+        "link": "https://www.seoul.co.kr/news/publicnews/local_govern/smc_movement/2026/04/24/20260424500033?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-04-23"
+      }
+    ]
   }
 };
