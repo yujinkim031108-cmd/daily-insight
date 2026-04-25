@@ -4559,5 +4559,174 @@ window.historyData = {
         "date": "2026-04-23"
       }
     ]
+  },
+  "2026-04-25": {
+    "macro": [
+      {
+        "title": "'먹고 살기 힘드네' 日 쌀값 50% 가까이 올맀다",
+        "link": "https://biz.sbs.co.kr/article_hub/20000306552?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-04-24"
+      },
+      {
+        "title": "깜짝 GDP에… “한국 올해 3% 성장” 전망 나와",
+        "link": "https://www.chosun.com/economy/money/2026/04/25/RAHNXTVO4JEFHLSFWPP632D6K4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-04-25"
+      },
+      {
+        "title": "중동발 충격 반영되나…다음 주 실물·체감경기 핵심 경제지표 발표",
+        "link": "https://biz.sbs.co.kr/article_hub/20000306664?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-04-24"
+      },
+      {
+        "title": "'GDP 쇼크' 지속에 국고채 금리 일제히 상승…3년물 연 3.496%(종합)",
+        "link": "https://www.yna.co.kr/view/AKR20260424137851008?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-04-25"
+      },
+      {
+        "title": "[다음주 경제] 중동전쟁 이후 실물·체감경기는…지표 잇단 공개",
+        "link": "https://www.yna.co.kr/view/AKR20260425021200002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-04-25"
+      },
+      {
+        "title": "새마을금고, 가계 대출 올스톱…\"서민들은 사채 쓰라는 거냐\"",
+        "link": "https://realty.chosun.com/site/data/html_dir/2026/04/23/2026042303241.html",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-04-24"
+      },
+      {
+        "title": "미·이란 2차 협상 기대감에 달러 · 원 하락 … 1476.80원 마감",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/25/2026042500013.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-04-25"
+      },
+      {
+        "title": "\"미국인 모욕\"..기름값 폭등에 '100년 원칙' 또 깬 트럼프",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008532351&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-04-24"
+      },
+      {
+        "title": "추경에 경제성장률 깜짝 성장까지···내수주 기지개?",
+        "link": "https://www.mt.co.kr/stock/2026/04/25/2026042415392860805",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-04-24"
+      },
+      {
+        "title": "남아공서 커지는 외국인 혐오 논란",
+        "link": "https://www.yna.co.kr/view/AKR20260425000200099?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-04-24"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-24"
+      },
+      {
+        "title": "‘길막’ 공유 전기자전거…강제 견인 나선다",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8545595&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-04-24"
+      },
+      {
+        "title": "[IT큐레이션] '안전'이라는 가면을 쓴 퇴행, PM법이 멈춘 자리",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=738625",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-24"
+      },
+      {
+        "title": "‘선택과 집중’ 혼다코리아…車 판매 접고 모터사이클 키운다",
+        "link": "https://www.ceoscoredaily.com/page/view/2026042409433347617",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-24"
+      },
+      {
+        "title": "[더벨][캐피탈사 해외법인 실적 점검] 하나캐피탈, 엇갈린 성적표…미얀...",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202604202013488000109387",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-24"
+      },
+      {
+        "title": "하루커머스, 퍼스널 팩토리 통합 운영… 김희원 대표 사업 확대 추진",
+        "link": "https://www.kdpress.co.kr/news/articleView.html?idxno=204646",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-24"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-24"
+      },
+      {
+        "title": "6분 완충, 핸들 없는 로보카… 中, 한국 없는 기술로 질주",
+        "link": "https://www.chosun.com/economy/auto/2026/04/25/IW7ZNB43E5F7XITILULKYPHQIY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-04-25"
+      },
+      {
+        "title": "화물연대 “교섭하자던 BGF로지스, 뒤로는 가처분으로 노조 탄압”",
+        "link": "https://www.hani.co.kr/arti/society/labor/1255824.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-04-25"
+      },
+      {
+        "title": "쿠팡 재가입 언제할까?...역대급 3만원 쿠폰 '밀당'",
+        "link": "https://biz.sbs.co.kr/article_hub/20000306612?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-04-25"
+      },
+      {
+        "title": "‘여기’서 주문하면 치킨 최대 1만원 싸게 먹는다",
+        "link": "https://www.mk.co.kr/article/12026265",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-04-25"
+      },
+      {
+        "title": "기름값 오르고 배달 료 내리고‥'이중고' 라이더",
+        "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6817862_37004.html",
+        "source": "MBC",
+        "tier": "S",
+        "date": "2026-04-25"
+      },
+      {
+        "title": "[기고] 소상공인 단결권 '투트랙 세이프 하버'로 풀자",
+        "link": "https://www.hankyung.com/article/2026042452581",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-04-24"
+      }
+    ]
   }
 };
