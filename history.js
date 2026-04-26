@@ -4728,5 +4728,146 @@ window.historyData = {
         "date": "2026-04-24"
       }
     ]
+  },
+  "2026-04-26": {
+    "macro": [
+      {
+        "title": "인천 내항 항동7가 항만시설 입찰…수출입 화물 처리 활용",
+        "link": "https://www.yna.co.kr/view/AKR20260426015200065?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-04-26"
+      },
+      {
+        "title": "[글로벌 경제지표] 美·日·유럽 중앙은행 금리 결정…빅테크 실적 줄줄...",
+        "link": "https://biz.sbs.co.kr/article_hub/20000306608?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-04-26"
+      },
+      {
+        "title": "한국 경제 성장률 서프라이즈, 채권시장 긴장감 고조",
+        "link": "https://www.tokenpost.kr/news/economy/353468",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-25"
+      },
+      {
+        "title": "종전 기대로 진정되던 채권시장 또 출렁…GDP호조에 금리인상론 경계",
+        "link": "https://www.yna.co.kr/view/AKR20260424173500008?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-04-26"
+      },
+      {
+        "title": "자금흐름 재편되나… 5대 은행, 기업 대출 일제히 증가",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092160935",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-04-25"
+      },
+      {
+        "title": "은행권, 가계 대출 문턱 더 높이나… 대출 심사 강화 예고",
+        "link": "https://www.news2day.co.kr/article/20260423500013",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-25"
+      },
+      {
+        "title": "3월 원화 실질가치 금융위기 후 최저…구매력 주요국 중 세 번째로 낮아",
+        "link": "https://www.news1.kr/economy/trend/6148942",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-04-25"
+      },
+      {
+        "title": "政, 4차 석유 최고가격 동결…휘발유 1934원·경유 1923원",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3566471",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-25"
+      },
+      {
+        "title": "OECD \"韓 내년 4분기 잠재 성장률 1.5%… 사상 최저\"",
+        "link": "https://www.news1.kr/economy/trend/6148936",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-04-25"
+      },
+      {
+        "title": "미녀를 사랑한 추남…경제를 구하다 [강영운의 ‘야! 한 생각, 아! 한 생...",
+        "link": "https://www.mk.co.kr/article/12020014",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-04-25"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-25"
+      },
+      {
+        "title": "‘길막’ 공유 전기자전거…강제 견인 나선다",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8545595&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-04-26"
+      },
+      {
+        "title": "[IT큐레이션] '안전'이라는 가면을 쓴 퇴행, PM법이 멈춘 자리",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=738625",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-25"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-25"
+      },
+      {
+        "title": "6분 완충, 핸들 없는 로보카… 中, 한국 없는 기술로 질주",
+        "link": "https://www.chosun.com/economy/auto/2026/04/25/IW7ZNB43E5F7XITILULKYPHQIY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-04-26"
+      },
+      {
+        "title": "배달 앱 상생 협의체 '좌초 위기'…수수료 인하폭 두고 평행선",
+        "link": "https://www.yna.co.kr/view/AKR20260425015600030?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-04-26"
+      },
+      {
+        "title": "쿠팡 재가입 언제할까?...역대급 3만원 쿠폰 '밀당'",
+        "link": "https://biz.sbs.co.kr/article_hub/20000306612?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-04-25"
+      },
+      {
+        "title": "최저임금 받게 된 뉴욕 라이더 \"일할 기회 줄어 수입 감소\"",
+        "link": "https://www.hankyung.com/article/2026042454581",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-04-26"
+      },
+      {
+        "title": "달서구, 신규 외식업소 조기 정착 돕는 ‘공공 배달 플랫폼 ’ 지원",
+        "link": "https://tk.newdaily.co.kr/site/data/html/2026/04/25/2026042500045.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-04-26"
+      }
+    ]
   }
 };
