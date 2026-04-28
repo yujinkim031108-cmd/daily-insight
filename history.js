@@ -4869,5 +4869,79 @@ window.historyData = {
         "date": "2026-04-26"
       }
     ]
+  },
+  "2026-04-28": {
+    "macro": [
+      {
+        "title": "[뉴스UP] \"주유소는 왜 안돼요?\"...고유가 지원금 지급 이틀째",
+        "link": "https://www.ytn.co.kr/_ln/0102_202604280915169201",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-04-27"
+      },
+      {
+        "title": "아웃풋갭 언제·얼마나 플러스 되나…금리 인상 횟수 가르는 변수",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4412031",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-27"
+      },
+      {
+        "title": "환율, 하루 만에 반등…종전 협상 지연 속 위험 선호 심리 주춤",
+        "link": "https://www.news2day.co.kr/article/20260428500102",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-27"
+      },
+      {
+        "title": "[모닝 리포트] 글로벌 크레딧 시장 '이란 사태 후 빠른 회복'…한국은 ...",
+        "link": "https://www.newspim.com/news/view/20260428000177",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-28"
+      },
+      {
+        "title": "“우리집 이번달 원리금 입금했지?” …5대 은행 연체율 봤더니 ‘빨간...",
+        "link": "https://www.mk.co.kr/article/12029180",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-04-28"
+      },
+      {
+        "title": "주요 시중은행, 1분기 가계·기업 연체 율 상승",
+        "link": "https://www.chosun.com/economy/stock-finance/2026/04/28/TDVN6B5NPFBVRNLSOQP4Y2RNKQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-04-27"
+      },
+      {
+        "title": "코스피 장중 6700선 돌파",
+        "link": "https://www.joongang.co.kr/article/25423911",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-04-28"
+      },
+      {
+        "title": "금· 유가 소폭 상승, BTC·ETH 변동성지수 하락",
+        "link": "https://www.tokenpost.kr/news/breaking/354007",
+        "source": "",
+        "tier": "D",
+        "date": "2026-04-27"
+      },
+      {
+        "title": "독일 총리 \"미국, 이란에 굴욕 당해…출구 전략 안 보여\"",
+        "link": "https://www.mt.co.kr/world/2026/04/28/2026042809074781397",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-04-28"
+      },
+      {
+        "title": "지난달 중기 취업자 2543만명…전년대비 12만명 증가",
+        "link": "https://www.newsis.com/view/NISX20260428_0003608693",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-04-28"
+      }
+    ]
   }
 };
