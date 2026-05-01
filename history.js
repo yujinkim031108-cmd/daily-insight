@@ -5119,5 +5119,46 @@ window.historyData = {
         "date": "2026-04-28"
       }
     ]
+  },
+  "2026-05-01": {
+    "macro": [
+      {
+        "title": "미국 이어 ECB·영국도 금리동결…전쟁발 인플레 우려",
+        "link": "https://biz.sbs.co.kr/article_hub/20000307919?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-05-01"
+      },
+      {
+        "title": "\"신용점수 높은데, 이자율은 왜\"…무너진 금리 공식[규제의 역설①]",
+        "link": "https://www.newsis.com/view/NISX20260430_0003613814",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-04-30"
+      },
+      {
+        "title": "美, 3연속 금리 동결… 고민 깊은 신현송",
+        "link": "https://www.seoul.co.kr/news/economy/finance/2026/05/01/20260501030003?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-05-01"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "노동자인데 노동자가 아닌…특고·플랫폼 종사자 210만명 추산",
+        "link": "https://www.yna.co.kr/view/AKR20260430174200530?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-05-01"
+      },
+      {
+        "title": "컵·빨대까지 '껑충'...이란 사태에 골목 상권 '타격'",
+        "link": "https://www.ytn.co.kr/_ln/0115_202605010523027037",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-05-01"
+      }
+    ]
   }
 };
