@@ -5160,5 +5160,153 @@ window.historyData = {
         "date": "2026-05-01"
       }
     ]
+  },
+  "2026-05-02": {
+    "macro": [
+      {
+        "title": "[다음주 경제] 4월 물가 얼마나 올랐나…3월 경상수지도 관심",
+        "link": "https://www.yna.co.kr/view/AKR20260501066500002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-05-01"
+      },
+      {
+        "title": "[자막뉴스] 이란 전쟁이 만든 '지옥'...미국 경제가 무너지고 있다",
+        "link": "https://www.ytn.co.kr/_ln/0134_202605011930394611",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-05-01"
+      },
+      {
+        "title": "구로다 전 일본은행 총재 \"日 중립 금리 는 1.5%\"",
+        "link": "https://www.yna.co.kr/view/AKR20260502019100073?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-05-01"
+      },
+      {
+        "title": "'금리 인하' 환상 깨지고 '인상' 공포 가시화... 유가·성장률이 당긴 방...",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=1369472",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-02"
+      },
+      {
+        "title": "대출 조이자 뛰는 금리…이자 부담 커진다[규제의 역설②]",
+        "link": "https://www.newsis.com/view/NISX20260430_0003612926",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-05-01"
+      },
+      {
+        "title": "불황형 대출 의 시대, 생계형 금융 강화 필요 [서지용의 금융톡톡]",
+        "link": "https://www.dailian.co.kr/news/view/1639668/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-05-02"
+      },
+      {
+        "title": "코스피 4월 30.6%… 전쟁보다 강했던 '삼전닉스'의 힘 [주간 증시해설서...",
+        "link": "https://www.thescoop.co.kr/news/articleView.html?idxno=310088",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-01"
+      },
+      {
+        "title": "멈출 줄 모르는 기름값…'L당 2000원' 시대, 5주째 고공행진",
+        "link": "https://www.hankyung.com/article/2026050215707",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-05-01"
+      },
+      {
+        "title": "위기때 마다 등장한 '구원투수'… 경제 효과 어느 정도?[고유가 지원금②...",
+        "link": "https://www.newsis.com/view/NISX20260501_0003614202",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-05-01"
+      },
+      {
+        "title": "주식시장 '나홀로 불장', 이란전쟁 속 체감경기와 온도차 왜?",
+        "link": "https://www.yna.co.kr/view/AKR20260429187600008?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-05-01"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-01"
+      },
+      {
+        "title": "에픽하이, 러닝 크루에 뿔났다 \"무리 지어 다니지 마…꽁초도 그만\" [RE...",
+        "link": "https://www.tvreport.co.kr/breaking/article/1040338/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-01"
+      },
+      {
+        "title": "[아침저널] 김정철 \"정원오? 불공정 행정, 오세훈? 세금 아깝다...라벨말...",
+        "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4081616",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-01"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-01"
+      },
+      {
+        "title": "기네스 기록 세운 안전센터·인간 개입 최소화한 다크팩토리… 中 지리...",
+        "link": "https://biz.chosun.com/industry/car/2026/05/01/FOWA2NPJTVATRFV4CMSVIRHV5M/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-05-02"
+      },
+      {
+        "title": "배민 이어 2위였는데...\"무료 배달 경쟁서 밀려\" 요기요 이용자 뚝뚝",
+        "link": "https://www.mt.co.kr/tech/2026/05/02/2026042714162937384",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-05-02"
+      },
+      {
+        "title": "\"적수가 없다\" …배민이 '절대강자'인 이유",
+        "link": "https://magazine.hankyung.com/business/article/202604230395b",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-05-02"
+      },
+      {
+        "title": "고유가 피해지원금 풀렸지만···유통家, 소비 쏠림 현상 재연",
+        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=420826",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-01"
+      },
+      {
+        "title": "“성과급 수억원… 힘 빠지죠” 오세훈 서울시장 후보, 삼성전자 노조 ...",
+        "link": "https://magazine.hankyung.com/business/article/202605021362b",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-05-01"
+      },
+      {
+        "title": "컵·빨대까지 '껑충'...이란 사태에 골목 상권 '타격'",
+        "link": "https://www.ytn.co.kr/_ln/0115_202605012342520249",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-05-01"
+      }
+    ]
   }
 };
