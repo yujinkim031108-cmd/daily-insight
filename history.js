@@ -5308,5 +5308,160 @@ window.historyData = {
         "date": "2026-05-01"
       }
     ]
+  },
+  "2026-05-03": {
+    "macro": [
+      {
+        "title": "설탕·밀가루 담합 잡았지만…빵·케이크 등 가공식품 물가 는 '제자리'",
+        "link": "https://www.news1.kr/economy/trend/6155438",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-05-03"
+      },
+      {
+        "title": "금시세(금값) 3일",
+        "link": "https://www.bntnews.co.kr/article/view/bnt202605030005",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-02"
+      },
+      {
+        "title": "월가, 美 4월 고용 지표 주목…中 서비스업 온기 부나 [뉴욕·상하이 주...",
+        "link": "https://www.hankyung.com/article/202605032337i",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-05-02"
+      },
+      {
+        "title": "한은 5월 금통위 도 동결 가나…물가 변수 커졌다",
+        "link": "https://www.mt.co.kr/economy/2026/05/03/2026043016073778226",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-05-02"
+      },
+      {
+        "title": "예금 쌓이고 대출 은 주춤… 5대 시중銀 예대율, 2년 만에 최저",
+        "link": "https://biz.chosun.com/stock/finance/2026/05/03/RPTYNGB7XRFA3PHYG57HM3XDH4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-05-03"
+      },
+      {
+        "title": "1금융 막히자 2금융으로...제주 대출 '부실' 우려",
+        "link": "https://www.ytn.co.kr/_ln/0115_202605030250074604",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-05-02"
+      },
+      {
+        "title": "IRP, 지금 무엇을 사야 할까?…답은 “원래 하던 대로”",
+        "link": "https://shindonga.donga.com/3/all/13/6199003/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-05-03"
+      },
+      {
+        "title": "고 유가 에 무너진 美 LCC… 스피릿항공 운항 중단",
+        "link": "https://www.viva100.com/article/20260503500151",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-02"
+      },
+      {
+        "title": "김경수 '경남대전환' vs 박완수 '경남대도약'…슬로건 대결 공세",
+        "link": "https://www.yna.co.kr/view/AKR20260429129800052?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-05-02"
+      },
+      {
+        "title": "경고장 날린 미국...\"이란에 호르무즈 통행료 내면 제재\"",
+        "link": "https://www.ytn.co.kr/_ln/0104_202605030834131958",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-05-02"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-02"
+      },
+      {
+        "title": "규제 한파 속 성장 지속…지바이크, PM 업계 '기준'을 만들다",
+        "link": "https://www.electimes.com/news/articleView.html?idxno=367555",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-02"
+      },
+      {
+        "title": "“한밤 ‘부와앙’ 굉음에 심장이 벌렁벌렁”…오토바이 소음 규제 안 발...",
+        "link": "https://www.mk.co.kr/article/12034177",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-05-02"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-02"
+      },
+      {
+        "title": "규제 한파 속 성장 지속…지바이크, PM 업계 '기준'을 만들다",
+        "link": "https://www.electimes.com/news/articleView.html?idxno=367555",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-02"
+      },
+      {
+        "title": "다회용기 사용 독려·포장재 무상지원… 배달 업계의 고유가 대응 방식",
+        "link": "https://www.ekn.kr/web/view.php?key=20260502022511798",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-02"
+      },
+      {
+        "title": "배민 이어 2위였는데...\"무료배달 경쟁서 밀려\" 요기요 이용자 뚝뚝",
+        "link": "https://www.mt.co.kr/tech/2026/05/02/2026042714162937384",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-05-03"
+      },
+      {
+        "title": "[N2 뷰] 고유가 지원금, 대형마트·SSM 묶이고 배달앱은 우회…채널별 희...",
+        "link": "https://www.news2day.co.kr/article/20260430500282",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-03"
+      },
+      {
+        "title": "“한밤 ‘부와앙’ 굉음에 심장이 벌렁벌렁”…오토바이 소음 규제안 발...",
+        "link": "https://www.mk.co.kr/article/12034177",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-05-02"
+      },
+      {
+        "title": "\"일해도 남는 게 없다\"...전쟁 장기화에 운송업 종사자들 한숨",
+        "link": "https://www.ytn.co.kr/_ln/0103_202605030448507818",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-05-03"
+      },
+      {
+        "title": "인도네시아, 차량호출 앱 기사 수수료 20%→8%로 인하",
+        "link": "https://www.yna.co.kr/view/AKR20260502029300084?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-05-03"
+      }
+    ]
   }
 };
