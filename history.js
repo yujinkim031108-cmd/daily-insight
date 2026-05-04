@@ -5463,5 +5463,181 @@ window.historyData = {
         "date": "2026-05-03"
       }
     ]
+  },
+  "2026-05-04": {
+    "macro": [
+      {
+        "title": "수급·관세·재정에 흔들린 ‘농정의 봄’ [세종 백브리프]",
+        "link": "https://www.dailian.co.kr/news/view/1640505/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-05-04"
+      },
+      {
+        "title": "트럼프 부정평가 62% 최고치… 물가 도 전쟁도 동맹도 발목 잡았다",
+        "link": "https://www.newsis.com/view/NISX20260504_0003615527",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-05-03"
+      },
+      {
+        "title": "한국은행, 연내 금리 올리나…부총재 “인상 고민할 때 됐다”",
+        "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029771307&code=61141111&cp=nv",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-03"
+      },
+      {
+        "title": "한은 부총재 \"금리 인상 고민할 때…5월 금통위 서 신호 가능성\"",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008545290&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-05-04"
+      },
+      {
+        "title": "금융시스템 재설계 논의 본격화?…김용범 “낡은 신용평가 틀 과감히 넓...",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8552008&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-05-04"
+      },
+      {
+        "title": "물가·부동산 압박 속…5월 한은 점도표, 금리인상 신호 담길까",
+        "link": "https://www.hani.co.kr/arti/economy/finance/1257026.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-05-04"
+      },
+      {
+        "title": "'전남교육청 국외 출장 항공료 부당 집행' 즉각 수사의뢰 촉구",
+        "link": "https://www.nocutnews.co.kr/news/6511795?utm_source=naver&utm_medium=article&utm_campaign=20260504102229",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-03"
+      },
+      {
+        "title": "호르무즈 해협 다시 초긴장…트럼프 작전 예고에 이란 '경고'",
+        "link": "https://www.hankyung.com/article/2026050440987",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-05-03"
+      },
+      {
+        "title": "유상대 한은 부총재 \"금리인하 멈추고 인상 사이클 전환 고민할 시점\"",
+        "link": "https://www.news1.kr/economy/trend/6155965",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-05-04"
+      },
+      {
+        "title": "[굿모닝 마켓] 중동 리스크에도 끄떡없는 뉴욕증시…기업 실적이 방패",
+        "link": "https://biz.sbs.co.kr/article_hub/20000308119?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-05-03"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-03"
+      },
+      {
+        "title": "규제 한파 속 성장 지속…지바이크, PM 업계 '기준'을 만들다",
+        "link": "https://www.electimes.com/news/articleView.html?idxno=367555",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-03"
+      },
+      {
+        "title": "김경수 도지사 후보 \"45세 이상 다초점 안경 구매 20만 원 지원\"",
+        "link": "https://www.idomin.com/news/articleView.html?idxno=2004812",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-03"
+      },
+      {
+        "title": "창문 열어두는 계절 되자…걸리면 과태료, 서울시 ‘이것’ 10월까지 단...",
+        "link": "https://www.wikitree.co.kr/articles/1134786",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-03"
+      },
+      {
+        "title": "이륜차 소음, '교통 관리' 문제로 떠올라",
+        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=59857",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-03"
+      },
+      {
+        "title": "드리미, 美 샌프란서 '드리미 넥스트' 콘퍼런스 성료…미래 10년 청사진...",
+        "link": "https://view.asiae.co.kr/article/2026050410040405516",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-03"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-03"
+      },
+      {
+        "title": "[KGM 튜.페.2②무쏘의 진화...다카르 랠리 DNA부터 전기 캠핑카까지 집결",
+        "link": "https://www.asiatime.co.kr/article/20260503500012",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-03"
+      },
+      {
+        "title": "\"급한 불 껐지만 뇌관은 그대로\" 유통 업계 덮친 노란봉투의 공포",
+        "link": "https://www.sisajournal.com/news/articleView.html?idxno=371441",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-03"
+      },
+      {
+        "title": "래티브, 공제조합 시간제 유상운송보험 도입",
+        "link": "https://www.handmk.com/news/articleView.html?idxno=37699",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-04"
+      },
+      {
+        "title": "[DBR]지자체 연대-금융 데이터, 배달 시장 판도를 바꾸다",
+        "link": "https://www.donga.com/news/Economy/article/all/20260503/133848083/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-05-04"
+      },
+      {
+        "title": "영동군, 전기 이륜차 보급 지원",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8551927&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-05-03"
+      },
+      {
+        "title": "\"일해도 남는 게 없다\"...전쟁 장기화에 운송업 종사자들 한숨",
+        "link": "https://www.ytn.co.kr/_ln/0103_202605032324143005",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-05-04"
+      },
+      {
+        "title": "아산시 공공 배달 앱 ‘땡겨요’, 지역경제 효자로 우뚝… 아산페이 결제...",
+        "link": "https://cc.newdaily.co.kr/site/data/html/2026/05/04/2026050400033.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-05-03"
+      }
+    ]
   }
 };
