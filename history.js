@@ -5639,5 +5639,167 @@ window.historyData = {
         "date": "2026-05-03"
       }
     ]
+  },
+  "2026-05-05": {
+    "macro": [
+      {
+        "title": "'함께'서 '나 혼자 논다'…폰게임에 밀린 PC방",
+        "link": "https://www.hankyung.com/article/2026050453731",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-05-04"
+      },
+      {
+        "title": "美 경제학자 \"제조업 쇠퇴가 유가 충격 막아\"",
+        "link": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=52398",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-04"
+      },
+      {
+        "title": "DL이앤씨, 압구정 5구역 ‘가치’ 승부수…파격 금융 조건 제안",
+        "link": "https://sports.donga.com/economy/article/all/20260505/133862010/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-05-04"
+      },
+      {
+        "title": "물가상승 압력에… 한은 부총재 “금리인상 고민할때”",
+        "link": "https://www.donga.com/news/Economy/article/all/20260504/133861070/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-05-05"
+      },
+      {
+        "title": "겨우 적자 탈출인데… 태광그룹 계열 저축은행, 올해 영업 빨간불",
+        "link": "https://www.mt.co.kr/finance/2026/05/05/2026042714455244928",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-05-05"
+      },
+      {
+        "title": "靑 \"인뱅 면허에 따른 책임\" 직격…당국, 중저신용 대출 목표치 메스대나",
+        "link": "https://www.newsis.com/view/NISX20260504_0003616976",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-05-04"
+      },
+      {
+        "title": "브렛 테일러가 세운 시에라, 9억5000만 달러 추가 조달…기업용 AI 에이전...",
+        "link": "https://www.tokenpost.kr/news/ai/356309",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-04"
+      },
+      {
+        "title": "경북도, 계약원가 심사로 4월까지 예산 139억 원 절감",
+        "link": "https://sports.donga.com/region/article/all/20260505/133862162/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-05-04"
+      },
+      {
+        "title": "3%까지 오른 韓 성장 전망…'양극화 심화' 방심은 금물",
+        "link": "https://www.newsis.com/view/NISX20260504_0003616587",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-05-04"
+      },
+      {
+        "title": "[홍기빈의 두 번째 의견]기본소득이 답이라고?",
+        "link": "https://www.khan.co.kr/article/202605042002005",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-05-04"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-04"
+      },
+      {
+        "title": "[황미선의 위기탈출 시즌5] 전동 킥보드 는 왜 도로 위에서 불안하게 느껴...",
+        "link": "https://www.lecturernews.com/news/articleView.html?idxno=201694",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-04"
+      },
+      {
+        "title": "美서 ‘콘셉트카’ 공개한 中 가전 업체 드리미… “차세대 스마트 생태...",
+        "link": "https://biz.chosun.com/it-science/ict/2026/05/04/DLO7EMCYCNGFDAGUOTOONB3LJA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-05-04"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-04"
+      },
+      {
+        "title": "[IS인터뷰] ‘기리고’ 강미나 “불안으로 성장하죠”",
+        "link": "https://isplus.com/article/view/isp202604290231",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-04"
+      },
+      {
+        "title": "닛산 SUV 아리야 기반 LV4 자율주행차, 도쿄 도심 달린다!",
+        "link": "https://www.dailycar.co.kr/content/news.html?type=view&autoId=61542",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-04"
+      },
+      {
+        "title": "“K-팝은 디지털 굿판…‘민속의 귀환’ 시작됐다”",
+        "link": "https://shindonga.donga.com/3/all/13/6211831/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-05-05"
+      },
+      {
+        "title": "[FC 브리핑] 공차코리아, 맥도날드, 타코벨",
+        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5017112",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-05"
+      },
+      {
+        "title": "[유통레이더] 시몬스, 지그재그, 요기요 , 유니클로, 대교, 몰테일 外",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1363733",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-05"
+      },
+      {
+        "title": "영동군, 전기 이륜차 보급 지원",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8551927&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-05-04"
+      },
+      {
+        "title": "[취재수첩] 수백 가지 최저임금 일본 vs 하나뿐인 한국",
+        "link": "https://www.hankyung.com/article/2026050453551",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-05-05"
+      },
+      {
+        "title": "‘ 배달 앱 판도 흔든다’ 아산페이 품은 ‘땡겨요’ 폭발 성장",
+        "link": "https://www.khan.co.kr/article/202605041344001",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-05-05"
+      }
+    ]
   }
 };
