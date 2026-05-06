@@ -5801,5 +5801,181 @@ window.historyData = {
         "date": "2026-05-05"
       }
     ]
+  },
+  "2026-05-06": {
+    "macro": [
+      {
+        "title": "경기 4월 소비자물가 2.7% 상승…석유류 22.9% 급등했다",
+        "link": "https://www.newsis.com/view/NISX20260506_0003618017",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-05-06"
+      },
+      {
+        "title": "한은 \"석유류 가격 급등에 5월 물가 오름폭 더 커질 것\"",
+        "link": "https://www.news1.kr/economy/trend/6157700",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-05-05"
+      },
+      {
+        "title": "[코스피 7,000] '파죽지세' 어디까지 가나…\"8,600도 꿈 아니다\"",
+        "link": "https://www.yna.co.kr/view/AKR20260506035000008?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-05-05"
+      },
+      {
+        "title": "[마켓 프리뷰] 코스피, '칠천피' 가시권…호르무즈 해협 긴장 고조",
+        "link": "https://biz.sbs.co.kr/article_hub/20000308397?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-05-05"
+      },
+      {
+        "title": "[특징주] 카카오뱅크, 1분기 호실적에 4% 상승",
+        "link": "https://biz.chosun.com/stock/stock_general/2026/05/06/7TJPFID5XJESXEIZKTSXQF6OJU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-05-05"
+      },
+      {
+        "title": "카카오뱅크 1분기 순이익 1천873억원, 역대 최대…36.3%↑",
+        "link": "https://www.yna.co.kr/view/AKR20260506033500002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-05-05"
+      },
+      {
+        "title": "공사비 급등 속 가격 상승기 속 들어서는 '청주 푸르지오 씨엘리체' 분...",
+        "link": "https://www.woodkorea.co.kr/news/articleView.html?idxno=89308",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-06"
+      },
+      {
+        "title": "코스피 7,000 돌파…삼성전자 상승이 주도",
+        "link": "https://www.gokorea.kr/news/articleView.html?idxno=865472",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-05"
+      },
+      {
+        "title": "[사설] 마이너스 대구 경제 , 시장후보 기회 잡을 준비됐나",
+        "link": "https://www.yeongnam.com/web/view.php?key=20260506027012040",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-05"
+      },
+      {
+        "title": "취업 약속 받고 갔더니 전쟁터…\"30명만 살아 돌아왔다\"",
+        "link": "https://www.hankyung.com/article/202605067472i",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-05-06"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-05"
+      },
+      {
+        "title": "시흥시, ‘ 공유 킥보드 ·자전거 불법주차 신고시스템’ 본격 가동",
+        "link": "https://sports.donga.com/region/article/all/20260506/133867373/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-05-05"
+      },
+      {
+        "title": "배달 전기 오토바이 보험료 17.5% 할인…연 60만원대로 낮춘다",
+        "link": "https://www.mt.co.kr/estate/2026/05/05/2026050509290094732",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-05-05"
+      },
+      {
+        "title": "“오토바이 소음 사라지나” 배달용 전기 이륜차 보험료 대폭 인하",
+        "link": "https://magazine.hankyung.com/business/article/202605067633b",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-05-05"
+      },
+      {
+        "title": "[Who Is ?] 김윤 삼양그룹 회장",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=436645",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-05"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-05"
+      },
+      {
+        "title": "[IS인터뷰] ‘기리고’ 강미나 “불안으로 성장하죠”",
+        "link": "https://isplus.com/article/view/isp202604290231",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-05"
+      },
+      {
+        "title": "어린이날 경주 전역 들썩…체험·공연 가득한 '동심 축제'",
+        "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4071908",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-05"
+      },
+      {
+        "title": "[김도훈의 엑스레이] [119] 알잘딱깔센하게",
+        "link": "https://www.chosun.com/opinion/specialist_column/2026/05/05/IKMVW3AGSREB7CRNDYTHC5ASJQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-05-05"
+      },
+      {
+        "title": "7분기 만에 적자 전환 쿠팡 …고객 이탈·일자리 축소 '이중고'",
+        "link": "https://www.yna.co.kr/view/AKR20260506048100030?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-05-05"
+      },
+      {
+        "title": "옷 느낌까지 AI가 분석… 무신사, 패션 테크 기업 전환 속도",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605050811184850540",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-05"
+      },
+      {
+        "title": "“오토바이 소음 사라지나” 배달 용 전기 이륜차 보험료 대폭 인하",
+        "link": "https://magazine.hankyung.com/business/article/202605067633b",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-05-05"
+      },
+      {
+        "title": "“AI는 해고 통지서로 오지 않는다”···‘질 낮은 일자리’로 재편될...",
+        "link": "https://www.khan.co.kr/article/202605060600111",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-05-05"
+      },
+      {
+        "title": "군산시 공공 배달 앱 ' 배달 의 명수' 누적 매출 400억원 돌파",
+        "link": "https://www.yna.co.kr/view/AKR20260506044100055?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-05-06"
+      }
+    ]
   }
 };
