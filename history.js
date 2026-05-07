@@ -5977,5 +5977,174 @@ window.historyData = {
         "date": "2026-05-06"
       }
     ]
+  },
+  "2026-05-07": {
+    "macro": [
+      {
+        "title": "석유 매점매석 금지 두 달 연장…구윤철 \"과징금·포상 활용\"",
+        "link": "https://www.yna.co.kr/view/AKR20260507054000002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-05-07"
+      },
+      {
+        "title": "NH증권 “코스피 9000 갈 것”…전쟁 리스크 압도한 이익체력 [오늘 나온...",
+        "link": "https://www.mk.co.kr/article/12038748",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-05-06"
+      },
+      {
+        "title": "[증시타임] AI 혁신과 글로벌 정치 지형 변화에 대한 분석은?",
+        "link": "https://biz.sbs.co.kr/article_hub/20000308669?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-05-07"
+      },
+      {
+        "title": "[친절한 경제] '코스피 대박'에도 지갑 안 연다…이유는?",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008549426&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-05-07"
+      },
+      {
+        "title": "\"중저신용자 외치더니 결국 주담대\"…카카오뱅크, 최대 실적 뒤 커지는...",
+        "link": "https://www.upkoreanews.kr/news/articleView.html?idxno=98333",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-06"
+      },
+      {
+        "title": "김용범의 ‘금융양극화 반성문’ 파장…“은행, 지난 30년 관성 깨야”",
+        "link": "https://www.hani.co.kr/arti/economy/economy_general/1257483.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-05-06"
+      },
+      {
+        "title": "북한도 중동전 영향…“휘발유 가격 남한보다 비싸져”",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8554930&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-05-07"
+      },
+      {
+        "title": "미 국무부, 美-이란 종전협상 예측 ‘수상한 잭팟’ 베팅 금지령",
+        "link": "https://www.joongang.co.kr/article/25426358",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-05-07"
+      },
+      {
+        "title": "AI가 美 국가부채 해결할까…예일대 “실업 지원 포기해야 가능”",
+        "link": "https://www.g-enews.com/view.php?ud=2026050710114766759a1f309431_1",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-06"
+      },
+      {
+        "title": "[마켓뷰] '7천피' 코스피, 종전 기대감에 랠리 이어가나…단기급등 부담...",
+        "link": "https://www.yna.co.kr/view/AKR20260507022700008?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-05-06"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-06"
+      },
+      {
+        "title": "시흥시, ‘ 공유 킥보드 ·자전거 불법주차 신고시스템’ 본격 가동",
+        "link": "https://sports.donga.com/region/article/all/20260506/133867373/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-05-07"
+      },
+      {
+        "title": "[오늘 부동산] 부동산 전문가 \"올해 수도권 집값 상승할 것\"",
+        "link": "https://www.dailian.co.kr/news/view/1640928/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-05-06"
+      },
+      {
+        "title": "배달 라이더 눈물 닦는다…보험료 할인·특약 잇따라",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=704555",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-06"
+      },
+      {
+        "title": "[Who Is ?] 김윤 삼양그룹 회장",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=436645",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-06"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-06"
+      },
+      {
+        "title": "'주식 거래 재개' 삼천리 자전거 , 전기자전거 판매 호조 속 오너리스크 ...",
+        "link": "https://www.sportschosun.com/life/2026-05-07/202605050100019090001228",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-05-06"
+      },
+      {
+        "title": "삼성전자, 제복공무원 대상 최대 45% 할인 행사 확대",
+        "link": "https://www.news1.kr/industry/general-industry/6159027",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-05-06"
+      },
+      {
+        "title": "이디야커피, 1ℓ 보틀음료 9종 출시…\"여름 대용량 수요 겨냥\"",
+        "link": "https://www.newsis.com/view/NISX20260507_0003619506",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-05-06"
+      },
+      {
+        "title": "배민-쿠팡이츠 양강 구도 여전…공공배달앱 열풍은 식었다",
+        "link": "https://www.etnews.com/20260506000321",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-07"
+      },
+      {
+        "title": "배달 라이더 눈물 닦는다…보험료 할인·특약 잇따라",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=704555",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-06"
+      },
+      {
+        "title": "유럽서 배달 노동자 착취 논란…이탈리아 당국도 조사",
+        "link": "https://www.yna.co.kr/view/AKR20260506183600109?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-05-07"
+      },
+      {
+        "title": "“작가 77%가 건강 악화…직업병이 노동자의 증거죠”",
+        "link": "https://www.hani.co.kr/arti/society/society_general/1257476.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-05-07"
+      }
+    ]
   }
 };
