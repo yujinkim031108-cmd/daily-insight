@@ -6146,5 +6146,167 @@ window.historyData = {
         "date": "2026-05-07"
       }
     ]
+  },
+  "2026-05-08": {
+    "macro": [
+      {
+        "title": "한국 경제 '성장 예측' 상향…주요 해외 IB들 전망치 잇따라 조정",
+        "link": "https://www.gokorea.kr/news/articleView.html?idxno=865759",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-07"
+      },
+      {
+        "title": "'실적 장세 2라운드'…다음주 코스피 '상단 7800선' 눈길",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=258152",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-08"
+      },
+      {
+        "title": "\"전쟁 빨리 끝나야 하는데\" … 글로벌 '연쇄 금리 인상', 나스닥·코스피...",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/05/08/2026050800083.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-05-08"
+      },
+      {
+        "title": "‘전쟁 리스크’, 반도체가 당분간 커버…올 성장률 2% 넘어설까",
+        "link": "https://biz.heraldcorp.com/article/10733511?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-08"
+      },
+      {
+        "title": "생산적 금융 강화·주주환원 압박에…4대 금융지주, CET1관리 '시험대'",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=739557",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-07"
+      },
+      {
+        "title": "\"은행보다 더하네\" 고신용자만 대출 내줬다…서민금융기관의 배신",
+        "link": "https://www.mt.co.kr/finance/2026/05/08/2026050722544989328",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-05-07"
+      },
+      {
+        "title": "크레수드, 순이익 급증에도 EBITDA 감소…IRSA 평가이익 의존 커졌다",
+        "link": "https://www.tokenpost.kr/news/market/357489",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-07"
+      },
+      {
+        "title": "日 당국, 기록적 엔저에 실탄 풀었나…10조엔 투입 관측",
+        "link": "https://www.newsis.com/view/NISX20260508_0003621256",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-05-08"
+      },
+      {
+        "title": "반도체 수출 호조…한국 성장률 전망 잇따라 상향",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008551813&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-05-07"
+      },
+      {
+        "title": "[국제금융 브리핑] 美 ‘프로젝트 프리덤’ 재검토…연준 카시카리 “호...",
+        "link": "https://www.tokenpost.kr/news/international/357458",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-07"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-07"
+      },
+      {
+        "title": "[르포] “티코의 추억에서 수출 1위 전진기지로”…첨단 로봇과 질주하...",
+        "link": "https://www.etnews.com/20260507000087",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-07"
+      },
+      {
+        "title": "무료체험 후 자동결제…'구독 범람' 속 소비자 피해",
+        "link": "https://www.consumuch.com/news/articleView.html?idxno=77984",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-07"
+      },
+      {
+        "title": "칠곡 경부고속도로서 트레일러 중앙분리대 충돌 반대편 도로 넘어가 4명...",
+        "link": "https://idsn.co.kr/news/view/1065609583586035",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-07"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-07"
+      },
+      {
+        "title": "현대차 마이티·파비스·엑시언트 동시 출격…\"상품성 대폭 강화\"",
+        "link": "https://www.mt.co.kr/industry/2026/05/08/2026050708554078389",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-05-07"
+      },
+      {
+        "title": "잡코리아, 직장인 커리어 점검 돕는다… 온라인 이력서 페스티벌 'WORK F...",
+        "link": "https://edu.donga.com/news/articleView.html?idxno=107291",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-05-07"
+      },
+      {
+        "title": "로켓배송 신화, 신기루였나",
+        "link": "https://h21.hani.co.kr/arti/economy/economy_general/59287.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-05-08"
+      },
+      {
+        "title": "이디야커피, 1L 대용량 보틀음료 출시…하루를 길게 채우는 여름 음료",
+        "link": "https://cooknchefnews.com/news/view/1065582476376313",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-07"
+      },
+      {
+        "title": "청주시 배달 용 전기이륜차 구매시 20만원 더 지원한다",
+        "link": "https://www.seoul.co.kr/news/society/2026/05/08/20260508500060?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-05-07"
+      },
+      {
+        "title": "[맵 브리핑] 검찰, 배달 앱 ‘노동착취’ 혐의 수사",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8555100&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-05-07"
+      },
+      {
+        "title": "“적자라 수수료 못 내린다”는 쿠팡이츠, 투자자엔 ‘성장 과시’",
+        "link": "https://www.hani.co.kr/arti/economy/economy_general/1257619.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-05-08"
+      }
+    ]
   }
 };
