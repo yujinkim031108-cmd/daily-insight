@@ -6308,5 +6308,160 @@ window.historyData = {
         "date": "2026-05-08"
       }
     ]
+  },
+  "2026-05-09": {
+    "macro": [
+      {
+        "title": "“주식으로 돈 번 사람 넘치는데 우리 집은 왜?”…더 싸늘해진 체감경...",
+        "link": "https://www.mk.co.kr/article/12042217",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-05-09"
+      },
+      {
+        "title": "AI덕에 국장과 경제는 ‘대박’, 물가 상승에 ‘지갑은 텅텅’···세탁...",
+        "link": "https://www.khan.co.kr/article/202605090700001",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-05-08"
+      },
+      {
+        "title": "해외 IB들, 한국 성장률 한 달 만에 0.3%P 높인 2.4% 제시… 금리 인상 카...",
+        "link": "https://www.segye.com/newsView/20260508506791?OutUrl=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-08"
+      },
+      {
+        "title": "'금리 인상' 꺼낸 한은 부총재도 \"반도체 꺾이면 경제 우려\"",
+        "link": "https://www.ytn.co.kr/_ln/0102_202605081126179036",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-05-09"
+      },
+      {
+        "title": "[다음주 경제] 4월 취업자 얼마나 늘었나…KDI 경제전망도 관심",
+        "link": "https://www.yna.co.kr/view/AKR20260509014400002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-05-09"
+      },
+      {
+        "title": "\"은행보다 더하네\" 고신용자만 대출 내줬다…서민금융기관의 배신",
+        "link": "https://www.mt.co.kr/finance/2026/05/08/2026050722544989328",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-05-09"
+      },
+      {
+        "title": "\"비수기인데 이익률이 더 뛰었다\"… HD현대마린엔진, 시장 기대 또 넘었...",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=451489",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-09"
+      },
+      {
+        "title": "주유소 기름값 6주 연속 상승…전국 평균 2천 원대",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8556802&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-05-09"
+      },
+      {
+        "title": "“미국은 더 이상 기회의 나라 아니다”…트럼프 시대 반이민 기류 확산",
+        "link": "https://economist.co.kr/article/view/ecn202605090003",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-08"
+      },
+      {
+        "title": "[데일리 머니마켓] 미 증시 사상 최고치 경신",
+        "link": "https://www.bigtanews.co.kr/article/view/big202605090001",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-09"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-08"
+      },
+      {
+        "title": "[금주의 시흥시] 시흥 임산부 위한 '아이마중 교실'… 출산 준비 돕는다...",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363724773",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-08"
+      },
+      {
+        "title": "차량 5부제 어기면 보험료 할인도 종료…Q&A로 풀어본 '차량 5부제 특약...",
+        "link": "https://www.news1.kr/finance/insurance-card/6161215",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-05-09"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-08"
+      },
+      {
+        "title": "정청래는 송파구, 한병도는 하남시…민주당 지도부 '지원사격'",
+        "link": "https://www.mt.co.kr/politics/2026/05/08/2026050815150545124",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-05-08"
+      },
+      {
+        "title": "[르포] 하늘·도로·지하철까지 스며든 AI… 세계 1위 혁신 클러스터 中...",
+        "link": "https://biz.chosun.com/industry/industry_general/2026/05/09/6WHXWPOVOJCYLN6XQTHLI66CBY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-05-09"
+      },
+      {
+        "title": "[유통가 나눔] 세븐일레븐 도시락 나눔부터 동아제약 바자회",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=737876",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-09"
+      },
+      {
+        "title": "박빙의 승부…GS리테일, 편의점 매출 1위 지켜낼 수 있을까",
+        "link": "https://ilyo.co.kr/?ac=article_view&entry_id=510754",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-09"
+      },
+      {
+        "title": "[청주소식] 배달 전기이륜차 구매 때 20만원 추가 지원",
+        "link": "https://www.yna.co.kr/view/AKR20260508110100064?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-05-08"
+      },
+      {
+        "title": "향연·에스텔·내향인... 카메라 앞에 선 트위터리안, ‘남태령’ 이후...",
+        "link": "https://www.womennews.co.kr/news/articleView.html?idxno=277264",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-08"
+      },
+      {
+        "title": "“사장님, 담배 4갑 사다주세요” 김치찜집에 황당 배달 요청… 미성년...",
+        "link": "https://www.seoul.co.kr/news/society/2026/05/09/20260509500006?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-05-08"
+      }
+    ]
   }
 };
