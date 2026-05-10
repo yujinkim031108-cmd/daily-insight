@@ -6463,5 +6463,153 @@ window.historyData = {
         "date": "2026-05-08"
       }
     ]
+  },
+  "2026-05-10": {
+    "macro": [
+      {
+        "title": "[주간증시전망] 코스피 7500선 안착 재도전...美 CPI·정상회담 촉각",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1708143",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-09"
+      },
+      {
+        "title": "美-이란 전쟁에…코스피200 선물 야간거래액 약 3배 증가",
+        "link": "https://biz.sbs.co.kr/article_hub/20000309264?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-05-10"
+      },
+      {
+        "title": "' 기준금리 인상' 가능성 부상…정부 재정운용 부담 커지나",
+        "link": "https://www.newsis.com/view/NISX20260510_0003623055",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-05-09"
+      },
+      {
+        "title": "'반도체의 힘', 경상수지 373억 달러…한은, 금리 인상 '무게추'",
+        "link": "https://www.dailian.co.kr/news/view/1642119/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-05-10"
+      },
+      {
+        "title": "마통 쓰는 개미들…잔액 3년4개월만 최대",
+        "link": "https://biz.sbs.co.kr/article_hub/20000309260?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-05-10"
+      },
+      {
+        "title": "NIM 상승에도 웃지 못하는 이유는…카카오뱅크의 딜레마",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=451554",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-09"
+      },
+      {
+        "title": "역대급 경상흑자 ' 환율 완충판'…서학개미 열풍에 하락폭은 제한적",
+        "link": "https://www.news1.kr/economy/trend/6161228",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-05-10"
+      },
+      {
+        "title": "석유 최고가격제 두 달…출구 전략 딜레마에 부작용 우려↑",
+        "link": "https://www.newsis.com/view/NISX20260508_0003621135",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-05-10"
+      },
+      {
+        "title": "전쟁 충격에도 '반전'…중국 수출액 '급증'한 이유",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008553515&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-05-09"
+      },
+      {
+        "title": "기름값 1년 새 45% 뛰었는데…트럼프 \"美 부유해지고 있다\"",
+        "link": "https://www.newsis.com/view/NISX20260510_0003622993",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-05-09"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-09"
+      },
+      {
+        "title": "전기자전거·킥보드, 대중교통 취약지 잇는 ‘모세혈관’ 역할 톡톡",
+        "link": "https://zdnet.co.kr/view/?no=20260510092344",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-09"
+      },
+      {
+        "title": "“내 차도 할인받나?”…Q&A로 풀어보는 ‘차량 5부제 보험료 할인 특약...",
+        "link": "https://www.dailian.co.kr/news/view/1642216/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-05-10"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-09"
+      },
+      {
+        "title": "농촌에도 로봇이? 청소·배송·주유까지 척척…확 바뀐 중국 풍경",
+        "link": "https://www.mt.co.kr/industry/2026/05/10/2026050709024836245",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-05-10"
+      },
+      {
+        "title": "우아한형제들, 외식업주 자녀 310명에 17억5천만 원 장학금 수여",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=573448",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-09"
+      },
+      {
+        "title": "11조 퀵커머스 시장…뛰는 '컬리·GS리테일' 나는 ' 쿠팡 ·배민'",
+        "link": "https://www.theguru.co.kr/news/article.html?no=101513",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-09"
+      },
+      {
+        "title": "“별 다섯 개면 믿고 드세요”… 양산시, 식품안심업소 인증 확대",
+        "link": "https://view.asiae.co.kr/article/2026050910531791521",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-10"
+      },
+      {
+        "title": "배달 기사·개그우먼·요양보호사·전과 15범…이색 후보 열전",
+        "link": "https://www.yna.co.kr/view/AKR20260507055600055?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-05-09"
+      },
+      {
+        "title": "“사장님, 담배 4갑 사다주세요” 김치찜집에 황당 배달 요청… 미성년...",
+        "link": "https://www.seoul.co.kr/news/society/2026/05/09/20260509500006?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-05-09"
+      }
+    ]
   }
 };
