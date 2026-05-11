@@ -6611,5 +6611,25 @@ window.historyData = {
         "date": "2026-05-09"
       }
     ]
+  },
+  "2026-05-11": {
+    "macro": [
+      {
+        "title": "[증시전략] 뉴욕증시, 전쟁 속 최고가 랠리…美·中 정상회담 촉각",
+        "link": "https://biz.sbs.co.kr/article_hub/20000309320?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-05-10"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "[르포] 세계 1위 혁신 클러스터 中 웨강아오 대만구 | 하늘·도로·지하...",
+        "link": "https://economychosun.com/site/data/html_dir/2026/05/04/2026050400024.html",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-05-11"
+      }
+    ]
   }
 };
