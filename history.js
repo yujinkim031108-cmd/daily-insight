@@ -6631,5 +6631,181 @@ window.historyData = {
         "date": "2026-05-11"
       }
     ]
+  },
+  "2026-05-12": {
+    "macro": [
+      {
+        "title": "반도체 질주에 “코스피 1만” 간다는데…숨은 변수는 금리·유가·CPI",
+        "link": "https://www.donga.com/news/Economy/article/all/20260512/133903827/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-05-11"
+      },
+      {
+        "title": "[친절한 경제] 2015년 11월 후 가장 높은 상승폭…심상찮은 전세가 왜",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008556368&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-05-11"
+      },
+      {
+        "title": "한투증권, 올해 하반기 코스피 등락 범위 6,500∼9,250 제시",
+        "link": "https://www.yna.co.kr/view/AKR20260512056500008?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-05-12"
+      },
+      {
+        "title": "'물가 압력' 또 경고한 한은…금리 인상 시작될까",
+        "link": "https://www.newsis.com/view/NISX20260511_0003624979",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-05-11"
+      },
+      {
+        "title": "은행 집단 대출 도 5조원 감소… 대출 규제에 중도금도 '빗장'",
+        "link": "https://news.bizwatch.co.kr/article/finance/2026/05/11/0042",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-11"
+      },
+      {
+        "title": "시중은행보다 대출 문턱 높네…인터넷銀도 '고신용자' 쏠림",
+        "link": "https://www.newsis.com/view/NISX20260511_0003625049",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-05-11"
+      },
+      {
+        "title": "'팔천피' 턱밑 찍고 숨고르는 코스피…코스닥선 바이오주 반등",
+        "link": "https://www.hankyung.com/article/2026051202756",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-05-11"
+      },
+      {
+        "title": "[뉴스퀘어10] \"쓰레기 답변·휴전 취약\"...트럼프 맹비난 이유는?",
+        "link": "https://www.ytn.co.kr/_ln/0104_202605121021514582",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-05-12"
+      },
+      {
+        "title": "이 대통령 “국민 눈 속이는 포퓰리즘적 긴축재정론에 빠져선 안 돼”",
+        "link": "https://www.hani.co.kr/arti/politics/bluehouse/1258210.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-05-11"
+      },
+      {
+        "title": "A society with no newborns, an economy with no new hires (KOR)",
+        "link": "https://koreajoongangdaily.joins.com/news/2026-05-12/englishStudy/bilingualNews/A-society-with-no-newborns-an-economy-with-no-new-hires-KOR/2589944",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-05-11"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-11"
+      },
+      {
+        "title": "기타 치듯 내리친 거문고…젊어진 국악, 록페 찢었다",
+        "link": "https://www.joongang.co.kr/article/25427135",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-05-11"
+      },
+      {
+        "title": "라임 IPO 승부수…“상장 실패하면 사업 지속 어려울 수도”",
+        "link": "https://www.g-enews.com/view.php?ud=2026051118360545669a1f309431_1",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-11"
+      },
+      {
+        "title": "이천시 대기질 10년 새 뚜렷한 개선…성과 속 구조적 과제 병존",
+        "link": "https://www.kmaeil.com/news/articleView.html?idxno=639857",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-11"
+      },
+      {
+        "title": "하이브리드車도 할인… 차량 ‘5부제’ 참여하면 車 보험료 환급해준다",
+        "link": "https://www.chosun.com/economy/stock-finance/2026/05/11/NN4AAATXJRHRHLQT7GGUBCMZII/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-05-12"
+      },
+      {
+        "title": "[르포] \"주차는 로봇이, 무인셔틀로 역까지\"…압구정3 미래상 보니",
+        "link": "https://www.ajunews.com/view/20260511134936117",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-11"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-11"
+      },
+      {
+        "title": "[이웃사랑] 3년 전 사지마비로 못 가누는 몸…의료기기 지원도 안돼",
+        "link": "https://www.imaeil.com/page/view/2026050815131683640",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-11"
+      },
+      {
+        "title": "다이소에서 창고형까지 영역 넓히는 제약사들 … 약국 중심 소비구조 흔...",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/05/11/2026051100277.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-05-12"
+      },
+      {
+        "title": "[단독] 쿠팡이츠 , 일반회원까지 무료배달 확대 검토…업계 협의 시작",
+        "link": "https://www.hani.co.kr/arti/economy/economy_general/1258148.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-05-12"
+      },
+      {
+        "title": "성수에서도 로봇이 음식 배달… 요기요 , 로봇배달 서비스 확대",
+        "link": "https://view.asiae.co.kr/article/2026051210210194500",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-12"
+      },
+      {
+        "title": "지난해 교통사고 사망자 2549명…\"맞춤형 안전대책 추진\"[모빌리티on]",
+        "link": "https://www.news1.kr/realestate/general/6163039",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-05-11"
+      },
+      {
+        "title": "[#IT라운지] 쿠콘, 현대해상에 차량정보 API 제공·'도로위 히어로즈' 대...",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=840444",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-11"
+      },
+      {
+        "title": "안동시, 신한은행과 안동형 공공 배달 앱 ‘땡겨요’ 정식 오픈",
+        "link": "https://www.pressian.com/pages/articles/2026051209073650842?utm_source=naver&utm_medium=search",
+        "source": "프레시안",
+        "tier": "C",
+        "date": "2026-05-11"
+      }
+    ]
   }
 };
