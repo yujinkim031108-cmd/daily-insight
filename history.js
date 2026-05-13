@@ -6807,5 +6807,174 @@ window.historyData = {
         "date": "2026-05-11"
       }
     ]
+  },
+  "2026-05-13": {
+    "macro": [
+      {
+        "title": "크레이머 \"美증시, 상승세 이어가려면 금리 인하가 필수\"",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4414537",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-12"
+      },
+      {
+        "title": "[글로벌 마켓 리포트 5월 13일]",
+        "link": "https://www.newspim.com/news/view/20260513000262",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-13"
+      },
+      {
+        "title": "국민성장펀드, 역대급 과열 증시서 출시 … \"하락장 오면 역대급 손실 ...",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/05/13/2026051300074.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-05-12"
+      },
+      {
+        "title": "'인하론' 지우고 '인상 횟수' 논의…5월 금통위 점도표에 촉각",
+        "link": "https://www.news1.kr/economy/trend/6164103",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-05-12"
+      },
+      {
+        "title": "인터넷 전문은행의 글로벌 도전과 향후 과제 [서지용의 금융 톡톡]",
+        "link": "https://www.dailian.co.kr/news/view/1643089/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-05-12"
+      },
+      {
+        "title": "'가계 대출 →기업 대출 ' 물꼬 돌린 은행들…작년 연간 증가액 육박",
+        "link": "https://www.newsis.com/view/NISX20260512_0003626563",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-05-13"
+      },
+      {
+        "title": "코스피, 장중 상승 전환…7650선 강보합",
+        "link": "https://www.newsis.com/view/NISX20260513_0003627399",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-05-12"
+      },
+      {
+        "title": "출퇴근 시간 부산 시내버스 증편 이어 녹산산단 통근버스도 긴급 증편",
+        "link": "https://www.mk.co.kr/article/12045932",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-05-12"
+      },
+      {
+        "title": "박완수 \"김경수 후보 통계 왜곡 중단 촉구\"",
+        "link": "https://mbcgn.kr/01_new/new01_view.asp?idx=408040",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-12"
+      },
+      {
+        "title": "4월 고용, 광주 '호조' 전남 '불안'…자영업자는 '동반 감소'",
+        "link": "https://www.newsis.com/view/NISX20260513_0003627284",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-05-13"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-12"
+      },
+      {
+        "title": "김병욱 성남시장 후보, 공원 공유 플랫폼 '우리동네 보물창고' 공약 발표",
+        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5020216",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-12"
+      },
+      {
+        "title": "알리·테무發 위험제품 단속 두 배로…정부, 해외직구 AI 감시체계 구축",
+        "link": "https://biz.chosun.com/policy/policy_sub/2026/05/12/TAMWELQMSFG23GHVA5JO2LSEJY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-05-12"
+      },
+      {
+        "title": "정부 “데이터·AI 활용해 제품 안전 정책 강화”",
+        "link": "https://www.khan.co.kr/article/202605121415001",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-05-13"
+      },
+      {
+        "title": "사이클용품 브랜드 필모어, 초경량 자전거 전조등-후미등 세트 2.0 출시",
+        "link": "https://www.gosiweek.com/article/1065576651042957",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-12"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-12"
+      },
+      {
+        "title": "김병욱 성남 시장 후보, 공원 공유플랫폼 '우리동네 보물창고' 공약 발표",
+        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5020216",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-12"
+      },
+      {
+        "title": "[게시판] 배민, 입점 파트너와 '사랑의 도시락' 봉사활동",
+        "link": "https://www.yna.co.kr/view/AKR20260513030300030?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-05-13"
+      },
+      {
+        "title": "벤슨 아이스크림, 내년 100호점 목표…\"프리미엄 시장 공략\"",
+        "link": "https://biz.sbs.co.kr/article_hub/20000309920?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-05-13"
+      },
+      {
+        "title": "건설업계, AI·로보틱스 경쟁 본격화…미래 주거 현실화 가능성은?",
+        "link": "https://www.dailian.co.kr/news/view/1643457/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-05-12"
+      },
+      {
+        "title": "박완수 경남지사 후보 \"소상공인종합센터 건립 지원\"",
+        "link": "https://www.newsis.com/view/NISX20260512_0003626127",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-05-13"
+      },
+      {
+        "title": "[경남]바람개비 마을에 찾아온 봄바람 '농어촌 기본소득'",
+        "link": "https://kjmbc.co.kr/NewsArticle/1518464",
+        "source": "MBC",
+        "tier": "S",
+        "date": "2026-05-12"
+      },
+      {
+        "title": "BBQ, 가정의 달 '버라이어티팩' 재출격...자사앱 락인 경쟁 키운다",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=518818",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-12"
+      }
+    ]
   }
 };
