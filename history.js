@@ -6976,5 +6976,160 @@ window.historyData = {
         "date": "2026-05-12"
       }
     ]
+  },
+  "2026-05-14": {
+    "macro": [
+      {
+        "title": "엔화, 일본 시장 개입 경계에 1달러=157엔대 후반 '보합' 출발",
+        "link": "https://www.newsis.com/view/NISX20260514_0003629064",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "채권시장 강타한 인플레…美30년물 발행금리 19년만에 5% 돌파",
+        "link": "https://www.news1.kr/world/usa-canada/6166332",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "[자막뉴스] 트럼프는 금리 내리라는데...미국 인플레이션 장기화 조짐",
+        "link": "https://www.ytn.co.kr/_ln/0134_202605141018410461",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-05-13"
+      },
+      {
+        "title": "주담대 금리 다시 7% 넘봐… 한은 인상 깜박이에 영끌 차주 불안",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092162028",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "금융지주들 \"포용금융에 건전성 악화 위험\" 우려(종합)",
+        "link": "https://www.yna.co.kr/view/AKR20260513158951002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "시중은행, 대출 금리 인상에도 이자이익 둔화?",
+        "link": "https://www.smartbizn.com/news/articleView.html?idxno=143828",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "[종합 환율 ] 5월 14일 장중, 달러 유로 엔 원화 대비 강세 루피아 약세",
+        "link": "https://www.tournews21.com/news/articleView.html?idxno=135032",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-13"
+      },
+      {
+        "title": "[올댓차이나] 위안화 기준치 1달러=6.8401위안…0.044% 절상",
+        "link": "https://www.newsis.com/view/NISX20260514_0003629141",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-05-13"
+      },
+      {
+        "title": "한은·KDI부터 전문가까지 \"재정확대, 지금은 아니다\"는데… 李정부 \"돈...",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/05/14/2026051400040.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-05-13"
+      },
+      {
+        "title": "애타는 트럼프 \"제발 금리 내려\"…취임 앞둔 케빈 워시가 감춘 진짜 속...",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008561116&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-05-13"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-13"
+      },
+      {
+        "title": "쏘카, 7분기 연속 흑자…'풀스택 모빌리티' 기업 도약 선언",
+        "link": "https://www.mt.co.kr/tech/2026/05/14/2026051410091187085",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-05-13"
+      },
+      {
+        "title": "[더민주]김병욱 후보, ‘우리동네 보물창고’ 공약 발표",
+        "link": "https://www.sentv.co.kr/article/view/sentv202605130123",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-13"
+      },
+      {
+        "title": "전기 배달오토바이 타면 보험료도 깎인다…배민, 무료 교육 확대",
+        "link": "https://news.tvchosun.com/site/data/html_dir/2026/05/14/2026051490074.html",
+        "source": "TV조선",
+        "tier": "B",
+        "date": "2026-05-14"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-13"
+      },
+      {
+        "title": "삼천리 자전거 , 1Q 영업익 23억원… 전기자전거 덕에 70% 껑충",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092162052",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "몸값 8조원 ‘배민’ 매각 착수…DH, 네이버·우버·알리바바 등에 인수...",
+        "link": "https://sateconomy.co.kr/news/view/1065576256877280",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-13"
+      },
+      {
+        "title": "우아한청년들, 배달 현장 친환경 전환 가속화",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=202093",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "백억커피, 경기 하남풍산점 신규 가맹점 오픈",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=212804",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "전기 배달 오토바이 타면 보험료도 깎인다…배민, 무료 교육 확대",
+        "link": "https://news.tvchosun.com/site/data/html_dir/2026/05/14/2026051490074.html",
+        "source": "TV조선",
+        "tier": "B",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "배민 새 주인 찾기 시동 … 독일 딜리버리히어로, 8조 매각 카드 꺼냈다",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/05/14/2026051400046.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-05-13"
+      }
+    ]
   }
 };
