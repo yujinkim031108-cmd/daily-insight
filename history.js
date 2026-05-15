@@ -7131,5 +7131,181 @@ window.historyData = {
         "date": "2026-05-13"
       }
     ]
+  },
+  "2026-05-15": {
+    "macro": [
+      {
+        "title": "국힘 \"이재명식 재정 확대, 文정부 물가 폭등 재현 우려\"",
+        "link": "https://www.hankyung.com/article/202605146802i",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "정부 \"중동전쟁에 경기 하방위험 지속…소비심리 둔화· 물가 부담 확대\"...",
+        "link": "https://www.news1.kr/economy/trend/6167575",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-05-15"
+      },
+      {
+        "title": "\"삼전닉스 보유국의 위엄\"...재평가받는 한국 경제",
+        "link": "https://magazine.hankyung.com/business/article/202605147009b",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-05-15"
+      },
+      {
+        "title": "성장률 좋아졌는데 금리도 '쑥'…한은, 5월 금통위 서 '인상 카드' 만지나",
+        "link": "https://www.dailian.co.kr/news/view/1644401/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-05-15"
+      },
+      {
+        "title": "이재명 '생산금융'에 80조 낸 임종룡...우리금융, 美 SEC엔 \"원래라면 지...",
+        "link": "https://www.insight.co.kr/news/554209",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "부동산과 금융 절연이 낳은 부작용…기업 대출 , 연체 율도 동반 상승",
+        "link": "https://realty.chosun.com/site/data/html_dir/2026/05/14/2026051403683.html",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-05-15"
+      },
+      {
+        "title": "코스피 8000 찍고 7870선 후퇴",
+        "link": "https://www.newspim.com/news/view/20260515000443",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-15"
+      },
+      {
+        "title": "정부, 휴전에 '경기 하방위험' 톤다운…\"1분기 회복 흐름\"(종합)",
+        "link": "https://www.newsis.com/view/NISX20260515_0003630903",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "이 대통령의 추천 \"긴축 주장하는 분들 꼭 봐야 될 기사\"",
+        "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003234400&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+        "source": "오마이뉴스",
+        "tier": "C",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "정부 \"경기 회복 흐름 이어지지만 중동發 하방위험 지속\"",
+        "link": "https://www.newsis.com/view/NISX20260515_0003630757",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-05-15"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "쏘카 7개 분기 연속 흑자…카셰어링·구독 '풀스택 모빌리티'로 도약",
+        "link": "https://www.news1.kr/it-science/general-it/6166842",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-05-15"
+      },
+      {
+        "title": "\"벌써 30도?\" 5월 이른 더위에…손풍기 꺼내고, 걷기보단 킥보드",
+        "link": "https://www.news1.kr/society/incident-accident/6166776",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-05-15"
+      },
+      {
+        "title": "배달산업연구원, 첫 자문회의 개최…'주요 현안 해법 모색'",
+        "link": "https://www.klnews.co.kr/news/articleView.html?idxno=321101",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "우아한청년들, 배달라이더 대상 전기이륜차 무료 안전교육 실시",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=574393",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "현대건설 브랜드 필름 '네오 리빙', 세계 3대 광고제 원쇼 본상 수상",
+        "link": "https://www.news1.kr/realestate/general/6167604",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-05-14"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "볼보 ‘XC90’ 판매 순항… 숫자 경쟁 속 본질로 일격",
+        "link": "https://www.donga.com/news/Economy/article/all/20260515/133928300/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-05-15"
+      },
+      {
+        "title": "11번가, '그랜드십일절' 진행…삼성·LG전자, 특사 상품 선봬",
+        "link": "https://zdnet.co.kr/view/?no=20260515101758",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "\"주행 중 응답 최소화\"…노동부, 배달 종사자 보호 협약",
+        "link": "https://www.newsis.com/view/NISX20260515_0003630529",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-05-15"
+      },
+      {
+        "title": "\"우와! 혼자 움직이네\"…성수동 뜬 배달 로봇 따라가 봤더니[출동!인턴...",
+        "link": "https://www.newsis.com/view/NISX20260514_0003629082",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "배달 산업연구원, 첫 자문회의 개최…'주요 현안 해법 모색'",
+        "link": "https://www.klnews.co.kr/news/articleView.html?idxno=321101",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "'어느 파리 택배기사의 48시간', 칸 수상작 티저 포스터",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=739166",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "[GAM]메르카도 두 배 랠리 기대감 ① 남미 디지털 경제 인프라 개척의 선...",
+        "link": "https://www.newspim.com/news/view/20260514000766",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-14"
+      }
+    ]
   }
 };
