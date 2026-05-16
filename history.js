@@ -7307,5 +7307,167 @@ window.historyData = {
         "date": "2026-05-14"
       }
     ]
+  },
+  "2026-05-16": {
+    "macro": [
+      {
+        "title": "19년 만의 '5% 돌파'… 물가 쇼크에 미 국채 금리 수십 년 만에 최고",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008564735&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-05-15"
+      },
+      {
+        "title": "美 소비자 물가 , 2분기 상승률 6% 전망까지… 커지는 인플레이션 우려",
+        "link": "https://biz.chosun.com/topics/topics_social/2026/05/16/P2RFRUS5DVFZXGEJNYHJQIJPSM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-05-16"
+      },
+      {
+        "title": "꿈의 8천피 찍고 검은 금요일로…코스피 '천당과 지옥' [주간 증시해설...",
+        "link": "https://www.thescoop.co.kr/news/articleView.html?idxno=310210",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-15"
+      },
+      {
+        "title": "삼성 파업 불씨, 협력사까지 번지나…반도체협회 이례적 공개 경고",
+        "link": "https://www.sedaily.com/article/20044790?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-16"
+      },
+      {
+        "title": "[다음주 경제] 1분기 가계 빚 추이는…4월 생산자물가도 관심",
+        "link": "https://www.yna.co.kr/view/AKR20260516016500002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-05-16"
+      },
+      {
+        "title": "부동산과 금융 절연이 낳은 부작용…기업 대출 , 연체 율도 동반 상승",
+        "link": "https://realty.chosun.com/site/data/html_dir/2026/05/14/2026051403683.html",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-05-16"
+      },
+      {
+        "title": "'8000' 찍었던 코스피, 외국인 투매에 6%대 폭락… 환율 은 1500원 돌파",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=304619",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-15"
+      },
+      {
+        "title": "주유소 기름값 7주 연속 상승, 서울 휘발유 값 2050원대",
+        "link": "https://www.chosun.com/economy/industry-company/2026/05/16/5FIQILKS3FB3NANZ6FJUWBERXI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-05-16"
+      },
+      {
+        "title": "정부가 예금 뺏어갈라? 러시아인이 ‘은행 대신 유리병’ 찾는 이유[딥...",
+        "link": "https://www.donga.com/news/Economy/article/all/20260515/133930707/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-05-15"
+      },
+      {
+        "title": "[산업X파일] “알바 안하고 쉴래요”... 알바 구인 늘었지만 외면하는 ...",
+        "link": "https://www.chosun.com/economy/smb-venture/2026/05/16/6NSYOXQOHFFAHO3EJXYSWSKJ5I/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-05-15"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-15"
+      },
+      {
+        "title": "[더벨][Company Watch] 예상 밑돈 쏘카, 나인투원 부담 지속",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202605141427052760105167",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-15"
+      },
+      {
+        "title": "배달산업연구원, 첫 자문회의 개최…'주요 현안 해법 모색'",
+        "link": "https://www.klnews.co.kr/news/articleView.html?idxno=321101",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-15"
+      },
+      {
+        "title": "괴산군, 여행자 쉼터 '와유센터' 리모델링 내달 착공…10억 투입",
+        "link": "https://www.newsis.com/view/NISX20260515_0003631748",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-05-16"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-15"
+      },
+      {
+        "title": "“스스로 차선 바꾸면 불법” 규제 탓 직진밖에 못하는 K자율주행",
+        "link": "https://www.donga.com/news/Economy/article/all/20260515/133933992/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-05-15"
+      },
+      {
+        "title": "배민캐시…캐시워크 퀴즈 정답 공개",
+        "link": "https://www.gametoc.co.kr/news/articleView.html?idxno=108576",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-15"
+      },
+      {
+        "title": "[은행 실속 한눈에] 최고 연 3.8% 시니어 적금·배달앱 쿠폰",
+        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5021113",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-16"
+      },
+      {
+        "title": "\"우와! 혼자 움직이네\"…성수동 뜬 배달 로봇 따라가 봤더니[출동!인턴...",
+        "link": "https://www.newsis.com/view/NISX20260514_0003629082",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-05-15"
+      },
+      {
+        "title": "하노이시, 2035년부터 자가용 운행 제한 계획…과밀화∙대기오염 저감 ...",
+        "link": "https://www.insidevina.com/news/articleView.html?idxno=43193",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-15"
+      },
+      {
+        "title": "[기초의원 후보 명단] 충북",
+        "link": "https://www.yna.co.kr/view/AKR20260515190400064?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-05-15"
+      },
+      {
+        "title": "[미스터리경제] '상장 임박' 스페이스X 몸값 '3000조 평가'에 일론 머스...",
+        "link": "https://news.tf.co.kr/read/video/2323149.htm",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-16"
+      }
+    ]
   }
 };
