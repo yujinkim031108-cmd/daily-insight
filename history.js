@@ -7469,5 +7469,132 @@ window.historyData = {
         "date": "2026-05-16"
       }
     ]
+  },
+  "2026-05-17": {
+    "macro": [
+      {
+        "title": "'팔천피' 안착 재도전…삼전 파업·엔비디아 실적 변수[주간증시전망]",
+        "link": "https://www.newsis.com/view/NISX20260515_0003631720",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-05-17"
+      },
+      {
+        "title": "금시세(금값) 17일",
+        "link": "https://www.bntnews.co.kr/article/view/bnt202605160104",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-16"
+      },
+      {
+        "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+        "link": "https://www.yna.co.kr/view/AKR20260517018400011?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-05-16"
+      },
+      {
+        "title": "‘전문가 물가 전망’ 놓고 고민하는 韓銀",
+        "link": "https://biz.chosun.com/policy/policy_sub/2026/05/17/FLGSMRVFYRDTLFDDXQMUKPUI7U/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-05-16"
+      },
+      {
+        "title": "금리 0.25%p만 올라도 이자부담 1인당 年 16만3천원 늘어난다",
+        "link": "https://biz.sbs.co.kr/article_hub/20000310822?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-05-17"
+      },
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-17"
+      },
+      {
+        "title": "'검은 금요일' 이어 美도 내리막 … 韓 증시 '단기 조정'일까, '폭락 전...",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/05/17/2026051700020.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-05-17"
+      },
+      {
+        "title": "경기도, 면세유 가격 투명성 강화 나선다",
+        "link": "https://www.viva100.com/article/20260517500219",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-16"
+      },
+      {
+        "title": "사상 첫 코스피 8000 찍자마자 ‘미 국채 발작’… 짐 싸는 외국인에 韓...",
+        "link": "https://www.chosun.com/economy/economy_general/2026/05/17/4XUFBH4UVJCNVJCPZPV27J3FN4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-05-16"
+      },
+      {
+        "title": "전주 고용지표 개선 뒤 그늘···청년은 플랫폼·노인은 비정규직",
+        "link": "https://www.khan.co.kr/article/202605171039001",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-05-16"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-16"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-16"
+      },
+      {
+        "title": "힘쎈 하이쎈, 편의성 마이티…7000만원대 5t트럭 강자는 ‘나야 나’",
+        "link": "https://www.joongang.co.kr/article/25428904",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-05-16"
+      },
+      {
+        "title": "\"별점 4.9의 배신\"…가짜 리뷰가 무너뜨리는 시장의 신뢰 [현민석의 페어...",
+        "link": "https://www.hankyung.com/article/202605160997i",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-05-16"
+      },
+      {
+        "title": "성장 둔화된 배달앱 시장…배민 8조 매각가 두고 시장 '온도차'",
+        "link": "https://www.bloter.net/news/articleView.html?idxno=662519",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-16"
+      },
+      {
+        "title": "전주 고용지표 개선 뒤 그늘···청년은 플랫폼·노인은 비정규직",
+        "link": "https://www.khan.co.kr/article/202605171039001",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-05-16"
+      },
+      {
+        "title": "파파존스, '마마치킨' 가맹사업 전략 재편",
+        "link": "https://zdnet.co.kr/view/?no=20260517080443",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-16"
+      }
+    ]
   }
 };
