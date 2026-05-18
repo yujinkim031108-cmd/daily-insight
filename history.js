@@ -7596,5 +7596,153 @@ window.historyData = {
         "date": "2026-05-16"
       }
     ]
+  },
+  "2026-05-18": {
+    "macro": [
+      {
+        "title": "엔화, 美 금리인상 관측에 1달러=158엔대 후반 하락 출발",
+        "link": "https://www.newsis.com/view/NISX20260518_0003633569",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "오건영 “경제에 싸한 느낌이 든다, 물가 금리 진흙탕으로 빠져들고 있...",
+        "link": "https://www.chosun.com/economy/money/2026/05/18/IU33TJWOOBGLTPXLMNUFZ36RLI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-05-17"
+      },
+      {
+        "title": "“증시 급락 놀랐지? 좀 더 줄게 돌아와”…은행 예금 금리 줄인상",
+        "link": "https://www.mk.co.kr/article/12050756",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "중동전에 직격탄 맞은 물가 탓…한은, 연내 금리 인상할 듯",
+        "link": "https://www.khan.co.kr/article/202605172036015",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-05-17"
+      },
+      {
+        "title": "[초점] 정부 '포용금융' 주문에도···민간 중금리 대출 뒷걸음질, 왜?",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=628961",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-17"
+      },
+      {
+        "title": "[아침을 열며]희망의 이름, 상록수는 왜 절망이 됐나",
+        "link": "https://www.khan.co.kr/article/202605172002005",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-05-17"
+      },
+      {
+        "title": "원 · 달러 환율 , 0.4원 오른 1501.2원 개장",
+        "link": "https://www.newsis.com/view/NISI20260518_0021286567",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-05-17"
+      },
+      {
+        "title": "국제 선 유류할증료 33→27단계…대한항공 최대 11만2천500원 하락",
+        "link": "https://biz.sbs.co.kr/article_hub/20000310952?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-05-17"
+      },
+      {
+        "title": "계좌는 불어나는데 삶은 팍팍하다?…8000피 시대의 역설[불장시대 빛과...",
+        "link": "https://magazine.hankyung.com/business/article/202605145522b",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "[뉴스퀘어10] 트럼프 \"시간 없다\" 공습 재개...이란 통행료 예고",
+        "link": "https://www.ytn.co.kr/_ln/0104_202605181019275841",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-05-18"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-17"
+      },
+      {
+        "title": "중국과학원, 16년 체력의 ‘전철 유량 배터리’ 개발… 리튬보다 원료가...",
+        "link": "https://www.g-enews.com/view.php?ud=2026051716133988940c8c1c064d_1",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-17"
+      },
+      {
+        "title": "괴산군, 와유센터 리모델링 속도",
+        "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1078608",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-17"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-17"
+      },
+      {
+        "title": "힘쎈 하이쎈, 편의성 마이티…7000만원대 5t트럭 강자는 ‘나야 나’",
+        "link": "https://www.joongang.co.kr/article/25428904",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "새마을금고, 전 국민 대상 창립 63주년 기념 온라인 이벤트 실시",
+        "link": "https://www.kgnews.co.kr/news/article.html?no=896174",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-17"
+      },
+      {
+        "title": "GS25, 24시간 배달 확대…\"심야 퀵커머스 본격화\"",
+        "link": "https://biz.sbs.co.kr/article_hub/20000310931?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-05-17"
+      },
+      {
+        "title": "요기요 , 푸라닭치킨과 전 메뉴 할인 프로모션",
+        "link": "https://view.asiae.co.kr/article/2026051810124379603",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-17"
+      },
+      {
+        "title": "희망을 다시 쓰는 ‘선결제 연대’…누군가 미리 낸 병원비로 ‘노동자...",
+        "link": "https://weekly.khan.co.kr/article/202605180600011",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "윤홍근 BBQ 회장, 한국경영학회 ‘대한민국 중견기업CEO대상’ 수상",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000095772",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-18"
+      }
+    ]
   }
 };
