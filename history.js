@@ -7744,5 +7744,181 @@ window.historyData = {
         "date": "2026-05-18"
       }
     ]
+  },
+  "2026-05-19": {
+    "macro": [
+      {
+        "title": "반도체 다음 ‘로봇주’라더니…“고점에 물린건가” 개미들 아우성 터...",
+        "link": "https://www.seoul.co.kr/news/economy/securities/2026/05/19/20260519500026?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "환율도 물가 도 금리도 훨훨…중앙은행 위로 ‘매’가 맴돈다",
+        "link": "https://www.joongang.co.kr/article/25429433",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "美 30년물 금리 5.11% 치솟았다…새 연준의장도 ‘인하’ 못 꺼낼 판",
+        "link": "https://www.newsis.com/view/NISX20260519_0003635449",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "[전국 주요 신문 사설](19일 조간)",
+        "link": "https://www.yna.co.kr/view/AKR20260519016500011?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-05-19"
+      },
+      {
+        "title": "금리 쇼크 속 카뱅 이어 우리은행도 주담대 금리 인하",
+        "link": "https://biz.sbs.co.kr/article_hub/20000311233?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-05-19"
+      },
+      {
+        "title": "주담대는 6억 제한, ‘빚투’는 방관…李 정부 대출 의 이중성",
+        "link": "https://shindonga.donga.com/3/all/13/6231154/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-05-19"
+      },
+      {
+        "title": "코스피, 연일 하락 출발...\"미국 기술주 급락 영향\"",
+        "link": "https://www.ytn.co.kr/_ln/0102_202605191036267569",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-05-19"
+      },
+      {
+        "title": "미, 해상 러시아 원유 거래 30일 추가 허가... 국제유가 3% 상승",
+        "link": "https://www.ytn.co.kr/_ln/0104_202605191046406080",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "인도 정부, 국영은행 등 공적 기관에 '비용 절감' 지시",
+        "link": "https://www.yna.co.kr/view/AKR20260519064200009?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-05-19"
+      },
+      {
+        "title": "LG전자, 에티오피아 직업훈련학교 노하우 소말리아에 전수",
+        "link": "https://www.news1.kr/industry/general-industry/6170844",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-05-18"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "[출근길 포인트] 삼전 노사 '마지막 담판' 평행선…오늘 2차 사후조정 합...",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=305364",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "퍼블릭뉴스통신(public news-network for TTL)",
+        "link": "https://www.ttlnews.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "안전·편의 사이 딜레마…개인형 이동장치 정책 진통",
+        "link": "https://www.newspim.com/news/view/20260518001169",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "중국과학원, 16년 체력의 ‘전철 유량 배터리’ 개발… 리튬보다 원료가...",
+        "link": "https://www.g-enews.com/view.php?ud=2026051716133988940c8c1c064d_1",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "[예산소식] 윤봉길의사기념관, 역사탐방 프로그램 운영 외",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1368439",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "“압구정 전체를 하나의 생활권으로”… 현대건설, 5구역 미래 청사진 ...",
+        "link": "https://www.donga.com/news/Economy/article/all/20260518/133946093/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-05-18"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "[생생뉴스] 6·3지방선거 기초단체장 후보에게 듣는다 서철모 국민의힘...",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8564548&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "THE Biz(더비즈)",
+        "link": "https://www.the-biz.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "[기획] GS25, 잠들지 않는 편의점",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=801329",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-19"
+      },
+      {
+        "title": "새벽 3시에도 배달온다…쿠팡이츠, 24시간 배달 선언",
+        "link": "https://www.wikitree.co.kr/articles/1137178",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "아파트 ‘오토바이 주차 전쟁’",
+        "link": "https://www.chosun.com/national/national_general/2026/05/19/RQJTSM2YJRGWTIRFNIR3LINMRA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-05-19"
+      },
+      {
+        "title": "배민으로 돈 벌고 8조 매각까지… DH '먹튀 논란' 재점화",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092162285",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-05-19"
+      }
+    ]
   }
 };
