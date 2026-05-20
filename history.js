@@ -7920,5 +7920,195 @@ window.historyData = {
         "date": "2026-05-19"
       }
     ]
+  },
+  "2026-05-20": {
+    "macro": [
+      {
+        "title": "“현금 바닥나고 고금리 엄습”… 월가에서 터져 나오는 증시 ‘조정·...",
+        "link": "https://www.chosun.com/economy/stock-finance/2026/05/20/EBSE6XUCWJD6LESPOKHMG7A6RM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-05-20"
+      },
+      {
+        "title": "[채권/외환] 美 30년물 금리 19년 만 최고…달러 강세·엔화 159엔 압박",
+        "link": "https://www.newspim.com/news/view/20260520000052",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-19"
+      },
+      {
+        "title": "中, '사실상 기준금리 ' LPR 12개월째 동결…시장 예상 부합",
+        "link": "https://www.yna.co.kr/view/AKR20260520066900083?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-05-19"
+      },
+      {
+        "title": "'중도매파' 김진일 합류… 금통위 , 물가·금융안정 무게",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=706405",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-19"
+      },
+      {
+        "title": "하나금융, 생산적 금융지원 체계 고도화 'HoF' 개최",
+        "link": "https://www.100ssd.co.kr/news/articleView.html?idxno=209459",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-19"
+      },
+      {
+        "title": "가계 빚 2,000조 육박...'영끌'·'빚투' 광풍이 원인 [앵커리포트]",
+        "link": "https://www.ytn.co.kr/_ln/0102_202605200844430858",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-05-19"
+      },
+      {
+        "title": "LCC 보릿고개 아직 안 끝났다 … 알짜 일본 노선까지 '비운항'",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/05/20/2026052000097.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-05-20"
+      },
+      {
+        "title": "“유류할증료 올랐는데 항공권 더 싸네?”… LCC 업계, 日 노선 경쟁에...",
+        "link": "https://biz.chosun.com/industry/company/2026/05/20/ZE23YM2W6NDQJIX3S4N4QZFWFI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-05-20"
+      },
+      {
+        "title": "‘일자리 강국’ 독일, 실업자 300만명 돌파...유로존은 사상 최저치인...",
+        "link": "https://magazine.hankyung.com/business/article/202605196819b",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-05-19"
+      },
+      {
+        "title": "호르무즈 막히자 금리인하도 날아갔다…美시장, 이젠 \"연준 인상\" 베팅",
+        "link": "https://www.newsis.com/view/NISX20260520_0003637112",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-05-20"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-19"
+      },
+      {
+        "title": "쌍용차 흑자 이끈 토레스, KGM '구원투수'될까",
+        "link": "https://news.bizwatch.co.kr/article/industry/2026/05/19/0016",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-19"
+      },
+      {
+        "title": "강원특별자치도, 의용소방대 강의경연대회 개최…210명 참가",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3586724",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-19"
+      },
+      {
+        "title": "안전·편의 사이 딜레마…개인형 이동장치 정책 진통",
+        "link": "https://www.newspim.com/news/view/20260518001169",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-19"
+      },
+      {
+        "title": "인천 송도 시의원 ‘현역 맞대결’…장성숙 VS 이강구",
+        "link": "https://www.kyeonggi.com/article/20260519580506",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-19"
+      },
+      {
+        "title": "현대차 체코 감산 이면의 '대반전', 하이브리드가 구한 유럽 시장 역대...",
+        "link": "https://www.g-enews.com/view.php?ud=2026052005080787902bd56fbc3c_1",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-19"
+      },
+      {
+        "title": "[예산소식] 윤봉길의사기념관, 역사탐방 프로그램 운영 외",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1368439",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-19"
+      },
+      {
+        "title": "개교 80주년 경남대학교, 캠퍼스 전체가 미래 전공 체험장으로 변모",
+        "link": "https://www.hankyung.com/article/202605208222h",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-05-19"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-19"
+      },
+      {
+        "title": "[생생뉴스] 6·3지방선거 기초단체장 후보에게 듣는다 서철모 국민의힘...",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8564548&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-05-20"
+      },
+      {
+        "title": "[시론] '복수 대행' 비즈니스가 활개치는 심각한 현실",
+        "link": "https://www.kbsm.net/news/view.php?idx=520155",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-19"
+      },
+      {
+        "title": "\"시간 제한 없이 이용 가능\"…이커머스업계, '24시간 퀵커머스' 경쟁 점...",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=341002",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-20"
+      },
+      {
+        "title": "쿠팡이츠, 무료배달 확대로 공정위 제재 낮추고 판도 흔드나[경제밥도둑...",
+        "link": "https://www.khan.co.kr/article/202605200600091",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-05-19"
+      },
+      {
+        "title": "LG에너지솔루션·혼다, 하노이서 전기 오토바이 배터리 교환 사업 추진",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=870479",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-19"
+      },
+      {
+        "title": "\"알고리즘이 경쟁력\"…부릉, 'AI 배차'로 생활물류 주권 잡는다",
+        "link": "https://www.ddaily.co.kr/page/view/2026052009564141148",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-19"
+      },
+      {
+        "title": "우동 한 그릇에 담은 28년의 프랜차이즈 철학 – 용마을 이영찬 대표",
+        "link": "https://www.handmk.com/news/articleView.html?idxno=38238",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-20"
+      }
+    ]
   }
 };
