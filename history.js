@@ -8110,5 +8110,188 @@ window.historyData = {
         "date": "2026-05-20"
       }
     ]
+  },
+  "2026-05-21": {
+    "macro": [
+      {
+        "title": "삼전 파업 넘어도 '첩첩산중'… 물가 , 금리인상 곳곳 지뢰",
+        "link": "https://biz.sbs.co.kr/article_hub/20000311797?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "[비트버니 퀴즈 정답] 오퀴즈 5월21일 정답 공개",
+        "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=536567",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-20"
+      },
+      {
+        "title": "“하반기 물가폭탄 오나”...생산자물가, 28년 만에 가장 크게 뛰었다",
+        "link": "https://www.ekn.kr/web/view.php?key=20260521027376730",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-20"
+      },
+      {
+        "title": "한투증권 \"5월 금통위 , 금리 동결하되 인상 소수의견 있을 듯\"",
+        "link": "https://www.yna.co.kr/view/AKR20260521028400008?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-05-20"
+      },
+      {
+        "title": "삼성전자 파국 피한 韓경제…고물가·금리·환율 변수는 남아",
+        "link": "https://www.yna.co.kr/view/AKR20260520071900002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-05-20"
+      },
+      {
+        "title": "이억원 \"회수 아닌 회생이 중요…5∼7년 연체 채권도 심각\"",
+        "link": "https://www.yna.co.kr/view/AKR20260520170900002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "삼성그룹 상장사 시총 합계 2000조원 넘어…총파업 피한 삼성전자 급등...",
+        "link": "https://www.mk.co.kr/article/12054203",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "국제 선 유류할증료 6단계 하락…휴가철 여행 부담 완화 기대",
+        "link": "https://www.sportsseoul.com/news/read/1610632?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "삼성전자 파업 위기 넘겼지만…고물가·금리 변수에 한국 경제 '긴장'",
+        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1258453",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-20"
+      },
+      {
+        "title": "탈레반 보고 있나?…7살 딸 결혼시키는 아버지 “생활고에 자식 팔아”...",
+        "link": "https://nownews.seoul.co.kr/news/newsView.php?id=20260521601003&wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-05-21"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-20"
+      },
+      {
+        "title": "[핀포인트] [쏘카] 달리는 차·뒷걸음 자전거…발목 잡는 '나인투원'",
+        "link": "https://news.dealsitetv.com/articles/170718",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-20"
+      },
+      {
+        "title": "[AT 현장]“부족한 점 채웠다”...뉴 토레스, 8단 변속기 탑재한 정통 S...",
+        "link": "https://www.asiatime.co.kr/article/20260520500399",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-20"
+      },
+      {
+        "title": "\"野, 무궤도트램 TRT 3~6호선…與, 대시민 사기극\" [6·3지선 철도공약/...",
+        "link": "https://www.redaily.co.kr/news/articleView.html?idxno=16577",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "불붙는 자율주행 전쟁 … 테슬라, 中 이어 韓서도 FSD 본격 시동 건다",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/05/21/2026052100099.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-05-20"
+      },
+      {
+        "title": "개교 80주년 경남대학교, 캠퍼스 전체가 미래 전공 체험장으로 변모",
+        "link": "https://www.hankyung.com/article/202605208222h",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "[의정 결산] 4. 인천시의회 건설교통위원회",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1323349",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-20"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-20"
+      },
+      {
+        "title": "훔친 차 운전 재밌었나…동승했던 초등생, 1주뒤 친구 아빠 차 몰아",
+        "link": "https://www.donga.com/news/Society/article/all/20260521/133966176/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "우아한형제들, 해외 이용자 겨냥 '영어판 배달 가이드' 공개",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=202458",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-20"
+      },
+      {
+        "title": "쿠팡이츠 , 8월까지 일반회원 대상으로 무료 배달 확대",
+        "link": "https://www.yna.co.kr/view/AKR20260521056400030?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-05-20"
+      },
+      {
+        "title": "딜리버리히어로 새 주인된 우버..배달의민족, 매각 셈법 복잡해진다",
+        "link": "https://kpenews.com/View.aspx?No=4085777",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "정읍시, 올해 '지속 가능한 탄소중립·기후안심 도시' 실현 총력",
+        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1258120",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-20"
+      },
+      {
+        "title": "\"우리 동네 안전 라이더 출동!\" 부천시, 3기 10명 떴다",
+        "link": "https://www.newsis.com/view/NISX20260521_0003638816",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "[인터뷰] 이병래 \"남동산단 바이오·K뷰티 거점으로 양질 일자리 만든다...",
+        "link": "https://www.incheontoday.com/news/articleView.html?idxno=319121",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-21"
+      }
+    ]
   }
 };
