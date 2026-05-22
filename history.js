@@ -8293,5 +8293,195 @@ window.historyData = {
         "date": "2026-05-21"
       }
     ]
+  },
+  "2026-05-22": {
+    "macro": [
+      {
+        "title": "日 실질임금 4년째 마이너스…\" 물가 상승 못 따라가\"",
+        "link": "https://www.yna.co.kr/view/AKR20260522042200073?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "첫 금통위 앞둔 신현송…'매파 소수 의견'이 향후 금리 가른다",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1709804",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "한샘, '밀란' 앞세워 고성능 창호 시장 공략",
+        "link": "https://www.kpinews.kr/newsView/1065577187846716",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "5월 소비심리 '낙관적' 전환…'집값 오른다' 기대감 확대",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=841572",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-22"
+      },
+      {
+        "title": "'세제 혜택' 국민성장펀드 판 깐 5대 은행…창구선 \"기대 반 우려 반\"",
+        "link": "https://www.dailian.co.kr/news/view/1647252/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "[일문일답] 이억원 \"망분리규제, 보안목적 AI활용시 내달부터 한시완화...",
+        "link": "https://www.yna.co.kr/view/AKR20260521102800002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "중국, 10년 만에 보잉 대형 발주 재개 … 韓 항공업계 '기재 확보' 변수",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/05/22/2026052200096.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-05-22"
+      },
+      {
+        "title": "\"해외 대신 국내로\" 유류할증료 부담에 캠핑용품·먹거리 매출 '쑥'",
+        "link": "https://www.newsis.com/view/NISX20260522_0003640709",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-05-22"
+      },
+      {
+        "title": "[리더의 언어㉖]\"국가대표의 마음가짐으로 변화를 만들자\"",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=112115",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-22"
+      },
+      {
+        "title": "\"백수는 바퀴벌레\" 비난에…인도 청년들 저항 확산 [소셜픽]",
+        "link": "https://news.jtbc.co.kr/article/NB12299398?influxDiv=NAVER",
+        "source": "JTBC",
+        "tier": "A",
+        "date": "2026-05-22"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "[핀포인트] [쏘카] 달리는 차·뒷걸음 자전거…발목 잡는 '나인투원'",
+        "link": "https://news.dealsitetv.com/articles/170718",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "SPACE(공간)",
+        "link": "https://vmspace.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "수원시, 경기 최초로 ‘장애인 보도 이용 방해’ 과태료 부과",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8567760&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "[점으로 읽는 빛] 2-1. <전문> 인천 군수·구청장 후보자 시각장애인 공...",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1323454",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-22"
+      },
+      {
+        "title": "불붙는 자율주행 전쟁 … 테슬라, 中 이어 韓서도 FSD 본격 시동 건다",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/05/21/2026052100099.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-05-22"
+      },
+      {
+        "title": "교통안전공단, 전기 이륜차 화재 예방 강화…제작사와 안전관리 협력",
+        "link": "https://www.news1.kr/realestate/general/6175022",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-05-22"
+      },
+      {
+        "title": "우버의 K플랫폼 먹방은 '이렇게' 이뤄질 가능성이 높다",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=740676",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "인천시 조례 8건 뜯어보니...부서 따로, 예산 따로 '유명무실'",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363726488",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-21"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "고유가에 자전거 사려했는데…앞으로 더 오른다고? [언박싱]",
+        "link": "https://biz.heraldcorp.com/article/10742493?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "[자막뉴스] \"지난주에 해봤는데\" '무면허' 초등생 또…이번엔 '친구 아빠...",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008573295&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-05-22"
+      },
+      {
+        "title": "[단독] 중국 1위 배달 업체도 ‘배민’ 인수 제안 받았다",
+        "link": "https://www.chosun.com/economy/tech_it/2026/05/22/VKIKC6QXCRF2FJLVBODRLIYEXY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "쿠팡이츠 , '무료 배달비 업주 전가' 반박…\"업주 매출 98% 증가\"",
+        "link": "https://www.yna.co.kr/view/AKR20260522057100030?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "주문 메뉴 따라 추가 적립… 요기요 , '메뉴 적립' 서비스 론칭",
+        "link": "https://www.news1.kr/industry/distribution/6174822",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "[기획]정읍시, 2026년 ‘지속 가능한 탄소중립·기후안심 도시’ 실현 총...",
+        "link": "https://sjbnews.com/news/news.php?number=878960",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-21"
+      },
+      {
+        "title": "“스타벅스 배달 안 한다”…5·18 논란에 등 돌린 라이더 들",
+        "link": "https://www.dailian.co.kr/news/view/1647441/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-05-22"
+      }
+    ]
   }
 };
