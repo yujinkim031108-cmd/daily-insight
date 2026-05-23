@@ -8483,5 +8483,188 @@ window.historyData = {
         "date": "2026-05-22"
       }
     ]
+  },
+  "2026-05-23": {
+    "macro": [
+      {
+        "title": "채권자경단이 돌아왔다…내 지갑이 위험하다",
+        "link": "https://www.khan.co.kr/article/202605231000031",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-05-22"
+      },
+      {
+        "title": "'워시 연준' 출범에도 美 금리인하 불투명…韓 통화정책 셈법도 복잡",
+        "link": "https://www.news1.kr/economy/financial-currency/6168771",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-05-23"
+      },
+      {
+        "title": "한은, 28일 기준금리 결정…성장률 상향 주목",
+        "link": "https://news.tvchosun.com/site/data/html_dir/2026/05/23/2026052390025.html",
+        "source": "TV조선",
+        "tier": "B",
+        "date": "2026-05-23"
+      },
+      {
+        "title": "신현송號 첫 금통위 …동결 전망 속 ‘매파 메시지’ 주목",
+        "link": "https://www.betanews.net/article/view/beta202605230001",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-23"
+      },
+      {
+        "title": "[다음주 경제] 한은 기준금리 결정…성장률 전망 오르나",
+        "link": "https://www.yna.co.kr/view/AKR20260523012200002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-05-23"
+      },
+      {
+        "title": "소액으로 시작하는 법원경매 투자…초보가 먼저 알아야 할 원리 [한경부...",
+        "link": "https://www.hankyung.com/article/202605223936O",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-05-22"
+      },
+      {
+        "title": "올해 115조 팔아치운 외국인, 귀환 언제[증시 수급 대전환①]",
+        "link": "https://www.newsis.com/view/NISX20260522_0003640706",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-05-23"
+      },
+      {
+        "title": "8주 만에 하락한 주유소 기름값…전국 평균 휘발윳값 2,011원대",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8568537&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-05-23"
+      },
+      {
+        "title": "[정책 인사이트] 지금 우리나라 경제 는 13번째 경기 사이클?… 확장기 얼...",
+        "link": "https://biz.chosun.com/policy/policy_sub/2026/05/23/UIPLQZ545VE3XLEHZMKSKWFSPQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-05-23"
+      },
+      {
+        "title": "독일 실업자, 300만명 넘어…극단주의 돌풍 더 거세진다",
+        "link": "https://www.dailian.co.kr/news/view/1647849/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-05-22"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-22"
+      },
+      {
+        "title": "SPACE(공간)",
+        "link": "https://vmspace.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-22"
+      },
+      {
+        "title": "\"점자블록 막으면 과태료\" 수원시, 보행약자 보호 강화",
+        "link": "https://www.newsis.com/view/NISX20260522_0003641193",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-05-22"
+      },
+      {
+        "title": "킥보드 무단 방치 줄인다… 수원시, 지정주차 확대·단속 강화",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3403022",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-22"
+      },
+      {
+        "title": "[5월23일자] 비즈니스포스트 아침의 주요기사",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=438511",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-22"
+      },
+      {
+        "title": "교통안전공단, 전기 이륜차 화재 예방 강화…제작사와 안전관리 협력",
+        "link": "https://www.news1.kr/realestate/general/6175022",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-05-23"
+      },
+      {
+        "title": "스타트업 NOOGI(누지), 차세대 AI IoT 체어 'N'Signature 공개",
+        "link": "https://www.kdpress.co.kr/news/articleView.html?idxno=205520",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-22"
+      },
+      {
+        "title": "[패트롤] 경기도-동두천시-양주시-의정부시-포천시",
+        "link": "https://www.ekn.kr/web/view.php?key=20260522028427040",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-22"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "알루미늄값 4년만 최고…자전거 가격 줄인상",
+        "link": "https://biz.heraldcorp.com/article/10743540?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-22"
+      },
+      {
+        "title": "로봇·드론 바람 올라탄 꿈의 모터...지천명 창업가의 '글로벌' 도전",
+        "link": "https://www.mt.co.kr/future/2026/05/22/2026051113591194416",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-05-23"
+      },
+      {
+        "title": "“일반회원도 무료 배달 ” 쿠팡이츠의 승부수? 무리수? [ 배달 앱]①",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8568514&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-05-22"
+      },
+      {
+        "title": "땅땅치킨, 5월 가정의 달 고객 감사 프로모션 전개",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=02072966645451872",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-05-22"
+      },
+      {
+        "title": "쿠팡이츠, 배달비 0원 확대 · 공정위 동의의결 '동시 승부'",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=732073",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-22"
+      },
+      {
+        "title": "\"역사 모독! 커피 배달 거부!\"... 라이더 도 관가도 '스타벅스 불매' 거센...",
+        "link": "https://www.hankookilbo.com/news/article/A2026052217380002313?did=NA",
+        "source": "한국일보",
+        "tier": "C",
+        "date": "2026-05-23"
+      },
+      {
+        "title": "쿠팡이츠 '누구나 무료 배달 '... 자영업자 \"추후 청구서 두렵다\"",
+        "link": "https://www.hankookilbo.com/news/article/A2026052215570002559?did=NA",
+        "source": "한국일보",
+        "tier": "C",
+        "date": "2026-05-23"
+      }
+    ]
   }
 };
