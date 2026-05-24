@@ -8666,5 +8666,160 @@ window.historyData = {
         "date": "2026-05-23"
       }
     ]
+  },
+  "2026-05-24": {
+    "macro": [
+      {
+        "title": "폭등·급락 반복하는 '롤러코스피'…1만 달성 조건은?",
+        "link": "https://magazine.hankyung.com/business/article/202605146261b",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-05-23"
+      },
+      {
+        "title": "코스피, 글로벌 불안감 속 7,800선 회복하며 반등 마감",
+        "link": "https://www.tokenpost.kr/news/market/362752",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-23"
+      },
+      {
+        "title": "빚투 경고음…은행 주담대 고정 금리 하단 5% 넘어",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=303271",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-23"
+      },
+      {
+        "title": "'긴축 시대' 오나…한은 금리인상 시계 빨라진다[인플레 공포②]",
+        "link": "https://www.newsis.com/view/NISX20260522_0003641674",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-05-24"
+      },
+      {
+        "title": "“죄송한데 능력이 없어 보여서요”... 가계 빚 2000조 부담에 사라진 서...",
+        "link": "https://www.mk.co.kr/article/12056424",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-05-23"
+      },
+      {
+        "title": "[미국발 고금리] '영끌 가계·한계기업 어쩌나'…금융부담 확대 우려",
+        "link": "https://www.yna.co.kr/view/AKR20260523041900002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-05-24"
+      },
+      {
+        "title": "\"구조적 요인에 높아진 환율 불가피하나 하반기 하방 우위 유효\"",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4416497",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-23"
+      },
+      {
+        "title": "1500원대 ‘뉴노멀’ 굳어질까…“원화값 약세, 일시적 현상 아냐”",
+        "link": "https://www.mk.co.kr/article/12056420",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-05-24"
+      },
+      {
+        "title": "한국은행, 올해 경제성장률 전망 2.6%로 상향 조정 예고",
+        "link": "https://www.tokenpost.kr/news/economy/362740",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-23"
+      },
+      {
+        "title": "9살 딸을 ‘어린 신부’로 판 아버지의 마지막 당부는?…아프간의 끔찍...",
+        "link": "https://nownews.seoul.co.kr/news/newsView.php?id=20260524601001&wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-05-24"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-23"
+      },
+      {
+        "title": "[봇규가 간다] 로봇 배치 전 ‘운영 인프라’ 있나 확인하기...가상 연산...",
+        "link": "https://www.hellot.net/news/article.html?no=112742",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-23"
+      },
+      {
+        "title": "\"대형 인명 피해 선제 차단\" TS교통안전공단, 전기 이륜차 최초 '특별안...",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=707056",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-23"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-23"
+      },
+      {
+        "title": "AI시대에도 선거운동은 '현장에서'…지선 후보들 \"튀어야 산다\"",
+        "link": "https://www.yna.co.kr/view/AKR20260522112400056?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-05-23"
+      },
+      {
+        "title": "스타벅스, 카톡 선물하기 1위 내줬다…배민 상품권 역전",
+        "link": "https://www.dailian.co.kr/news/view/1648028/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-05-24"
+      },
+      {
+        "title": "다시 불붙은 '무료배달' 전쟁··· 쿠팡이츠 확대에 자영업계 반발",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=629461",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-23"
+      },
+      {
+        "title": "햄버거 시키면 포인트 10% 적립 더?... 요기요 ‘추가 적립’ 출시",
+        "link": "https://www.mk.co.kr/article/12056165",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-05-24"
+      },
+      {
+        "title": "\"대형 인명 피해 선제 차단\" TS교통안전공단, 전기 이륜차 최초 '특별안...",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=707056",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-23"
+      },
+      {
+        "title": "줄줄이 스타벅스 ‘손절’…“매출 10% 감소 매장도”",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8568460&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-05-24"
+      },
+      {
+        "title": "‘무료 배달 ’ 다시 꺼낸 쿠팡이츠… 배달 앱 시장 출혈경쟁 부추기나",
+        "link": "https://www.mk.co.kr/article/12056252",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-05-23"
+      }
+    ]
   }
 };
