@@ -8821,5 +8821,146 @@ window.historyData = {
         "date": "2026-05-23"
       }
     ]
+  },
+  "2026-05-25": {
+    "macro": [
+      {
+        "title": "유가·환율 압박에…신현송 첫 금통위 '동결 유력, 인상 시그널'[금통위...",
+        "link": "https://www.news1.kr/economy/financial-currency/6175685",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-05-25"
+      },
+      {
+        "title": "김용범 \"고금리·고 물가 ·고환율은 '성공 비용'…위기 전조 아닌 도약 마...",
+        "link": "https://www.mt.co.kr/politics/2026/05/25/2026052509480098948",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-05-24"
+      },
+      {
+        "title": "이번주 코스피 8000 재진입하나···‘높은 변동성’ 경계 목소리",
+        "link": "https://www.khan.co.kr/article/202605251022001",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-05-25"
+      },
+      {
+        "title": "물가 상승압력 뛰어넘는 반도체…韓 성장률, 3%도 넘본다[ 금통위 poll]②",
+        "link": "https://view.asiae.co.kr/article/2026052412302275960",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-25"
+      },
+      {
+        "title": "[마포나루의 아침] 은행 압박보다 2금융 역할 복원이 먼저다",
+        "link": "https://www.g-enews.com/view.php?ud=202605251035286688e30fcb1ba8_1",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-25"
+      },
+      {
+        "title": "美 1분기 주택 압류 신청, 코로나 이후 최고",
+        "link": "https://www.chosun.com/economy/weeklybiz/2026/05/14/X2QODJP4MJGTDK66UPEGSLFX7Y/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-05-25"
+      },
+      {
+        "title": "외국인, 지난주 14.5조 매도 폭탄…삼전·닉스 10.6조 팔아",
+        "link": "https://www.newsis.com/view/NISX20260525_0003642762",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-05-24"
+      },
+      {
+        "title": "5월 코스피, 일평균 거래대금 50조 육박 '사상 최대'",
+        "link": "https://www.newsis.com/view/NISX20260525_0003642790",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-05-24"
+      },
+      {
+        "title": "김용범 \"고금리·고물가·고환율, 불가피하게 수반되는 성공의 비용\"",
+        "link": "https://www.ytn.co.kr/_ln/0101_202605250958028739",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-05-24"
+      },
+      {
+        "title": "집값 박탈감, 노부모·자녀 이중 부양… 고달픈 4060 “계층 상승 포기”",
+        "link": "https://www.chosun.com/national/national_general/2026/05/25/XB32GPZJ6RGBBLIHGRSG6QXYOI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-05-24"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-24"
+      },
+      {
+        "title": "수원시, ‘ 공유 자전거· 킥보드 ’ 지정주차구역 확대",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8569085&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-05-24"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-24"
+      },
+      {
+        "title": "AI시대에도 선거운동은 '현장에서'…지선 후보들 \"튀어야 산다\"",
+        "link": "https://www.yna.co.kr/view/AKR20260522112400056?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-05-25"
+      },
+      {
+        "title": "\"드디어\" 6년 만에 뚫었는데…불매에 '당혹'",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008577533&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-05-24"
+      },
+      {
+        "title": "새 주인 찾는 배민… 배달앱 시장, ‘슈퍼앱’ 전쟁으로",
+        "link": "https://biz.chosun.com/distribution/food/2026/05/25/DVOFS7ME2FGPFPMX67LYZ5N4FA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-05-24"
+      },
+      {
+        "title": "경기도 '청소년 진로·문화축제' 열렸다",
+        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3064551",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-25"
+      },
+      {
+        "title": "26일 최저임금위 2차 회의…업종별 차등적용 등 본격 논의",
+        "link": "https://biz.chosun.com/topics/topics_social/2026/05/25/VF7ZGRHTTFFHDLNWS4RZP4JSZU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-05-25"
+      },
+      {
+        "title": "\"스타벅스서 매일 긁던 충성 고객 사라졌다\"…불매 운동에 날벼락 맞은...",
+        "link": "https://view.asiae.co.kr/article/2026052510043232011",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-25"
+      }
+    ]
   }
 };
