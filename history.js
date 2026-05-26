@@ -8962,5 +8962,167 @@ window.historyData = {
         "date": "2026-05-25"
       }
     ]
+  },
+  "2026-05-26": {
+    "macro": [
+      {
+        "title": "관세의 거시경제학: 세계 생산·금융 네트워크와 함께 보기",
+        "link": "https://newscham.net/articles/116450",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-25"
+      },
+      {
+        "title": "김용범 “3고는 성공의 비용”…국힘 “국민 삶과 동떨어진 최악의 망언...",
+        "link": "https://www.joongang.co.kr/article/25431255",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-05-26"
+      },
+      {
+        "title": "증권가 \"5월 금통위 매파적 동결…인상 시그널 확인\"",
+        "link": "https://biz.sbs.co.kr/article_hub/20000312451?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-05-26"
+      },
+      {
+        "title": "미·이란 협상 낙관론에 환율 1510원선 밑돌아…외국인 수급 ‘핵심 변...",
+        "link": "https://biz.heraldcorp.com/article/10755834?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-26"
+      },
+      {
+        "title": "\"부동산과 금융 끊겠다\" 선언하자 주담대 5.5조 급증..\"집값 불안감 탓\"",
+        "link": "https://realty.chosun.com/site/data/html_dir/2026/05/26/2026052601413.html",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-05-26"
+      },
+      {
+        "title": "송언석 \"김용범 '3고 성공 비용' 발언, 경제 인식 국민 삶과 동떨어진 망...",
+        "link": "https://www.newspim.com/news/view/20260526000235",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-25"
+      },
+      {
+        "title": "李 \"外人 주식매도 환전수요 많아\"...구윤철 \"고 환율 에 가장 큰 요인\"",
+        "link": "https://www.mt.co.kr/politics/2026/05/26/2026052610322254776",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-05-26"
+      },
+      {
+        "title": "코스피 8000 돌파… 한국 증시, 국제 유가 하락에 동반 상승",
+        "link": "https://www.gokorea.kr/news/articleView.html?idxno=867397",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-25"
+      },
+      {
+        "title": "유정복 \"인천의 성장, 여기서 멈추게 할 수 없어\"",
+        "link": "https://www.tournews21.com/news/articleView.html?idxno=135571",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-25"
+      },
+      {
+        "title": "쉬운 경로만 따라가면 변화는 생기지 않는다",
+        "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003236864&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+        "source": "오마이뉴스",
+        "tier": "C",
+        "date": "2026-05-26"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-25"
+      },
+      {
+        "title": "THE Biz(더비즈)",
+        "link": "https://www.the-biz.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-25"
+      },
+      {
+        "title": "수원시, ‘ 공유 자전거· 킥보드 ’ 지정주차구역 확대",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8569085&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-05-26"
+      },
+      {
+        "title": "[6·3 선택, 후보에게 묻다] 안민석 경기도교육감 후보 “AI 시대에도 사...",
+        "link": "https://www.etnews.com/20260525000114",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-25"
+      },
+      {
+        "title": "온 동네를 역세권으로? 오세훈, '내 집 앞 10분 전철역' 공약",
+        "link": "https://www.mt.co.kr/politics/2026/05/26/2026052610152460396",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-05-26"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-25"
+      },
+      {
+        "title": "\"개막 24일 만에 10만 돌파\" 포천 한탄강 가든 페스타, 역대 최단 흥행 ...",
+        "link": "https://www.wikitree.co.kr/articles/1138263",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-25"
+      },
+      {
+        "title": "박민우 포티투닷 사장, 엔비디아 출신 이희석 상무 영입",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092162741",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-05-25"
+      },
+      {
+        "title": "폴리뉴스 모닝브리핑 5월 25일 월요일",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=732214",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-25"
+      },
+      {
+        "title": "요기요 , 교촌치킨과 단독 프로모션…최대 9000원 할인",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=87255",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-25"
+      },
+      {
+        "title": "비알코리아·안전보건공단, 산업재해 예방 안전문화 확산 MOU 체결",
+        "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4085515",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-25"
+      },
+      {
+        "title": "온플법, AI 시대에 낡은 규제 될 수도… 플랫폼 B+학점",
+        "link": "https://zdnet.co.kr/view/?no=20260524163332",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-25"
+      }
+    ]
   }
 };
