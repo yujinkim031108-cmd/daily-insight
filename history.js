@@ -9124,5 +9124,188 @@ window.historyData = {
         "date": "2026-05-25"
       }
     ]
+  },
+  "2026-05-27": {
+    "macro": [
+      {
+        "title": "“연준, 2% 목표 미달에 신뢰 잃어”…더들리 전 뉴욕연은 총재 경고",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01574406645453184",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-05-26"
+      },
+      {
+        "title": "물가 ·성장·환율, 금리 인상 여건은 갖춰져…신현송 첫 금통위 선택은...",
+        "link": "https://www.chosun.com/economy/economy_general/2026/05/27/XA4NFMJJKZAZPFIHMJZV5CKWWA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-05-27"
+      },
+      {
+        "title": "스리랑카 기준금리 1%p 대폭 인상…중동전쟁에 급등한 물가 잡기",
+        "link": "https://www.yna.co.kr/view/AKR20260527058600104?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-05-26"
+      },
+      {
+        "title": "고유가·고환율에 동결 불가피…인상까지 목전에 둔 금통위",
+        "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=127294",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-27"
+      },
+      {
+        "title": "부산 3월 예금은행 연체율 0.07% 포인트 하락",
+        "link": "https://www.yna.co.kr/view/AKR20260527051100051?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-05-27"
+      },
+      {
+        "title": "보험사 대출 채권 1.1조원 감소… 부실채권비율 1.13% 상승",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=202649",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-26"
+      },
+      {
+        "title": "지정학적 긴장에 국제유가 요동… 원달러 환율 상승 출발",
+        "link": "https://www.junggi.co.kr/news/articleView.html?idxno=36554",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-26"
+      },
+      {
+        "title": "불 붙은 중동 사태, 주목받는 '북미산 LPG'",
+        "link": "https://www.energy-news.co.kr/news/articleView.html?idxno=225670",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-27"
+      },
+      {
+        "title": "삼성전자 노사 임협 잠정합의안 '가결'…총파업 위기 넘었다",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=112249",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-26"
+      },
+      {
+        "title": "[부자들의 투자노트] 프랭클린템플턴 \"장기채 올인할 때 아냐\"",
+        "link": "https://biz.sbs.co.kr/article_hub/20000312681?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-05-27"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-26"
+      },
+      {
+        "title": "쏘카, 자전거 사업 부진에…돌파구 마련 ‘시급’",
+        "link": "https://www.sentv.co.kr/article/view/sentv202605260062",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-26"
+      },
+      {
+        "title": "THE Biz(더비즈)",
+        "link": "https://www.the-biz.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-26"
+      },
+      {
+        "title": "비니시우스가 직접 양보했다… 대표팀 컴백한 네이마르, 브라질 '상징' ...",
+        "link": "https://www.besteleven.com/news/articleView.html?idxno=307261",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-26"
+      },
+      {
+        "title": "[자막뉴스] 3명이 뒤엉켜서 '질주'...뒷목 잡는 킥라니들 실태",
+        "link": "https://www.ytn.co.kr/_ln/0134_202605261308291367",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-05-26"
+      },
+      {
+        "title": "[6·3 선택, 후보에게 묻다] 안민석 경기도교육감 후보 “AI 시대에도 사...",
+        "link": "https://www.etnews.com/20260525000114",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-26"
+      },
+      {
+        "title": "뉴욕, 전기 자전거 규제 결국 멈췄다…등록제 도입 '2027년 이후'로 밀리...",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=669063",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-26"
+      },
+      {
+        "title": "CHIEF EXECUTIVE",
+        "link": "https://www.chiefexe.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-26"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-26"
+      },
+      {
+        "title": "영산강 생태전환·공공의료 확대… 전남광주 후보 복지 경쟁",
+        "link": "https://health.chosun.com/site/data/html_dir/2026/05/26/2026052603768.html",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-05-26"
+      },
+      {
+        "title": "잠실 떠나는 쿠팡, 하반기 구의역에 새둥지 … 조직별 순차 이동",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/05/27/2026052700058.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-05-27"
+      },
+      {
+        "title": "네이버 ‘슈퍼앱’ 전략에 가속도...생활 서비스 강화",
+        "link": "https://www.chosun.com/economy/tech_it/2026/05/27/QLAKK6TRQFGU7OU4AXURKNU6SM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-05-27"
+      },
+      {
+        "title": "움버거앤윙스, 요기요 와 적립 프로모션 진행…할라피뇨 세트 주문 시 추...",
+        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5024323",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-27"
+      },
+      {
+        "title": "우아한청년들, 배민 라이더 스쿨에 VR 안전교육 도입",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=247097",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-26"
+      },
+      {
+        "title": "스타벅스 카드 '60% 이상 써야 환불' 규정 어디서 왔나",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008580379&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-05-26"
+      }
+    ]
   }
 };
