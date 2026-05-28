@@ -9307,5 +9307,181 @@ window.historyData = {
         "date": "2026-05-26"
       }
     ]
+  },
+  "2026-05-28": {
+    "macro": [
+      {
+        "title": "한은, 기준금리 '8연속 동결'했으나 점차 무게 실리는 인상론",
+        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=116986",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-27"
+      },
+      {
+        "title": "[속보] 신현송 취임 첫 금통위, 금리 年 2.5%로 동결",
+        "link": "https://www.chosun.com/economy/economy_general/2026/05/28/QB2YFPWXRFH57I5JNPSX3LWN34/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-05-27"
+      },
+      {
+        "title": "한은, 기준금리 2.5%, 8연속 동결...성장 전망 2.0%→2.6%로 높여",
+        "link": "https://www.womennews.co.kr/news/articleView.html?idxno=278045",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "금통위 본회의 주재하는 신현송 한국은행 총재",
+        "link": "https://www.yna.co.kr/view/PYH20260528047000013?input=1196m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-05-27"
+      },
+      {
+        "title": "신현송 첫 금통위서 기준금리 연 2.50% 동결",
+        "link": "https://news.dealsitetv.com/articles/171059",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "‘안전지대’ 여겼던 대기업도 연체 율 깜짝 상승…은행권, 건전성 ‘경...",
+        "link": "https://www.dailian.co.kr/news/view/1649349/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-05-27"
+      },
+      {
+        "title": "환율 1500원대 초반서 등락…미-이란 협상 촉각",
+        "link": "https://www.news2day.co.kr/article/20260528500080",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-27"
+      },
+      {
+        "title": "롯데리아, 기름값 오른 농가 위해 물류비 지원",
+        "link": "https://www.klnews.co.kr/news/articleView.html?idxno=321257",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-27"
+      },
+      {
+        "title": "역대급 반도체 수출에...한은, 올해 성장률 전망치 2.0%→2.6% 대폭 상향",
+        "link": "https://www.hankyung.com/article/202605283704i",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-05-27"
+      },
+      {
+        "title": "Windfalls without public consensus can become a curse (KOR)",
+        "link": "https://koreajoongangdaily.joins.com/news/2026-05-28/englishStudy/bilingualNews/Windfalls-without-public-consensus-can-become-a-curse-KOR/2602880",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-05-27"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-27"
+      },
+      {
+        "title": "[핀포인트] [쏘카] ‘이재웅 카드’ 다시 꺼낸 쏘카…반등 승부수 통할...",
+        "link": "https://news.dealsitetv.com/articles/170804",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-27"
+      },
+      {
+        "title": "비니시우스가 직접 양보했다… 대표팀 컴백한 네이마르, 브라질 '상징' ...",
+        "link": "https://www.besteleven.com/news/articleView.html?idxno=307261",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-27"
+      },
+      {
+        "title": "아른 마이크로 킥보드 ‘락앤고’, 레드닷 디자인 어워드 2026 수상",
+        "link": "https://www.thepowernews.co.kr/view.php?ud=2026052718072048319aeda69934_7",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-27"
+      },
+      {
+        "title": "“지구촌 신차 4대 중 1대는 전기 차”... IEA, 지난해 글로벌 EV 판매 ‘...",
+        "link": "https://www.g-enews.com/view.php?ud=20260527144108290c8c1c064d_1",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-27"
+      },
+      {
+        "title": "CHIEF EXECUTIVE",
+        "link": "https://www.chiefexe.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-27"
+      },
+      {
+        "title": "기후·에너지 정책 외면…서울·경기 후보 ‘유감’",
+        "link": "https://h21.hani.co.kr/arti/society/environment/59376.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-05-27"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "네이버가 더 편해지는 순간 웨일 브라우저 알아보기",
+        "link": "https://naver.me/FWTmTscE",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-27"
+      },
+      {
+        "title": "‘로봇 팔’ 입자… 40㎏ 쓰레기도 가볍게 집어 던졌다",
+        "link": "https://www.chosun.com/economy/industry-company/2026/05/28/6454QGHH2FAGVPTKNMKXVRCDIU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-05-27"
+      },
+      {
+        "title": "[전격시사] 박용진 규제합리화위원회 부위원장 - ‘3년간 자사주 매입 ...",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8572049&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-05-27"
+      },
+      {
+        "title": "쿠팡이츠 서비스, '라이더 안전' 캠페인…무상 점검·물품 지원",
+        "link": "https://www.yna.co.kr/view/AKR20260528049300030?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-05-27"
+      },
+      {
+        "title": "[미리보는 이데일리 신문]연 8% 이자 걸어도 안 팔리는 'BBB급'",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=05858086645453184",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "탄소중립 산업 생태계 수출… 캄보디아서 상용화 진행",
+        "link": "https://www.hankookilbo.com/news/article/A2026052717290001263?did=NA",
+        "source": "한국일보",
+        "tier": "C",
+        "date": "2026-05-27"
+      },
+      {
+        "title": "제주 공공 배달 앱 ‘먹깨비’… 5.5% 착한 수수료 돌풍",
+        "link": "https://www.seoul.co.kr/news/publicnews/local_govern/news_local/2026/05/28/20260528019001?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-05-28"
+      }
+    ]
   }
 };
