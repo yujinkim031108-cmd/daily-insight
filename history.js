@@ -9483,5 +9483,195 @@ window.historyData = {
         "date": "2026-05-28"
       }
     ]
+  },
+  "2026-05-29": {
+    "macro": [
+      {
+        "title": "도쿄 근원 물가 4개월째 목표 하회에도 공장생산 '깜짝 반등'",
+        "link": "https://www.news1.kr/world/international-economy/6181326",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "씨티 \"한은, 기준금리 내년까지 총 4차례 인상…연 3.5% 전망\"",
+        "link": "https://www.newsis.com/view/NISX20260529_0003648848",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-05-29"
+      },
+      {
+        "title": "국민의힘 송언석 “꼭 투표해달라…일정에 맞춰서” [지금뉴스]",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8573201&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-05-29"
+      },
+      {
+        "title": "Shin's tightening signals require rate-hike readiness (KOR)",
+        "link": "https://koreajoongangdaily.joins.com/news/2026-05-29/englishStudy/bilingualNews/Shins-tightening-signals-require-ratehike-readiness-KOR/2603954",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "저축은행권 1분기 순이익 3338억 흑자 전환",
+        "link": "https://biz.heraldcorp.com/article/10758592?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "토스뱅크, 1Q 순익 296억원…분기 흑자 기조 지속",
+        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=658365",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "환율 , 하락 출발 뒤 다시 1500원대로…외인 순매도 지속",
+        "link": "https://www.ajunews.com/view/20260529104747807",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-29"
+      },
+      {
+        "title": "[올댓차이나] 위안화 기준치 1달러=6.8176위안·0.094% ↑…3년3개월 만에...",
+        "link": "https://www.newsis.com/view/NISX20260529_0003648934",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "화재·신제품 출시 등 단기요인 영향…5월 생산·소비·투자 반등하나",
+        "link": "https://www.mt.co.kr/economy/2026/05/29/2026052908453964279",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "한국투자공사, 뉴욕 금융인 포럼 개최…美경제 전망 논의",
+        "link": "https://view.asiae.co.kr/article/2026052910314825767",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-28"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-29"
+      },
+      {
+        "title": "[핀포인트] [쏘카] ‘이재웅 카드’ 다시 꺼낸 쏘카…반등 승부수 통할...",
+        "link": "https://news.dealsitetv.com/articles/170804",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "KAIST, 수전해 기포 막힘 해결…성능·안정성 동시 확보",
+        "link": "https://www.todayenergy.kr/news/articleView.html?idxno=298372",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "[경기도교육감 후보 공약 점검] 임태희 \"대입제 개혁 완성\"…안민석 \"경...",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1323961",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "“지구촌 신차 4대 중 1대는 전기 차”... IEA, 지난해 글로벌 EV 판매 ‘...",
+        "link": "https://www.g-enews.com/view.php?ud=20260527144108290c8c1c064d_1",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "bhc, 美 슈퍼체인 'H마트' 첫 입점…LG생건, 시린이·치주질환 예방기술...",
+        "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=201428",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "\"집안일은 로봇이, 마당은 왕실 정원\"…0.1%의 로망 위한 압구정 재건축",
+        "link": "https://realty.chosun.com/site/data/html_dir/2026/05/28/2026052803797.html",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "[성남 24시] 성남시, 분당중앙과학고 '신입생 20%' 지역인재 선발 확정",
+        "link": "https://www.sisajournal.com/news/articleView.html?idxno=374508",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-28"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-29"
+      },
+      {
+        "title": "[패트롤] 구리시-남양주시-안양시-양평군-하남시",
+        "link": "https://www.ekn.kr/web/view.php?key=20260529022338886",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "경산 대표 카페·특산물 알린다…6월 말 '경산카페축제'",
+        "link": "https://www.news1.kr/local/daegu-gyeongbuk/6181256",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-05-29"
+      },
+      {
+        "title": "쿠팡이츠 서비스, 12개 기관과 라이더 안전 캠페인…장마·혹서기 앞두고...",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=249855",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-29"
+      },
+      {
+        "title": "\"SNS 인기 메뉴 주문하면 10% 더 적립\" 요기요 , 내달 1일부터 행사",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=03152086645453840",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-05-29"
+      },
+      {
+        "title": "탄소중립 산업 생태계 수출… 캄보디아서 상용화 진행",
+        "link": "https://www.hankookilbo.com/news/article/A2026052717290001263?did=NA",
+        "source": "한국일보",
+        "tier": "C",
+        "date": "2026-05-29"
+      },
+      {
+        "title": "사전투표 승부처…대구 후보들, 지지층 투표율 끌어올리기 총력",
+        "link": "https://www.yna.co.kr/view/AKR20260529049900053?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-05-29"
+      },
+      {
+        "title": "민주 “면허 반납시 택시 바우처” 국힘 “70세 이상 시내버스 무료”",
+        "link": "https://www.donga.com/news/Society/article/all/20260529/134012972/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-05-29"
+      }
+    ]
   }
 };
