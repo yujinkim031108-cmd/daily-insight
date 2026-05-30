@@ -9673,5 +9673,174 @@ window.historyData = {
         "date": "2026-05-29"
       }
     ]
+  },
+  "2026-05-30": {
+    "macro": [
+      {
+        "title": "[다음주 경제] 5월 소비자물가 중동영향 커졌나…OECD 韓성장률도 관심",
+        "link": "https://www.yna.co.kr/view/AKR20260530017700002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-05-29"
+      },
+      {
+        "title": "美연은 총재 \"인플레 위험 커졌다…금리 경로 예단 어려워\"",
+        "link": "https://www.mt.co.kr/economy/2026/05/30/2026052917123581327",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-05-29"
+      },
+      {
+        "title": "반도체로 부유해진 대만 경제의 그림자: 대만병과 거지 슈퍼맨 [딥다이...",
+        "link": "https://www.donga.com/news/Economy/article/all/20260529/134015719/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-05-29"
+      },
+      {
+        "title": "금리인상으로의 공식화, 한국은행의 인상 횟수는?",
+        "link": "https://magazine.hankyung.com/business/article/202605270385b",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-05-30"
+      },
+      {
+        "title": "韓銀 금리 인상 예고로 대출 금리 줄인상될 듯",
+        "link": "https://www.chosun.com/economy/economy_general/2026/05/30/6I7GUM6FT5BIJL6EVHYLRE4LHQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-05-30"
+      },
+      {
+        "title": "인터넷은행 3사, 1분기 나란히 흑자…포용금융 기준 30% 넘겨",
+        "link": "https://www.mt.co.kr/finance/2026/05/29/2026052914452190150",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-05-30"
+      },
+      {
+        "title": "달러 - 원 환율 , 종전 MOU 준비에 오름폭 줄여…1,504.70원 마감",
+        "link": "https://biz.sbs.co.kr/article_hub/20000313531?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-05-30"
+      },
+      {
+        "title": "'종전 MOU' 최종 승인 망설이는 트럼프, 이유는?",
+        "link": "https://www.ytn.co.kr/_ln/0104_202605301040023020",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-05-29"
+      },
+      {
+        "title": "중국, 미국 그리고 대한민국...AI가 촉발한 국가자본주의",
+        "link": "https://www.jejusori.net/news/articleView.html?idxno=503427",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-30"
+      },
+      {
+        "title": "“AI 고용 재앙 없다, 내가 틀려 다행”˙˙˙말 바꾼 AI 거물들, 왜? [산...",
+        "link": "https://www.khan.co.kr/article/202605300700001",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-05-30"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-30"
+      },
+      {
+        "title": "전남경찰, 6~7월 두바퀴차 무질서 집중단속",
+        "link": "https://www.newspim.com/news/view/20260529001131",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-29"
+      },
+      {
+        "title": "유통업계 체험형 안전교육·민관 캠페인, 산업재해 예방 앞장",
+        "link": "https://www.newsway.co.kr/news/view?ud=2026052913552051244",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-29"
+      },
+      {
+        "title": "\"집안일은 로봇이, 마당은 왕실 정원\"…0.1%의 로망 위한 압구정 재건축",
+        "link": "https://realty.chosun.com/site/data/html_dir/2026/05/28/2026052803797.html",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-05-29"
+      },
+      {
+        "title": "[금주의 안산시] 학교로 찾아가는 '꿈나무 자전거 방문교육' 운영 外",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363727153",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-29"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-30"
+      },
+      {
+        "title": "펑크나도 달리는 타이어...콘티넨탈이 서킷에서 보여준 기술력",
+        "link": "https://www.livebiz.today/news/articleView.html?idxno=202342",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-29"
+      },
+      {
+        "title": "더 짜고, 자극적이고, 꼬들꼬들하게… 배달 이 바꾼 음식의 맛",
+        "link": "https://www.chosun.com/national/weekend/2026/05/30/JY6KOJS3LJGWHEP23LEHLEML3Q/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-05-29"
+      },
+      {
+        "title": "유통업계 체험형 안전교육·민관 캠페인, 산업재해 예방 앞장",
+        "link": "https://www.newsway.co.kr/news/view?ud=2026052913552051244",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-30"
+      },
+      {
+        "title": "매번 ‘배달앱’ 인수 후보…거론되는 네이버, 왜? [재계톡톡]",
+        "link": "https://www.mk.co.kr/article/12049210",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-05-29"
+      },
+      {
+        "title": "김태흠 충남지사 후보, 천안 배달 종사자 지지 확보",
+        "link": "https://www.newstnt.com/news/articleView.html?idxno=704583",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-30"
+      },
+      {
+        "title": "보험사, 이색특약 경쟁… AI·플랫폼 연계로 차별화",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092163034",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-05-29"
+      },
+      {
+        "title": "[위클립] 5월 4주",
+        "link": "https://www.laborplus.co.kr/news/articleView.html?idxno=40920",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-30"
+      }
+    ]
   }
 };
