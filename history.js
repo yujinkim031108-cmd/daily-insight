@@ -9842,5 +9842,167 @@ window.historyData = {
         "date": "2026-05-30"
       }
     ]
+  },
+  "2026-05-31": {
+    "macro": [
+      {
+        "title": "매도보다 보유가 더 손해 되도록 하겠다는데…진짜일까? [김용우의 각개...",
+        "link": "https://www.hankyung.com/article/202605283764i",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-05-31"
+      },
+      {
+        "title": "[자막뉴스] ' 물가 폭등' 지옥문 열렸는데...증시는 사상 최고치 찍은 미...",
+        "link": "https://www.ytn.co.kr/_ln/0134_202605301418235612",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-05-30"
+      },
+      {
+        "title": "5월 은행 신용대출, 주담대 100배 넘어…'빚투' 수요",
+        "link": "https://biz.sbs.co.kr/article_hub/20000313579?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-05-30"
+      },
+      {
+        "title": "'빚투' 36조 돌파했는데…한은 긴축 시그널에 긴장감 고조",
+        "link": "https://www.dailian.co.kr/news/view/1650346/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-05-31"
+      },
+      {
+        "title": "'머니무브' 신용 대출 증가폭, 주담대의 100배…투자 대기자금 급증(종합...",
+        "link": "https://www.news1.kr/finance/general-finance/6182818",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-05-31"
+      },
+      {
+        "title": "“금리인하 물 건너갔다”…영끌·빚투족 덮친 ‘이자 공포’[주형연의...",
+        "link": "https://www.dt.co.kr/article/12064947?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-31"
+      },
+      {
+        "title": "RIA 막차 탄 서학개미…美 주식 팔고도 AI株는 담았다",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01285766645454496",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-05-30"
+      },
+      {
+        "title": "반도체 대형주, 코스피 8,000선 돌파 이끈다",
+        "link": "https://www.tokenpost.kr/news/market/364751",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-31"
+      },
+      {
+        "title": "반도체로 올린 성장률 , '가계 소득↑' 효과 약했다…격차 2년 만에 최대",
+        "link": "https://www.newsis.com/view/NISX20260531_0003650558",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-05-30"
+      },
+      {
+        "title": "뉴욕 증시, 미·이란 종전 예측과 고용지표 주시",
+        "link": "https://www.tokenpost.kr/news/market/364747",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-31"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-31"
+      },
+      {
+        "title": "조상호 후보 세종시, 스마트 교통 혁신으로 시민 이동 편의성 강화",
+        "link": "https://www.viva100.com/article/20260530500113",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-30"
+      },
+      {
+        "title": "전남경찰, 이륜차 ·자전거·PM 안전문화 정착 '총력'",
+        "link": "https://www.thepowernews.co.kr/view.php?ud=202605291740428814caa2b7671d_7",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-30"
+      },
+      {
+        "title": "에브리봇, 청소로봇에서 AI 로봇 플랫폼으로 전환",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=456468",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-30"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-31"
+      },
+      {
+        "title": "[리포트]유권자의 힘으로-\"대산 위기 극복 해법은?\"",
+        "link": "https://tjmbc.co.kr/NewsArticle/843182",
+        "source": "MBC",
+        "tier": "S",
+        "date": "2026-05-31"
+      },
+      {
+        "title": "배민, 배달 앱 최초 애플페이 해외카드 결제 도입",
+        "link": "https://www.newspim.com/news/view/20260531000026",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-30"
+      },
+      {
+        "title": "\"쇼핑은 쿠팡 , 배달은 우버?\"…배민 매각에 커지는 외국계 플랫폼 독점...",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092163036",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-05-30"
+      },
+      {
+        "title": "우버의 귀환...韓 플랫폼 시장 정조준한 이유",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=303758",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-30"
+      },
+      {
+        "title": "유통업계 체험형 안전교육·민관 캠페인, 산업재해 예방 앞장",
+        "link": "https://www.newsway.co.kr/news/view?ud=2026052913552051244",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-30"
+      },
+      {
+        "title": "삼성 성과급이 불지핀 최저임금…노동계 '26% 인상·적용 확대' 동시 압...",
+        "link": "https://www.news1.kr/economy/employment-labor/6182520",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-05-31"
+      },
+      {
+        "title": "“ 배달 앱 하나만”…‘배민 온리’로 웃는 건 누구? [ 배달 앱]②",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8574233&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-05-30"
+      }
+    ]
   }
 };
