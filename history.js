@@ -10004,5 +10004,153 @@ window.historyData = {
         "date": "2026-05-30"
       }
     ]
+  },
+  "2026-06-01": {
+    "macro": [
+      {
+        "title": "11번가, 상반기 최대 장보기 할인행사 '마트페스타' 실시",
+        "link": "https://www.news1.kr/industry/distribution/6183342",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-06-01"
+      },
+      {
+        "title": "'핵 금지' 역설하며 '이란 압박 효과' 강조",
+        "link": "https://imnews.imbc.com/replay/2026/nw930/article/6826659_36996.html",
+        "source": "MBC",
+        "tier": "S",
+        "date": "2026-06-01"
+      },
+      {
+        "title": "금리 인상 공식화에 차주들 긴장… “주택대출 8% 시대” 전망도",
+        "link": "https://biz.chosun.com/stock/finance/2026/06/01/EBMMYS3AWFE57HLHWP7S7AUDSA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-06-01"
+      },
+      {
+        "title": "신현송 “물가 오르고 성장 강력, 방향은 명확하다”…금리 인상 재차 ...",
+        "link": "https://www.chosun.com/economy/economy_general/2026/06/01/3ABMNAVL75GKPIHU6BOXOVFORQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-05-31"
+      },
+      {
+        "title": "개인사업자 대출 갈아타기도 기대 이하…두달간 700억원대 그쳐",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=03217686645477456",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-05-31"
+      },
+      {
+        "title": "국내은행, 부실채권 17.7조원...충당금 적립률 9.9%p 하락",
+        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=61316",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-01"
+      },
+      {
+        "title": "[제23회 대한금융포럼] 환율 쇼크의 일상화…금융, 체질 바꿔야 산다",
+        "link": "https://www.kbanker.co.kr/news/articleView.html?idxno=225096",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-01"
+      },
+      {
+        "title": "이스라엘 레바논 진격에 국제유가 2% 상승…브렌트유 93달러",
+        "link": "https://www.newsis.com/view/NISX20260601_0003651108",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-05-31"
+      },
+      {
+        "title": "[전격시사] 김경수 더불어민주당 경남지사 후보 - “농어촌 기본소득·...",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8574755&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-06-01"
+      },
+      {
+        "title": "인도 '바퀴벌레당'에 청년들 열광...\"Z세대 상실감 대변\"",
+        "link": "https://www.ytn.co.kr/_ln/0104_202606011056185472",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-05-31"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-01"
+      },
+      {
+        "title": "공급망 전쟁 숨은 무기 첨단 센서… 대한민국 경제안보 최전선",
+        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3065164",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-31"
+      },
+      {
+        "title": "선거비품, 중고로 산 7만원어치가 전부…“청년 소신정치 할 것”",
+        "link": "https://www.hani.co.kr/arti/area/capital/1261225.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-05-31"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-01"
+      },
+      {
+        "title": "[컴퓨텍스 2026] 아크 G3 익스트림 기반 UMPC 선보인 에이서",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=59517",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-31"
+      },
+      {
+        "title": "\"이삭토스트 먹고 포켓몬 배지 받고\" 배민, 한정 세트 단독 판매",
+        "link": "https://www.newsis.com/view/NISX20260601_0003651217",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-06-01"
+      },
+      {
+        "title": "쿠팡이츠 '최혜대우' 의혹 동의의결, 개시 여부 안갯속",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01617046645477456",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-05-31"
+      },
+      {
+        "title": "요기요 , 스포츠 행사 겨냥 6월 한 달 '메가적립 페스타'",
+        "link": "https://www.news1.kr/industry/distribution/6183437",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-06-01"
+      },
+      {
+        "title": "시흥시, 국제안전도시 재공인 도전…안전 거버넌스 강화로 도시 경쟁력...",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7166879",
+        "source": "",
+        "tier": "D",
+        "date": "2026-05-31"
+      },
+      {
+        "title": "AI와 로봇 주방이 바꾸는 외식산업의 미래[테크트렌드]",
+        "link": "https://magazine.hankyung.com/business/article/202605197273b",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-05-31"
+      }
+    ]
   }
 };
