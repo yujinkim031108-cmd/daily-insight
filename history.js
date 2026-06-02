@@ -10152,5 +10152,167 @@ window.historyData = {
         "date": "2026-05-31"
       }
     ]
+  },
+  "2026-06-02": {
+    "macro": [
+      {
+        "title": "5월 광주·전남 물가 2년여 만에 '최고'…유가·장바구니 물가 '비상'",
+        "link": "https://www.newsis.com/view/NISX20260602_0003653232",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-06-01"
+      },
+      {
+        "title": "석유류 24% 급등에 물가 3.1% ‘껑충’…한은 “당분간 3%대 지속”",
+        "link": "https://www.ddaily.co.kr/page/view/2026060211010077994",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-01"
+      },
+      {
+        "title": "“집 경매 넘어가면 보증금 어쩌나요”… 금리 인상 땐 단독·다가구 세입...",
+        "link": "https://www.mk.co.kr/article/12063863",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-06-01"
+      },
+      {
+        "title": "'중동 사태 장기화'에 5월 소비자물가 3.1%↑…26개월 만에 3%대 터치",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=842547",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-01"
+      },
+      {
+        "title": "고금리에 빚 못갚고 허덕…5대 은행 '깡통 대출 ' 7년 만에 최대",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=295036",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-01"
+      },
+      {
+        "title": "'빚투' 열풍에 신용 대출 2조 급증…주담대 증가액 추월",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=04549366645477456",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-06-01"
+      },
+      {
+        "title": "장동혁 “李, 김어준은 건드리지도 못하면서 가짜뉴스 잡아 신나”",
+        "link": "https://www.munhwa.com/article/11592854?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-02"
+      },
+      {
+        "title": "[올댓차이나] 위안화 기준치 1달러=6.8187위안…0.029%↓",
+        "link": "https://www.newsis.com/view/NISX20260602_0003653220",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-06-02"
+      },
+      {
+        "title": "한병도 “尹 등에 업고 지역 망친 무능력한 지방권력 심판해야”",
+        "link": "https://www.mk.co.kr/article/12063821",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-06-02"
+      },
+      {
+        "title": "장동혁 \"마지막 레드라인...내일 기호 2번 찍어달라\"",
+        "link": "https://www.ytn.co.kr/_ln/0101_202606021013380071",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-06-02"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-02"
+      },
+      {
+        "title": "타다 무죄 3년 만에 쏘카 돌아온 이재웅...현금흐름 적자, 자회사는 완전...",
+        "link": "https://www.insight.co.kr/news/556564",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-01"
+      },
+      {
+        "title": "에이서, 컴퓨텍스 2026에서 자사 50주년 기념 신제품 대거 공개",
+        "link": "https://www.inven.co.kr/webzine/news/?news=317009",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-01"
+      },
+      {
+        "title": "호치민시, 2028년부터 '영업용 내연 이륜차 ' 도심지 운행금지 추진…저배...",
+        "link": "https://www.insidevina.com/news/articleView.html?idxno=43308",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-01"
+      },
+      {
+        "title": "갑자기 튀어나와 ‘쌩쌩’ 배달 오토바이…내일부터 대인 무한·대물 2천...",
+        "link": "https://www.mk.co.kr/article/12063745",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-06-01"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-02"
+      },
+      {
+        "title": "양강 후보 공약, 서울 시민 삶을 감싸는 결정적 한 방이 없다",
+        "link": "https://h21.hani.co.kr/arti/politics/politics_general/59395.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-06-01"
+      },
+      {
+        "title": "카카오톡 기프티콘과 배달앱의 결합… 배달의민족 , 생활밀착형 서비스...",
+        "link": "https://www.e-science.co.kr/news/articleView.html?idxno=130201",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-01"
+      },
+      {
+        "title": "\"하루에 300봉지 배달합니다\"…매장 먹여살리는 30분 퀵 배송",
+        "link": "https://www.hankyung.com/article/202606022416i",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-06-02"
+      },
+      {
+        "title": "갑자기 튀어나와 ‘쌩쌩’ 배달 오토바이…내일부터 대인 무한·대물 2천...",
+        "link": "https://www.mk.co.kr/article/12063745",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-06-02"
+      },
+      {
+        "title": "배달 기사, 내일부터 꼭 보험 가입해야…미가입 땐 일 못 한다",
+        "link": "https://www.hani.co.kr/arti/economy/economy_general/1261481.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-06-02"
+      },
+      {
+        "title": "[6분3초 인터뷰] 국민의힘 박용선 포항시장 후보 “가슴 치는 소상공인...",
+        "link": "https://www.dailian.co.kr/news/view/1648965/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-06-02"
+      }
+    ]
   }
 };
