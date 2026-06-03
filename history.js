@@ -10314,5 +10314,181 @@ window.historyData = {
         "date": "2026-06-02"
       }
     ]
+  },
+  "2026-06-03": {
+    "macro": [
+      {
+        "title": "충북 5월 소비자 물가 3.2%↑…2년여 만에 최대 상승폭",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8576830&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-06-02"
+      },
+      {
+        "title": "상장 문턱 높아졌다…깐깐해진 심사에 벤처 입성도 바늘구멍",
+        "link": "https://www.sedaily.com/article/20051290?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-03"
+      },
+      {
+        "title": "장동혁 \"투표 포기는 내 자유 포기하는 것과 같아\" [뉴시스Pic]",
+        "link": "https://www.newsis.com/view/NISX20260603_0003654417",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-06-03"
+      },
+      {
+        "title": "[주정완의 시선] 국민연금은 증시 부양의 도구가 아니다",
+        "link": "https://www.joongang.co.kr/article/25433422",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-06-03"
+      },
+      {
+        "title": "사업자 대출 로 집 사는 '꼼수' 막는다…사후점검 기준 1억→5000만원",
+        "link": "https://www.hankyung.com/article/202606034383i",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-06-03"
+      },
+      {
+        "title": "중소기업 대출 전년보다 2배 더 늘린 은행권…\"터져나오는 부실\"",
+        "link": "https://www.mt.co.kr/finance/2026/06/03/2026060116224155578",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-06-02"
+      },
+      {
+        "title": "삐걱대는 중동 휴전… 원 · 달러 1,519원 급등 마감",
+        "link": "https://news.tvchosun.com/site/data/html_dir/2026/06/03/2026060390076.html",
+        "source": "TV조선",
+        "tier": "B",
+        "date": "2026-06-02"
+      },
+      {
+        "title": "美·이란 충돌 다시 격화 … 바레인·쿠웨이트 상공서 미사일 공방, 호르...",
+        "link": "https://www.newdaily.co.kr/site/data/html/2026/06/03/2026060300035.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-06-02"
+      },
+      {
+        "title": "'파란 조끼' VS '흰 티셔츠'…서울시장 후보들, 각양각색 피날레 의상",
+        "link": "https://www.mt.co.kr/politics/2026/06/03/2026060309355955868",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-06-02"
+      },
+      {
+        "title": "미국 대형 투자 은행 골드만삭스 CEO \"현 시장, 공포보다 탐욕 더 많아\"",
+        "link": "https://www.ytn.co.kr/_ln/0104_202606030549345418",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-06-02"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-03"
+      },
+      {
+        "title": "타다 무죄 3년 만에 쏘카 돌아온 이재웅...현금흐름 적자, 자회사는 완전...",
+        "link": "https://www.insight.co.kr/news/556564",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-02"
+      },
+      {
+        "title": "[우리동네 기초의원-연수구] 가·나·다·라·바 18명 출마··· 4명 무투...",
+        "link": "https://www.incheontoday.com/news/articleView.html?idxno=319563",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-02"
+      },
+      {
+        "title": "하노이시, '저배출구역 지정안' 심의 또 불발…영업용 이륜차 ' 규제 완화...",
+        "link": "https://www.insidevina.com/news/articleView.html?idxno=43314",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-02"
+      },
+      {
+        "title": "갑자기 튀어나와 ‘쌩쌩’ 배달 오토바이…내일부터 대인 무한·대물 2천...",
+        "link": "https://www.mk.co.kr/article/12063745",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-06-03"
+      },
+      {
+        "title": "[6·3지방선거, 서울을 묻다] 정원오 '30분 통근도시' VS 오세훈 '내 집 ...",
+        "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260602010000693",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-02"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-03"
+      },
+      {
+        "title": "양강 후보 공약, 서울 시민 삶을 감싸는 결정적 한 방이 없다",
+        "link": "https://h21.hani.co.kr/arti/politics/politics_general/59395.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-06-02"
+      },
+      {
+        "title": "배달 앱 치킨게임 중…“ 배달 앱 하나만” 상생이냐 족쇄냐",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8576663&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-06-03"
+      },
+      {
+        "title": "하나로마트 양재점, 쿠팡이츠 '장보기 서비스' 개시",
+        "link": "https://www.agrinet.co.kr/news/articleView.html?idxno=404659",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-02"
+      },
+      {
+        "title": "버거 시장 5조원 돌파···전국에서 버거 축제·대회 열린다",
+        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=421489",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-03"
+      },
+      {
+        "title": "갑자기 튀어나와 ‘쌩쌩’ 배달 오토바이…내일부터 대인 무한·대물 2천...",
+        "link": "https://www.mk.co.kr/article/12063745",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-06-02"
+      },
+      {
+        "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+        "link": "https://www.yna.co.kr/view/AKR20260603028600011?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-06-03"
+      },
+      {
+        "title": "﻿광고를 만드는 AI에서 물건을 파는 AI로, 중국 AI 커머스의 전환 [박지...",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092162993",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-06-03"
+      }
+    ]
   }
 };
