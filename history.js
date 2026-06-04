@@ -10490,5 +10490,160 @@ window.historyData = {
         "date": "2026-06-03"
       }
     ]
+  },
+  "2026-06-04": {
+    "macro": [
+      {
+        "title": "日銀, 이번 달엔 금리 인상 나설까…우에다 총재, 가능성 언급",
+        "link": "https://www.newsis.com/view/NISX20260604_0003655754",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-06-03"
+      },
+      {
+        "title": "[천자칼럼] 절사평균 물가",
+        "link": "https://www.hankyung.com/article/2026060349391",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "[마켓인]회사채 발행 숨통 트이나…하나證 “ 금리 하향 안정화 가능성”",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=03637526645478440",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "1530원 환율 앞에 선 신현송 … 달러 방어 시험대, 통화스와프론 재부상...",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/06/04/2026060400139.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "시중은행 전환한 iM뱅크의 그늘 … 강정훈 은행장 '비용·부실' 관리 시...",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/06/04/2026060400161.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-06-03"
+      },
+      {
+        "title": "연준 베이지북 \"미국 내 전방위 가격 상승 확산...경기·고용은 안정\"",
+        "link": "https://www.ytn.co.kr/_ln/0104_202606040441097901",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "더본코리아도 못 버텼다…외식업계 덮친 원가 쇼크",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=1378544",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-03"
+      },
+      {
+        "title": "코스피 하락 출발...원-달러 환율 1,530원 넘어",
+        "link": "https://www.ytn.co.kr/_ln/0102_202606041100476233",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "연 7.5% 성장 베트남 의료시장…KOTRA, K-의료기업 수출상담회 개최",
+        "link": "https://www.dailian.co.kr/news/view/1652240/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-06-03"
+      },
+      {
+        "title": "뉴욕연은 \"금리 인상도 인하도 필요없다…전쟁발 인플레 일회성\"",
+        "link": "https://www.news1.kr/world/international-economy/6187044",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-06-03"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "\"일꾼 뽑을 것\" 역대급 투표율에도…초유 '투표지 부족' 얼룩(종합)",
+        "link": "https://www.news1.kr/society/incident-accident/6186415",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-06-03"
+      },
+      {
+        "title": "[의정 결산] 5. 인천시의회 교육위원회",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1324384",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-03"
+      },
+      {
+        "title": "하노이시, '저배출구역 지정안' 심의 또 불발…영업용 이륜차 ' 규제 완화...",
+        "link": "https://www.insidevina.com/news/articleView.html?idxno=43314",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-03"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "[경남 브리핑 모음(6월4일)] 거제시, 자활사업 활성화 인프라 구축 공모...",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606031108501770951",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-03"
+      },
+      {
+        "title": "[유통레이더] 오비맥주, 한솔PNS, 코오롱몰, 홈앤쇼핑, CJ프레시웨이, 삼...",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1373360",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-03"
+      },
+      {
+        "title": "\"하루에 주문 300건\"…확산하는 퀵커머스",
+        "link": "https://www.hankyung.com/article/2026060349291",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "메가존소프트·구글 클라우드, 요기요 AI 해커톤 지원",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=03558806645478440",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-06-03"
+      },
+      {
+        "title": "내년 최저임금 심의‥ 배달 기사 등 도급제 적용 논의 착수",
+        "link": "https://imnews.imbc.com/news/2026/society/article/6827697_36918.html",
+        "source": "MBC",
+        "tier": "S",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "[#금융톡톡] 기업은행 1.5조 금융지원·신한은행 항공산업 현장경영·국...",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=842812",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-03"
+      }
+    ]
   }
 };
