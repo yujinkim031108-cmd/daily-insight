@@ -10645,5 +10645,174 @@ window.historyData = {
         "date": "2026-06-03"
       }
     ]
+  },
+  "2026-06-05": {
+    "macro": [
+      {
+        "title": "4월 일본 실질임금 전년비 1.9%↑…\"정부 보조 등에 넉달째 증가\"",
+        "link": "https://www.newsis.com/view/NISX20260605_0003657578",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "매파 날아든 연준… 금리인상론 고개 든다",
+        "link": "https://www.mt.co.kr/world/2026/06/05/2026060419382376045",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "[머니톡스] 서울 부동산시장 두 개의 거대한 힘",
+        "link": "https://www.yna.co.kr/view/AKR20260605043500546?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "“주가 8000과 계란값 8000원”…월급쟁이만 고통받는 이유는? [잇슈 머...",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8578547&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "대출 문턱에 사내 대출 올해 26% 급증…삼전 '5억 주담대' 어쩌나",
+        "link": "https://www.news1.kr/finance/general-finance/6188414",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "고소득층은 쓰고 저소득층은 허리띠…美 'K자형 소비' 뚜렷",
+        "link": "https://www.newsis.com/view/NISX20260604_0003656208",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "[특징주] 한국전력, 원가 부담·규제 리스크 부각에 약세",
+        "link": "https://www.tokenpost.kr/news/economy/366419",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "“통행료 아닌 서비스 요금”···호르무즈서 수색·환경정화 등 비용...",
+        "link": "https://www.khan.co.kr/article/202606051048001",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "구윤철 \"금융시장 변동성 경계…민생 경제 ·구조개혁 함께 챙긴다\"",
+        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=81814",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "SF 연은 총재 \"금리 인상·인하 모두 가능…AI 생산성 효과 아직\"",
+        "link": "https://www.news1.kr/world/international-economy/6188218",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-06-05"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "[김대호 인물열전] 소프트뱅크 마사요시 손 \"일본 시가총액 1위\"",
+        "link": "https://www.g-enews.com/view.php?ud=202606011645075144906806b77b_1",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "코레일 '차세대 고속열차' 서비스 혁신…철도 중심 모빌리티 전환",
+        "link": "https://www.news1.kr/local/daejeon-chungnam/6187931",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "\"의료용 대마 키우고 이륜차 개발\"…특구 7곳 신설(종합)",
+        "link": "https://www.newsis.com/view/NISX20260604_0003656965",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "충북 보이스피싱 1년 새 27.8% 감소",
+        "link": "https://www.jbnews.com/news/articleView.html?idxno=1505460",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-05"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "'팔로워 150만명' SNS 스타견 훔쳐 식용으로 도살…\"법 안 어겼다\" 발뺌",
+        "link": "https://www.news1.kr/world/general-world/6187783",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "검찰, 올해 사적 보복 대행 27명 전원 기소…\"초범도 예외 없어\"",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008596190&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "우아한청년들, 라이더 폭염 대책 시행…생수 70만병·쉼터 확대",
+        "link": "https://www.yna.co.kr/view/AKR20260605039000030?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "네이버페이, 결제할수록 혜택 커지는 ‘구독릴레이 프로모션’ 오픈",
+        "link": "https://www.sentv.co.kr/article/view/sentv202606050020",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "유상운송보험 의무화에서도 PM은 사각지대… 킥보드· 전기 자전거는 제외",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363727969",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "우아한청년들, 라이더 폭염 대응 강화…생수 70만병 지원",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=03512886645478768",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "애플 앱스토어 작년 1.4弗 거래… 5년새 3배 커져",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092163314",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-06-05"
+      }
+    ]
   }
 };
