@@ -10814,5 +10814,160 @@ window.historyData = {
         "date": "2026-06-05"
       }
     ]
+  },
+  "2026-06-06": {
+    "macro": [
+      {
+        "title": "우리금융 \"원·달러 1500원대 고환율 부담…韓증시 상승세 둔화\"",
+        "link": "https://www.newsis.com/view/NISX20260605_0003657782",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-06-06"
+      },
+      {
+        "title": "인도, 기준금리 5.25% 동결…\"기대 인플레 상향·성장률 전망 하향\"",
+        "link": "https://www.newsis.com/view/NISX20260605_0003658316",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-06-06"
+      },
+      {
+        "title": "美 ‘깜짝 고용’에 뉴욕증시 급락... 환율 1560원 돌파",
+        "link": "https://www.chosun.com/economy/stock-finance/2026/06/06/5NI7QWVMF5HYDH2NPETEMY6VHI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-06-06"
+      },
+      {
+        "title": "외국인에 휘둘리는 환율…17년 만에 1550원대 육박",
+        "link": "https://www.joongang.co.kr/article/25434361",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "청약시장 고립된 3040, 사각지대 내몰려 ‘영끌족’ 주축 됐다",
+        "link": "https://economist.co.kr/article/view/ecn202606020027",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "환율 1540원보다 무서운 국고채 4% … 채권시장 경고음에 은행권 '긴장'",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/06/05/2026060500101.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+        "link": "https://www.yna.co.kr/view/AKR20260606024500011?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-06-06"
+      },
+      {
+        "title": "“미·이란 협상교착에 최근 24시간 호르무즈 통항 ‘거의 제로’”",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8579550&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-06-06"
+      },
+      {
+        "title": "[다음주 경제 ] 취업자 얼마나 늘었나…1분기 성장률 잠정치도 공개",
+        "link": "https://www.yna.co.kr/view/AKR20260606013300002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-06-06"
+      },
+      {
+        "title": "“우린 바퀴벌레다” 인도 Z세대, 토요일 광장에 집결한다[딥다이브]",
+        "link": "https://www.donga.com/news/Economy/article/all/20260605/134060122/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-06-05"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-06"
+      },
+      {
+        "title": "[금주의 의왕시] 의왕단오축제에 시민 1만명 발길… 전통문화 체험 열기...",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363727911",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "규제 자유특구 7개 신규 지정 추진",
+        "link": "https://www.naeil.com/news/read/590878?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "현대직업전문학교, ‘대전 일자리 매칭데이’서 자동차정비 교육 인프라...",
+        "link": "https://www.thepowernews.co.kr/view.php?ud=20260605140712716cf2d78c68_7",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-05"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-06"
+      },
+      {
+        "title": "[김미림의 HR스토리] 연구하고 개발하며 창작하는 인공지능(AI) 전문가 ...",
+        "link": "https://www.mk.co.kr/article/12066908",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-06-06"
+      },
+      {
+        "title": "식품·유통업계, 여름철 신메뉴 출시 러시…롯데칠성음료·대상·세븐일...",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=307303",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-05"
+      },
+      {
+        "title": "또봉이통닭, 6월 한 달간 배달앱·간편결제 프로모션 릴레이 진행",
+        "link": "https://www.mt.co.kr/industry/2026/06/05/2026060517534736818",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-06-06"
+      },
+      {
+        "title": "테무, 알리 앞질렀다… 모바일 앱 시장의 순위가 흔들린다",
+        "link": "https://platum.kr/archives/288323",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-06"
+      },
+      {
+        "title": "수백명 삼겹살집 앞에 몰렸다…젠슨황, 총수들 회동에 '관심 폭발' [영상...",
+        "link": "https://www.hankyung.com/article/202606050334g",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-06-06"
+      },
+      {
+        "title": "허울 뿐인 쿠팡이츠 ‘자진시정’ 카드? [재계톡톡]",
+        "link": "https://www.mk.co.kr/article/12055679",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-06-05"
+      }
+    ]
   }
 };
