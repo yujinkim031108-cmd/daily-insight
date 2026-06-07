@@ -10969,5 +10969,132 @@ window.historyData = {
         "date": "2026-06-05"
       }
     ]
+  },
+  "2026-06-07": {
+    "macro": [
+      {
+        "title": "체감 물가 상승에 오마카세 발길 ‘뚝’…중저가 뷔페는 신바람",
+        "link": "https://www.joongang.co.kr/article/25434485",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-06-06"
+      },
+      {
+        "title": "2년래 최악의 한주… 물가 지표에 초긴장[이정훈의 코인 위클리뷰]",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01298886645479424",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-06-06"
+      },
+      {
+        "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+        "link": "https://www.yna.co.kr/view/AKR20260607017400011?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-06-07"
+      },
+      {
+        "title": "신현송 언급 빈도 급증…낯선 단어 ‘GDI’는 왜 지금 한국에 중요한가",
+        "link": "https://www.chosun.com/economy/economy_general/2026/06/07/VZUBE7DRARHIBDCVXBNIV2TDCA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-06-06"
+      },
+      {
+        "title": "대출 금리만 '고공행진'하더니…은행 예대금리차, 두 배 벌어졌다",
+        "link": "https://www.newsis.com/view/NISX20260605_0003658431",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-06-06"
+      },
+      {
+        "title": "부동산 대신 산업·민생으로…‘1312조원’ 생산적·포용금융 본궤도 [李...",
+        "link": "https://biz.heraldcorp.com/article/10765191?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-06"
+      },
+      {
+        "title": "[그래픽] 원 · 달러 환율 추이",
+        "link": "https://www.news1.kr/photos/7946094",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-06-07"
+      },
+      {
+        "title": "현대硏 \"반도체 호황에 경기 회복 국면…'K자 양극화'는 우려\"",
+        "link": "https://www.yna.co.kr/view/AKR20260606043700002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-06-06"
+      },
+      {
+        "title": "한국 1분기 성장률 OECD 2위…정부 성장률 전망 올릴 듯",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8579769&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-06-07"
+      },
+      {
+        "title": "印덮친 'Z세대 분노'…팔로워 2천200만 '바퀴벌레국민당' 첫시위",
+        "link": "https://www.yna.co.kr/view/AKR20260607017200104?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-06-06"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-07"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-07"
+      },
+      {
+        "title": "라거의 성지 체코에서 ‘맥주의 신’을 만났다",
+        "link": "https://www.hani.co.kr/arti/specialsection/esc_section/1262229.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-06-06"
+      },
+      {
+        "title": "경산의 여름이 향긋한 커피 향과 달콤한 복숭아 향으로 물든다.",
+        "link": "https://sports.donga.com/region/article/all/20260607/134061880/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-06-07"
+      },
+      {
+        "title": "식품·유통업계, 여름철 신메뉴 출시 러시…롯데칠성음료·대상·세븐일...",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=307303",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-06"
+      },
+      {
+        "title": "올여름 더 덥고 더 습하다…대구·경북 폭염 비상",
+        "link": "https://www.yeongnam.com/web/view.php?key=20260606021158376",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-06"
+      },
+      {
+        "title": "커피·버거·치킨까지…가격 올리고 양 줄이는 외식업계",
+        "link": "https://www.news1.kr/industry/distribution/6185353",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-06-06"
+      }
+    ]
   }
 };
