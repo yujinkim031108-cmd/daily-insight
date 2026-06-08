@@ -11096,5 +11096,153 @@ window.historyData = {
         "date": "2026-06-06"
       }
     ]
+  },
+  "2026-06-08": {
+    "macro": [
+      {
+        "title": "코스피 '검은 월요일'에 역대급 투매…증권가는 \"저가매수 기회\"",
+        "link": "https://www.newsis.com/view/NISX20260608_0003659793",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-06-07"
+      },
+      {
+        "title": "[주간 뉴욕증시] 금리 인상 우려 속 CPI 발표…스페이스X 상장도 촉각",
+        "link": "https://www.newsis.com/view/NISX20260608_0003659686",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "'환율 급등' 금리 인상 더 빨라질라⋯\"6월 임시 금통위 가능성?\"",
+        "link": "https://www.etoday.co.kr/news/view/2591319",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-07"
+      },
+      {
+        "title": "“환율 급등, 정부 메시지 모호...강력 개입해 심리 꺾어야”-장민 금융...",
+        "link": "https://view.asiae.co.kr/article/2026060810005294869",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-07"
+      },
+      {
+        "title": "국민은행, 비대면 주담대 금리 0.2%p 인상",
+        "link": "https://www.hankyung.com/article/202606082971i",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-06-07"
+      },
+      {
+        "title": "사흘 만에 1조 증가한 신용 대출 , 금리도 6% 목전...'빚투족' 어쩌나",
+        "link": "https://www.hankookilbo.com/news/article/A2026060712210000514?did=NA",
+        "source": "한국일보",
+        "tier": "C",
+        "date": "2026-06-07"
+      },
+      {
+        "title": "주말 새 1560원 뚫고 폭주하던 환율 …금융당국 긴급 외환시장 점검",
+        "link": "https://www.wikitree.co.kr/articles/1140213",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "이스라엘, 이란 미사일 도발에 즉각 반격… 무너진 ‘4월 휴전’",
+        "link": "https://biz.chosun.com/international/international_general/2026/06/08/63JIQQQKBNC35H5COO3OGU6LQE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-06-07"
+      },
+      {
+        "title": "李대통령 “초과세수로 빚 갚자는 주장은 바보짓”",
+        "link": "https://www.chosun.com/politics/politics_general/2026/06/08/XDSAH4KFUZHQXFZBYZRNZOF26U/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-06-07"
+      },
+      {
+        "title": "엔화, 연내 美 금리인상 관측에 1달러=160엔대 전반 하락 출발",
+        "link": "https://www.newsis.com/view/NISX20260608_0003660024",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-06-07"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "[부산ㆍ경남 대학 브리핑 모음(6월8일)] 국립창원대, 구성원과 함께 걸...",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606071235166470320",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-07"
+      },
+      {
+        "title": "[패트롤] 경기도-고양시-김포시-동두천시-의정부시",
+        "link": "https://www.ekn.kr/web/view.php?key=20260608020161308",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-07"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "라거의 성지 체코에서 ‘맥주의 신’을 만났다",
+        "link": "https://www.hani.co.kr/arti/specialsection/esc_section/1262229.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-06-07"
+      },
+      {
+        "title": "정부, 6·10만세운동 기념일 계기 독립유공자 13명 특별 포상",
+        "link": "https://www.newsis.com/view/NISX20260608_0003660078",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-06-07"
+      },
+      {
+        "title": "비수기인데 손님 늘어…배달 플랫폼 무한 경쟁의 속사정",
+        "link": "https://view.asiae.co.kr/article/2026060808363060941",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-07"
+      },
+      {
+        "title": "요기요 , 2년 만에 앱 UI·UX 개편…\"끊김 없는 미식 탐험의 시작\"",
+        "link": "https://www.news1.kr/industry/distribution/6190269",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-06-07"
+      },
+      {
+        "title": "‘2억 명 충격’ 흔들리는 중국 ‘긱 경제’… 일자리 저장소마저 메마...",
+        "link": "https://www.g-enews.com/view.php?ud=2026060715554966790c8c1c064d_1",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-07"
+      },
+      {
+        "title": "[대박창업] 외식 창업자가 반드시 읽어야 할 손익의 언어",
+        "link": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=518081",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-06-08"
+      }
+    ]
   }
 };
