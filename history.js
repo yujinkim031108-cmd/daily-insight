@@ -11244,5 +11244,174 @@ window.historyData = {
         "date": "2026-06-08"
       }
     ]
+  },
+  "2026-06-09": {
+    "macro": [
+      {
+        "title": "반도체주 폭등…나스닥 급락 딛고 반등",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8581406&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "[뉴욕증시] \"저점 매수 기회\" 일제히 반등…CPI 주목",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008600866&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "李 지적한 가계부채 2000조…주담대 눌렀지만 신용대출이 '쑥'",
+        "link": "https://www.newsis.com/view/NISX20260609_0003661747",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "한투증권 \"한은, 고환율에 빅스텝보다 외환 정책으로 접근할 듯\"",
+        "link": "https://www.yna.co.kr/view/AKR20260609025400008?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "이자 부담 낮춘 ‘KOFR 대출 ’… 하반기에 기업용부터 출시",
+        "link": "https://biz.chosun.com/stock/finance/2026/06/09/CAWCW7G5TBAXLM7JMNOPPH5MYE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "'중저신용자 확대' 압박에도 … 연체 율에 놀란 저축은행, 담보대출 로 회...",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/06/08/2026060800111.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "1분기 명목 GDP 10.5%↑ '50년래 최대'…실질 GNI 증가율 사상 최고",
+        "link": "https://www.mt.co.kr/economy/2026/06/09/2026060910083628821",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "[Why] 폭격 맞고 봉쇄당했는데… 이란 경제 버티는 이유",
+        "link": "https://biz.chosun.com/international/international_general/2026/06/09/JIPQ7TWJQ5HNVGTW2TR5IKALKE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "실질 GNI 9.2% 급증…반도체 호황에 ‘1인당 4만달러’ 기대감",
+        "link": "https://magazine.hankyung.com/money/article/202606095375c",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "밤사이 나스닥 반등...코스피도 급락 딛고 상승할까?",
+        "link": "https://www.ytn.co.kr/_ln/0102_202606090853464451",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-06-08"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "[부산ㆍ경남 대학 브리핑 모음(6월8일)] 국립창원대, 구성원과 함께 걸...",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606071235166470320",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "블루윙모터스·온어스링크잇, 전기이륜차 전동화·배터리 재제조 사업 ...",
+        "link": "https://platum.kr/archives/288418",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "[패트롤] 경기도-고양시-김포시-동두천시-의정부시",
+        "link": "https://www.ekn.kr/web/view.php?key=20260608020161308",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "반도체·로봇·SW '삼박자'…젠슨 황 \"지금은 한국의 시간\"",
+        "link": "https://www.hankyung.com/article/2026060841541",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-06-09"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "[영림원CEO포럼] \"AGI 시대에 인류 역사의 과거 경험은 무의미, 가장 먼...",
+        "link": "https://www.it-b.co.kr/news/articleView.html?idxno=88517",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "배민 손잡은 사장님들... 매출도 주문도 두 자릿수 성장",
+        "link": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=518193",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "日 ‘로켓나우’ 키우는 쿠팡 , 3년만의 재도전 성공할까",
+        "link": "https://biz.heraldcorp.com/article/10766934?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "\"편의점에 미리 주문해 신선식품 장본다\"",
+        "link": "https://www.mk.co.kr/article/12068675",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "‘팔면 땡?’ 전기 스쿠터 보조금 뒷말, 왜?",
+        "link": "https://www.ilyosisa.co.kr/news/article.html?no=256326",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "도봉구, 플랫폼종사자 '고용·산재보험료' 50% 지원",
+        "link": "https://news.tf.co.kr/read/life/2330716.htm",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "배달 기사도 최저임금 받을까…근로자성·지급주체·산정방식 '3대 난제...",
+        "link": "https://www.news1.kr/economy/employment-labor/6191043",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-06-08"
+      }
+    ]
   }
 };
