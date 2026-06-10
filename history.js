@@ -11413,5 +11413,174 @@ window.historyData = {
         "date": "2026-06-08"
       }
     ]
+  },
+  "2026-06-10": {
+    "macro": [
+      {
+        "title": "中 5월 PPI 전년비 3.9% 상승…예상치 부합",
+        "link": "https://www.mt.co.kr/world/2026/06/10/2026061010303744326",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "美 5월 CPI 앞두고 월가 긴장…채권시장은 '연내 금리인상' 베팅",
+        "link": "https://www.news1.kr/world/international-economy/6192845",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "인천시, 기술전환 기업 95억원 융자 지원…15일부터 신청",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=03637526645480408",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "JP모건 \"韓 올해 성장률 전망치 3.7%로 상향…내년은 2.7%\"",
+        "link": "https://biz.sbs.co.kr/article_hub/20000315472?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "[단독]'규제 사각지대' 사내 주택 대출 연 5조…1인당 평균 7400만원",
+        "link": "https://www.newsis.com/view/NISX20260610_0003663377",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "\"선순위 천만원에도 대출 못해\"…생산적금융 막는 부동산 담보대출 RW",
+        "link": "https://www.mt.co.kr/finance/2026/06/10/2026060916314278738",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "‘고 환율 잡겠다’ 칼 빼든 당국…외국계 은행 검사 나선다",
+        "link": "https://www.mk.co.kr/article/12070327",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "컬러레이·네오이뮨텍·로보스타 급락…미국-이란 충돌 격화 속 투심 위...",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=580897",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "\"달러 열심히 벌었는데…\" 수출 대박에도 원화 추락하는 이유 [스프]",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008601747&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "[부자들의 투자노트] 찰스슈왑 \"인플레 붐 속…유가 150달러까지 오를 ...",
+        "link": "https://biz.sbs.co.kr/article_hub/20000315549?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-06-09"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "구로문화재단, 구로아트브릿지 첫 선정작 시오트(SYOT) '무아 無我' 개최",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=1380185",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "자전거 도시 진주, 누더기 자전거도로 이래도 되나",
+        "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=638644",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "[원자재 시황] 금값 4300달러·WTI 90달러선 붕괴",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1711895",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "젠슨 황, ‘깐부’ SK ‘삼쏘’ LG·네이버, ‘평냉‘ 현대차에 치른 식...",
+        "link": "https://www.donga.com/news/Economy/article/all/20260609/134077694/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-06-10"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "괴물 출력 모터를 도로 위로…메가모, 아비녹스 기반 전기 로드바이크 ...",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=673582",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "배민 매각 우려에 … 자영업자들 \"공공성 강화· 배달 앱 시장 정상화\" 청...",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/06/10/2026061000059.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "선거 끝나자 다시 불붙는 배달앱 규제… 합의 불발 땐 입법 가능성",
+        "link": "https://biz.chosun.com/distribution/food/2026/06/09/D7OTHAZKDVBKXCV5LLRP5KAP2E/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "THE Biz(더비즈)",
+        "link": "https://www.the-biz.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "‘팔면 땡?’ 전기 스쿠터 보조금 뒷말, 왜?",
+        "link": "https://www.ilyosisa.co.kr/news/article.html?no=256326",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "삼성운용, 중퇴기금 전담운용기관 우협 대상자 선정",
+        "link": "https://www.newsis.com/view/NISX20260610_0003663554",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "[금융 Pick] 신한금융그룹, 서민 재기 돕는다…5조원 규모 '포용금융 2.0...",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=203227",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-09"
+      }
+    ]
   }
 };
