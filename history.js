@@ -11582,5 +11582,174 @@ window.historyData = {
         "date": "2026-06-09"
       }
     ]
+  },
+  "2026-06-11": {
+    "macro": [
+      {
+        "title": "국내 금값, 1g당 20만원선 아래로…작년 12월 이후 처음",
+        "link": "https://www.yna.co.kr/view/AKR20260611075100008?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "캐나다, 기준금리 2.25%로 5연속 동결…\"인플레 영향 주시\"",
+        "link": "https://www.newsis.com/view/NISX20260611_0003665241",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "집값 오르고 주식도 오르자… 6월 아파트 입주전망지수, 10p 넘게 ‘쑥’",
+        "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/06/11/UGGAMBNAWFHZXLFKSDTKQDCGDM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "\"반도체 비중 조절\"…미국서 힘 얻는 '변동성 관리' 필요성",
+        "link": "https://www.dailian.co.kr/news/view/1654597/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "농협銀 가계대출 문턱 높여…모기지 보험 가입 추가 제한",
+        "link": "https://www.yna.co.kr/view/AKR20260611072900002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "기준금리 인상 분위기 속…개인 신용 대출 금리 뛴다",
+        "link": "https://www.sedaily.com/article/20054213?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "[더벨][Sanction Radar] 한은-금감원, 14년 만에 특별 외환 공동 검사",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202606101541238440102211",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "美이틀째 이란 공습에… 국제유가 2%대 상승, 브렌트유 95달러",
+        "link": "https://www.newsis.com/view/NISX20260611_0003665095",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "[팩트추적] 호르무즈 봉쇄가 울린 에너지 비상벨",
+        "link": "https://www.ytn.co.kr/replay/view.php?idx=274&key=202606111030560257",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "'중동쇼크' 취업자 감소 전환…반도체 활황에도 제조업 14만↓(종합2보)",
+        "link": "https://www.yna.co.kr/view/AKR20260610175952002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-06-11"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "[단독] “손 찢어져도 50만원 넘어야 보상?”… 더스윙 , 계속되는 논란과...",
+        "link": "https://wemakenews.co.kr/news/view.php?no=25442",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "구로문화재단 ,국악크로스오버밴드 시오트(SYOT)의 '무아 無我' 개최...구...",
+        "link": "https://www.cnbizm.com/news/articleView.html?idxno=305152",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "마이크로 킥보드 x 포르쉐', 프리미엄 DNA를 담은 GT3 RS 에디션 출시",
+        "link": "https://www.kizmom.com/news/articleView.html?idxno=110864",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "빈패스트, 1분기 ' 전기이륜차 ' 주문 역대 최고치 달성…판매량 14.3만 대...",
+        "link": "https://www.insidevina.com/news/articleView.html?idxno=43359",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "[부산ㆍ경남 대학 브리핑 모음(6월10일)] 경상국립대학교 미래차 RISE사업...",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606091600372410689",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-10"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "[팩트추적] 호르무즈 봉쇄가 울린 에너지 비상벨",
+        "link": "https://www.ytn.co.kr/replay/view.php?idx=274&key=202606111030560257",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "배민, 여름맞이 할인 행사 ‘배민 먹을복 페스타’ 진행",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=87942",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "‘개인정보 유출’ 쿠팡 에 역대 최대 ‘6200억원’ 과징금 부과",
+        "link": "https://www.seoul.co.kr/news/economy/2026/06/11/20260611500077?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "쿠팡이츠·배민 ‘새벽 3시의 결투’…점주·소비자 부담 증가 ‘불보듯...",
+        "link": "https://www.hani.co.kr/arti/economy/economy_general/1262845.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "최저임금 5차 회의‥택배· 배달 기사 등 적용 오늘 결정되나",
+        "link": "https://imnews.imbc.com/news/2026/society/article/6829392_36918.html",
+        "source": "MBC",
+        "tier": "S",
+        "date": "2026-06-10"
+      },
+      {
+        "title": "울산 남구, ‘소상공인 온라인 플랫폼 지원사업’ 시행",
+        "link": "https://biz.heraldcorp.com/article/10769254?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-10"
+      }
+    ]
   }
 };
