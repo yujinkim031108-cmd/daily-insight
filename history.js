@@ -11751,5 +11751,188 @@ window.historyData = {
         "date": "2026-06-10"
       }
     ]
+  },
+  "2026-06-12": {
+    "macro": [
+      {
+        "title": "신현송 한은 총재 “늦지 않게 금리 인상해야”",
+        "link": "https://biz.chosun.com/policy/policy_sub/2026/06/12/7JQJT3ARHZHRFCIKZLDBWVSRNY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "정부 '경기 하방 위험' 뺐지만 \"중동 불확실성 지속…고용둔화\"(종합)",
+        "link": "https://www.yna.co.kr/view/AKR20260612050051002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "한은 총재 세 번째 금리 인상 예고…“물가안정 중점 금리 인상 필요”",
+        "link": "https://www.seoul.co.kr/news/economy/finance/2026/06/12/20260612500100?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "한은총재 금리인상 예고 벌써 세 번째…'연내 2회 인상' 관측",
+        "link": "https://www.yna.co.kr/view/AKR20260612063000002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "\"금리 올리고·한도 줄이고·창구 닫고\"…은행권 '빚투 차단' 총력전(종...",
+        "link": "https://www.news1.kr/finance/general-finance/6195488",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "고액 연봉자 '마통' 한도 줄어든다",
+        "link": "https://www.hankyung.com/article/2026061115551",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "한은 총재 \"물가안정에 중점…늦지 않게 금리 인상\"(종합)",
+        "link": "https://www.yna.co.kr/view/AKR20260612035551002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "지난 1세기 석 유가 뒤흔든 국제 질서⑦-마지막회· [홍영식의 이슈 워치...",
+        "link": "https://magazine.hankyung.com/business/article/202606107572b",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "‘경기 하방위험’ 빠졌지만…“물가 상승·고용둔화 우려”",
+        "link": "https://www.seoul.co.kr/news/economy/2026/06/12/20260612500106?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "수출 잘되는데 고용은 둔화…\"경기 회복 흐름에도 민생부담 우려\"(종합...",
+        "link": "https://www.newsis.com/view/NISX20260612_0003666719",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-06-11"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "서울시·축구협회·붉은악마·KT '광화문 응원전' 안전관리",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7168995",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "구로문화재단 ,국악크로스오버밴드 시오트(SYOT)의 '무아 無我' 개최...구...",
+        "link": "https://www.cnbizm.com/news/articleView.html?idxno=305152",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "[이주의 여행산업 브리핑] 아마데우스·마이리얼트립 손잡은 이유는",
+        "link": "https://www.traveltimes.co.kr/news/articleView.html?idxno=415995",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "이상일 용인특례시장, “아이 안전 무엇보다 중요...녹색어머니회 활동...",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160293053548512",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "TS, 배달 이륜차 사고 줄이기 나선다...라이더 안전교육·안전망 강화",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=872236",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "“청년 커리어에 기술을 더하다” 영진전문대, ‘2026 미래 모빌리티 잡...",
+        "link": "https://www.sentv.co.kr/article/view/sentv202606110126",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-11"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "서울시·축구협회·붉은악마·KT '광화문 응원전' 안전관리",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7168995",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "캠핑 장비 싣고 산길 달린다…스페셜라이즈드, 신형 전기자전거 '터보 ...",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=674466",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "하루틴, 대한민국 선수단 응원 이벤트 진행…손흥민 득점 시 할인 혜택...",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=216035",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "오프뷰티, 쿠팡이츠 장보기·쇼핑 입점… 배송 서비스 확대",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=217950",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "성수 누비는 배달로봇의 비밀…뉴빌리티 ‘맵리스 자율주행’ 뭐길래",
+        "link": "https://www.ddaily.co.kr/page/view/2026061122383474057",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "TS, 배달 이륜차 사고 줄이기 나선다...라이더 안전교육·안전망 강화",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=872236",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-11"
+      },
+      {
+        "title": "'착한 경영' 강화하는 유통가, ESG 활동 전방위 확산",
+        "link": "https://theviewers.co.kr/View.aspx?No=4109788",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "[스마트FNB] 카페 창업 35% 급감··· \"5년간 세금 100% 감면인데\" 세무...",
+        "link": "https://www.smartbizn.com/news/articleView.html?idxno=146044",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-12"
+      }
+    ]
   }
 };
