@@ -11934,5 +11934,174 @@ window.historyData = {
         "date": "2026-06-12"
       }
     ]
+  },
+  "2026-06-13": {
+    "macro": [
+      {
+        "title": "AI 발전할수록 간병비는 뛴다? 물가 의 역설[딥다이브]",
+        "link": "https://www.donga.com/news/Economy/article/all/20260612/134097865/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-06-13"
+      },
+      {
+        "title": "중동 전쟁 끝나나…미국·이란 협상 급물살",
+        "link": "https://www.sedaily.com/article/20055327?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "다음 주 주요 경제지표…5월 수출입·생산자물가 얼마나 뛰었나",
+        "link": "https://biz.sbs.co.kr/article_hub/20000316360?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "신현송 한은 총재 또 금리인상 ‘신호’",
+        "link": "https://www.chosun.com/economy/stock-finance/2026/06/13/SCGWYAJTBBDWTJCVCVYPKCGPPY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-06-13"
+      },
+      {
+        "title": "‘빚투’에 신용대출 1.6조 급증…시중은행 가계대출 , 이달 들어 2.8조 ...",
+        "link": "https://www.mk.co.kr/article/12073287",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "증시불장에 ‘빚투’ 폭주… 신용 대출 -마통 다 죈다",
+        "link": "https://www.donga.com/news/Economy/article/all/20260612/134104161/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "달러 - 원 환율 , 종전 합의 임박했다고 보는 분위기…1518.30원 마감",
+        "link": "https://biz.sbs.co.kr/article_hub/20000316349?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "美·이란, '핵 영구 포기' 종전 MOU 잠정 합의…중동 질서 뒤흔들 대전환...",
+        "link": "https://www.sjsori.com/news/articleView.html?idxno=86606",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "청년을 만난 정치권, 왜 청년의 삶은 바뀌지 않는가?",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=694348",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "[경제 포커스] ‘반도체 호황 쌍둥이’ 한국과 대만, 고용 성적표는 정...",
+        "link": "https://biz.chosun.com/policy/policy_sub/2026/06/15/UWPLWUDRDNDB5IENUXMC5DJQ5U/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-06-12"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "\"지하철역 출구 막고 점자블록 점령\"… 공유 킥보드 무질서 주차 골치",
+        "link": "https://www.news1.kr/society/general-society/6195471",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "이상일 용인특례시장, “아이 안전 무엇보다 중요...녹색어머니회 활동...",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160293053548512",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "TS, 배달 이륜차 사고 줄이기 나선다...라이더 안전교육·안전망 강화",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=872236",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "[기획] '삼겹살 회동'이 드러낸 AI 협력 지형…카카오는 왜 빠졌나",
+        "link": "https://www.sentv.co.kr/article/view/sentv202606120039",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-12"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-13"
+      },
+      {
+        "title": "[비즈차이나] 유가 불안에 주문 폭주… 세계 1위 전기 스쿠터 ‘야디’ ...",
+        "link": "https://biz.chosun.com/international/international_general/2026/06/15/6LBRCN6URRHSPBHOLVJRNCY4IU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "AI 발전할수록 간병비는 뛴다? 물가의 역설[딥다이브]",
+        "link": "https://www.donga.com/news/Economy/article/all/20260612/134097865/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-06-13"
+      },
+      {
+        "title": "유통사와 손잡는 카드사, 생활밀착형 혜택 강화",
+        "link": "https://www.mediapen.com/news/view/1104286",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "“돈 더 내고 한집배달 시켰는데”…“다폰·다계정 멀티픽업” 논란 확...",
+        "link": "https://www.kyeonggi.com/article/20260611580564",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-13"
+      },
+      {
+        "title": "TS, 배달 이륜차 사고 줄이기 나선다...라이더 안전교육·안전망 강화",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=872236",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "“ 배달 기사는 근로자인가”…도급제 최저임금 좌절시킨 ‘이 질문’",
+        "link": "https://www.joongang.co.kr/article/25436438",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-06-12"
+      },
+      {
+        "title": "과목당 한 달 수수료 4500원... 헌법은 왜 우리에게만 적용되지 않는가",
+        "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003242650&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+        "source": "오마이뉴스",
+        "tier": "C",
+        "date": "2026-06-13"
+      }
+    ]
   }
 };
