@@ -12103,5 +12103,160 @@ window.historyData = {
         "date": "2026-06-13"
       }
     ]
+  },
+  "2026-06-14": {
+    "macro": [
+      {
+        "title": "“오마카세 안 가요” SNS 점령하더니 ‘돌변’…요즘은 ‘여기’ 몰린...",
+        "link": "https://www.seoul.co.kr/news/economy/2026/06/11/20260611500249?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-06-14"
+      },
+      {
+        "title": "美·유럽·일본 긴축 시계 재가동… 7월 한은 금리인상 가능성 커져",
+        "link": "https://www.g-enews.com/view.php?ud=202606121520041157cd0bfacc1c_1",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-14"
+      },
+      {
+        "title": "기준금리 인상 전망에…은행 예금금리 다시 3%대 진입",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8585713&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-06-14"
+      },
+      {
+        "title": "높아지는 물가와 다가오는 금리인상 [한은 미리보기]",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=02338646645481392",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-06-14"
+      },
+      {
+        "title": "가계대출 조이기 나선 KB국민은행…16일부터 신용대출 한도 최대 1억원",
+        "link": "https://www.dt.co.kr/article/12067389?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-13"
+      },
+      {
+        "title": "증시불장에 ‘빚투’ 폭주… 신용 대출 -마통 다 죈다",
+        "link": "https://www.donga.com/news/Economy/article/all/20260612/134104161/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-06-13"
+      },
+      {
+        "title": "정부 ' 달러 매도' 요청에도…기업 달러 예금 41개월 내 최대",
+        "link": "https://www.news1.kr/finance/general-finance/6196639",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-06-14"
+      },
+      {
+        "title": "종전 합의 기대감에 국제유가 하락-국내 기름값도 4주 연속 하락",
+        "link": "https://www.newsis.com/view/NISI20260614_0021319652",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-06-14"
+      },
+      {
+        "title": "반도체 호황에 5월 ICT 수출·무역수지 흑자 역대 최대",
+        "link": "https://www.news1.kr/economy/idustry-trade/6196377",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-06-13"
+      },
+      {
+        "title": "한국경제, 50년 만의 고성장…반도체 호황 속 청년은 고용한파",
+        "link": "https://www.joongang.co.kr/article/25436536",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-06-14"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-13"
+      },
+      {
+        "title": "시오트 \"우리가 곧 장르…한국의 골목길 닮은 음악하고 싶어\" [문화人터...",
+        "link": "https://www.newsis.com/view/NISX20260612_0003667022",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-06-13"
+      },
+      {
+        "title": "성유리 쌍둥이 딸, 벌써 킥보드 타는 4살...母 닮아 뒷모습도 '모델 비율...",
+        "link": "https://www.sportschosun.com/entertainment/2026-06-13/202606130100087460005574",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-06-14"
+      },
+      {
+        "title": "케이메디허브, '코아디멕스 잡페어 2026' 개최… AI·로봇 등 12대 신산업...",
+        "link": "https://www.etnews.com/20260612000004",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-13"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-13"
+      },
+      {
+        "title": "“다른 건 못 입겠다”…송혜교·손석구도 반한 15만원짜리 티셔츠 [비...",
+        "link": "https://www.joongang.co.kr/article/25436482",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-06-13"
+      },
+      {
+        "title": "베트맨, 6월 건전화 캠페인 ‘건전화 프로그램 참여하고 건강한 토토라...",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01403846645481720",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-06-13"
+      },
+      {
+        "title": "오프뷰티, 쿠팡이츠 장보기·쇼핑 입점",
+        "link": "https://www.handmk.com/news/articleView.html?idxno=40173",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-13"
+      },
+      {
+        "title": "“구두공장 떠난 자리에 로봇 들어왔다”…‘팝업 성지’ 성수동의 진화",
+        "link": "https://www.mk.co.kr/article/12073437",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-06-14"
+      },
+      {
+        "title": "“ 배달 기사는 근로자인가”…도급제 최저임금 좌절시킨 ‘이 질문’",
+        "link": "https://www.joongang.co.kr/article/25436438",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-06-13"
+      },
+      {
+        "title": "클릭의 종말? 검색창이 ‘명령창’ 됐다 [AI 딥다이브]",
+        "link": "https://www.mk.co.kr/article/12066874",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-06-13"
+      }
+    ]
   }
 };
