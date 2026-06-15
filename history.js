@@ -12258,5 +12258,174 @@ window.historyData = {
         "date": "2026-06-13"
       }
     ]
+  },
+  "2026-06-15": {
+    "macro": [
+      {
+        "title": "기정사실화된 금리인상… '주식시장 악재' 공식 깨지나",
+        "link": "https://www.mhns.co.kr/news/articleView.html?idxno=750312",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-14"
+      },
+      {
+        "title": "AI의 성적표는 아직 나오지 않았다[마은성의 경제돋보기]",
+        "link": "https://magazine.hankyung.com/business/article/202606107791b",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-06-14"
+      },
+      {
+        "title": "호르무즈 열려도 전쟁이 남긴 ‘3高’ 후폭풍 ‘뉴노멀’ 간다[미·이란...",
+        "link": "https://www.joongang.co.kr/article/25436781",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-06-15"
+      },
+      {
+        "title": "“매파적 데뷔전”… 한은과 Fed의 선택 [금리인상의 시간]",
+        "link": "https://magazine.hankyung.com/business/article/202606119611b",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-06-15"
+      },
+      {
+        "title": "\"3억 미만 줄고 20억 이상 늘고\"…전국 아파트 시장 '상향 이동'",
+        "link": "https://www.mt.co.kr/estate/2026/06/15/2026061509425333891",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-06-15"
+      },
+      {
+        "title": "[취재수첩] 이전과 다른 P2P 대출 풍선효과",
+        "link": "https://www.hankyung.com/article/2026061452761",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-06-15"
+      },
+      {
+        "title": "미·이란 종전합의… 환율 장중 1504원까지 '뚝'",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=709718",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-14"
+      },
+      {
+        "title": "美·이란 합의에 日닛케이지수 장중 사상 최고치…6만9000선 돌파(종합)",
+        "link": "https://www.newsis.com/view/NISX20260615_0003669210",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-06-15"
+      },
+      {
+        "title": "물 부족 국가의 AI혁명, 지속가능성을 확보해야",
+        "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003241903&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+        "source": "오마이뉴스",
+        "tier": "C",
+        "date": "2026-06-14"
+      },
+      {
+        "title": "\"독일 기업 1만 6200개 중 겨우 29곳이 나라 먹여 살린다\"…맥킨지 충격...",
+        "link": "https://www.g-enews.com/view.php?ud=2026061511044841232bd56fbc3c_1",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-14"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-14"
+      },
+      {
+        "title": "케이앤에스아이앤씨, 증권신고서 제출…코스닥 상장 절차 돌입",
+        "link": "https://www.newsis.com/view/NISX20260615_0003668777",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-06-14"
+      },
+      {
+        "title": "[2026 북중미] “스타가 팀을 구한 사례” 브라질 향한 우려는 여전",
+        "link": "https://isplus.com/article/view/isp202606140074",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-14"
+      },
+      {
+        "title": "美 팝스타 올리버 트리, 헬기 충돌 사고로 사망…향년 32세 '전세계 충격...",
+        "link": "https://www.mydaily.co.kr/page/view/2026061508084626988",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-14"
+      },
+      {
+        "title": "KOTRA해외시장뉴스",
+        "link": "https://dream.kotra.or.kr/kotranews/index.do",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-14"
+      },
+      {
+        "title": "케이메디허브, '코아디멕스 잡페어 2026' 개최… AI·로봇 등 12대 신산업...",
+        "link": "https://www.etnews.com/20260612000004",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-14"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-14"
+      },
+      {
+        "title": "전고체 기다리다 '반고체'가 먼저 왔다…보조배터리· 전기자전거 확산",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=674991",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-14"
+      },
+      {
+        "title": "배달의민족 , 파리바게뜨와 손잡고 음식 폐기물 줄이기 나선다",
+        "link": "https://www.gokorea.kr/news/articleView.html?idxno=869165",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-14"
+      },
+      {
+        "title": "BofA, 쿠팡 ‘매수’·목표가 28달러 유지…\"멤버십 이탈 우려 극복\"",
+        "link": "https://www.theguru.co.kr/news/article.html?no=103053",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-14"
+      },
+      {
+        "title": "당일 못 판 빵은 할인가로...오늘부터 배달앱서 서비스",
+        "link": "https://news.jtbc.co.kr/article/NB12303232?influxDiv=NAVER",
+        "source": "JTBC",
+        "tier": "A",
+        "date": "2026-06-15"
+      },
+      {
+        "title": "노동계, 내년 최저임금 1만2000원 요구…\"최소한 생존 비용\"(종합)",
+        "link": "https://www.newsis.com/view/NISX20260615_0003669237",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-06-14"
+      },
+      {
+        "title": "사장님의 퇴근은 없다: 가맹계약이 만든 노동의 사각지대 [현민석의 페...",
+        "link": "https://www.hankyung.com/article/202606134273i",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-06-15"
+      }
+    ]
   }
 };
