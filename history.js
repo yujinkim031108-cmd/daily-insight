@@ -12427,5 +12427,167 @@ window.historyData = {
         "date": "2026-06-15"
       }
     ]
+  },
+  "2026-06-16": {
+    "macro": [
+      {
+        "title": "대출 규제·금리 부담 속 '중도금 무이자' 조건 단지 관심",
+        "link": "https://edu.donga.com/news/articleView.html?idxno=108880",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-06-15"
+      },
+      {
+        "title": "미-이란 평화합의에 인플레 정점론 부상…\"고개는 아직 못 넘어\"",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=03604726645482376",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "“대출 막히기 전에 8000만원 더 받자”…‘빚투 先수요’ 몰린다 [규제...",
+        "link": "https://biz.heraldcorp.com/article/10772582?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-15"
+      },
+      {
+        "title": "[개장] 미-이란 종전 합의에 글로벌 증시 일제히 급등",
+        "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=600904",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "인터넷은행 3사, 신용 대출 축소…‘빚투’ 차단",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8587425&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "청주행복신협, 지역사회로 더 가까이 더 깊이 '성장세 지속'",
+        "link": "https://www.inews365.com/news/article.html?no=923547",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-15"
+      },
+      {
+        "title": "美-이란 종전 합의에 한숨 돌린 항공업계 … 유가· 환율 안정에 여행수...",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/06/16/2026061600102.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-06-15"
+      },
+      {
+        "title": "7월 발권 유류할증료 20% 내려…뉴욕 왕복 21만 5천 원 ↓",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008612482&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-06-15"
+      },
+      {
+        "title": "최교진 교육장관 “교부금 제도 개편 불가피”",
+        "link": "https://www.donga.com/news/Society/article/all/20260615/134117386/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "中 5월 소비 지표, 3년 5개월 만에 감소 전환…내수 부진 시사",
+        "link": "https://www.ajunews.com/view/20260616105433110",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-16"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-15"
+      },
+      {
+        "title": "케이앤에스아이앤씨, 증권신고서 제출…코스닥 상장 절차 돌입",
+        "link": "https://www.newsis.com/view/NISX20260615_0003668777",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-06-15"
+      },
+      {
+        "title": "[황미선의 위기탈출] 빠른 서비스와 느린 제도 사이, 한국 모빌리티의 ...",
+        "link": "https://www.lecturernews.com/news/articleView.html?idxno=204326",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-15"
+      },
+      {
+        "title": "KOTRA해외시장뉴스",
+        "link": "https://dream.kotra.or.kr/kotranews/index.do",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-15"
+      },
+      {
+        "title": "접히는 자전거에 ‘충돌 방지 기술’까지 탑재",
+        "link": "https://www.donga.com/news/Economy/article/all/20260615/134102263/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-06-15"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-15"
+      },
+      {
+        "title": "부산에 뜬 대만 디자인-\"우리도 디자인 강국\"",
+        "link": "https://www.hankyung.com/article/202606157093i",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-06-15"
+      },
+      {
+        "title": "커피 한 잔에 디저트 한 조각… 이디야, '카페 체류시간' 늘린다",
+        "link": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=518532",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "\"디저트 경험 확대\"...이디야커피, '바스크 치즈케이크' 출시",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=221001",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "이솔루션, ' 전기 이륜차 용 공통 교환형 배터리팩' 국가표준 인증 획득",
+        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=82150",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-15"
+      },
+      {
+        "title": "제주도, 폭염 취약 야외노동자에 삼다수 2만2400개 지원",
+        "link": "https://www.news1.kr/local/jeju/6198563",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "배달 앱 의존 높을수록 이익 감소…중소 사업자 '타격'",
+        "link": "https://biz.sbs.co.kr/article_hub/20000316793?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-06-15"
+      }
+    ]
   }
 };
