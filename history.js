@@ -12589,5 +12589,167 @@ window.historyData = {
         "date": "2026-06-15"
       }
     ]
+  },
+  "2026-06-17": {
+    "macro": [
+      {
+        "title": "ECB·日 올리고, 美도 물가 전쟁 재점화 … 韓 7월 금리 인상 카운트다운",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/06/17/2026061700096.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "[판읽기] 日 1% 금리 복귀…한은 ‘동결 명분’ 줄었다",
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=205177",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-17"
+      },
+      {
+        "title": "“BOJ 금리 인상에도 엔화 약세…엔캐리 청산 우려 완화” <키움證>",
+        "link": "https://www.news2day.co.kr/article/20260617500040",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "[마켓 프리뷰] 코스피, 돌아온 외인에 8700선 돌파…금리 인상 변수",
+        "link": "https://biz.sbs.co.kr/article_hub/20000317019?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-06-17"
+      },
+      {
+        "title": "“금융도 블록화 시대…성장산업 향한 자금 흐름 복원해야”[ESF2026]",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=03430886645482704",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "청주행복신협, 지역사회로 더 가까이 더 깊이 '성장세 지속'",
+        "link": "https://www.inews365.com/news/article.html?no=923547",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "코스피, 美 FOMC 앞두고 소폭 하락…외국인 순매도 전환",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=872593",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "정부, 다주택·비거주 주택 세부담 강화 검토…7월 말 개편안 공개",
+        "link": "https://www.kukinews.com/article/view/kuk202606170055",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "\"올해 경제성장률 3%에 근접…하반기 두차례 금리 인상 전망\"",
+        "link": "https://www.ajunews.com/view/20260617103905752",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "고용지표 악화 속 정부...청년·주요 산업 고용안정 대책 총력",
+        "link": "https://www.m-economynews.com/news/article.html?no=67960",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-16"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "“8·11·14단지 수주 정조준”… 대우건설, 목동서 조합원 접점 넓힌다",
+        "link": "https://www.donga.com/news/Economy/article/all/20260616/134122206/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "매년 20명 넘게 사망… 전동킥보드 안전 문제 온라인서 시끌",
+        "link": "https://www.safetynews.co.kr/news/articleView.html?idxno=249016",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "[베트남 주간 이슈] 미친 듯 치솟던 금값 고점 比 28% 폭락…부동산 관...",
+        "link": "https://www.insidevina.com/news/articleView.html?idxno=43397",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "접히는 자전거에 ‘충돌 방지 기술’까지 탑재",
+        "link": "https://www.donga.com/news/Economy/article/all/20260615/134102263/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-06-17"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "대만 디자인 파워 대만관, 부산디자인페스티벌 2026 참가",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092163991",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-06-17"
+      },
+      {
+        "title": "세계 피자 제왕의 몰락 : 피자헛 글로벌 본사는 15억 달러에 팔리고, 한...",
+        "link": "https://www.huffingtonpost.kr/article/258018",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "폭염 속 배달라이더·택배기사 지킨다…이동노동자 쉼터 152곳 생수 지원",
+        "link": "https://www.news1.kr/economy/employment-labor/6199629",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-06-17"
+      },
+      {
+        "title": "배민, 처갓집 이어 피자헛 맞손 … 프랜차이즈 동맹 확대",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/06/17/2026061700042.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-06-17"
+      },
+      {
+        "title": "노동부, 열스트레스 관리 시스템 개발해 이동노동자 온열질환 막는다",
+        "link": "https://www.segye.com/newsView/20260617505630?OutUrl=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "낮은 수수료 ·지역상품권 결제… 존재감 키우는 공공 배달 앱",
+        "link": "https://www.seoul.co.kr/news/publicnews/policy_admin/news_policy/2026/06/17/20260617019001?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-06-16"
+      }
+    ]
   }
 };
