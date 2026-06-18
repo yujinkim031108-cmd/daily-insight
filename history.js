@@ -12751,5 +12751,195 @@ window.historyData = {
         "date": "2026-06-16"
       }
     ]
+  },
+  "2026-06-18": {
+    "macro": [
+      {
+        "title": "케빈 워시의 배신?…FOMC, 트럼프 기대와 정반대였던 이유",
+        "link": "https://www.newsis.com/view/NISX20260618_0003673790",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-06-17"
+      },
+      {
+        "title": "[증시타임] 6월 FOMC 집중 분석과 하반기 시장 전망",
+        "link": "https://biz.sbs.co.kr/article_hub/20000317293?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-06-17"
+      },
+      {
+        "title": "“150년 만의 거품 경고에 매파 본색 연준까지”…美 증시 ‘공포의 장...",
+        "link": "https://www.seoul.co.kr/news/economy/2026/06/18/20260618500091?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-06-17"
+      },
+      {
+        "title": "중동전쟁 여파 금리↑ 추세...한국도 인상 예고, 환율에도 영향?",
+        "link": "https://www.ikbc.co.kr/article/view/kbc202606180024",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-17"
+      },
+      {
+        "title": "K금융의 인도네시아 영토 확장, ‘진출’을 넘어 ‘주류’로 성장하는 ...",
+        "link": "https://www.hankyung.com/article/202606169937r",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-06-18"
+      },
+      {
+        "title": "국내은행 대출 연체 율 다시 반등...기업·가계 대출 일제히 상승",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=252634",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-17"
+      },
+      {
+        "title": "파죽지세 코스피 8900선 돌파… 환율 은 1520원대 횡보(종합)",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3410188",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-17"
+      },
+      {
+        "title": "제재 족쇄 풀리는 이란…'오일머니 90조원 시대' 오나",
+        "link": "https://www.yna.co.kr/view/AKR20260618075100009?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-06-18"
+      },
+      {
+        "title": "구윤철 \"공급망 다변화·탈석유 경제 전환…AI 중심 성장전략 마련\"",
+        "link": "https://www.news1.kr/economy/trend/6201077",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-06-18"
+      },
+      {
+        "title": "부의 축적보다 중요한 것",
+        "link": "https://newscham.net/articles/116671",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-17"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-17"
+      },
+      {
+        "title": "국악크로스오버 밴드 시오트, 더블 싱글 '파도' 19일 발매",
+        "link": "https://www.newsis.com/view/NISX20260618_0003674071",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-06-17"
+      },
+      {
+        "title": "“8·11·14단지 수주 정조준”… 대우건설, 목동서 조합원 접점 넓힌다",
+        "link": "https://www.donga.com/news/Economy/article/all/20260616/134122206/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-06-17"
+      },
+      {
+        "title": "매년 20명 넘게 사망… 전동킥보드 안전 문제 온라인서 시끌",
+        "link": "https://www.safetynews.co.kr/news/articleView.html?idxno=249016",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-17"
+      },
+      {
+        "title": "허훈 서울시의원, 4년 의정활동 결실... 교육예산 총 607억원·미래세대...",
+        "link": "https://www.seoul.co.kr/news/publicnews/local_govern/smc_movement/2026/06/18/20260618500069?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-06-17"
+      },
+      {
+        "title": "전기 차 화재 사고 , 안전점검으로 예방… 전기 버스· 이륜차 까지 점검 확대",
+        "link": "https://www.dailian.co.kr/news/view/1657041/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-06-17"
+      },
+      {
+        "title": "[ICT 종합] 버스에잇, 블록체인 웹3 게임 컨퍼런스 강연 소식 외",
+        "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=58748",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-17"
+      },
+      {
+        "title": "정해권 인천시의회 의장 \"9대 시의회 헌신에 감사\"",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1325367",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-18"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-17"
+      },
+      {
+        "title": "[TK기후민심] ③ 같은 기후위기, 다른 교통 조건···대구·경북이 풀어...",
+        "link": "https://www.newsmin.co.kr/news/133591/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-17"
+      },
+      {
+        "title": "우아한청년들, 라이더와 유기견보호소 봉사…입양 캠페인 이어가",
+        "link": "https://www.yna.co.kr/view/AKR20260618046800030?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-06-18"
+      },
+      {
+        "title": "배달앱 치킨 중량 표시 제각각…가격 비교 실효성 논란",
+        "link": "https://www.bizhankook.com/bk/article/32559",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-17"
+      },
+      {
+        "title": "배민, 처갓집 이어 피자헛 맞손 … 프랜차이즈 동맹 확대",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/06/17/2026061700042.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-06-18"
+      },
+      {
+        "title": "오늘의 정책 소식 (26. 06. 18. 10시)",
+        "link": "https://www.ktv.go.kr/content/view?content_id=756744",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-17"
+      },
+      {
+        "title": "전재수 인수위, 북극항로·예술·노동 공약 고민…현장 방문",
+        "link": "https://www.yna.co.kr/view/AKR20260618068600051?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-06-17"
+      },
+      {
+        "title": "3고 시대 실속은 디폴트…2026 금융상품 가이드",
+        "link": "https://magazine.hankyung.com/business/article/202606119438b",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-06-18"
+      }
+    ]
   }
 };
