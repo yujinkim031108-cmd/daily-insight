@@ -12941,5 +12941,188 @@ window.historyData = {
         "date": "2026-06-18"
       }
     ]
+  },
+  "2026-06-19": {
+    "macro": [
+      {
+        "title": "日 5월 소비자물가 , 정부 에너지 보조에 1.4% 상승 그쳐",
+        "link": "https://www.yna.co.kr/view/AKR20260619057600073?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-06-18"
+      },
+      {
+        "title": "[다음주 경제일정] 美 1분기 GDP·5월 PCE 주목…마이크론 실적 '반도체...",
+        "link": "https://biz.sbs.co.kr/article_hub/20000317630?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-06-19"
+      },
+      {
+        "title": "1540원선 넘보는 환율…미·이란 종전 MOU 서명식 연기",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=03778566645483360",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-06-18"
+      },
+      {
+        "title": "워시도 데뷔서 ‘매파적 동결’… 한미, 금리인상 발판 깔았다",
+        "link": "https://www.seoul.co.kr/news/economy/finance/2026/06/19/20260619003004?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-06-19"
+      },
+      {
+        "title": "\"빚투 규제가 인뱅 성장 발목\"…신용 대출 한도 축소 여파 주목",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=526968",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-18"
+      },
+      {
+        "title": "4월 은행 원화 대출 연체 율 0.61%…0.05%p↑",
+        "link": "https://www.pressian.com/pages/articles/2026061906000938095?utm_source=naver&utm_medium=search",
+        "source": "프레시안",
+        "tier": "C",
+        "date": "2026-06-19"
+      },
+      {
+        "title": "공항서 달러 바꾸려니…높은 환율 눈길",
+        "link": "https://www.news1.kr/photos/7966999",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-06-18"
+      },
+      {
+        "title": "5월 생산자물가 전년 대비 8.5% 상승…3년 10개월만에 최고",
+        "link": "https://www.donga.com/news/Economy/article/all/20260619/134142502/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-06-18"
+      },
+      {
+        "title": "신현송 한은 총재의 착각",
+        "link": "https://www.chosun.com/economy/weeklybiz/2026/06/16/QSFRKYHXWRDLDH26ZR74P57XRU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-06-18"
+      },
+      {
+        "title": "[이슈분석] '반도체 착시현상'에 빠진 한국 경제",
+        "link": "https://monthly.chosun.com/news/articleView.html?idxno=70439",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-06-19"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-18"
+      },
+      {
+        "title": "[단독] 쏘카-카카오모빌리티, 공유 전기자전거 사업 합병 무산",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=676219",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-18"
+      },
+      {
+        "title": "국악크로스오버 밴드 시오트, 더블 싱글 '파도' 19일 발매",
+        "link": "https://www.newsis.com/view/NISX20260618_0003674071",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-06-19"
+      },
+      {
+        "title": "소방청, 여름 휴가철 다중이용시설 화재예방 특별대책 추진",
+        "link": "https://idsn.co.kr/news/view/1065577572408077",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-18"
+      },
+      {
+        "title": "'음주 전동킥보드 , 차량 동일 처벌' 관련안 국회 제출",
+        "link": "https://www.safetynews.co.kr/news/articleView.html?idxno=249060",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-18"
+      },
+      {
+        "title": "허훈 서울시의원, 4년 의정활동 결실... 교육예산 총 607억원·미래세대...",
+        "link": "https://www.seoul.co.kr/news/publicnews/local_govern/smc_movement/2026/06/18/20260618500069?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-06-19"
+      },
+      {
+        "title": "전기 차 무상 안전점검 시작…올해부터 버스· 이륜차 도 포함",
+        "link": "https://www.kgnews.co.kr/news/article.html?no=900477",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-18"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-18"
+      },
+      {
+        "title": "[단독] 쏘카-카카오모빌리티, 공유 전기자전거 사업 합병 무산",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=676219",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-18"
+      },
+      {
+        "title": "공정위, 배민 동의의결 기각 후폭풍…'당장의 혜택' vs '위법성 판단' 쪼...",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=268184",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-18"
+      },
+      {
+        "title": "\"대표팀이 뛰니 주문도 뛴다\"...배민· 쿠팡이츠 , '축구 특수' 이어질까",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=152746",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-19"
+      },
+      {
+        "title": "한국 골목 누비던 토종 자율주행 로봇, 일본 배달·대만 순찰 시장 간다",
+        "link": "https://biz.chosun.com/industry/company/2026/06/19/O4VLWN56VFHZ5H2RPYLNJE7L2I/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-06-19"
+      },
+      {
+        "title": "오늘의 정책 소식 (26. 06. 18. 09시)",
+        "link": "https://www.ktv.go.kr/content/view?content_id=756744",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-18"
+      },
+      {
+        "title": "[유통브리핑] 이마트, '피코크 데이' 개최···전 상품 2+1 혜택 제공 외",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=631495",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-19"
+      },
+      {
+        "title": "bhc, 자사 앱 혜택으로 소비자·가맹점 상생 두 마리 토끼",
+        "link": "https://www.newsis.com/view/NISX20260619_0003675606",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-06-19"
+      }
+    ]
   }
 };
