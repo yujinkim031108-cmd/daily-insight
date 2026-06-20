@@ -13124,5 +13124,174 @@ window.historyData = {
         "date": "2026-06-19"
       }
     ]
+  },
+  "2026-06-20": {
+    "macro": [
+      {
+        "title": "이란 전쟁으로 유가· 물가 폭등... 美국민, 202조 비용 떠안았다",
+        "link": "https://www.chosun.com/international/international_general/2026/06/20/BTGELEE55BBPTK55IE6UAZKZHQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-06-20"
+      },
+      {
+        "title": "금시세·금값 20일",
+        "link": "https://www.bntnews.co.kr/article/view/bnt202606200011",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-19"
+      },
+      {
+        "title": "“영끌하느니 월세” 베트남 청년들이 집 사기 포기한 이유[딥다이브]",
+        "link": "https://www.donga.com/news/Economy/article/all/20260619/134141433/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-06-20"
+      },
+      {
+        "title": "[투자 노하우] 1540원 턱밑까지 간 달러·원 환율…1527원 마감",
+        "link": "https://biz.sbs.co.kr/article_hub/20000317729?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-06-20"
+      },
+      {
+        "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+        "link": "https://www.yna.co.kr/view/AKR20260620021100011?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-06-19"
+      },
+      {
+        "title": "4월 은행 원화 대출 연체 율 0.61%…0.05%p↑",
+        "link": "https://www.pressian.com/pages/articles/2026061906000938095?utm_source=naver&utm_medium=search",
+        "source": "프레시안",
+        "tier": "C",
+        "date": "2026-06-20"
+      },
+      {
+        "title": "중동 휴전에도 원 · 달러 환율 1,531원 마감",
+        "link": "https://news.tvchosun.com/site/data/html_dir/2026/06/20/2026062090026.html",
+        "source": "TV조선",
+        "tier": "B",
+        "date": "2026-06-20"
+      },
+      {
+        "title": "주유소 기름값 5주 연속 하락…휘발유 평균 2009.2원",
+        "link": "https://news.tvchosun.com/site/data/html_dir/2026/06/20/2026062090025.html",
+        "source": "TV조선",
+        "tier": "B",
+        "date": "2026-06-19"
+      },
+      {
+        "title": "한은 총재 \"올해 성장률 전망치 2.6%서 상향 조정될 것\"",
+        "link": "https://news.tvchosun.com/site/data/html_dir/2026/06/20/2026062090028.html",
+        "source": "TV조선",
+        "tier": "B",
+        "date": "2026-06-19"
+      },
+      {
+        "title": "“남아공 패배 기원”…한국전 앞두고 아프리카 국가들 한목소리로 야유",
+        "link": "https://www.hani.co.kr/arti/international/arabafrica/1264426.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-06-20"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-19"
+      },
+      {
+        "title": "[단독] 한화비전 CCTV 기반 ‘무선충전 빔 ’, 스마트폰·전기차·로봇 ‘...",
+        "link": "https://www.ekn.kr/web/view.php?key=20260619023544474",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-19"
+      },
+      {
+        "title": "[성모경의 공간의 문장] 도시의 속도…유비러너스(Ubi-runners) 시대",
+        "link": "https://www.yeongnam.com/web/view.php?key=20260619021409938",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-19"
+      },
+      {
+        "title": "사막이 홍수에 잠길 때, 인간은 무엇을 해야 하나",
+        "link": "https://www.danbinews.com/news/articleView.html?idxno=33245",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-19"
+      },
+      {
+        "title": "KOTRA해외시장뉴스",
+        "link": "https://dream.kotra.or.kr/kotranews/index.do",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-19"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-19"
+      },
+      {
+        "title": "‘뉴욕 명물’ 센트럴파크 마차 참사, 10대 관광객 숨졌다…무슨일",
+        "link": "https://www.joongang.co.kr/article/25438377",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-06-20"
+      },
+      {
+        "title": "\"2만원 넘게 쌓였어요\"…네이버, 10년 공들이더니 웃는 이유",
+        "link": "https://www.hankyung.com/article/2026061973891",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-06-20"
+      },
+      {
+        "title": "배민· 쿠팡 최대 과징금 넘는 상생안 기각에…기준 뭘까?",
+        "link": "https://www.newsis.com/view/NISX20260619_0003675846",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-06-20"
+      },
+      {
+        "title": "김봉진 “배민 다시 사고 싶다”…4.7조 잭팟 신화 ‘씁쓸한 엔딩’",
+        "link": "https://www.joongang.co.kr/article/25438364",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-06-19"
+      },
+      {
+        "title": "KOTRA해외시장뉴스",
+        "link": "https://dream.kotra.or.kr/kotranews/index.do",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-19"
+      },
+      {
+        "title": "난민 출신 배달 노동자가 기댈 곳은 어디인가",
+        "link": "https://h21.hani.co.kr/arti/culture/culture_general/59492.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-06-20"
+      },
+      {
+        "title": "[F&B핫이슈] bhc, 앱 고객 할인...선양소주, 한화이글스 프로모션",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=746519",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-19"
+      }
+    ]
   }
 };
