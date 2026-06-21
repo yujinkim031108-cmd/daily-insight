@@ -13293,5 +13293,153 @@ window.historyData = {
         "date": "2026-06-19"
       }
     ]
+  },
+  "2026-06-21": {
+    "macro": [
+      {
+        "title": "[마켓인사이트] 9,000선 넘어선 코스피, '1만피' 질주 이어갈까",
+        "link": "https://www.yna.co.kr/view/AKR20260619168100008?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-06-20"
+      },
+      {
+        "title": "또 막힌 호르무즈, 다시 관심은 美 물가 [이정훈의 코인 위클리뷰]",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01321846645484016",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-06-21"
+      },
+      {
+        "title": "'반도체 투 톱' 쏠림 강화...변동성 확대 우려",
+        "link": "https://www.ytn.co.kr/_ln/0102_202606211101480671",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-06-20"
+      },
+      {
+        "title": "글로벌 기준금리 인상기조 시작...한은도 연내 두 차례 인상 가능성↑",
+        "link": "https://www.g-enews.com/view.php?ud=202606191418306227bb91c46fcd_1",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-21"
+      },
+      {
+        "title": "[이번주 경제]고유가에 국민·기업 체감경기는?…출생아 증가세도 주목",
+        "link": "https://www.news1.kr/economy/trend/6203479",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-06-21"
+      },
+      {
+        "title": "[N2 포커스] 반복 매각 제동…은행권 장기 연체 채권 소각 늘린다",
+        "link": "https://www.news2day.co.kr/article/20260619500004",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-20"
+      },
+      {
+        "title": "6월 환율 1520원 넘어…\"외환위기 후 최고 수준\"",
+        "link": "https://www.dailian.co.kr/news/view/1658077/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-06-21"
+      },
+      {
+        "title": "석윳값 2천 원대 요지부동...호르무즈·최고가 변수",
+        "link": "https://www.ytn.co.kr/_ln/0102_202606211056016140",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-06-21"
+      },
+      {
+        "title": "소상공인 10명중 9명 \"최저임금제도 유명무실\"",
+        "link": "https://www.newsis.com/view/NISX20260619_0003676549",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-06-20"
+      },
+      {
+        "title": "[정책 인사이트] 불 붙은 ‘만 65세’ 정년 연장 논쟁… 고령화 닮은 꼴...",
+        "link": "https://biz.chosun.com/policy/policy_sub/2026/06/21/4KCIUYDXIFBB7BPJNXVGWFWWXE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-06-20"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-20"
+      },
+      {
+        "title": "[보푸라기]보험 없으면 배달도 못 한다고요?",
+        "link": "https://news.bizwatch.co.kr/article/finance/2026/06/19/0023",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-20"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-20"
+      },
+      {
+        "title": "‘뉴욕 명물’ 센트럴파크 마차 참사, 10대 관광객 숨졌다…무슨일",
+        "link": "https://www.joongang.co.kr/article/25438377",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-06-21"
+      },
+      {
+        "title": "본격 폭염 시작에 라이더 챙긴다 … 쿠팡이츠, 냉방쉼터·커피 지원 확대",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/06/21/2026062100032.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-06-20"
+      },
+      {
+        "title": "쿠팡이츠 서비스, 배달파트너 폭염 대응 강화…전국 쉼터 확대·아이스커...",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065575697046489",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-21"
+      },
+      {
+        "title": "김봉진 “배민 다시 사고 싶다”…4.7조 잭팟 신화 ‘씁쓸한 엔딩’",
+        "link": "https://www.joongang.co.kr/article/25438364",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-06-20"
+      },
+      {
+        "title": "[보푸라기]보험 없으면 배달 도 못 한다고요?",
+        "link": "https://news.bizwatch.co.kr/article/finance/2026/06/19/0023",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-20"
+      },
+      {
+        "title": "[샷!] \" 배달 중독 치료…이건 혁명이다\"",
+        "link": "https://www.yna.co.kr/view/AKR20260619112600011?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-06-21"
+      },
+      {
+        "title": "THE Biz(더비즈)",
+        "link": "https://www.the-biz.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-20"
+      }
+    ]
   }
 };
