@@ -13441,5 +13441,153 @@ window.historyData = {
         "date": "2026-06-20"
       }
     ]
+  },
+  "2026-06-22": {
+    "macro": [
+      {
+        "title": "치솟는 점심값에 편의점 도시락 찾는다⋯ GS25, 4300원 실속 도시락 출시",
+        "link": "https://www.viva100.com/article/20260622500403",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-21"
+      },
+      {
+        "title": "[주간 뉴욕증시] 물가 ·AI '이중 시험대'…PCE·마이크론에 쏠린 눈",
+        "link": "https://www.newsis.com/view/NISX20260622_0003677688",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-06-21"
+      },
+      {
+        "title": "中, 사실상 기준금리 LPR 13개월째 동결 [상보]",
+        "link": "https://www.etoday.co.kr/news/view/2595889",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-21"
+      },
+      {
+        "title": "신성환 전 금통위 원 “집은 필수재, 보유세는 결국 세입자에 전가된다”",
+        "link": "https://www.chosun.com/economy/economy_general/2026/06/22/PXDQWUJXC5FIXH5UFUO3RBDQNU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-06-21"
+      },
+      {
+        "title": "中, 기준금리 1년물 LPR 3.0% 5년물 3.5% 13개월째 동결",
+        "link": "https://www.newsis.com/view/NISX20260622_0003678080",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-06-21"
+      },
+      {
+        "title": "[N2 포커스] 반복 매각 제동…은행권 장기 연체 채권 소각 늘린다",
+        "link": "https://www.news2day.co.kr/article/20260619500004",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-22"
+      },
+      {
+        "title": "원 · 달러 환율 1,537원 기록…주요 통화 대비 달러 강세 지속",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=218788",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-22"
+      },
+      {
+        "title": "경기도, 고무·플라스틱·섬유 노동자 긴급 지원…고 유가 대책 일환",
+        "link": "https://www.hani.co.kr/arti/area/capital/1264643.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-06-22"
+      },
+      {
+        "title": "‘아메리칸 드림’ 종말 꼬집은 中 관영… “정치적 분열과 경제 불균형...",
+        "link": "https://www.segye.com/newsView/20260622506169?OutUrl=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-21"
+      },
+      {
+        "title": "“직장은 본가, 월급은 용돈”…청년 취업난에 뜬 ‘전업자녀’",
+        "link": "https://www.donga.com/news/Society/article/all/20260619/134131609/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-06-22"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-21"
+      },
+      {
+        "title": "우주·콘텐츠·핀테크 '골고루' 웃었다…6월 투자유치 활기 이어져",
+        "link": "https://www.mt.co.kr/future/2026/06/21/2026062109331788050",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-06-21"
+      },
+      {
+        "title": "스타트업계 미슐랭 찾는다…韓·佛 첨단기술 교류[넥스트라이즈 2026]",
+        "link": "https://www.dt.co.kr/article/12068678?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-21"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-21"
+      },
+      {
+        "title": "'2050년 탄소중립' 베트남, 전기 차 전환 가속화…전국 EV 등록 대수 37.5...",
+        "link": "https://www.insidevina.com/news/articleView.html?idxno=43429",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-21"
+      },
+      {
+        "title": "주문조회·환불까지 척척…배민, 사내 해커톤 1위는 AI 콜봇",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=296164",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-21"
+      },
+      {
+        "title": "폭염과의 전쟁 나선 쿠팡 …배송기사·배달 파트너·물류 현장 안전 강화",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=152786",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-21"
+      },
+      {
+        "title": "요기요 , 오라클과 미래 배달 서비스 혁신 아이디어 공모",
+        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=313894",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-21"
+      },
+      {
+        "title": "주문 30분 안에 배달 , 고객 불만은 벌금... 충격적인 배달 노동 실태",
+        "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003245096&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+        "source": "오마이뉴스",
+        "tier": "C",
+        "date": "2026-06-22"
+      },
+      {
+        "title": "진천군, 공공 배달 앱 '먹깨비'로 주문하면 4000원 할인",
+        "link": "https://www.news1.kr/local/sejong-chungbuk/6204125",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-06-22"
+      }
+    ]
   }
 };
