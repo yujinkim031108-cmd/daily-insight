@@ -13589,5 +13589,160 @@ window.historyData = {
         "date": "2026-06-22"
       }
     ]
+  },
+  "2026-06-23": {
+    "macro": [
+      {
+        "title": "美, '61조' 이란전쟁 청구서 받았다…\" '한 발에 30억' 미사일만 1000발 ...",
+        "link": "https://news.tvchosun.com/site/data/html_dir/2026/06/23/2026062390061.html",
+        "source": "TV조선",
+        "tier": "B",
+        "date": "2026-06-23"
+      },
+      {
+        "title": "BofA \"연준, 9월부터 연내 3회 금리인상 예상\"",
+        "link": "https://www.yna.co.kr/view/AKR20260623059700009?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-06-22"
+      },
+      {
+        "title": "워시 연준의장, 7월14일 첫 의회 출석…통화정책·경제전망 보고",
+        "link": "https://www.news1.kr/world/international-economy/6205393",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-06-22"
+      },
+      {
+        "title": "한은, '점도표 효과' 분초 단위로 점검…美 연준과는 다른 방향",
+        "link": "https://www.yna.co.kr/view/AKR20260622140600002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-06-22"
+      },
+      {
+        "title": "경기 집 산 3명 중 1명은 2030…동탄 매수 1년 새 3.7배",
+        "link": "https://www.newsis.com/view/NISX20260623_0003679515",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-06-23"
+      },
+      {
+        "title": "은행·저축은행에 돈 몰릴 때…예금 빠져나가는 새마을금고·신협",
+        "link": "https://www.hankyung.com/article/2026062212271",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-06-23"
+      },
+      {
+        "title": "달러 강세에 환율 , 보름만에 1540원대 상승",
+        "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2283329",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-22"
+      },
+      {
+        "title": "국제유가 하락, 미국·이란 협상 진전에 원유 공급 확대 기대 커져",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=440578",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-22"
+      },
+      {
+        "title": "SK하이닉스, 삼성 넘었다…대장주 교체",
+        "link": "https://www.sedaily.com/article/20058905?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-22"
+      },
+      {
+        "title": "“소득 8300만원 넘어도 불안”… 동남권 ‘끼인세대’의 역설",
+        "link": "https://www.kmib.co.kr/article/view.asp?arcid=0030007369&code=61141111&cp=nv",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-22"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-22"
+      },
+      {
+        "title": "더 커진 차체·대형 디스플레이… 신형 아반떼 이렇게 바뀐다",
+        "link": "https://www.thedrive.co.kr/news/newsview.php?ncode=1065601709820690",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-22"
+      },
+      {
+        "title": "10대 원주시의원 '생활밀착형 현안 해결' 초점",
+        "link": "https://www.kado.net/news/articleView.html?idxno=2057129",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-22"
+      },
+      {
+        "title": "신산업 분야 지역 최대 취업 박람회 '코아디멕스 잡페어', 내달 3일 개막...",
+        "link": "https://www.etnews.com/20260623000006",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-22"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-22"
+      },
+      {
+        "title": "국민체육진흥공단, ‘비바테크 2026’서 ‘K-스포츠테크’ 글로벌 경쟁...",
+        "link": "https://www.segye.com/newsView/20260623506356?OutUrl=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-22"
+      },
+      {
+        "title": "[유통24시] 홈플러스, 익스프레스 매각 본계약…정상화 속도 外",
+        "link": "https://news.dealsitetv.com/articles/172228",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-22"
+      },
+      {
+        "title": "[단독] 벨도 안 울렸는데 배달?…카톡방에 '현관 비번' 줄줄이",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008622423&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-06-23"
+      },
+      {
+        "title": "배민· 요기요 이어 쿠팡이츠까지…배달앱 AI 경쟁 불붙었다",
+        "link": "https://www.newsis.com/view/NISX20260622_0003678863",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-06-23"
+      },
+      {
+        "title": "최저임금위원회, 오늘 내년도 최저임금 본격 논의…경영계 요구안 공개",
+        "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4090704",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-22"
+      },
+      {
+        "title": "[사설] 소상공인 단체협상권 추진…전방위 갈등 우려된다",
+        "link": "https://www.hankyung.com/article/2026062211461",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-06-23"
+      }
+    ]
   }
 };
