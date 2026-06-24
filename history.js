@@ -13744,5 +13744,174 @@ window.historyData = {
         "date": "2026-06-23"
       }
     ]
+  },
+  "2026-06-24": {
+    "macro": [
+      {
+        "title": "창원 팔룡터널, 7월 1일부터 소·중형차 통행료 100원씩 인상",
+        "link": "https://www.yna.co.kr/view/AKR20260624070500052?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-06-23"
+      },
+      {
+        "title": "금리 인상 가능성에 1%대 저금리 신혼희망타운 재조명",
+        "link": "https://www.rcast.co.kr/news/articleView.html?idxno=31110",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "시장 금리 2년여 만에 최고치… 마통·신용대출 금리 도 줄인상",
+        "link": "https://biz.chosun.com/stock/finance/2026/06/24/LDIULZAJIVGIRF7G4MUOPGARLA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-06-23"
+      },
+      {
+        "title": "[오늘의 주요일정]금융·증권(6월24일 수요일)",
+        "link": "https://www.newsis.com/view/NISX20260623_0003680183",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "남의 대출 팔던 핀다 … 저축은행 품고 직접 대출 나선다",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/06/24/2026062400075.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "'은행 문턱' 높이자 카드사로…카드론 43조 돌파, 취약차주 연체 경보",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=137757",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-23"
+      },
+      {
+        "title": "코스피, 전날 폭락 딛고 3%대 반등- 반도체주 중심 저가 매수세 유입",
+        "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=81712",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-23"
+      },
+      {
+        "title": "“분양가 더 뛸 일만 남았네”…건설공사비 4년 만에 최대 폭등",
+        "link": "https://www.mk.co.kr/article/12081685",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "막대한 경상수지 흑자에도 환율 고공행진…범인은 국민연금?",
+        "link": "https://www.hani.co.kr/arti/economy/economy_general/1265030.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-06-23"
+      },
+      {
+        "title": "[소날 데사이의 마켓 나우] AI 파티장에 날아든 스태그플레이션 청구서",
+        "link": "https://www.joongang.co.kr/article/25439271",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-06-24"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-23"
+      },
+      {
+        "title": "[모빌리티핫이슈] 자율주행 시장 판 커진다...공유 전기자전거 빅딜 무...",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=677565",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-23"
+      },
+      {
+        "title": "스왑, 전기자전거 구독…'배터리 보증기간' 오락가락",
+        "link": "https://www.consumuch.com/news/articleView.html?idxno=78371",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-23"
+      },
+      {
+        "title": "우버 투자 라임, 美 IPO로 2780억원 조달 추진",
+        "link": "https://www.g-enews.com/view.php?ud=2026062318351947269a1f309431_1",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "'다정·새롬·나성·어진동' 공약 돋보기… 4년의 약속 지킨다",
+        "link": "https://www.joongdo.co.kr/web/view.php?key=20260623010006536",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-23"
+      },
+      {
+        "title": "케이메디허브, 채용난과 취업난 사이 '신산업 일자리 판'",
+        "link": "https://www.dkilbo.com/news/articleView.html?idxno=546863",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-23"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-23"
+      },
+      {
+        "title": "체육공단, 파리 '비바테크 2026'서 K-스포츠테크 저력 과시",
+        "link": "https://www.hankyung.com/article/202606233322i",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "배달의민족 , 온라인플랫폼 동반성장평가 참여...상생 활동 성과 검증 나...",
+        "link": "https://www.sportschosun.com/life/2026-06-24/202606220100153020010051",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "‘배달앱 갑질’ 배민· 쿠팡이츠 , 상생안 내놨지만 기각 [재계톡톡]",
+        "link": "https://www.mk.co.kr/article/12078592",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-06-23"
+      },
+      {
+        "title": "우아한청년들 7년 연속 단체교섭 타결, 배달 플랫폼 노사 상생의 기준 ...",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=743202",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-23"
+      },
+      {
+        "title": "“시원하게 쉬어 가세요”…경과원, 광교·판교 6곳에 ‘이동노동자 쉼...",
+        "link": "https://www.segye.com/newsView/20260624507269?OutUrl=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-23"
+      },
+      {
+        "title": "[황윤주의 외식 비즈니스 컨설팅] 외식 예비 창업자 위한 '오픈 전 손익...",
+        "link": "https://www.lecturernews.com/news/articleView.html?idxno=204873",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-23"
+      }
+    ]
   }
 };
