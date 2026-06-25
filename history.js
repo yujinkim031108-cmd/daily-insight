@@ -13913,5 +13913,188 @@ window.historyData = {
         "date": "2026-06-23"
       }
     ]
+  },
+  "2026-06-25": {
+    "macro": [
+      {
+        "title": "내년 최저임금 ‘1만2000원 vs 동결’…10년간 물가 대비 4배 가까이 인...",
+        "link": "https://www.mediapen.com/news/view/1106454",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "구윤철 부총리 “재정·세제 등 가용 수단 총동원 물가 안정에 총력”",
+        "link": "https://www.viva100.com/article/20260625500422",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "크레딧 스프레드 확대…회사채 조달 부담 커진다",
+        "link": "https://www.hankyung.com/article/202606245273r",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "기준금리 인상 앞둔 한은…“변동성 확대 가능성, 선제적인 대비 필요”",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=03676886645485000",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "5대은행 이달 들어 가계대출 4조 '껑충'",
+        "link": "https://www.news1.kr/photos/7975946",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "'빚투'에 지른 돈, 1년새 두배 급증… 증권사 '빚투' 금액만 39.4조, 역대...",
+        "link": "https://www.pressian.com/pages/articles/2026062411531990012?utm_source=naver&utm_medium=search",
+        "source": "프레시안",
+        "tier": "C",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "' 환율 1500원 뉴노멀'… 한국 산업 지도 바뀐다",
+        "link": "https://www.mhns.co.kr/news/articleView.html?idxno=751360",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "[올댓차이나] 위안화 기준치 1달러=6.8209위안…0.021% 절하",
+        "link": "https://www.newsis.com/view/NISX20260625_0003683219",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "국제금융센터 \"하반기 AI 주가 더 오를 가능성…달러 강세 지속\"",
+        "link": "https://www.yna.co.kr/view/AKR20260625053100002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "美 연준 \"미 대형은행, 심각한 침체도 견딜 충분한 체력\"",
+        "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=602407",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-24"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "[모빌리티핫이슈] 자율주행 시장 판 커진다...공유 전기자전거 빅딜 무...",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=677565",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "스왑, 전기자전거 구독…'배터리 보증기간' 오락가락",
+        "link": "https://www.consumuch.com/news/articleView.html?idxno=78371",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "[TOP's Pick] [중후장대] 동국홀딩스, 5811억 배당 재원 확보…주주환원...",
+        "link": "https://www.topdaily.kr/articles/110682",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+        "link": "https://www.yna.co.kr/view/AKR20260625059400011?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "이자형 경기도의원, 제11대 경기도의회 의원 퇴임식서 특별공로패 수상",
+        "link": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/06/24/20260624500285?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "[베트남 주간 이슈] \"세금 체납해도 나갈 수 있다?\"…롱탄신공항 연말 ...",
+        "link": "https://www.insidevina.com/news/articleView.html?idxno=43447",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "[연중기획-기업과나눔(190)] \"상생은 안전에서부터\"…KB손해보험의 지역...",
+        "link": "https://www.cnbnews.com/news/articleView.html?idxno=1005745",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-25"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "앰플로우, 유로바이크 2026서 첫 투어링 전기자전거 공개",
+        "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1094379",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "배달의민족 , 공동 주문 서비스에 더치페이 기능 추가",
+        "link": "https://www.yna.co.kr/view/AKR20260625070800030?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "패션·가구·홈쇼핑…업계마다 불붙은 ‘빠른 배송’ 경쟁",
+        "link": "https://www.joongang.co.kr/article/25439631",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "메가존소프트, 구글 클라우드와 ‘에이전틱 WX’ 세미나 개최",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=06382886645485000",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "우아한청년들, 라이더 전용 종합보험 출시…보험료 시간당 690원",
+        "link": "https://www.yna.co.kr/view/AKR20260625059300030?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "공공 배달 앱 시초 ‘ 배달 의명수’ 역사속으로 사라질까",
+        "link": "https://www.seoul.co.kr/news/society/2026/06/25/20260625500067?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-06-25"
+      }
+    ]
   }
 };
