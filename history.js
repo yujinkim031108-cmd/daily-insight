@@ -14096,5 +14096,174 @@ window.historyData = {
         "date": "2026-06-25"
       }
     ]
+  },
+  "2026-06-26": {
+    "macro": [
+      {
+        "title": "멕시코, 기준금리 6.5%로 동결…\"인하 사이클 종료\" 재확인",
+        "link": "https://www.newsis.com/view/NISX20260626_0003684839",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "미 기업 이익 마진, 1940년대 후 최고…'과잉 이익' 논란 재점화",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008628714&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "힐스테이트·자이도 안팔린다 … 고분양가에 대형 건설사도 청약 한파",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/06/26/2026062600057.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "[투자 노하우] 연준 금리유지 결정에 연내 금리인상 가능성까지",
+        "link": "https://biz.sbs.co.kr/article_hub/20000318889?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "‘빚투’ 돈줄 조이기 보험권으로…보험계약 대출 리스크 관리 논의",
+        "link": "https://www.socialvalue.kr/news/view/1065577632067252",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "가계 대출 다시 불붙나…\"주담대보다 신용 대출 이 변수\"",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=305621",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "'강달러' 원 · 달러 환율 5일 연속 상승세...1,550원 근접",
+        "link": "https://www.ytn.co.kr/_ln/0102_202606261051404088",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "시름 깊어진 중소기업…신한은행·기보, 중동피해 2000억 지원",
+        "link": "https://www.kukinews.com/article/view/kuk202606260037",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "[스타트 경제 ] 미 5월 PCE 물가 3년여 만에 최고...인플레이션 압력 더 ...",
+        "link": "https://www.ytn.co.kr/_ln/0102_202606260652067217",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "살기도 벅차서…코스피 탈 기회조차 없었어요[점선면]",
+        "link": "https://www.khan.co.kr/article/202606260700001",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-06-26"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "'그랜저처럼' 생성형 AI비서 품은 차세대 아반떼, 볼륨까지 빵빵해졌다...",
+        "link": "https://view.asiae.co.kr/article/2026062609420923196",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+        "link": "https://www.yna.co.kr/view/AKR20260625059400011?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "김수진 의원, 제9대 의정활동 마무리…\"송포·덕이·가좌서 생활밀착 의...",
+        "link": "https://www.ppss.kr/news/articleView.html?idxno=299934",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "[패트롤] 광명시-부천시-시흥시-안산시-안양시",
+        "link": "https://www.ekn.kr/web/view.php?key=20260625024126316",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-25"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "[다시보기] 6월 25일 (목) 오후 사이언스 투데이",
+        "link": "https://science.ytn.co.kr/program/view.php?mcd=0082&hcd=0023&key=202606251605584105",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "해커스, 공무원·경찰·소방 전국투어 설명회 성황리 진행 중",
+        "link": "https://edu.donga.com/news/articleView.html?idxno=109296",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "\"퇴근 후 배달하고 게임 아이템 판다\"…2030의 'N잡' 생존법 [NOW 2.30]",
+        "link": "https://www.dailian.co.kr/news/view/1659401/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "웹툰·멤버십 이어 AI 브리핑까지…네이버식 '플라이휠' 전략",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092164589",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "[2026 부산모터쇼]기아, PV5 신규 라인업 앞세워 비전 제시",
+        "link": "https://view.asiae.co.kr/article/2026062610505167627",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "호요버스 ‘붕괴3rd’, 8.9 버전 ‘깃털이 내리는 구원’ 업데이트 진행",
+        "link": "https://www.gamechosun.co.kr/webzine/article/view.php?no=223010",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-25"
+      },
+      {
+        "title": "[기고] 외식업 위기, 배달 수수료 탓만 아니다",
+        "link": "https://www.mk.co.kr/article/12083164",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-06-25"
+      }
+    ]
   }
 };
