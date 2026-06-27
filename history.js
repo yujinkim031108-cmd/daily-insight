@@ -14265,5 +14265,167 @@ window.historyData = {
         "date": "2026-06-25"
       }
     ]
+  },
+  "2026-06-27": {
+    "macro": [
+      {
+        "title": "금시세(금값) 27일",
+        "link": "https://www.bntnews.co.kr/article/view/bnt202606270006",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "리플XRP 1달러선 붕괴 압박…손절 매물 2022년 이후 최대 수준",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=585022",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-27"
+      },
+      {
+        "title": "주가 31% 폭락 인도네시아…원인은 ‘전국 무상급식’ 청구서[딥다이브...",
+        "link": "https://www.donga.com/news/Economy/article/all/20260626/134186797/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-06-27"
+      },
+      {
+        "title": "[금융포커스]6·27 규제 1년…아파트값 10% 뛰고 신용대출 불었다",
+        "link": "https://www.sidae.com/article/2026062607443552963",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-27"
+      },
+      {
+        "title": "‘빚투’ 열풍에 인터넷은행 가계대출 목표 ‘삐걱’ [국회 방청석]",
+        "link": "https://www.mk.co.kr/article/12084110",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "빚투가 집어삼킨 생산적 금융 … 중기 대출 감소세 전환",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/06/26/2026062600079.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-06-27"
+      },
+      {
+        "title": "달러 - 원 환율 , 안전 선호 커지며 낙폭 줄여…1535.8원 마감",
+        "link": "https://biz.sbs.co.kr/article_hub/20000319230?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-06-27"
+      },
+      {
+        "title": "주유소 기름값 6주 연속 하락…전국 평균 휘발윳값 2,007원대",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8596285&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-06-27"
+      },
+      {
+        "title": "“퇴직 후 재취업하려면 AI는 꼭 배우세요”[은퇴 레시피]",
+        "link": "https://www.donga.com/news/Economy/article/all/20260627/134191317/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-06-27"
+      },
+      {
+        "title": "\"대통령 자신감 지나쳤다\" 유시민 발언 논란...'또' 징계 카드 꺼내든 장...",
+        "link": "https://www.ytn.co.kr/_ln/0101_202606270847118394",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-06-27"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "[산업X파일]서울의 그 많던 킥보드는 다 어디로 갔나… ‘이곳’ 지도 ...",
+        "link": "https://www.chosun.com/economy/smb-venture/2026/06/27/ZLLMTG6LEFGVDOJ4IR54CMZP3Q/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "\" 킥보드 무단주차 끝낸다\"…평택시 7월부터 PM 견인제 전면 시행",
+        "link": "https://www.mt.co.kr/policy/2026/06/26/2026062611471889329",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "[사진] 막 오른 '부산 모빌리티 쇼', 신차부터 PB5 신규라인업까지 미래 모...",
+        "link": "https://www.todaykorea.co.kr/news/articleView.html?idxno=403158",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-26"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "“내 몸으로 페달 밟을 때, 쓸모 있음을 느껴요”",
+        "link": "https://www.hani.co.kr/arti/society/labor/1265591.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-06-27"
+      },
+      {
+        "title": "속도의 한국인, 그 도파민과 피로감 사이",
+        "link": "https://www.chosun.com/national/weekend/2026/06/27/XZ6AE4BBURB6VDN3HDW6KJC5GI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "[단독]악성 '배달거지' 거른다 … 배민 \"무분별한 주문 취소 막아 업주...",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/06/26/2026062600048.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "웹툰·멤버십 이어 AI 브리핑까지…네이버식 '플라이휠' 전략",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092164589",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-06-27"
+      },
+      {
+        "title": "기아, 부산서 PV5 확장판 공개…2030년 전기 차 14종으로 확대한다",
+        "link": "https://www.apnews.kr/news/articleView.html?idxno=3049322",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "[G-MEGA 패치] 엘리자베스 합류한 '일곱 개의 대죄: Origin' 100일 업데이...",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065602577548484",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "자전거도, 이야기도, 그의 것이 아니다[슬레이트]",
+        "link": "https://view.asiae.co.kr/article/2026062002395185495",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-26"
+      }
+    ]
   }
 };
