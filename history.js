@@ -14427,5 +14427,153 @@ window.historyData = {
         "date": "2026-06-26"
       }
     ]
+  },
+  "2026-06-28": {
+    "macro": [
+      {
+        "title": "6월 한달 내내 출렁인 코스피…실적 시즌 7월에는 다를까",
+        "link": "https://www.yna.co.kr/view/AKR20260627019800008?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-06-28"
+      },
+      {
+        "title": "주식 내다파는 外人에 환율 안정 '무소용'…외환위기 수준 치솟은 원·달...",
+        "link": "https://www.newsis.com/view/NISX20260626_0003685781",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-06-28"
+      },
+      {
+        "title": "2분기 평균 환율 1500원 넘어서…외환위기 이후 28년만",
+        "link": "https://www.news1.kr/economy/trend/6210419",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-06-28"
+      },
+      {
+        "title": "이번주 국내 주요 금융일정(6.29~7.3)",
+        "link": "https://www.newspim.com/news/view/20260626000900",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-27"
+      },
+      {
+        "title": "은행권 포용금융 우등생은 서민금융출연금 10% 넘게 감면될 듯",
+        "link": "https://biz.sbs.co.kr/article_hub/20000319273?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-06-27"
+      },
+      {
+        "title": "마이너스통장 인공지능 만들어 수천억 줍줍, 월가도 놀랐다",
+        "link": "https://www.mt.co.kr/stock/2026/06/28/2026062722591480554",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-06-27"
+      },
+      {
+        "title": "[이번주 경제] 6월 물가 다시 3%대 찍나…최저임금 인상 논의 본궤도",
+        "link": "https://www.news1.kr/economy/trend/6210478",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-06-27"
+      },
+      {
+        "title": "정부, 나프타 수출제한 조기 해제 검토",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01397286645486312",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-06-28"
+      },
+      {
+        "title": "민주노총, 최저임금 시간당 만2천 원으로 인상 촉구",
+        "link": "https://www.ytn.co.kr/_ln/0103_202606272229339996",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-06-27"
+      },
+      {
+        "title": "뉴욕 증시, 인공지능 관련주 조정과 고용지표 발표 주목",
+        "link": "https://www.tokenpost.kr/news/market/373364",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-28"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-27"
+      },
+      {
+        "title": "[산업X파일]서울의 그 많던 전동 킥보드... ‘견인 폭탄’에 지방 내려...",
+        "link": "https://www.chosun.com/economy/smb-venture/2026/06/27/ZLLMTG6LEFGVDOJ4IR54CMZP3Q/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-06-27"
+      },
+      {
+        "title": "'하얀 펠레' 브라질 레전드도 日 향해 극찬...\"일본, 어느 나라와도 경쟁...",
+        "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553329398",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-27"
+      },
+      {
+        "title": "[패트롤] 경기광주시-성남시-수원시-안성시-여주시",
+        "link": "https://www.ekn.kr/web/view.php?key=20260627025597005",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-27"
+      },
+      {
+        "title": "[사진] 막 오른 '부산 모빌리티 쇼', 신차부터 PB5 신규라인업까지 미래 모...",
+        "link": "https://www.todaykorea.co.kr/news/articleView.html?idxno=403158",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-27"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-27"
+      },
+      {
+        "title": "“내 몸으로 페달 밟을 때, 쓸모 있음을 느껴요”",
+        "link": "https://www.hani.co.kr/arti/society/labor/1265591.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-06-27"
+      },
+      {
+        "title": "베트맨, 6월 건전화 캠페인 ‘건전화 프로그램 참여하고 건강한 토토라...",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01410406645486312",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-06-27"
+      },
+      {
+        "title": "유출에도 안 흔들린 쿠팡 …네이버, 넷플릭스 요금 인하 승부수",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092164688",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-06-28"
+      },
+      {
+        "title": "서울과기대, 2026 모두의 창업 1기 실행력 검증…\"고객을 날카롭게 정의...",
+        "link": "https://it.donga.com/109097/",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-06-28"
+      }
+    ]
   }
 };
