@@ -14575,5 +14575,153 @@ window.historyData = {
         "date": "2026-06-28"
       }
     ]
+  },
+  "2026-06-29": {
+    "macro": [
+      {
+        "title": "“중동전쟁 직격탄, 결국 우리가 맞았다”…中企 생산·고용 모두 악화",
+        "link": "https://www.mk.co.kr/article/12085268",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-06-29"
+      },
+      {
+        "title": "[세계는 지금] 126년 만의 강진 베네수엘라...가장 비극적인 시기",
+        "link": "https://www.womennews.co.kr/news/articleView.html?idxno=279300",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-28"
+      },
+      {
+        "title": "변동성 장세에 효과적인 대기자금 관리… KB증권 발행어음에 관심",
+        "link": "https://biz.chosun.com/stock/stock_general/2026/06/29/JB3PLT3UZJAKNKB2Z4OBFPYEOU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-06-28"
+      },
+      {
+        "title": "'빚만 연소득 3.4배' 자영업자…'최저임금 1.2만원' 압박에 금리 공포까...",
+        "link": "https://www.news1.kr/economy/trend/6209730",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-06-29"
+      },
+      {
+        "title": "신용점수 700점 아래선 막혔다 … 인뱅 '중저신용 30%'의 착시 [신희강의...",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/06/29/2026062900101.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-06-29"
+      },
+      {
+        "title": "제주 금융권 대출 4개월 연속 증가… 연체 율 상승은 부담",
+        "link": "https://www.newsis.com/view/NISX20260629_0003687341",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-06-28"
+      },
+      {
+        "title": "오늘(29일)의 금시세 하락세 감소...금값시세 순금 24K 시세 88.2만원",
+        "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=80743",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-28"
+      },
+      {
+        "title": "치솟은 기름값에… 항공업계, 5월까지 승객 늘었지만 상반기 실적 전망...",
+        "link": "https://biz.chosun.com/industry/company/2026/06/29/ZDVHQ2EAD5BTZMWKL5SQ2N7RNY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-06-29"
+      },
+      {
+        "title": "유럽 폭염에 랜드마크 잇따라 폐쇄…유럽 관광 '비상'",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=02929046645486640",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-06-29"
+      },
+      {
+        "title": "[주간 뉴욕증시] 6월 고용보고서에 쏠린 눈…연준 금리 향방 주목",
+        "link": "https://www.newsis.com/view/NISX20260629_0003687067",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-06-29"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-28"
+      },
+      {
+        "title": "견인 폭탄에… 서울 전동 킥보드 지방으로",
+        "link": "https://www.chosun.com/economy/smb-venture/2026/06/29/FQPO3AM4TFCHLLWFJKNDGYCYAU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-06-29"
+      },
+      {
+        "title": "애플카·아우디 출신이 만든 3860만원 전기 버기",
+        "link": "https://www.g-enews.com/view.php?ud=2026062817393387759a1f309431_1",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-28"
+      },
+      {
+        "title": "[포커스] AI 입은 국민차·반값 중국차…부산서 맞붙은 '미래 모빌리티 ...",
+        "link": "https://news.tvchosun.com/site/data/html_dir/2026/06/28/2026062890157.html",
+        "source": "TV조선",
+        "tier": "B",
+        "date": "2026-06-28"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-28"
+      },
+      {
+        "title": "애플카·아우디 출신이 만든 3860만원 전기 버기",
+        "link": "https://www.g-enews.com/view.php?ud=2026062817393387759a1f309431_1",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-28"
+      },
+      {
+        "title": "사형선고 전 옥중 결혼...일본 내각 총사퇴 부른 사진 한 장",
+        "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003246651&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+        "source": "오마이뉴스",
+        "tier": "C",
+        "date": "2026-06-29"
+      },
+      {
+        "title": "\"빵도 도시락도 여기서 20% 싸게 산다\"…어디?",
+        "link": "https://biz.sbs.co.kr/article_hub/20000319377?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-06-28"
+      },
+      {
+        "title": "[비정규직, 있는데 없다 ①] 배달라이더 전성배씨 \"기대치만 올려놓고는...",
+        "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=235384",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-28"
+      },
+      {
+        "title": "공정위 심판대 오르는 쿠팡 프레시백 회수 ‘100원짜리 노동’",
+        "link": "https://h21.hani.co.kr/arti/economy/economy_general/59531.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-06-28"
+      }
+    ]
   }
 };
