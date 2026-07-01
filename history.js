@@ -14723,5 +14723,202 @@ window.historyData = {
         "date": "2026-06-28"
       }
     ]
+  },
+  "2026-07-01": {
+    "macro": [
+      {
+        "title": "\"하반기 환율 변수, 외국인보다 달러 움직임…상단 1,600원 가능\"",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4422775",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-30"
+      },
+      {
+        "title": "베스 해맥 \"인플레 여전히 높아…금리인상 고려해야\"",
+        "link": "https://biz.sbs.co.kr/article_hub/20000319900?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-07-01"
+      },
+      {
+        "title": "원·달러 환율 1558원 터치…엔화 약세·외국인 매도 여파",
+        "link": "https://www.kukinews.com/article/view/kuk202607010040",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-30"
+      },
+      {
+        "title": "한은 \"외화자금시장 유동성 풍부\"…초과지준 이자지급 연장",
+        "link": "https://biz.sbs.co.kr/article_hub/20000319813?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-06-30"
+      },
+      {
+        "title": "[논단]AI 낙관론과 한국 경제의 금리 딜레마",
+        "link": "https://view.asiae.co.kr/article/2026062916573449453",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-30"
+      },
+      {
+        "title": "모바일 대출 혁신 이끈 인뱅…주담대 편중은 숙제",
+        "link": "https://www.mk.co.kr/article/12086862",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-06-30"
+      },
+      {
+        "title": "라면·스낵은 해외서 잘 팔리는데… 내수 부진·고 환율 에 실적 희비 갈...",
+        "link": "https://biz.chosun.com/distribution/food/2026/07/01/F5WGCJIVARGERCOEVAG756BS3A/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-06-30"
+      },
+      {
+        "title": "[글로벌 마켓 리포트 7월 1일]",
+        "link": "https://www.newspim.com/news/view/20260701000455",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-01"
+      },
+      {
+        "title": "에스씨디, 기술 경쟁력 앞세워 성장하는 ‘인도 에어컨 부품 시장’ 진...",
+        "link": "https://www.donga.com/news/Economy/article/all/20260701/134214559/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-06-30"
+      },
+      {
+        "title": "두나무·신용회복위원회·사회연대은행, 금융취약계층 자립 지원 확대",
+        "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=82300",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-30"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-30"
+      },
+      {
+        "title": "K우주기업, 브뤼셀서 EU·나토 앞에 '우뚝'…유럽 진출 채비",
+        "link": "https://www.sisajournal.com/news/articleView.html?idxno=378140",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-30"
+      },
+      {
+        "title": "[시간들] 홍명보의 추락, 영웅은 왜 명감독이 되지 못할까",
+        "link": "https://www.yna.co.kr/view/AKR20260629085100546?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-06-30"
+      },
+      {
+        "title": "\"할아버지 타세요\" 킥보드 로 노인 응급실 모신 학생...뜻밖의 논란",
+        "link": "https://www.mt.co.kr/society/2026/07/01/2026070105440410822",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-06-30"
+      },
+      {
+        "title": "성주군 화물차 사고 잇따라… 안전관리 '빨간불'",
+        "link": "https://www.seongjuro.co.kr/news/view.php?idx=60368",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-30"
+      },
+      {
+        "title": "“45년간 국민 안전 지킨 교통안전 파트너…AI·자율주행으로 미래 연다...",
+        "link": "https://www.sedaily.com/article/20062140?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-30"
+      },
+      {
+        "title": "제천시, 안전한 자전거 이용 환경 조성…경찰 합동 계도 나서",
+        "link": "https://www.newstnt.com/news/articleView.html?idxno=708434",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-30"
+      },
+      {
+        "title": "에브리봇, FPA와 맞손…휴머노이드·AI 자율주행 로봇 사업 확대",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=04782246645486968",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-06-30"
+      },
+      {
+        "title": "4년 의정 마무리... 용인특례시의회 마지막 임시회 폐회",
+        "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003247423&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+        "source": "오마이뉴스",
+        "tier": "C",
+        "date": "2026-06-30"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-30"
+      },
+      {
+        "title": "홍혜걸 \"장항준·도경완·이상순 올 킬, 하나도 안 부러워\"",
+        "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=82296",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-30"
+      },
+      {
+        "title": "KB증권, IRP·연금저축 '연금 순입금 이벤트 시즌3' 실시",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=529653",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-30"
+      },
+      {
+        "title": "배달앱 입점업체들 수수료 협상 단체행동 가능해진다",
+        "link": "https://www.donga.com/news/Economy/article/all/20260701/134212792/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-07-01"
+      },
+      {
+        "title": "[V차트] GS리테일, 본업·구조조정 효과로 실적 기대",
+        "link": "https://www.itooza.com/common/iview.php?no=2026063012583815007",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-01"
+      },
+      {
+        "title": "비정기 수입도 급여… 긱워커 금융 문턱 낮춘다",
+        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3068038",
+        "source": "",
+        "tier": "D",
+        "date": "2026-06-30"
+      },
+      {
+        "title": "“ 배달 시켜도 안 와요”… 요즘 화제인 ‘가짜 배달 ’의 정체",
+        "link": "https://health.chosun.com/site/data/html_dir/2026/07/01/2026070101153.html",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-06-30"
+      },
+      {
+        "title": "배달 앱 수수료 상한제 온라인 플랫폼 법 제정하라!",
+        "link": "https://www.newsis.com/view/NISI20260701_0021345094",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-06-30"
+      }
+    ]
   }
 };
