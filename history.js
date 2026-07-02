@@ -14920,5 +14920,181 @@ window.historyData = {
         "date": "2026-06-30"
       }
     ]
+  },
+  "2026-07-02": {
+    "macro": [
+      {
+        "title": "6월 소비자물가 3.2%↑...중동전쟁 여파에 30개월만에 최대폭",
+        "link": "https://www.g-enews.com/view.php?ud=20260702094119327bb91c46fcd_1",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-01"
+      },
+      {
+        "title": "한은 \"소비자 물가 당분간 높은 수준 지속\"",
+        "link": "https://www.dailian.co.kr/news/view/1662540/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-07-01"
+      },
+      {
+        "title": "한 총리 “대전환 시기 무거운 자리 맡겨주셔 감사…AI 혁신 정부로”",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8600327&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-07-02"
+      },
+      {
+        "title": "[이슈플러스] 코스피 8,300선 '주춤'...국민연금 리밸런싱 영향?",
+        "link": "https://www.ytn.co.kr/_ln/0102_202607011909565507",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-07-01"
+      },
+      {
+        "title": "서금원, 하반기 폐업자영업자 지원 대출 보증상품 출시",
+        "link": "https://biz.sbs.co.kr/article_hub/20000320244?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-07-01"
+      },
+      {
+        "title": "대출 심사·채무상담· 담보 점검…인터넷銀도 고객 직접 만난다",
+        "link": "https://www.hankyung.com/article/2026070101431",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-07-01"
+      },
+      {
+        "title": "[자막뉴스] \"가즈아\" 환호 속에 조용히, 무섭게 '매도'…'역대급' 달러 ...",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008638229&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-07-01"
+      },
+      {
+        "title": "전쟁특수 끝나고 신용등급 줄강등 … 석화 구조조정은 제자리",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/02/2026070200102.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-07-02"
+      },
+      {
+        "title": "워시 \"AI는 금융불안보다 생산성 혁명\"…연준 정책결정도 바꾼다",
+        "link": "https://www.news1.kr/world/international-economy/6215453",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-07-01"
+      },
+      {
+        "title": "\"AI, 성공하든 실패하든 경제 리스크\"…세계 경제학자들 AI 경고음",
+        "link": "https://www.newsis.com/view/NISX20260702_0003692907",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-07-01"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-01"
+      },
+      {
+        "title": "[오늘 일본은] 규슈 북부 집중호우…하천 범람·토사 붕괴 잇따라",
+        "link": "https://www.pointe.co.kr/news/articleView.html?idxno=81293",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-01"
+      },
+      {
+        "title": "목원대 '1학기 융합캡스톤디자인 성과 공유 회' 8개팀 수상",
+        "link": "https://www.newsis.com/view/NISX20260702_0003693094",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-07-01"
+      },
+      {
+        "title": "영광군, 글로벌혁신 규제 자유특구 지정…미래 모빌리티 실증 추진",
+        "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1094989",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-01"
+      },
+      {
+        "title": "제천시, 안전한 자전거 이용 환경 조성…경찰 합동 계도 나서",
+        "link": "https://www.newstnt.com/news/articleView.html?idxno=708434",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-01"
+      },
+      {
+        "title": "경기북부소방 소속 7명, 모범공무원 국무총리 표창",
+        "link": "https://www.yna.co.kr/view/AKR20260702071300060?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-07-01"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-01"
+      },
+      {
+        "title": "벤딩스푼스, 나스닥 데뷔 40% 급등",
+        "link": "https://www.g-enews.com/view.php?ud=2026070208225499499a1f309431_1",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-01"
+      },
+      {
+        "title": "LG유플러스, 장기고객 초청 '레고랜드 워터풀 파티'…멤버십 혜택 강화",
+        "link": "https://www.dailian.co.kr/news/view/1662552/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-07-01"
+      },
+      {
+        "title": "\"우대금리와 함께 쿠폰도 챙기세요\"…iM뱅크, '착착통장' 출시",
+        "link": "https://www.yna.co.kr/view/AKR20260702070100053?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-07-02"
+      },
+      {
+        "title": "쿠팡, 종합몰 앱 MAU '독주'…배달앱 3사는 모두 감소",
+        "link": "https://www.etnews.com/20260702000096",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-01"
+      },
+      {
+        "title": "청주시, 전기이륜차 100대 추가 보급",
+        "link": "https://www.ccreview.co.kr/news/articleView.html?idxno=351747",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-01"
+      },
+      {
+        "title": "배민, 라이더 들에 우의·여름용 토시 등 제공…\"혹서기 대비\"",
+        "link": "https://www.news1.kr/industry/distribution/6215356",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-07-01"
+      },
+      {
+        "title": "[사설] 소상공인·중기 협상력 키운다고 소비자 피해 초래해선 안 돼",
+        "link": "https://www.joongang.co.kr/article/25441730",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-07-02"
+      }
+    ]
   }
 };
