@@ -15096,5 +15096,195 @@ window.historyData = {
         "date": "2026-07-02"
       }
     ]
+  },
+  "2026-07-03": {
+    "macro": [
+      {
+        "title": "지난달 강원 물가 3.4% 상승…전국 평균 웃돌아",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8601258&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-07-03"
+      },
+      {
+        "title": "6월 소비자 물가 상승률 3.2%… 2년6개월 만에 최고",
+        "link": "https://www.mt.co.kr/living/2026/07/03/2026070219520936874",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-07-02"
+      },
+      {
+        "title": "수출입은행, 고환율 피해 중소기업에 '조달 원가' 수준 초저 금리 대출",
+        "link": "https://www.hankookilbo.com/news/article/A2026070310040000173?did=NA",
+        "source": "한국일보",
+        "tier": "C",
+        "date": "2026-07-02"
+      },
+      {
+        "title": "\"강세장 정점 아직 아니다\"…하반기 증시, 얼마나 오르냐보다 변동성 감...",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/03/2026070300028.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-07-02"
+      },
+      {
+        "title": "카드론 조이자 단기 카드부채 반등…현금서비스·리볼빙 '풍선효과' 우...",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=465102",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-02"
+      },
+      {
+        "title": "롤러코스터 증시, 빚더미 골목상권…쌓이는 금융리스크",
+        "link": "https://www.dailian.co.kr/news/view/1662747/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-07-03"
+      },
+      {
+        "title": "7700 회복했다가 7400 깨졌다가…멀미 나는 '롤러코스피'",
+        "link": "https://www.hankyung.com/article/2026070338306",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-07-02"
+      },
+      {
+        "title": "부산시, 하반기 전기차 3331대 보급…8일부터 신청하세요",
+        "link": "https://www.news1.kr/local/busan-gyeongnam/6216754",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-07-03"
+      },
+      {
+        "title": "OECD, 韓 성장률 2.6% 유지...\"반도체 성장 효과 전 산업 확산해야\"",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=530276",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-02"
+      },
+      {
+        "title": "엔화, 일본 시장 개입 관측에 1달러=161엔대 전반 상승 출발",
+        "link": "https://www.newsis.com/view/NISX20260703_0003694605",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-07-02"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-02"
+      },
+      {
+        "title": "[경제기획] 달릴수록 달라지는 비용… 공유자전거 똑똑하게 타려면",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363730469",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-02"
+      },
+      {
+        "title": "AI 로봇 충전도 무선으로…전파에너지 기술 한자리에",
+        "link": "https://www.news1.kr/it-science/general-science/6216582",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-07-02"
+      },
+      {
+        "title": "[오늘 일본은] 규슈 북부 집중호우…하천 범람·토사 붕괴 잇따라",
+        "link": "https://www.pointe.co.kr/news/articleView.html?idxno=81293",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-03"
+      },
+      {
+        "title": "목원대 '1학기 융합캡스톤디자인 성과 공유 회' 8개팀 수상",
+        "link": "https://www.newsis.com/view/NISX20260702_0003693094",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-07-03"
+      },
+      {
+        "title": "[인도 특징주] \"델리 전기 차 정책, 도시가스 배급사 IGL에 '장기적 위험...",
+        "link": "https://www.newspim.com/news/view/20260702001171",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-02"
+      },
+      {
+        "title": "[1인 가구 생활법률] 바이크 닮은 '자토바이', 헬멧 미착용 처벌은?",
+        "link": "https://www.1conomynews.co.kr/news/articleView.html?idxno=49380",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-02"
+      },
+      {
+        "title": "경기북부소방 소속 7명, 모범공무원 국무총리 표창",
+        "link": "https://www.yna.co.kr/view/AKR20260702071300060?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-07-03"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-02"
+      },
+      {
+        "title": "\"지을수록 비싸진다\"... AI 덕분에 부활한 '청정 에너지'의 실체",
+        "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003246466&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+        "source": "오마이뉴스",
+        "tier": "C",
+        "date": "2026-07-03"
+      },
+      {
+        "title": "해커스, 부산서 공무원·경찰 합격전략 설명회",
+        "link": "https://edu.donga.com/news/articleView.html?idxno=109556",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-07-03"
+      },
+      {
+        "title": "“같은 건물 1층 편의점서 배달”…귀차니즘 노린 ‘퀵커머스’ 뜬다",
+        "link": "https://www.joongang.co.kr/article/25442091",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-07-02"
+      },
+      {
+        "title": "쿠팡, 종합몰 앱 MAU '독주'…배달앱 3사는 모두 감소",
+        "link": "https://www.etnews.com/20260702000096",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-03"
+      },
+      {
+        "title": "청주시 친환경 전기이륜차 보급 확대…최대 300만원 지원",
+        "link": "https://www.newsis.com/view/NISX20260702_0003693198",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-07-03"
+      },
+      {
+        "title": "\"기름값 때문에 배달 일 못하겠어요\"…물가, 두 달째 3%대 급등",
+        "link": "https://news.tvchosun.com/site/data/html_dir/2026/07/03/2026070390054.html",
+        "source": "TV조선",
+        "tier": "B",
+        "date": "2026-07-03"
+      },
+      {
+        "title": "시민사회단체, 국회 향해 \"조속한 원구성과 민생법안 처리\" 촉구",
+        "link": "https://www.siminsori.com/news/articleView.html?idxno=400162",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-03"
+      }
+    ]
   }
 };
