@@ -15286,5 +15286,167 @@ window.historyData = {
         "date": "2026-07-03"
       }
     ]
+  },
+  "2026-07-04": {
+    "macro": [
+      {
+        "title": "AI 쏠림에 지친 투자자들…“美보다 ‘평화배당’ 큰 유럽 증시 뜬다”",
+        "link": "https://www.joongang.co.kr/article/25442371",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-07-04"
+      },
+      {
+        "title": "\" 물가 상승률 8월이 정점\"…3%대 물가 언제까지 이어질까",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=05251286645510912",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-07-03"
+      },
+      {
+        "title": "오늘 금시세(금값)는?…최근 최대 분기 하락폭 보이기도, 새 주간 흐름 ...",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=586534",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-03"
+      },
+      {
+        "title": "3년 8개월 내 최고 금리, 당신의 지갑 겨누고 있다",
+        "link": "https://shindonga.donga.com/3/all/13/6286534/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-07-03"
+      },
+      {
+        "title": "[다음주 경제] 외환시장 24시간 가동…IMF, 韓 성장률 전망 얼마나 올릴...",
+        "link": "https://www.yna.co.kr/view/AKR20260704013900002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-07-04"
+      },
+      {
+        "title": "회사채 대신 은행…‘ 대출 환승’ 나선 대기업",
+        "link": "https://www.mk.co.kr/article/12090125",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-07-04"
+      },
+      {
+        "title": "다음 주부터 24시간 외환시장 열린다‥토일 빼고 공휴일에도 거래 가능",
+        "link": "https://imnews.imbc.com/news/2026/econo/article/6834962_36932.html",
+        "source": "MBC",
+        "tier": "S",
+        "date": "2026-07-04"
+      },
+      {
+        "title": "전국 주유소 휘발유 1952원… 한 주 새 50원대 급락",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3414428",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-03"
+      },
+      {
+        "title": "불확실성 큰 성장주보다 배당주…채권은 장기채보다 단기채 유리",
+        "link": "https://www.joongang.co.kr/article/25442345",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-07-04"
+      },
+      {
+        "title": "[김지수의 인터스텔라] “투자로 돈을 번다는 착각, 그 돈으로 노후가 ...",
+        "link": "https://biz.chosun.com/topics/kjs_interstellar/2026/07/04/Q7EPDGWFVRAGBF5BOBT4B6WQDA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-04"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-03"
+      },
+      {
+        "title": "AI 로봇 충전도 무선으로…전파에너지 기술 한자리에",
+        "link": "https://www.news1.kr/it-science/general-science/6216582",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-07-03"
+      },
+      {
+        "title": "[YES KIDS ZONE] 비싼 키카 대신…육아 거지맵 어때요",
+        "link": "https://www.imaeil.com/page/view/2026062415102852861",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-03"
+      },
+      {
+        "title": "인터넷 은행의 캐피탈사 인수, 소비자 금융 구조 전환 신호탄 [서지용의...",
+        "link": "https://www.dailian.co.kr/news/view/1662950/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-07-03"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-03"
+      },
+      {
+        "title": "니우 테크놀로지스(NIU), 2분기 43만대 판매…中 수요·AI 전략에 반등 ...",
+        "link": "https://www.tokenpost.kr/news/tech/374903",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-03"
+      },
+      {
+        "title": "[사설]홈플러스 몰락… 부실 경영과 낡은 규제로 무너진 ‘2위 마트’",
+        "link": "https://www.donga.com/news/Opinion/article/all/20260703/134234573/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-07-03"
+      },
+      {
+        "title": "[현장] “뷰티계의 다이소” 오프뷰티, 1년 새 45곳 늘어…연매출 1000억...",
+        "link": "https://www.mydaily.co.kr/page/view/2026070319442340310",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-03"
+      },
+      {
+        "title": "자담치킨, 여름 맞아 7월 할인 프로모션 확대…배달앱·자사앱 혜택 강...",
+        "link": "https://www.mhns.co.kr/news/articleView.html?idxno=752262",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-03"
+      },
+      {
+        "title": "구리시, 전기 이륜차 30대 보급…구매 보조금 최대 200만 원 지원",
+        "link": "https://www.tournews21.com/news/articleView.html?idxno=137846",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-03"
+      },
+      {
+        "title": "[광화문에서/조건희]30년 미룬 이륜차 주차 단속, 준비 없이는 실패한다",
+        "link": "https://www.donga.com/news/Opinion/article/all/20260703/134234463/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-07-04"
+      },
+      {
+        "title": "[대박창업] \"절반은 폐업, 절반은 생존\"…자영업의 승부는 '노력'이 아니...",
+        "link": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=519404",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-07-04"
+      }
+    ]
   }
 };
