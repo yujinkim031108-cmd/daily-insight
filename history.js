@@ -15448,5 +15448,146 @@ window.historyData = {
         "date": "2026-07-04"
       }
     ]
+  },
+  "2026-07-05": {
+    "macro": [
+      {
+        "title": "“영어, 절대평가 전환했지만 사교육비 늘었다”",
+        "link": "https://biz.chosun.com/policy/policy_sub/2026/07/05/AUMZATXFPBHIZA4ERZLK7VXEKY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-04"
+      },
+      {
+        "title": "\"AI가 물가 잡는다\"는 워시… 검증 나선 시장",
+        "link": "https://www.mt.co.kr/world/2026/07/05/2026070210231834744",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-07-04"
+      },
+      {
+        "title": "“딴 생각 말고 여기를 봐”…‘반도체·AI’ 7월 증시 해답도 이미 나...",
+        "link": "https://www.mk.co.kr/article/12090444",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-07-04"
+      },
+      {
+        "title": "3년 8개월 내 최고 금리, 당신의 지갑 겨누고 있다",
+        "link": "https://shindonga.donga.com/3/all/13/6286534/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-07-04"
+      },
+      {
+        "title": "카드론 금리 역전...고신용자↑·저신용자↓",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=222296",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-05"
+      },
+      {
+        "title": "[고환율 여파 경제진단①] 1500원대 원 · 달러 환율 언제까지",
+        "link": "https://www.asiatime.co.kr/article/20260701500377",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-04"
+      },
+      {
+        "title": "주유소 기름값 7주째 하락…1900원대 중반",
+        "link": "https://www.news1.kr/photos/7992302",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-07-04"
+      },
+      {
+        "title": "고용 탄성치, 8년 만에 최저 찍을 듯… 반도체 호황에도 일자리 없는 성...",
+        "link": "https://biz.chosun.com/policy/policy_sub/2026/07/05/TBAUAXER65FPVOHVRKLB6H5RQI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-05"
+      },
+      {
+        "title": "밈으로 뜬 ‘바퀴벌레당’… 인도 기득권과 ‘맞짱’ [세계는 지금]",
+        "link": "https://www.segye.com/newsView/20260701522048?OutUrl=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-05"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-04"
+      },
+      {
+        "title": "글로벌 공유 킥보드 주차, '가상구역'이 대세로…한국 PM법도 수용해야",
+        "link": "https://www.electimes.com/news/articleView.html?idxno=369808",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-04"
+      },
+      {
+        "title": "콜롬비아 vs 가나 32강 격돌, 피파랭킹에 쏠리는 시선",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3626195",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-04"
+      },
+      {
+        "title": "[오늘의 날씨] 전남 남해안 새벽 호우주의보…최대 시간당 강한 비로 침...",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=16123636",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-04"
+      },
+      {
+        "title": "인터넷 은행의 캐피탈사 인수, 소비자 금융 구조 전환 신호탄 [서지용의...",
+        "link": "https://www.dailian.co.kr/news/view/1662950/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-07-04"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-04"
+      },
+      {
+        "title": "베트맨, 7월 건전화 캠페인 31일까지 진행…‘건전화 프로그램 참여하고...",
+        "link": "https://sports.donga.com/sports/article/all/20260705/134236815/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-07-04"
+      },
+      {
+        "title": "정교한 가짜 사진에 속수무책… 외식업계 멍들게 하는 'AI 배달 사기' 기...",
+        "link": "https://www.wikitree.co.kr/articles/1144746",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-04"
+      },
+      {
+        "title": "[금상소] “내 소비습관에 딱”⋯카드사, 초맞춤형 상품 잇따라 출시",
+        "link": "https://www.etoday.co.kr/news/view/2600030",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-05"
+      },
+      {
+        "title": "소공연 vs 전상연…'소상공인 협상권' 누가 갖나",
+        "link": "https://www.newsis.com/view/NISX20260703_0003695266",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-07-05"
+      }
+    ]
   }
 };
