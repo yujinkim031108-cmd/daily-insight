@@ -15589,5 +15589,160 @@ window.historyData = {
         "date": "2026-07-05"
       }
     ]
+  },
+  "2026-07-06": {
+    "macro": [
+      {
+        "title": "다이소는 5000원, 신세계는 80% 할인…가성비 법칙 바뀌었다",
+        "link": "https://www.ddaily.co.kr/page/view/2026070610062902685",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-05"
+      },
+      {
+        "title": "데이터 강조한 워시 美 연준 의장, 6월 물가 지표가 금리 가늠자 될 듯",
+        "link": "https://weekly.donga.com/3/all/11/6290959/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-07-06"
+      },
+      {
+        "title": "외환시장 24시간 거래 개시…강달러 추세는 지속 전망",
+        "link": "https://www.newsis.com/view/NISX20260706_0003696927",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-07-06"
+      },
+      {
+        "title": "은행 '주담대 금리'는 8% 향하는데, '예금금리'는 왜 2%대?[금알못]",
+        "link": "https://www.newsis.com/view/NISX20260703_0003695537",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-07-05"
+      },
+      {
+        "title": "지방은행도 주담대 문턱 높인다…경남은행, MCI 가입 제한",
+        "link": "https://biz.sbs.co.kr/article_hub/20000320781?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-07-06"
+      },
+      {
+        "title": "가계 대출 옥죄다 기업 대출 터질라…연쇄 부실 부추기는 규제 잔혹사",
+        "link": "https://www.dailian.co.kr/news/view/1663204/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-07-06"
+      },
+      {
+        "title": "\"유가 회복 본격 궤도에\"···휘발유 전국 평균 1800원대 진입 눈앞",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=632724",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-05"
+      },
+      {
+        "title": "\"전쟁 틈타 유가 폭리\".. 26조 규모 담함 혐의 정유 4사 재판행",
+        "link": "https://www.jibs.co.kr/news/articles/articlesDetail/63177?feed=na",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-05"
+      },
+      {
+        "title": "[관훈토론회 참석 김용범 청와대 정책실장] \"'삼전닉스' 호남 투자, 용인...",
+        "link": "https://economychosun.com/site/data/html_dir/2026/06/29/2026062900017.html",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-06"
+      },
+      {
+        "title": "다 복귀하라고 큰소리쳤는데…재택 근무 비율 '제자리'",
+        "link": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=53104",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-06"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-05"
+      },
+      {
+        "title": "[사사건건] ‘신속 처리하라 했는데’ 홍명보 선임 축협 고발 사건, 수심...",
+        "link": "https://www.segye.com/newsView/20260705509626?OutUrl=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-05"
+      },
+      {
+        "title": "관세청, 올해 무역 안보 침해 범죄 7703억 적발…역대 최대",
+        "link": "https://www.news1.kr/local/daejeon-chungnam/6218570",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-07-05"
+      },
+      {
+        "title": "“대한민국 첨단 의료산업의 미래 밝히다”… 'KOADMEX 2026' 5일 성공적...",
+        "link": "https://www.etnews.com/20260703000006",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-05"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-05"
+      },
+      {
+        "title": "[테크 차이나] 중국 유니콘 381개, 스타트업 명단 아니라 산업 배치도다...",
+        "link": "https://www.etnews.com/20260706000150",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-05"
+      },
+      {
+        "title": "휴롬, 저소음 ‘BLDC 초고속 블렌더’ 출시…블렌더·다지기 하나로",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=03093046645511896",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-07-05"
+      },
+      {
+        "title": "대미 통상 갈등 표적이 된 ‘ 쿠팡 제재’…공정위 결정 촉각",
+        "link": "https://www.khan.co.kr/article/202607052130015",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-07-06"
+      },
+      {
+        "title": "요기요 주문하면 야구 티켓 쏟아진다…키움과 이벤트 진행",
+        "link": "https://www.newsis.com/view/NISX20260706_0003696798",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-07-06"
+      },
+      {
+        "title": "‘한국인 계정’으로 불법 배달 한 외국인 라이더 , 5개월간 734명 적발",
+        "link": "https://biz.chosun.com/topics/law_firm/2026/07/06/DB3WJAPREJH2LCVG52IA3BF644/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-06"
+      },
+      {
+        "title": "포항시, ‘골목경제 회복’ 승부수…145억 투입 소상공인·전통시장 살...",
+        "link": "https://sports.donga.com/region/article/all/20260706/134241290/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-07-06"
+      }
+    ]
   }
 };
