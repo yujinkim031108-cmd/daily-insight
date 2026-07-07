@@ -15744,5 +15744,167 @@ window.historyData = {
         "date": "2026-07-06"
       }
     ]
+  },
+  "2026-07-07": {
+    "macro": [
+      {
+        "title": "일본 5월 실질임금 전년비 1.4%↑…\"5개월 연속 증가\"",
+        "link": "https://www.newsis.com/view/NISX20260707_0003698714",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-07-06"
+      },
+      {
+        "title": "[모닝 리포트] 환율 하방 압력 커지나… 달러 매수 심리 위축에 1520원대...",
+        "link": "https://www.newspim.com/news/view/20260707000230",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-06"
+      },
+      {
+        "title": "월러 연준이사 \"포워드가이던스 유연하게\"…워시 소통개혁 지지",
+        "link": "https://www.news1.kr/world/international-economy/6219922",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-07-06"
+      },
+      {
+        "title": "한은 금리 인상 예고에 예금족 '눈치싸움'…\"지금 넣을까, 기다릴까\"",
+        "link": "https://www.news1.kr/finance/general-finance/6219343",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-07-06"
+      },
+      {
+        "title": "유럽 정보 보고서 \"러시아 은행권, 전쟁 부담에 위기 직면 가능성\"",
+        "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260707010002380",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-06"
+      },
+      {
+        "title": "[생생확대경]시장 아닌 정책이 결정하는 '금리'의 위험성",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01495686645511896",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "[개장 시황] 코스피, 8000선 내주면서 출발했으나 외인·기관 '쌍끌이 매...",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=272570",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-06"
+      },
+      {
+        "title": "모건스탠리 \"반도체 조정 예상…하이퍼스케일러 등 순환매\"",
+        "link": "https://www.yna.co.kr/view/AKR20260707064200009?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "[전격시사] 서영교 더불어민주당 의원 - “정치적 표적수사 일삼은 검찰...",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8603975&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-07-06"
+      },
+      {
+        "title": "[김경은 여행작가의 한중일(韓中日) 문화 엿보기(26)] 조각 청년",
+        "link": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=519295",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-07-06"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-06"
+      },
+      {
+        "title": "[법률 상담] 당신이 세워둔 자전거, 이웃의 ‘탈출로’를 막고 있진 않...",
+        "link": "https://www.jjan.kr/article/20260706500477",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-06"
+      },
+      {
+        "title": "전남광주통합특별시, 제3차 글로벌혁신 규제 자유특구에 선정",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=698198",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-06"
+      },
+      {
+        "title": "'7703억' 역대 최대 무역안보 범죄 적발한 관세청",
+        "link": "https://www.nocutnews.co.kr/news/6543680?utm_source=naver&utm_medium=article&utm_campaign=20260706032346",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-06"
+      },
+      {
+        "title": "케이메디허브 잡페어 성과…지역기업·청년 잇는 채용 플랫폼 자리매김",
+        "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4077551",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-06"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-06"
+      },
+      {
+        "title": "국산 둔갑한 중국산 '택갈이' 판친다…무역안보 범죄 역대 최대",
+        "link": "https://www.hankookilbo.com/news/article/A2026070610080004883?did=NA",
+        "source": "한국일보",
+        "tier": "C",
+        "date": "2026-07-06"
+      },
+      {
+        "title": "식품업계, 서울시와 '결혼 지원·고립 예방' 켐페인",
+        "link": "https://www.yna.co.kr/view/AKR20260707044600030?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "외식업계, K-미식 체험·셰프 협업 메뉴…차별화 마케팅 경쟁",
+        "link": "https://www.yna.co.kr/view/AKR20260707052900030?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-07-06"
+      },
+      {
+        "title": "배민·쿠팡, 제재 우려 속 성수기 주도권 경쟁에 '사활'",
+        "link": "https://view.asiae.co.kr/article/2026070707365237927",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-06"
+      },
+      {
+        "title": "남의 명의 도용해 불법 배달 외국인 라이더 734명 적발",
+        "link": "https://www.donga.com/news/Society/article/all/20260707/134248053/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-07-06"
+      },
+      {
+        "title": "[브랜딩연구소 기획기사] (주)율현 황윤주 이사 편 ③ 배달 앱 매출만 믿...",
+        "link": "https://www.lecturernews.com/news/articleView.html?idxno=205676",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-06"
+      }
+    ]
   }
 };
