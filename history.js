@@ -15906,5 +15906,167 @@ window.historyData = {
         "date": "2026-07-06"
       }
     ]
+  },
+  "2026-07-08": {
+    "macro": [
+      {
+        "title": "“주변에 안 쓰는 사람이 없어서”…챗GPT 구독료, 소비자물가 에 넣는다",
+        "link": "https://www.mk.co.kr/article/12092957",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "美 변수보다 무거운 ‘환율· 물가 ’...금리인상 명분 쌓이는 한은",
+        "link": "https://www.ekn.kr/web/view.php?key=20260708026460250",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "“연말 당연히 금리 인상? 아닐 수도”…슬그머니 바뀐 월가 돈 흐름",
+        "link": "https://www.mk.co.kr/article/12093068",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-07-08"
+      },
+      {
+        "title": "금리 상승 기조에… 시중은행 예금 年 3%대, 저축은행은 4%대",
+        "link": "https://biz.chosun.com/about-investing/2026/07/07/H74BZ2MZJ5GHBIXEYZZ7DHIRRY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-08"
+      },
+      {
+        "title": "[이슈] 은행 막히자 보험사 문 두드렸는데... 주담대 문턱 더 높인다",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=805931",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-08"
+      },
+      {
+        "title": "가계부채비율 8년 만에 최저…GDP 급증에 '착시효과'",
+        "link": "https://www.hankyung.com/article/2026070710681",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-07-08"
+      },
+      {
+        "title": "“경상수지 역대 최대 랠리 이어진다…6월은 400억 달러 돌파 가능”[일...",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=03293126645512552",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "엔화, 국제유가 상승에 1달러=162엔대 전반 하락 출발",
+        "link": "https://www.newsis.com/view/NISX20260708_0003700410",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-07-08"
+      },
+      {
+        "title": "[인터뷰] 홍우태 세컨신드롬 대표 \"최초 셀프스토리지 책임감…산업표...",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1715497",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "美 소비자 기대인플레 다시 상승…3년 기대치 3.3%, 3년 만에 최고",
+        "link": "https://www.news1.kr/world/international-economy/6220912",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-07-07"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "소변 왜 거기서 보는 건데…“참교육 절실해” (한블리)",
+        "link": "https://sports.donga.com/ent/article/all/20260708/134256760/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-07-08"
+      },
+      {
+        "title": "전남광주통합특별시, 글로벌 혁신 규제 자유특구 지정",
+        "link": "https://mpmbc.co.kr/NewsArticle/1526441",
+        "source": "MBC",
+        "tier": "S",
+        "date": "2026-07-08"
+      },
+      {
+        "title": "배달보험 의무 본격화…손해율 개선·시장 정상화 '시험대'",
+        "link": "https://www.dailian.co.kr/news/view/1664401/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-07-08"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "상주시·경찰서, 중앙 시장 등서 교통안전 홍보활동 실시",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3629392",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "배민커넥트 7주년 라이더 감사 캠페인…혹서기 배달 용품 지원",
+        "link": "https://www.news1.kr/industry/distribution/6221141",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-07-08"
+      },
+      {
+        "title": "오빠닭, 통닭천사 협업 신메뉴 ‘감빠닭’ 출시",
+        "link": "https://biz.chosun.com/industry/business_info/2026/07/08/35OALSGHKRHGTAOFQW36LKJKJM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "배민, 규제에 잇단 서버 장애까지… 매각 앞두고 기업가치 '흔들'",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092165250",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "광진구, 전기이륜차 구매보조금 지원…친환경 교통 확대",
+        "link": "https://www.seoul.co.kr/news/publicnews/2026/07/07/20260707500129?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "\" 배달 라이더 도 근로자\"…서울고법, 노동자성 인정 첫 판결",
+        "link": "https://www.news1.kr/society/court-prosecution/6221197",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-07-08"
+      },
+      {
+        "title": "\" 배달 라이더도 근로자\"…서울고법 첫 판결 나왔다",
+        "link": "https://www.newsis.com/view/NISX20260707_0003699846",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-07-08"
+      }
+    ]
   }
 };
