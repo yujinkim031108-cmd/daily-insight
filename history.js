@@ -16068,5 +16068,181 @@ window.historyData = {
         "date": "2026-07-08"
       }
     ]
+  },
+  "2026-07-09": {
+    "macro": [
+      {
+        "title": "고환율에 먹거리 물가 급등… 조기 17% 올라 집계 이래 최대폭",
+        "link": "https://www.chosun.com/economy/economy_general/2026/07/09/RUQ75ODPR5BX3POKEFSX6SMMFE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-09"
+      },
+      {
+        "title": "한은 \"기준금리 인상 필요… 물가 상승률, 목표치 웃돌 것\"",
+        "link": "https://www.newsis.com/view/NISX20260709_0003702063",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-07-09"
+      },
+      {
+        "title": "한은, “반도체 경기 호조 상당 기간 지속될 것”",
+        "link": "https://www.hani.co.kr/arti/economy/economy_general/1267420.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-07-09"
+      },
+      {
+        "title": "'4%대 주담대'도 사라진다…계속 오르는 금리에 영끌·빚투족 한숨",
+        "link": "https://www.newsis.com/view/NISX20260708_0003701514",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-07-09"
+      },
+      {
+        "title": "KB 이어 신한도 대출 조인다…모기지보험 내일부터 중단",
+        "link": "https://biz.sbs.co.kr/article_hub/20000321497?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-07-08"
+      },
+      {
+        "title": "대기업엔 '문 활짝', 중기엔 '빗장'…은행권 대출 양극화 심화",
+        "link": "https://www.dailian.co.kr/news/view/1664361/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-07-08"
+      },
+      {
+        "title": "[종합 환율 ] 7월 9일 달러 유로 엔 원화 대비 일제히 약세",
+        "link": "https://www.tournews21.com/news/articleView.html?idxno=138284",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-09"
+      },
+      {
+        "title": "한국은행 “대규모 성과급·코스피 급등 영향으로 물가 오를 것”",
+        "link": "https://biz.chosun.com/policy/policy_sub/2026/07/09/PSC3TQ5HINABVKYUOUTW2TLM5E/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-09"
+      },
+      {
+        "title": "장동혁 “증시 파랗게 질려…블랙 에브리데이 될까 걱정”",
+        "link": "https://biz.chosun.com/policy/politics/assembly/2026/07/09/3VXTDYW53BGKFANXPQVXHHDBLY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-09"
+      },
+      {
+        "title": "‘중국 성장률 통계 의문 제기’ 경제학자 별세",
+        "link": "https://www.khan.co.kr/article/202607082013035",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-07-09"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-08"
+      },
+      {
+        "title": "[단독] 제주 공공자전거 중단 '180대 창고 신세'",
+        "link": "https://www.jejusori.net/news/articleView.html?idxno=504599",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-08"
+      },
+      {
+        "title": "\"위성 10만개 쏘겠다\"...미국 스타트업, 우주 데이터센터 도전장",
+        "link": "https://zdnet.co.kr/view/?no=20260709092125",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-08"
+      },
+      {
+        "title": "제주, '섬 속의 섬' 우도 차량 운행 제한 3년 연장 가닥",
+        "link": "https://www.news1.kr/local/jeju/6221728",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-07-09"
+      },
+      {
+        "title": "배달보험 의무 본격화…손해율 개선·시장 정상화 '시험대'",
+        "link": "https://www.dailian.co.kr/news/view/1664401/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-07-08"
+      },
+      {
+        "title": "PM산업협회 \"지난해 개인형 이동장치 사고 14% 감소\"",
+        "link": "https://www.yna.co.kr/view/AKR20260708141800017?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-07-08"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-08"
+      },
+      {
+        "title": "\"중국차 안전 불안 없다\" 지커 7 GT, 2026 유로 NCAP 충돌 테스트 5스타 ...",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=545598",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-08"
+      },
+      {
+        "title": "미국북서부체리협회, 프로티너와 '썸머 체리 위크' 진행",
+        "link": "https://magazine.hankyung.com/business/article/202607094660b",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-07-08"
+      },
+      {
+        "title": "영등포서 배달노동자들에 쿨링용품·얼음생수 등 '나눔'",
+        "link": "https://www.safetynews.co.kr/news/articleView.html?idxno=249456",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-09"
+      },
+      {
+        "title": "3위로 밀린 ' 요기요 ' 와신상담…불붙는 배달앱 경쟁",
+        "link": "https://biz.sbs.co.kr/article_hub/20000321360?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-07-09"
+      },
+      {
+        "title": "배달 보험 의무 본격화…손해율 개선·시장 정상화 '시험대'",
+        "link": "https://www.dailian.co.kr/news/view/1664401/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-07-08"
+      },
+      {
+        "title": "주4.5일제가 노동시간 양극화로 이어지지 않으려면",
+        "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003249962&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+        "source": "오마이뉴스",
+        "tier": "C",
+        "date": "2026-07-08"
+      },
+      {
+        "title": "격전의 프랜차이즈 시장…상반기 줄줄이 가맹사업 철수",
+        "link": "https://view.asiae.co.kr/article/2026070715014357517",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-08"
+      }
+    ]
   }
 };
