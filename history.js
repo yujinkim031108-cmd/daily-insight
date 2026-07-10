@@ -16244,5 +16244,181 @@ window.historyData = {
         "date": "2026-07-08"
       }
     ]
+  },
+  "2026-07-10": {
+    "macro": [
+      {
+        "title": "키움증권 \"7월 금통위 기준금리 0.25%p 인상 전망, 최종 3.50%까지 올릴 ... 새 창 열림",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=442026",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-09"
+      },
+      {
+        "title": "윌리엄스 \"AI발 수요가 최대 인플레 변수…지속되면 금리 대응\" 새 창 열림",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01220166645513208",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "비즈니스플러스 새 창 열림",
+        "link": "https://www.businessplus.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-09"
+      },
+      {
+        "title": "한은, 금리인상 시그널…신현송 “적절한 시점 왔다” 새 창 열림",
+        "link": "https://www.sedaily.com/article/20066109?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-09"
+      },
+      {
+        "title": "디지틀조선일보 새 창 열림",
+        "link": "https://digitalchosun.dizzo.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-09"
+      },
+      {
+        "title": "잔금 대출 도 선착순… 신축 아파트 입주 앞두고 자금 비상 새 창 열림",
+        "link": "https://biz.chosun.com/real_estate/real_estate_general/2026/07/10/H7M5RCLELBD5TMUPUD6RRKWO6E/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "원 · 달러 환율 수준, 어떻게 볼 것인가? 새 창 열림",
+        "link": "https://www.hankyung.com/article/202607083568i",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-07-09"
+      },
+      {
+        "title": "코스피, AI 투자 기대에 반도체 훈풍···7500선 회복 새 창 열림",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=139667",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-09"
+      },
+      {
+        "title": "맨큐·안드레센·머빈 킹…워시 '드림팀' 꾸려 연준 대수술(종합) 새 창 열림",
+        "link": "https://www.news1.kr/world/usa-canada/6223920",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "[글로벌 마켓 리포트 7월 10일] 새 창 열림",
+        "link": "https://www.newspim.com/news/view/20260710000183",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-09"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-09"
+      },
+      {
+        "title": "사망자 늘어난 도로 위, 킥보드 사고만 20% 줄었다 새 창 열림",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=744727",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-09"
+      },
+      {
+        "title": "\"위성 10만개 쏘겠다\"...미국 스타트업, 우주 데이터센터 도전장 새 창 열림",
+        "link": "https://zdnet.co.kr/view/?no=20260709092125",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "KOTRA해외시장뉴스 새 창 열림",
+        "link": "https://dream.kotra.or.kr/kotranews/index.do",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-09"
+      },
+      {
+        "title": "광주경찰, 여름 휴가철 숙취운전 집중 단속…2시간 만에 9건 적발 새 창 열림",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=311225",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-09"
+      },
+      {
+        "title": "PM산업협회 \"지난해 개인형 이동장치 사고 14% 감소\" 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260708141800017?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-07-09"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-09"
+      },
+      {
+        "title": "BMW 신형 'iX3', 유럽 신차 안전도 평가서 '최고 등급' 획득 새 창 열림",
+        "link": "https://www.news1.kr/industry/auto-industry/6223974",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-07-09"
+      },
+      {
+        "title": "챗GPT, 국내서 가장 많이 사용하는 생성형 AI … 월 이용자 1500만명 돌파 새 창 열림",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/10/2026071000054.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-07-09"
+      },
+      {
+        "title": "쿠팡 , 온·오프라인에서 결제 가능한 '로켓페이' 출시 새 창 열림",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=03211126645513208",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "스키즈 필릭스, 공차 'N포인트 적립' 프로모션 제안 새 창 열림",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=750851",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-09"
+      },
+      {
+        "title": "[유통브리핑] 현대百, 日 도쿄 오모테산도에 '더현대' 개점 외 새 창 열림",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=633002",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "' 배달 현장이 콘텐츠' 우아한청년들, 라이더 유튜브 크리에이터 교육 성... 새 창 열림",
+        "link": "https://www.klnews.co.kr/news/articleView.html?idxno=321857",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "\"5인 미만 근로기준법 확대 안 돼…'나 홀로 경영' 사례 증가 우려\" 새 창 열림",
+        "link": "https://www.news1.kr/industry/sb-founded/6223976",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-07-10"
+      }
+    ]
   }
 };
