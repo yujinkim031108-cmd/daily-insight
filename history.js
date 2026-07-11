@@ -16420,5 +16420,174 @@ window.historyData = {
         "date": "2026-07-10"
       }
     ]
+  },
+  "2026-07-11": {
+    "macro": [
+      {
+        "title": "[밥 대신 주식] 불안한 반도체, 개미는 '본전' 간절…'1만피' 가능할까 새 창 열림",
+        "link": "https://www.dailian.co.kr/news/view/1665787/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "닷새 앞으로 다가온 금통위…기준금리 인상은 '기정사실', 관건은? 새 창 열림",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=874787",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "국장 흔든 '삼전닉스' 레버리지 ETF… 금융당국 칼 빼들까 [주간 증시해... 새 창 열림",
+        "link": "https://www.thescoop.co.kr/news/articleView.html?idxno=310868",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "[다음주 경제] 한은 금리인상 초읽기…하반기 경제성장전략 공개 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260711012900002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-07-11"
+      },
+      {
+        "title": "[CEO 리더십] 리딩뱅크 만든 '안정 위 혁신'…양종희, KB금융 체급 키웠... 새 창 열림",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=806378",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "서울 중랑-금천구 집 살 때 대출 60% 끌어왔다 새 창 열림",
+        "link": "https://www.donga.com/news/Economy/article/all/20260710/134273858/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "THE Biz(더비즈) 새 창 열림",
+        "link": "https://www.the-biz.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-11"
+      },
+      {
+        "title": "일주일 새 59원 뚝… 휘발유값, 1800원대로 내려왔다 새 창 열림",
+        "link": "https://www.chosun.com/economy/tech_it/2026/07/11/MWI5ZJDOVFBRNA5L43ECUBELBA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-11"
+      },
+      {
+        "title": "오늘 금시세(금값)는?…美 30년물 국채 입찰금리 19년만에 최고치 기록... 새 창 열림",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=588307",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "[특파원 시선] \"떠나라\"…남아공 휩쓴 반이민 시위에 흔들리는 '무지개... 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260710145200099?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-07-11"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "광주 전역, 공유 전동 킥보드 최고속도 20㎞/h로 하향…13일부터 시범운... 새 창 열림",
+        "link": "https://www.pressian.com/pages/articles/2026071017424124553?utm_source=naver&utm_medium=search",
+        "source": "프레시안",
+        "tier": "C",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "교통안전공단 '모빌리티 규제 샌드박스 투자유치 설명회' 개최 새 창 열림",
+        "link": "https://www.news1.kr/realestate/general/6224345",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "실 전기 준 깐깐해진 안전시험… BMW iX3, 유럽 안전 최고등급 새 창 열림",
+        "link": "https://www.donga.com/news/Economy/article/all/20260710/134274171/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "에너지경제 새 창 열림",
+        "link": "https://www.ekn.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-10"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "BMW 신형 'iX3', 유럽 신차 안전도 평가서 '최고 등급' 획득 새 창 열림",
+        "link": "https://www.news1.kr/industry/auto-industry/6223974",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-07-11"
+      },
+      {
+        "title": "시사저널이코노미 새 창 열림",
+        "link": "https://www.sisajournal-e.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "쿠팡 도 간편결제 참전…'로켓페이' 하반기 출시 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000321888?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-07-11"
+      },
+      {
+        "title": "또래오래, 신메뉴 '뿌레카' 출시…바삭한 식감에 바비큐 시즈닝 더해 새 창 열림",
+        "link": "https://www.chukkyung.co.kr/news/articleView.html?idxno=81996",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "[요즈음]“주차할 곳도 없는데 단속만”…묻지마 행정에 라이더 ‘부글... 새 창 열림",
+        "link": "https://www.asiatime.co.kr/article/20260709500347",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-10"
+      },
+      {
+        "title": "\"짜장면 불면 안돼\" 3700원 더 내고 한집 배달 했는데...'빙빙' 돌아왔다 새 창 열림",
+        "link": "https://www.mt.co.kr/society/2026/07/11/2026071108371928877",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-07-11"
+      },
+      {
+        "title": "무료 배송 중독시키더니 수수료 뜯네? ‘쓰레기’ 된 플랫폼 새 창 열림",
+        "link": "https://www.chosun.com/culture-life/book/2026/07/11/7DPTHY2CORCUBPC2POOXPPSB3E/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-10"
+      }
+    ]
   }
 };
