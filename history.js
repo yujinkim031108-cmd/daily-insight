@@ -16589,5 +16589,153 @@ window.historyData = {
         "date": "2026-07-10"
       }
     ]
+  },
+  "2026-07-12": {
+    "macro": [
+      {
+        "title": "금융위기 때보다 싸진 코스피…반도체 고점론 판가름할 한 주[주간증시... 새 창 열림",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01338246645513864",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-07-12"
+      },
+      {
+        "title": "코스피 '금융위기'급 저평가…변동성 활용 분할 매수 구간[주간증시전망... 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260710_0003704643",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-07-12"
+      },
+      {
+        "title": "ADB, 韓 국채 금리 평균 45bp↑…10조 발행시 이자 450억↑ 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260712_0003705485",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-07-12"
+      },
+      {
+        "title": "코스피 7000 지켜낼까…CPI· 금통위 ·TSMC 실적 ‘3중 관문’[주간증시] 새 창 열림",
+        "link": "https://www.ekn.kr/web/view.php?key=20260712025271602",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-11"
+      },
+      {
+        "title": "5대 은행 중 3곳 가계대출 연간 목표 초과…'셧다운' 하나 새 창 열림",
+        "link": "https://www.dailian.co.kr/news/view/1666110/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-07-11"
+      },
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-11"
+      },
+      {
+        "title": "SK하이닉스 ADR로 확보한 265억 달러 , 업계선 외화스와프 효과 기대 새 창 열림",
+        "link": "https://www.todaykorea.co.kr/news/articleView.html?idxno=403706",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-11"
+      },
+      {
+        "title": "국제유가 다시 출렁이나, '호르무즈 리스크'에 시장 촉각 새 창 열림",
+        "link": "https://www.newsway.co.kr/news/view?ud=2026071210035133063",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-11"
+      },
+      {
+        "title": "\"목표치 넘긴 물가\"…한은, 이번주 기준금리 인상 전망 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260710_0003704724",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-07-11"
+      },
+      {
+        "title": "유가급등·실업난에…칠레 대통령, 취임 넉달만에 '허니문' 끝 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260712003900009?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-07-12"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-11"
+      },
+      {
+        "title": "TS, 모빌리티 규제 샌드박스 투자설명회 개최 새 창 열림",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467617",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-11"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-11"
+      },
+      {
+        "title": "[으라車車]\"사람보다 화물 먼저\"…자율주행, 첫 번째 돈벌이는 트럭이었... 새 창 열림",
+        "link": "https://view.asiae.co.kr/article/2026070916443098023",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-11"
+      },
+      {
+        "title": "호텔방까지 온 치킨…외국인 'K- 배달 ' 주문 4배 새 창 열림",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3416322",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-11"
+      },
+      {
+        "title": "쿠팡이츠 , 장마철 안전 캠페인→쿠팡, 해남서 '온동네 케어' 새 창 열림",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=751204",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-12"
+      },
+      {
+        "title": "배달의 매력에 빠진 외국인관광객…상반기 배민 주문 작년의 4배 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260711037400030?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-07-11"
+      },
+      {
+        "title": "[요즈음]“주차할 곳도 없는데 단속만”…묻지마 행정에 라이더 ‘부글... 새 창 열림",
+        "link": "https://www.asiatime.co.kr/article/20260709500347",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-11"
+      },
+      {
+        "title": "배달 ·택시 기사만 3억명…실업률 낮춘 中 ‘긱경제’ 명과 암 새 창 열림",
+        "link": "https://www.joongang.co.kr/article/25444338",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-07-12"
+      },
+      {
+        "title": "무료 배송 중독시키더니 수수료 뜯네? ‘쓰레기’ 된 플랫폼 새 창 열림",
+        "link": "https://www.chosun.com/culture-life/book/2026/07/11/7DPTHY2CORCUBPC2POOXPPSB3E/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-12"
+      }
+    ]
   }
 };
