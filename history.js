@@ -16737,5 +16737,153 @@ window.historyData = {
         "date": "2026-07-12"
       }
     ]
+  },
+  "2026-07-13": {
+    "macro": [
+      {
+        "title": "코스피, 9300→7300 '기술적 약세장'…증권가 \"반등 열쇠는 美 CPI\" 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260713_0003706397",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-07-12"
+      },
+      {
+        "title": "[주간 뉴욕증시] 2분기 기업 실적 발표…CPI·워시 의회 증언도 주목 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260713_0003706056",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-07-13"
+      },
+      {
+        "title": "한투증권, 3천353억원 사무라이본드 발행…\"글로벌 비즈니스 다각화\" 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260713045500008?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-07-13"
+      },
+      {
+        "title": "금통위 25bp 인상 임박···증시 촉각 새 창 열림",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=699092",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-13"
+      },
+      {
+        "title": "장동혁 \"주담대 한도 느닷없이 줄어…李 정권 사다리 걷어차\" 새 창 열림",
+        "link": "https://news.tf.co.kr/read/ptoday/2342488.htm",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-12"
+      },
+      {
+        "title": "[부동산 돋보기] 하반기 두 복병, 금리와 세금… 시세보다 매물 흐름을... 새 창 열림",
+        "link": "https://economychosun.com/site/data/html_dir/2026/07/06/2026070600018.html",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-13"
+      },
+      {
+        "title": "환율 , 美 이란 추가 공습에도 1500원 제한적 등락 새 창 열림",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=139832",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-12"
+      },
+      {
+        "title": "“ADR 상장 기대했는데”…SK하이닉스·삼성전자, 3~8%대 동반 하락 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12096858",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-07-12"
+      },
+      {
+        "title": "민주당과 정부, 힘 합쳐서 하반기 3대 메가프로젝트 속도 낸다 새 창 열림",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008654465&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-07-12"
+      },
+      {
+        "title": "서로 사랑하는 시간을 늘릴 때 커지는 가족의 가치 새 창 열림",
+        "link": "https://economychosun.com/site/data/html_dir/2026/07/06/2026070600021.html",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-13"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-12"
+      },
+      {
+        "title": "점자블록 침범하면 과태료 50만 원...수원시, 단속 기준 마련 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0115_202607130133346779",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-07-12"
+      },
+      {
+        "title": "교통안전공단, 규제 샌드박스 승인 기업 '투자 매칭' 지원…'투자유치 설... 새 창 열림",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=713116",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-12"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-12"
+      },
+      {
+        "title": "[이은영의 비즈 차이나 | 中 전동화 산업 성장 숨은 강자 ‘야디’] 유가... 새 창 열림",
+        "link": "https://economychosun.com/site/data/html_dir/2026/07/06/2026070600012.html",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-13"
+      },
+      {
+        "title": "E동아 새 창 열림",
+        "link": "https://edu.donga.com/",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-07-12"
+      },
+      {
+        "title": "bhc '커링클' 앱 이벤트...차지, 쿠팡이츠 론칭 새 창 열림",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=751399",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-13"
+      },
+      {
+        "title": "파격적인 ‘삼중 할인’ 유혹…서울 시민 3명 중 1명 쓰는 배달앱 새 창 열림",
+        "link": "https://www.joongang.co.kr/article/25444510",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-07-13"
+      },
+      {
+        "title": "\"속았다\" 한집 배달 썼다가 반전…추가 비용도 냈는데 왜 새 창 열림",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008653937&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-07-12"
+      },
+      {
+        "title": "“할인쿠폰 통했다”… 매출 오른 ‘땡겨요’ 새 창 열림",
+        "link": "https://www.seoul.co.kr/news/publicnews/local_govern/news_local/2026/07/13/20260713019005?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-07-13"
+      }
+    ]
   }
 };
