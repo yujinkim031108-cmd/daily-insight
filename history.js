@@ -16885,5 +16885,188 @@ window.historyData = {
         "date": "2026-07-13"
       }
     ]
+  },
+  "2026-07-14": {
+    "macro": [
+      {
+        "title": "DB증권, 'AI 투자브리핑' 도입…AI 기반 투자정보 서비스 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260714_0003708106",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-07-13"
+      },
+      {
+        "title": "7000선도 깨진 코스피…'삼전닉스' 독주 쉬어가자 '이곳'으로 이동했다 새 창 열림",
+        "link": "https://www.imaeil.com/page/view/2026071409542998075",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-13"
+      },
+      {
+        "title": "7월 금통위 D-2…채권전문가 66% \" 기준금리 0.25%p 인상\" 전망 새 창 열림",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=875019",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-13"
+      },
+      {
+        "title": "AI 투자열풍 속 이상신호…스페이스X 장기채 외면받았다 새 창 열림",
+        "link": "https://www.sedaily.com/article/20067401?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-13"
+      },
+      {
+        "title": "온투업·저축은행, 연계투자 5000억원 돌파…중·저신용자 대출 확대 새 창 열림",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=683850",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-13"
+      },
+      {
+        "title": "부동산 담보대출 만기, 재약정과 대환 대출 중 무엇이 유리할까? 새 창 열림",
+        "link": "https://www.hankyung.com/article/202607108392O",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-07-13"
+      },
+      {
+        "title": "환율 , 1490원 후반서 등락…\"중동발 지정학 리스크에 상승 예상\" 새 창 열림",
+        "link": "https://www.ajunews.com/view/20260714094608851",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-14"
+      },
+      {
+        "title": "오늘 은시세(은값)는?…중동 갈등 고조에 국제유가 급등도 새 창 열림",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=588985",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-13"
+      },
+      {
+        "title": "이력서 150장에도 취업 못했다…中 졸업생 1270만명 쏟아졌다 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260714_0003707699",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-07-14"
+      },
+      {
+        "title": "[한걸음더]맨체스터 하루아침에 통합?..\"협력만 30년\" 새 창 열림",
+        "link": "https://kjmbc.co.kr/NewsArticle/1527394",
+        "source": "MBC",
+        "tier": "S",
+        "date": "2026-07-13"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-13"
+      },
+      {
+        "title": "“전기자전거로 서울에서 목포까지”… 지쿠 , ‘국토종주 콘텐츠 공모전... 새 창 열림",
+        "link": "https://biz.chosun.com/it-science/ict/2026/07/14/HXMX32MHBJBH5KFXJECHYYTLNY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-13"
+      },
+      {
+        "title": "시민 신고도 받는다...점자블록 막았다가 맞이할 '과태료 폭탄' [자막뉴... 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0134_202607131221416701",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-07-14"
+      },
+      {
+        "title": "속도가 삼킨 골목, 사람이 밀려난 저녁 [왜냐면] 새 창 열림",
+        "link": "https://www.hani.co.kr/arti/opinion/because/1268077.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-07-14"
+      },
+      {
+        "title": "[테크 차이나] 中 전기 차 배터리 안 전기 준 대폭 강화…산업 재편 본격화 새 창 열림",
+        "link": "https://www.etnews.com/20260714000143",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-13"
+      },
+      {
+        "title": "아이데틱, 드리미 IFA 2026 전시 마케팅 총괄 새 창 열림",
+        "link": "https://biz.chosun.com/industry/business_info/2026/07/14/L2JI7RXJ6ZFRXE7VBWRBIGSSX4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-13"
+      },
+      {
+        "title": "‘학교문제 학교 조례 로 개선’…김포 운유고, 시의원들과 조례 제정 입... 새 창 열림",
+        "link": "https://www.kyeonggi.com/article/20260713580303",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-13"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-13"
+      },
+      {
+        "title": "열받는 40도 폭염…‘차열 페인트’ 전쟁도 뜨거워졌다 [중기+] 새 창 열림",
+        "link": "https://biz.heraldcorp.com/article/10807763?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-13"
+      },
+      {
+        "title": "\"아이스크림 먹고, 도시락통으로\" 배민·배라, 다회용 한정판 굿즈 출시 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260714_0003708022",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-07-13"
+      },
+      {
+        "title": "한경잡앤조이 새 창 열림",
+        "link": "https://magazine.hankyung.com/job-joy",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-07-14"
+      },
+      {
+        "title": "“배달 뛰려고 지구 3.7바퀴 돌았죠”…상하차도 노린다는 이 로봇 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12097829",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-07-14"
+      },
+      {
+        "title": "속도가 삼킨 골목, 사람이 밀려난 저녁 [왜냐면] 새 창 열림",
+        "link": "https://www.hani.co.kr/arti/opinion/because/1268077.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-07-14"
+      },
+      {
+        "title": "공정위·국회·법원까지… 배달 앱 규제 전방위 확산에 경영 불확실성 커... 새 창 열림",
+        "link": "https://biz.chosun.com/distribution/food/2026/07/14/OPRRELRCKZDMTOJEJVIJBVBFUY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-13"
+      },
+      {
+        "title": "[금융 게시판] 은행권, 개인사업자·소상공인 지원 강화…KB·신한·하나... 새 창 열림",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=204882",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-14"
+      }
+    ]
   }
 };
