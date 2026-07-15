@@ -17068,5 +17068,181 @@ window.historyData = {
         "date": "2026-07-14"
       }
     ]
+  },
+  "2026-07-15": {
+    "macro": [
+      {
+        "title": "엔화, 美 조기 금리인상 관측 후퇴에 1달러=162엔대 전반 상승 출발 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260715_0003709956",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-07-15"
+      },
+      {
+        "title": "재경부 \"경기 회복 흐름 공고\"…수출 70.9%↑· 물가 3.2%↑ 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260715_0003709596",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-07-14"
+      },
+      {
+        "title": "[속보]“영끌·빚투족 피눈물” 주담대 1인당 이자 613만 원 새 창 열림",
+        "link": "https://magazine.hankyung.com/business/article/202607156218b",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-07-15"
+      },
+      {
+        "title": "\"금리 인상 저울질\"...한·미 장기금리 격차, 3년 만에 최저 수준 새 창 열림",
+        "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=388175",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-15"
+      },
+      {
+        "title": "[수익다변화 나선 은행권] ②뱅킹 앱을 켜면 알뜰폰과 배달이 온다..상... 새 창 열림",
+        "link": "https://kpenews.com/View.aspx?No=4149567",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-14"
+      },
+      {
+        "title": "토요경제 새 창 열림",
+        "link": "https://www.sateconomy.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-15"
+      },
+      {
+        "title": "반도체 훈풍에 삼성전자, SK하이닉스 상승 새 창 열림",
+        "link": "https://www.news1.kr/photos/8009168",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-07-15"
+      },
+      {
+        "title": "한성숙 총리 \"중동발 에너지 충격, 민생에 전이되지 않도록 만전 기해야... 새 창 열림",
+        "link": "https://imnews.imbc.com/news/2026/politics/article/6837565_36911.html",
+        "source": "MBC",
+        "tier": "S",
+        "date": "2026-07-15"
+      },
+      {
+        "title": "반도체 수출 호황에 달라진 경기진단…재경부 \"경기회복 흐름 공고해져... 새 창 열림",
+        "link": "https://www.mt.co.kr/economy/2026/07/15/2026071508155853847",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-07-14"
+      },
+      {
+        "title": "충북 6월 고용률 68%…1년 전보다 0.1%p↑ 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260715_0003709973",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-07-15"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-14"
+      },
+      {
+        "title": "“전기자전거로 서울에서 목포까지”… 지쿠 , ‘국토종주 콘텐츠 공모전... 새 창 열림",
+        "link": "https://biz.chosun.com/it-science/ict/2026/07/14/HXMX32MHBJBH5KFXJECHYYTLNY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-15"
+      },
+      {
+        "title": "MBC충북 새 창 열림",
+        "link": "https://mbccb.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-15"
+      },
+      {
+        "title": "베트남, 상반기 내연 이륜차 성장세 지속…140만 대 전년동기比 6.5%↑ 새 창 열림",
+        "link": "https://www.insidevina.com/news/articleView.html?idxno=43595",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-14"
+      },
+      {
+        "title": "군포시, 자전거도로 안전문화 확산…경찰·시민단체와 합동 캠페인 전개 새 창 열림",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160262725641719",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-14"
+      },
+      {
+        "title": "아이데틱, 드리미 IFA 2026 전시 마케팅 총괄 새 창 열림",
+        "link": "https://biz.chosun.com/industry/business_info/2026/07/14/L2JI7RXJ6ZFRXE7VBWRBIGSSX4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-15"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-14"
+      },
+      {
+        "title": "中에 전기자전거 생산 주문해 수입하는 北…최종 목표는 국산화? 새 창 열림",
+        "link": "https://www.dailynk.com/20260715-1",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-14"
+      },
+      {
+        "title": "배민·전국상인연합회, 전통시장 특가전…36종 최대 60% 할인 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260715051100030?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-07-14"
+      },
+      {
+        "title": "갑자기 문 닫은 홈플러스…쌓인 포인트·문화센터 수강료 환불 '혼란' 새 창 열림",
+        "link": "https://www.news1.kr/industry/distribution/6228068",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-07-14"
+      },
+      {
+        "title": "메뉴 가격·할인 혜택 한눈에 비교… 요기요 , '통합 장바구니' 기능 도입 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260715_0003709743",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-07-14"
+      },
+      {
+        "title": "홍수 난 중국 '드론 구조대'...직접 사람 매달고 비행 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0104_202607150039286074",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-07-14"
+      },
+      {
+        "title": "휴머노이드 로봇이 길거리에, 밀크티 배달 은 드론이…중국 선전은 매일... 새 창 열림",
+        "link": "https://www.khan.co.kr/article/202607150600121",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-07-15"
+      },
+      {
+        "title": "김해 공공 배달 앱 기반 '기부맛집 더줌' 첫발…김밥일번지 참여 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260714149200052?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-07-15"
+      }
+    ]
   }
 };
