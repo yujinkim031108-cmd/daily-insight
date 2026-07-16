@@ -17244,5 +17244,153 @@ window.historyData = {
         "date": "2026-07-15"
       }
     ]
+  },
+  "2026-07-16": {
+    "macro": [
+      {
+        "title": "한은, 기준금리 인상 2.75%…3년 6개월 만에 '긴축 전환' 새 창 열림",
+        "link": "https://www.news2day.co.kr/article/20260716500061",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-16"
+      },
+      {
+        "title": "[이슈] 한은 '긴축 시계' 가동…3년반만에 기준금리 연 2.75%로 상향 새 창 열림",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=806819",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-15"
+      },
+      {
+        "title": "EBN 새 창 열림",
+        "link": "https://www.ebn.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-15"
+      },
+      {
+        "title": "[뉴스1 PICK]한은, 기준금리 2.75%로 인상…3년 6개월 만에 긴축 전환 새 창 열림",
+        "link": "https://www.news1.kr/finance/financial-policy/6230000",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-07-16"
+      },
+      {
+        "title": "한은 금리 인상에…가계·자영업자·부동산 덮치는 ‘긴축 후폭풍’ 새 창 열림",
+        "link": "https://www.kmib.co.kr/article/view.asp?arcid=0030118512&code=61141111&cp=nv",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-15"
+      },
+      {
+        "title": "중동 무력 충돌과 미국 물가 둔화 혼재 속 환율 유가 엇갈려 새 창 열림",
+        "link": "https://www.junggi.co.kr/news/articleView.html?idxno=37150",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-16"
+      },
+      {
+        "title": "\"버틸 비축 유가 없다\"…호르무즈 재봉쇄에 원유시장 '초긴장' 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260716_0003711509",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-07-15"
+      },
+      {
+        "title": "한은, 기준금리 연 2.75%로 인상…3년 6개월 만에 통화긴축 전환 새 창 열림",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=223147",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-15"
+      },
+      {
+        "title": "정부, ‘청년일자리 회복방안‘ 마련…2030년까지 일자리 20만개 발굴 새 창 열림",
+        "link": "https://www.viva100.com/article/20260716500236",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-15"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-15"
+      },
+      {
+        "title": "지쿠 , ‘국토종주 콘텐츠 공모전’ 개최··전기자전거 국토종주 프로그... 새 창 열림",
+        "link": "https://sports.khan.co.kr/article/202607150151003?pt=nv",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-07-15"
+      },
+      {
+        "title": "일요신문 새 창 열림",
+        "link": "https://www.ilyo.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-15"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-15"
+      },
+      {
+        "title": "원주시, 8월 전국산악 자전거 대회…산림레포츠 활성화 기대 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260716053500062?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-07-15"
+      },
+      {
+        "title": "배민B마트, 브라질·미국산 신선란 30구 4천990원에 판매 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260716048400030?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-07-15"
+      },
+      {
+        "title": "송파구, 폭염 내몰린 이동노동자 휴식권 챙긴다 새 창 열림",
+        "link": "https://m.skyedaily.com/news_view.html?ID=307970",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-15"
+      },
+      {
+        "title": "\"돌멩이인가 했는데 또 드르륵\"…배달로봇 들이받은 운전자, 보행자 사... 새 창 열림",
+        "link": "https://www.gokorea.kr/news/articleView.html?idxno=872161",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-15"
+      },
+      {
+        "title": "YTN사이언스 새 창 열림",
+        "link": "https://science.ytn.co.kr/",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-07-15"
+      },
+      {
+        "title": "[청주소식] 이동노동자쉼터 2호점 개소 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260716041200064?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-07-16"
+      },
+      {
+        "title": "한국일보 \"극성 지지층, 신중론자 조리돌림하며 검수완박 부추겨\" 새 창 열림",
+        "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=335813",
+        "source": "미디어오늘",
+        "tier": "C",
+        "date": "2026-07-15"
+      }
+    ]
   }
 };
