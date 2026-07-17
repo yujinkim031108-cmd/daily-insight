@@ -17392,5 +17392,188 @@ window.historyData = {
         "date": "2026-07-15"
       }
     ]
+  },
+  "2026-07-17": {
+    "macro": [
+      {
+        "title": "\"최저시급으로 두 갑 거뜬\"…1만원 담뱃값 논의 재점화 새 창 열림",
+        "link": "https://www.hankyung.com/article/202607160291i",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-07-16"
+      },
+      {
+        "title": "메모리값 뛰자 금리도 들썩 … 한은이 반도체를 보는 이유 [신희강의 코... 새 창 열림",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/17/2026071700015.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-07-16"
+      },
+      {
+        "title": "이자도 인건비도 오른다 … 자영업 덮친 '고정비 쇼크' [N-경제포커스] 새 창 열림",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/17/2026071700012.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-07-16"
+      },
+      {
+        "title": "‘인상 기조 이어간다’ 못 박은 한은…통방문에 담긴 ‘추가 인상’ 신... 새 창 열림",
+        "link": "https://www.sedaily.com/article/20068847?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-16"
+      },
+      {
+        "title": "[금융家] KB국민은행 ③ㅣ포용금융 강화 속 대출 조정·상생 지원 병행 새 창 열림",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=589591",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-17"
+      },
+      {
+        "title": "“왜 고정형으로 안 했을까”···영끌·빚투족 비상, 금리 0.5%p 오르면... 새 창 열림",
+        "link": "https://www.khan.co.kr/article/202607170600021",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-07-17"
+      },
+      {
+        "title": "[유통가 상반기 돌아보니] ⑪여행객은 넘쳤는데...하나같이 모두 왜 돈... 새 창 열림",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=307185",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-16"
+      },
+      {
+        "title": "호르무즈·흑해 다시 덮친 전쟁 불길 … 유가 ·곡물발 인플레 공포 커진... 새 창 열림",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/17/2026071700014.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-07-16"
+      },
+      {
+        "title": "한반도 이상 고온 잦아지면 GDP 낮아질까?…한은, 성장률 충격 따진다 새 창 열림",
+        "link": "https://www.hankookilbo.com/news/article/A2026071414400003426?did=NA",
+        "source": "한국일보",
+        "tier": "C",
+        "date": "2026-07-17"
+      },
+      {
+        "title": "은퇴한 아빠는 일하는데...대학 졸업한 딸은 무직 백수 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000322981?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-07-16"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-16"
+      },
+      {
+        "title": "성수동 누빈 '뉴비'...뉴빌리티, 배달 넘어 순찰까지 [현장+] 새 창 열림",
+        "link": "https://www.bloter.net/news/articleView.html?idxno=668244",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-16"
+      },
+      {
+        "title": "'섬 속의 섬' 우도 내연 렌터카·대형 전세버스 통행 제한 3년 더 연장 새 창 열림",
+        "link": "https://www.news1.kr/local/jeju/6230581",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-07-16"
+      },
+      {
+        "title": "SPACE(공간) 새 창 열림",
+        "link": "https://vmspace.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-17"
+      },
+      {
+        "title": "시사저널이코노미 새 창 열림",
+        "link": "https://www.sisajournal-e.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-16"
+      },
+      {
+        "title": "[충남도의회 브리핑] 이주배경청소년 사회 적응·정착 지원 제도화 새 창 열림",
+        "link": "https://www.kukinews.com/article/view/kuk202607160141",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-16"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-16"
+      },
+      {
+        "title": "리들리 스콧 감독, 멸망한 세상과 만났다…‘도그 스타: 마지막 희망’... 새 창 열림",
+        "link": "https://swtvnews.com/news/newsview.php?ncode=1065585986903127",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-16"
+      },
+      {
+        "title": "원주시, 8월 전국산악 자전거 대회…산림레포츠 활성화 기대 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260716053500062?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-07-16"
+      },
+      {
+        "title": "\"더우면 쉬고 옥외 작업 멈춘다\"…유통업계, 폭염 대응 총력 새 창 열림",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1386745",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-16"
+      },
+      {
+        "title": "[단독] “순위 밀리면 운임 깎인다”…배달라이더 위험 내모는 ‘등급제... 새 창 열림",
+        "link": "https://www.hani.co.kr/arti/society/society_general/1268679.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-07-17"
+      },
+      {
+        "title": "디지틀조선일보 새 창 열림",
+        "link": "https://digitalchosun.dizzo.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-17"
+      },
+      {
+        "title": "SPACE(공간) 새 창 열림",
+        "link": "https://vmspace.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-16"
+      },
+      {
+        "title": "노vs사 최저임금 샅바싸움 싹 바꾼다 새 창 열림",
+        "link": "https://magazine.hankyung.com/business/article/202607170720b",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-07-17"
+      },
+      {
+        "title": "오세훈 “2028년까지 25개 모든 자치구에 ‘달빛 야장’ 만들 것” 새 창 열림",
+        "link": "https://biz.heraldcorp.com/article/10811639?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-17"
+      }
+    ]
   }
 };
