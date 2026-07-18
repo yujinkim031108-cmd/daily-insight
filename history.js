@@ -17575,5 +17575,146 @@ window.historyData = {
         "date": "2026-07-17"
       }
     ]
+  },
+  "2026-07-18": {
+    "macro": [
+      {
+        "title": "쏙 들어간 1만피…반도체 정점론 vs. 매수 타이밍 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000323020?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-07-18"
+      },
+      {
+        "title": "신현송 “반도체 주가보다 가격을 보라”…메모리 호황 패러독스, 물가 ... 새 창 열림",
+        "link": "https://www.joongang.co.kr/article/25446022",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-07-17"
+      },
+      {
+        "title": "제헌절 연휴, 쉬기 전에 이것만은··· 다음 주 코스피 흔들 변수 5가지 새 창 열림",
+        "link": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307122",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-17"
+      },
+      {
+        "title": "금리 인상, 집값에 찬물?…증시로 번 돈, 반도체 성과급 '변수' 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260716_0003713005",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-07-18"
+      },
+      {
+        "title": "[4대금융 2Q 프리뷰④] 우리금융, 일회성 비용 털고 '턴어라운드' 새 창 열림",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=632960",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-17"
+      },
+      {
+        "title": "이자도 인건비도 오른다 … 자영업 덮친 '고정비 쇼크' [N-경제포커스] 새 창 열림",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/17/2026071700012.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-07-18"
+      },
+      {
+        "title": "EBN 새 창 열림",
+        "link": "https://www.ebn.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-18"
+      },
+      {
+        "title": "전국 석윳값 9주 연속 하락...내림폭은 축소 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0102_202607181001060630",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-07-17"
+      },
+      {
+        "title": "[다음주 경제 ] 2분기 성장률 발표…1분기 깜짝 성장 이어갈까 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260718018400002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-07-17"
+      },
+      {
+        "title": "118년 만의 국경 개방…스페인과 지브롤터, 장벽 허물다 새 창 열림",
+        "link": "https://www.joongang.co.kr/article/25446058",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-07-17"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-17"
+      },
+      {
+        "title": "JTV전주방송 새 창 열림",
+        "link": "https://jtv.co.kr/2012/?r=home&c=10/70",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-17"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-17"
+      },
+      {
+        "title": "원주 시장 배 전국산악 자전거 대회 8월 22~23일 개최 새 창 열림",
+        "link": "https://www.news1.kr/local/kangwon/6231300",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-07-17"
+      },
+      {
+        "title": "우버 품에 안긴 ‘배민’ 배달 앱 1위 지킬까···맹추격 ‘쿠팡이츠’... 새 창 열림",
+        "link": "https://www.khan.co.kr/article/202607171728001",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-07-18"
+      },
+      {
+        "title": "日, 별점 3.6점이면 맛집인데…한국은 4점 넘쳐나는 이유 새 창 열림",
+        "link": "https://www.hankyung.com/article/2026071711331",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-07-18"
+      },
+      {
+        "title": "배민 품은 우버 … 한국 플랫폼 경쟁 새 국면 새 창 열림",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/17/2026071700022.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-07-17"
+      },
+      {
+        "title": "[단독] '도급제 최저임금' 보고서 \"6개 직종 모두 가능\" 새 창 열림",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008662859&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-07-18"
+      },
+      {
+        "title": "쿠팡·배민의 ‘동의의결’ 기각 이유는?[박상영의 경제본색](20) 새 창 열림",
+        "link": "https://weekly.khan.co.kr/article/202607171428001",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-07-18"
+      }
+    ]
   }
 };
