@@ -17716,5 +17716,146 @@ window.historyData = {
         "date": "2026-07-18"
       }
     ]
+  },
+  "2026-07-19": {
+    "macro": [
+      {
+        "title": "AI발 악재, '비둘기 연준' 기대 팽팽 [이정훈의 코인 위클리뷰] 새 창 열림",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01269366645516160",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-07-18"
+      },
+      {
+        "title": "1인당 30만원 이자 더 부담… '영끌족' 괜찮나 새 창 열림",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092165910",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-19"
+      },
+      {
+        "title": "SK하이닉스 효과… 원화 강세에 환율 급락, 연말까지 하락세 지속될까 새 창 열림",
+        "link": "https://www.gokorea.kr/news/articleView.html?idxno=872369",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-18"
+      },
+      {
+        "title": "연합인포맥스 새 창 열림",
+        "link": "https://news.einfomax.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-18"
+      },
+      {
+        "title": "[속보]은행권 가계대출 여력 바닥 새 창 열림",
+        "link": "https://magazine.hankyung.com/business/article/202607192370b",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-07-19"
+      },
+      {
+        "title": "대출 금리는 '껑충'…예금 금리는 '찔끔'[금리인상 후폭풍]③ 새 창 열림",
+        "link": "https://www.news1.kr/finance/general-finance/6231429",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-07-19"
+      },
+      {
+        "title": "올해 1인당 GDP 3만9000 달러 추산, 4만 달러 가시화...21년 이후 5년만에 ... 새 창 열림",
+        "link": "https://www.chosun.com/economy/economy_general/2026/07/19/VGV25TI2NRDTZBYR7BF6IZJYN4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-18"
+      },
+      {
+        "title": "미국도 결국 당했다…이란 공격에 미군 2명 사망, 공격 무기 정체는? [핫... 새 창 열림",
+        "link": "https://nownews.seoul.co.kr/news/newsView.php?id=20260719601002&wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-07-18"
+      },
+      {
+        "title": "경제 는 성장했다는데… 왜 내 자식 일자리는 없나요 [긴급진단- 청년 눈... 새 창 열림",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/16/2026071600111.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-07-19"
+      },
+      {
+        "title": "2분기 대졸 실업자 48만명 넘어 5년 만에 최대…20·30대가 64% 새 창 열림",
+        "link": "https://www.news1.kr/economy/trend/6231870",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-07-18"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-18"
+      },
+      {
+        "title": "라오스, 연말까지 내연기관 차량 수입 금지 새 창 열림",
+        "link": "https://weeklytrade.co.kr/news/view.html?section=1&category=136&item=&no=100670",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-18"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-18"
+      },
+      {
+        "title": "자율주행셔틀 도전하는 더스윙…토르드라이브 핵심 인력 영입 새 창 열림",
+        "link": "https://www.mt.co.kr/future/2026/07/19/2026071516164477040",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-07-18"
+      },
+      {
+        "title": "\"올해 1~5월 아메리카노 주문 60% ↑…두쫀쿠 영향 이은 '명품 조연' 역... 새 창 열림",
+        "link": "https://www.sportschosun.com/life/2026-07-19/202607190100112360007132",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-18"
+      },
+      {
+        "title": "배달 라이더도 ‘근로자’…최저임금제·최소보수제 도입될까 새 창 열림",
+        "link": "https://h21.hani.co.kr/arti/society/society_general/59628.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-07-19"
+      },
+      {
+        "title": "10명 중 6명 다시 찾았다…“배달로봇 사고 ‘0’건” 새 창 열림",
+        "link": "https://economist.co.kr/article/view/ecn202607150013",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-18"
+      },
+      {
+        "title": "예·적금 깨고 주식·ETF로…1인 가구 ‘머니무브’ 가속 페달 새 창 열림",
+        "link": "https://www.chosun.com/economy/economy_general/2026/07/19/HKRBVLH3OZAFBNONOPJKEVA3TY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-19"
+      },
+      {
+        "title": "“ 배달 라이더도 근로자”…첫 법원 판단 나왔다 [이인혁의 판례 읽기] 새 창 열림",
+        "link": "https://magazine.hankyung.com/business/article/202607142967b",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-07-18"
+      }
+    ]
   }
 };
