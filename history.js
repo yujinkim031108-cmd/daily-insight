@@ -17857,5 +17857,174 @@ window.historyData = {
         "date": "2026-07-18"
       }
     ]
+  },
+  "2026-07-20": {
+    "macro": [
+      {
+        "title": "미 월스트리트저널 \"개인소비지출 측정방식 변경‥ 물가 상승률 0.2%p 하락... 새 창 열림",
+        "link": "https://imnews.imbc.com/news/2026/world/article/6838592_36925.html",
+        "source": "MBC",
+        "tier": "S",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "WSJ \"PCE 지표 측정방식 일부 변경…0.2%p 하락 효과\" 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000323296?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-07-19"
+      },
+      {
+        "title": "은행, 3분기에도 대출 빗장 유지… “가계부채 관리 기조 영향” 새 창 열림",
+        "link": "https://biz.chosun.com/policy/policy_sub/2026/07/20/WYEGB6NVB5DOZMT4JDJS7UXZVA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-19"
+      },
+      {
+        "title": "본격화되는 금리인상…먹구름 드리우는 금융권 새 창 열림",
+        "link": "https://www.mediapen.com/news/view/1111003",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-19"
+      },
+      {
+        "title": "\"금리도 오르는데\"… 가계대출 심사 더 까다로워진다 새 창 열림",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=02414086645516488",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "“갚을 수는 있고요?”…3분기 금융권 대출 심사 강화 새 창 열림",
+        "link": "https://m.skyedaily.com/news_view.html?ID=308130",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "美 증시약세·중동 불안에 코스피 6600선 밑으로…'삼전·닉스' 휘청 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000323324?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "보복전 수위 높이는 美·이란…다시 90달러 넘은 유가 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000323334?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-07-19"
+      },
+      {
+        "title": "중, 내수 부진에도 '사실상의 기준금리' 14개월 연속 동결 새 창 열림",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008665022&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "대졸 실업자 48만명…경력직 선호로 높아진 '첫 직장' 문턱 새 창 열림",
+        "link": "https://www.news2day.co.kr/article/20260720500032",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-19"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-19"
+      },
+      {
+        "title": "[IT과학칼럼] AI-Native 6G, 지상과 우주 잇는 국가 AI 인프라 새 창 열림",
+        "link": "https://biz.heraldcorp.com/article/10813474?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-19"
+      },
+      {
+        "title": "울산신문 새 창 열림",
+        "link": "https://www.ulsanpress.net/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-19"
+      },
+      {
+        "title": "[박상욱의 기후 1.5] '신차 판매 4분의 1' 전기 차 전환이 부르는 나비효... 새 창 열림",
+        "link": "https://news.jtbc.co.kr/article/NB12309054?influxDiv=NAVER",
+        "source": "JTBC",
+        "tier": "A",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "중부매일 새 창 열림",
+        "link": "https://www.jbnews.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-19"
+      },
+      {
+        "title": "\"도민 안전·미래 성장, 말이 아닌 실행이다\"…충남도의회, 도정 전방위... 새 창 열림",
+        "link": "https://www.tournews21.com/news/articleView.html?idxno=138858",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-19"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-19"
+      },
+      {
+        "title": "자율주행셔틀 도전하는 더스윙…토르드라이브 핵심 인력 영입 새 창 열림",
+        "link": "https://www.mt.co.kr/future/2026/07/20/2026071516164477040",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-07-19"
+      },
+      {
+        "title": "배민, 방학도시락 모금 캠페인…결식 아동 1만 2천끼 지원 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000323337?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "꾸브라꼬숯불치킨, 김성운 셰프 협업 신메뉴 '트러플꾸브' 런칭 새 창 열림",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=221550",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "요기요 , 통합 장바구니 혜택 더한 '메가적립 썸머위크' 진행 새 창 열림",
+        "link": "https://www.news1.kr/industry/distribution/6232320",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "\" 배달라이더 는 노동자\" 첫 판결, 이를 흔드는 이들에게 새 창 열림",
+        "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003252455&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+        "source": "오마이뉴스",
+        "tier": "C",
+        "date": "2026-07-19"
+      },
+      {
+        "title": "[이슈 포커스] 과거 공정위 제재에 이어 중기부 형사고발까지...안규호... 새 창 열림",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=311613",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-19"
+      }
+    ]
   }
 };
