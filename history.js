@@ -18026,5 +18026,195 @@ window.historyData = {
         "date": "2026-07-19"
       }
     ]
+  },
+  "2026-07-21": {
+    "macro": [
+      {
+        "title": "캐나다 6월 소비자물가지수 2.8% 상승 새 창 열림",
+        "link": "https://www.newsis.com/view/NISI20260721_0002191242",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "[투자노트] 160조 쏟아낸 외국인… “단기 과매도 국면” 새 창 열림",
+        "link": "https://biz.chosun.com/about-investing/2026/07/21/FVNUFJ6MMZDZJONSHWUDXAG3KU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "신한은행, 예·적금 금리 최대 0.4%p 인상…\"시장 금리 반영\" 새 창 열림",
+        "link": "https://www.dailian.co.kr/news/view/1669049/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "은행 주담대 금리 연 7.5% 돌파…'8% 시대' 다가온다 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260720_0003715892",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-07-21"
+      },
+      {
+        "title": "‘삼전닉스’ 레버리지에 쓰인 마이너스 통장… 대출 소진 가속화 새 창 열림",
+        "link": "https://biz.chosun.com/stock/finance/2026/07/21/7ODYO5JO3JE6NFSDNCHGDI4SOY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "IBK기업은행, IBK ‘청약라운지’로 부동산 청약 한번에 새 창 열림",
+        "link": "https://www.seoul.co.kr/news/economy/finance/2026/07/21/20260721042004?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-07-21"
+      },
+      {
+        "title": "코스피, 장 초반 급락 딛고 6600선 회복 시도…코스닥은 52주 신저가 새 창 열림",
+        "link": "https://www.hidomin.com/news/articleView.html?idxno=713990",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "[그래픽] 국제유가 다시 상승세 새 창 열림",
+        "link": "https://www.newsis.com/view/NISI20260721_0002191176",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-07-21"
+      },
+      {
+        "title": "2년차 맞는 구윤철號…3·4·5 달성, 양극화 해소 총력전 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260720_0003714921",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "[전격시사] 유의동 국민의힘 의원 - “검찰 폐지하자는 민주당, 차라리... 새 창 열림",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8615776&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-07-20"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "[IT과학칼럼] AI-Native 6G, 지상과 우주 잇는 국가 AI 인프라 새 창 열림",
+        "link": "https://biz.heraldcorp.com/article/10813474?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "전라일보 새 창 열림",
+        "link": "https://www.jeollailbo.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "[위클리국회세미나] '간호서비스 적정보상을 위한 간호 수가 혁신 토론... 새 창 열림",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7174954",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "[박상욱의 기후 1.5] '신차 판매 4분의 1' 전기 차 전환이 부르는 나비효... 새 창 열림",
+        "link": "https://news.jtbc.co.kr/article/NB12309054?influxDiv=NAVER",
+        "source": "JTBC",
+        "tier": "A",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "제주의소리 새 창 열림",
+        "link": "https://www.jejusori.net/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "코리아레이싱모델협, 中 싱츠자동차 프로젝트 참여…활동 영역 확대 새 창 열림",
+        "link": "https://www.gpkorea.com/news/articleView.html?idxno=144891",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "\"도민 안전·미래 성장, 말이 아닌 실행이다\"…충남도의회, 도정 전방위... 새 창 열림",
+        "link": "https://www.tournews21.com/news/articleView.html?idxno=138858",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-20"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "커지는 전기자전거 시장 …전통 강자에 교육기업까지 가세 새 창 열림",
+        "link": "https://www.etoday.co.kr/news/view/2605252",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "에너지경제 새 창 열림",
+        "link": "https://www.ekn.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "“ 쿠팡이츠 내부자료 활용 의혹”...경찰, ‘땡겨요’ 팀장 수사 착수 새 창 열림",
+        "link": "https://www.chosun.com/national/national_general/2026/07/21/M7URGYQOOVBHVFT2NPQ66ZNACA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-21"
+      },
+      {
+        "title": "[우버 배민 인수]① '22조 빅딜' 성패 가를 공정위 판단 새 창 열림",
+        "link": "https://www.bloter.net/news/articleView.html?idxno=668425",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "전기이륜차 구독 플랫폼 사이클로이드, 액스벤처스서 5억원 투자 유치 새 창 열림",
+        "link": "https://platum.kr/archives/291128",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "뉴스맵 새 창 열림",
+        "link": "https://www.newsmap.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "일요시사 새 창 열림",
+        "link": "https://ilyosisa.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-20"
+      }
+    ]
   }
 };
