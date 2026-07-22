@@ -18216,5 +18216,195 @@ window.historyData = {
         "date": "2026-07-20"
       }
     ]
+  },
+  "2026-07-22": {
+    "macro": [
+      {
+        "title": "\"40년 마지노선 깨졌다\"… 미·이란 전운에 엔·달러 163엔 돌파 '사상 최... 새 창 열림",
+        "link": "https://www.g-enews.com/view.php?ud=202607221008332940e7e8286d56_1",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-21"
+      },
+      {
+        "title": "머니투데이방송 새 창 열림",
+        "link": "https://news.mtn.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "'정기예금 3% 시대'…국민은행도 예적금 금리 인상 새 창 열림",
+        "link": "https://www.mt.co.kr/finance/2026/07/22/2026072209544276489",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-07-21"
+      },
+      {
+        "title": "[N2 숏폼] 42개월 만의 기준금리 인상…유통업계도 긴장 고조 새 창 열림",
+        "link": "https://www.news2day.co.kr/article/20260722500028",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-21"
+      },
+      {
+        "title": "은행 연체율 10년만 최고…중소기업 대출 연체율 1% 넘어 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12104128",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "은행 원화 대출 연체 율 9년 7개월 만에 최고치…중소기업 11년 만에 1%대 새 창 열림",
+        "link": "https://www.nspna.com/news/?mode=view&newsid=821423",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "원 - 달러 환율 1400원 후반대로 하락…정부 “하반기는 더 개선될 것” 새 창 열림",
+        "link": "https://www.hani.co.kr/arti/economy/economy_general/1269358.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-07-21"
+      },
+      {
+        "title": "'반도체 투톱' 폭등에 코스피 7,100선 회복… 매수 사이드카 발동 새 창 열림",
+        "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=388599",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-21"
+      },
+      {
+        "title": "윤도희 경기도의원 “위기강조하며 무역위기대응 예산 삭감” 지적..경... 새 창 열림",
+        "link": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/22/20260722500057?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-07-21"
+      },
+      {
+        "title": "‘멋진 신세계’의 고용절벽과 부동산 정책 [전성인 칼럼] 새 창 열림",
+        "link": "https://www.hani.co.kr/arti/opinion/column/1269336.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-07-21"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-21"
+      },
+      {
+        "title": "[VS 기획] 주차장, 상속 다툼에서 데이터 전쟁으로…땅보다 비싼 것은 데... 새 창 열림",
+        "link": "https://www.venturesquare.net/1093916/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-21"
+      },
+      {
+        "title": "중소·중견기업 547개 ‘혁신 프리미어’ 선정…정책금융 우대 집중 지... 새 창 열림",
+        "link": "https://platum.kr/archives/291171",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-21"
+      },
+      {
+        "title": "국방일보 새 창 열림",
+        "link": "https://kookbang.dema.mil.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-21"
+      },
+      {
+        "title": "\"중학생 이하 킥보드 타지 마\"…청소년 이용 차단 '초강수' 새 창 열림",
+        "link": "https://www.hankyung.com/article/202607228403i",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "전주에 공유킥보드 느닷없이 급증…기막힌 이유 있었다 새 창 열림",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008667091&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "[오늘의 날씨] 인천 옹진·영종 호우주의보…21일 낮 12시~15시 해제 예정 새 창 열림",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=16141398",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-21"
+      },
+      {
+        "title": "에너지경제 새 창 열림",
+        "link": "https://www.ekn.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-21"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-21"
+      },
+      {
+        "title": "지쿠, 16세 미만 킥보드 대여 막는다… 안전투자로 판 키운다 새 창 열림",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=745748",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-21"
+      },
+      {
+        "title": "우아한청년들, 사고 경험 배민라이더 120일 무사고시 인센티브 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260722_0003718099",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-07-21"
+      },
+      {
+        "title": "써브웨이, ‘아기맹수’ 김시현 셰프와 공동 개발한 한정 메뉴 ‘아기맹... 새 창 열림",
+        "link": "https://sports.khan.co.kr/article/202607220320003?pt=nv",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "AI로 탐색-추천-구입하는 ‘제로클릭’ 시대 개막 새 창 열림",
+        "link": "https://www.donga.com/news/Economy/article/all/20260721/134337798/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "동작구, 전기 차 보조금 50만원… 전기이륜차 엔 20만∼30만원 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260721142200004?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-07-21"
+      },
+      {
+        "title": "우아한청년들, 사고 경험 라이더 안전 복귀 프로그램 운영 새 창 열림",
+        "link": "https://www.klnews.co.kr/news/articleView.html?idxno=322009",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-21"
+      },
+      {
+        "title": "﻿검색창 다음은 실행권… 중국 AI 에이전트는 인터넷을 다시 짠다 [박지... 새 창 열림",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092166205",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-22"
+      }
+    ]
   }
 };
