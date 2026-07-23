@@ -18406,5 +18406,174 @@ window.historyData = {
         "date": "2026-07-22"
       }
     ]
+  },
+  "2026-07-23": {
+    "macro": [
+      {
+        "title": "영국 6월 물가 상승률 깜짝 하락...다음 주 금리 동결 예상 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0104_202607230803516815",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-07-23"
+      },
+      {
+        "title": "인도네시아, 예상밖 기준금리 5.75% 동결…\"인상 대신 해외자금 유치\" 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260723_0003719844",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-07-23"
+      },
+      {
+        "title": "6월 전국 아파트 1순위 경쟁률 3년만에 최저…서울 낙폭 가장 커 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12105204",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "라온신문 새 창 열림",
+        "link": "https://www.raonnews.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-23"
+      },
+      {
+        "title": "중앙이코노미뉴스 새 창 열림",
+        "link": "https://www.joongangenews.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "\"은행 연체 율 상승세 둔화…중소기업 연체 안정화가 관건\" <한화투자證... 새 창 열림",
+        "link": "https://www.news2day.co.kr/article/20260723500061",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-23"
+      },
+      {
+        "title": "코스피 장 초반 3%대 급등… 4거래일 만에 7000선 회복 새 창 열림",
+        "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2289789",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "[N2 증시 풍향계] 삼성전기·네이버·HLB ‘강세’…신재생에너지·AI·전... 새 창 열림",
+        "link": "https://www.news2day.co.kr/article/20260723500063",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "대우건설, 베트남 넘어 인도네시아 확장...동남아 미래시장 승부 새 창 열림",
+        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=65235",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-23"
+      },
+      {
+        "title": "“아들, 취업 안 되면 아빠 회사 들어와”…직원 자녀만 뽑는다는 中기... 새 창 열림",
+        "link": "https://www.sedaily.com/article/20070844?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-22"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "김보미 \"이낙연계 확실히 아니다... 당시 억울하게 제명, 李 당대표 시절... 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0101_202607230749056860",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-07-23"
+      },
+      {
+        "title": "지쿠 , 16세 미만 전동 킥보드 이용 차단…헬멧 인프라는 확대 새 창 열림",
+        "link": "https://biz.chosun.com/it-science/ict/2026/07/22/WT55EFCVSJHP3D2AJK2ZRYLERU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-23"
+      },
+      {
+        "title": "[포토] 은평구, 청소년 참여예산 제안대회 새 창 열림",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=03093046645517472",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "경남신문 새 창 열림",
+        "link": "https://www.knnews.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "동대구역, 대경선 날개 달고 부산역 제쳤다…지방권 1위 철도 허브 '등극... 새 창 열림",
+        "link": "https://www.idaegu.com/news/articleView.html?idxno=664509",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-23"
+      },
+      {
+        "title": "세종시의회, 상임위별 현안 점검 본격화 새 창 열림",
+        "link": "https://www.aflnews.co.kr/news/articleView.html?idxno=324995",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-23"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "마닐라 & 세부, 더 깊이 여행하는 법 새 창 열림",
+        "link": "https://www.travie.com/news/articleView.html?idxno=55773",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "에이트스튜디오 '정령킹 키우기', 출시 300일 기념 '썸머 페스타' 개최 새 창 열림",
+        "link": "https://www.khgames.co.kr/news/articleView.html?idxno=306602",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "버거는 무알코올 맥주와, 피자는 셰프를 만났다…여름 미식 신상 [쿠킹... 새 창 열림",
+        "link": "https://www.joongang.co.kr/article/25447400",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-07-23"
+      },
+      {
+        "title": "화해글로벌, K-뷰티 성장세 맞춰 글로벌 확장·데이터 사업 고도화···... 새 창 열림",
+        "link": "https://sports.khan.co.kr/article/202607222349003?pt=nv",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-07-23"
+      },
+      {
+        "title": "' 배달라이더 '도 법 테두리 안으로…근로자 인정은 언제쯤 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260722_0003719415",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-07-23"
+      },
+      {
+        "title": "공공 배달 쿠폰 덕에 컸지만… 배달 앱 '땡겨요' 두고 점주들 불만 까닭 새 창 열림",
+        "link": "https://ilyo.co.kr/?ac=article_view&entry_id=511970",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-22"
+      }
+    ]
   }
 };
