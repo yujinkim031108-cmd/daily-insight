@@ -18575,5 +18575,174 @@ window.historyData = {
         "date": "2026-07-22"
       }
     ]
+  },
+  "2026-07-24": {
+    "macro": [
+      {
+        "title": "日증시, 美기술주 급락에 하락 출발…닛케이 1.26%↓ 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260724_0003721508",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-07-23"
+      },
+      {
+        "title": "나스닥 2.2%↓, 유가 100달러 충격에 급락…AI 투자 회의론까지 덮쳤다[... 새 창 열림",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01938486645517800",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-07-24"
+      },
+      {
+        "title": "비즈니스플러스 새 창 열림",
+        "link": "https://www.businessplus.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-23"
+      },
+      {
+        "title": "실질소득 상승률 38년 만에 ‘최고’ 새 창 열림",
+        "link": "https://www.khan.co.kr/article/202607232214005",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-07-23"
+      },
+      {
+        "title": "\"현금 3000만원 채우려 마통 뚫을라\"…레버리지 예탁금 강화에 긴장 새 창 열림",
+        "link": "https://www.mt.co.kr/finance/2026/07/24/2026072114440458647",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-07-24"
+      },
+      {
+        "title": "대출 규제 풍선효과에…당국, 車담대도 조인다 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12105769",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-07-23"
+      },
+      {
+        "title": "국제유가 100 달러 돌파에...코스피 7,000선 내줘 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0102_202607241012435136",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-07-23"
+      },
+      {
+        "title": "유류세 인하, 더 연장…정부 “9월 말까지 유지” 새 창 열림",
+        "link": "https://www.kgnews.co.kr/news/article.html?no=905023",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-23"
+      },
+      {
+        "title": "日 엔화 끝없는 추락…달러당 164엔·100엔당 900원 붕괴 [도쿄나우] 새 창 열림",
+        "link": "https://www.hankyung.com/article/202607243463i",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-07-24"
+      },
+      {
+        "title": "코스피 3% 급락, 다시 6800선…지정학·유가·美빅테크·관세 '악재' 새 창 열림",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/24/2026072400045.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-07-23"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "김보미 \"'짱돌세대' 선배들 폭탄발언에 전화, 공감한다 격려… 감격스러... 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0101_202607230749056860",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-07-24"
+      },
+      {
+        "title": "지쿠 , 16세 미만 킥보드 이용 전면 차단 새 창 열림",
+        "link": "https://sports.khan.co.kr/article/202607230243003?pt=nv",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-07-23"
+      },
+      {
+        "title": "토론토 '스트리트카 인공지능 카메라' 설치 운행 개시 새 창 열림",
+        "link": "https://www.koreadaily.com/article/20260723062759802",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-23"
+      },
+      {
+        "title": "[공기업탐방] 정용식 TS 이사장 \"AI·미래모빌리티로 교통안전 역할 넓힌... 새 창 열림",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=1394665",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-23"
+      },
+      {
+        "title": "사고 절반 이하로…‘배민라이더스쿨’ 8년, 실제로 재해율 줄였다 새 창 열림",
+        "link": "https://www.khan.co.kr/article/202607232044005",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-07-23"
+      },
+      {
+        "title": "에브리봇, 와이즈에이아이와 AI 스마트 실버케어 플랫폼 개발 MOU 새 창 열림",
+        "link": "https://www.newspim.com/news/view/20260723000857",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-23"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-23"
+      },
+      {
+        "title": "‘서울 가는 포털’로 전락한 철도…새로운 연결망을 상상하다 [.txt] 새 창 열림",
+        "link": "https://www.hani.co.kr/arti/culture/book/1269729.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-07-24"
+      },
+      {
+        "title": "[ESG리포트] 코스맥스, 고객사 수출입 지원 플랫폼 가동 外 새 창 열림",
+        "link": "https://theviewers.co.kr/View.aspx?No=4160674",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-23"
+      },
+      {
+        "title": "하나로마트 “수익+공익”… 계열사 경영개선 나선다 새 창 열림",
+        "link": "https://www.donga.com/news/Economy/article/all/20260723/134353743/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-07-23"
+      },
+      {
+        "title": "굽네치킨 '굽네 순살 시카고 피자'→이마트 '디치 프레첼스틱' 새 창 열림",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=753831",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-24"
+      },
+      {
+        "title": "사고 절반 이하로…‘배민라이더스쿨’ 8년, 실제로 재해율 줄였다 새 창 열림",
+        "link": "https://www.khan.co.kr/article/202607232044005",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-07-23"
+      },
+      {
+        "title": "공정거래법의 ’공정’은 무엇을 약속하는가 [BKL 공정거래리포트] 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12105254",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-07-23"
+      }
+    ]
   }
 };
