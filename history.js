@@ -18744,5 +18744,160 @@ window.historyData = {
         "date": "2026-07-23"
       }
     ]
+  },
+  "2026-07-25": {
+    "macro": [
+      {
+        "title": "연합인포맥스 새 창 열림",
+        "link": "https://news.einfomax.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-25"
+      },
+      {
+        "title": "러, 기준금리 14.0%로 인하…10차례 잇달아 내려 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260724174200108?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-07-24"
+      },
+      {
+        "title": "글로벌 복합위기와 AI 파동 속, 연금은 어떻게 지켜야 하나 새 창 열림",
+        "link": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307166",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-24"
+      },
+      {
+        "title": "주담대 8% 전망에 “내 집 마련 포기”… ‘영끌족’도 비상 새 창 열림",
+        "link": "https://weekly.donga.com/3/all/11/6319846/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-07-24"
+      },
+      {
+        "title": "반도체 생산 회복했나…내주 인구주택총조사·산업활동지표 줄줄이 공개 새 창 열림",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=223764",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-24"
+      },
+      {
+        "title": "반도체로 번 돈 어디로…하반기 성장, '내수 낙수효과'에 달렸다 새 창 열림",
+        "link": "https://www.mt.co.kr/economy/2026/07/25/2026072415514080431",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-07-25"
+      },
+      {
+        "title": "40년 만에 최저치 기록한 엔화, 원화도 안심할 수 없다? 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260724_0003722166",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-07-25"
+      },
+      {
+        "title": "원유 수입량 감소했지만 수입금액 20% 이상 증가 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0102_202607251016364859",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-07-24"
+      },
+      {
+        "title": "[다음주 경제 ] 반도체 생산 얼마나 늘었을까…인구주택총조사 결과 공개 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260725016200002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-07-25"
+      },
+      {
+        "title": "의대 입학시험 문제 유출에 들끓는 인도 Z세대… 모디 장기 집권 흔드나 새 창 열림",
+        "link": "https://biz.chosun.com/international/international_general/2026/07/25/FCZRSKMD7ZHITMG7R7OTPF3PFY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-25"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-24"
+      },
+      {
+        "title": "맞은편서 질주하는 전동 킥보드 …겸용 도로서 보행자 '쾅' 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260724120000060?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-07-24"
+      },
+      {
+        "title": "배달노동자가 안전하게 일하는 법을 배우는 곳 새 창 열림",
+        "link": "https://www.laborplus.co.kr/news/articleView.html?idxno=41187",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-24"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-24"
+      },
+      {
+        "title": "‘서울 가는 포털’로 전락한 철도…새로운 연결망을 상상하다 [.txt] 새 창 열림",
+        "link": "https://www.hani.co.kr/arti/culture/book/1269729.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-07-24"
+      },
+      {
+        "title": "[단독] 캐시워크 돈버는퀴즈 정답 7월 25일 새 창 열림",
+        "link": "https://www.bntnews.co.kr/article/view/bnt202607250005",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-24"
+      },
+      {
+        "title": "'만원 한 장'이면 충분…요즘 입소문 난 '이곳' 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000324372?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-07-25"
+      },
+      {
+        "title": "고물가 속 입맛 전쟁, 브랜드들이 다시 뛴다 새 창 열림",
+        "link": "https://www.pressman.kr/news/articleView.html?idxno=102880",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-25"
+      },
+      {
+        "title": "전기이륜차 구독모델 만든 '덕업일치' 창업자…투자자도 반했다 새 창 열림",
+        "link": "https://www.mt.co.kr/future/2026/07/25/2026072411201324888",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-07-24"
+      },
+      {
+        "title": "김용판 달서구청장, AI·ICT 활용 복지위기가구 발굴...보건복지부 장관... 새 창 열림",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3645879",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-24"
+      },
+      {
+        "title": "일요서울 새 창 열림",
+        "link": "https://www.ilyoseoul.co.kr/",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-07-25"
+      }
+    ]
   }
 };
