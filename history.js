@@ -18899,5 +18899,174 @@ window.historyData = {
         "date": "2026-07-25"
       }
     ]
+  },
+  "2026-07-26": {
+    "macro": [
+      {
+        "title": "[마켓인사이트] 반등 시도하다 또 출렁…코스피 변동성 이어지나 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260725034100008?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-07-26"
+      },
+      {
+        "title": "주간 금시세(금값) 전망... 금가격 추세 결정지을 중대한 국면 돌입 새 창 열림",
+        "link": "https://www.wikitree.co.kr/articles/1148481",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-25"
+      },
+      {
+        "title": "은행 가계대출 연체율 10년 만에 '최고' … 부실 경고음 커졌다 새 창 열림",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/26/2026072600025.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-07-26"
+      },
+      {
+        "title": "SK하이닉스 업은 크레딧물…높아진 캐리 매력에 투심 살아날까 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260725026700008?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-07-26"
+      },
+      {
+        "title": "청년·서민 대출 총량 관리대상서 제외 검토 … 실수요 숨통 트이나 새 창 열림",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/26/2026072600020.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-07-25"
+      },
+      {
+        "title": "금리 상승에 영끌족 비명…서울 주담대 연체 율도 ‘꿈틀’ 새 창 열림",
+        "link": "https://www.kmib.co.kr/article/view.asp?arcid=0030162306&code=61141111&cp=nv",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-26"
+      },
+      {
+        "title": "“추락하던 원화 가치” 이달 들어 ‘반전’ 새 창 열림",
+        "link": "https://magazine.hankyung.com/business/article/202607266128b",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-07-25"
+      },
+      {
+        "title": "[김이코의 시장분석] 금리 변수에 주식시장 '긴장'… 미국도 흔들린다 새 창 열림",
+        "link": "https://www.mediapen.com/news/view/1112254",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-26"
+      },
+      {
+        "title": "\"대체 불가한 AI 핵심 국가로\"…'깐부 회동' 재현 새 창 열림",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008674843&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-07-26"
+      },
+      {
+        "title": "印 교육부 장관, '시험지 유출' 대규모 항의 시위에 사퇴…\"Z세대의 승리... 새 창 열림",
+        "link": "https://www.news1.kr/world/asia-australia/6239035",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-07-25"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-25"
+      },
+      {
+        "title": "'매출 20% 삭제' 학원 셔틀버스 고민…노선 최적화로 해결한 이곳 새 창 열림",
+        "link": "https://www.mt.co.kr/future/2026/07/26/2026071017070663124",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-07-25"
+      },
+      {
+        "title": "맞은편서 질주하는 전동 킥보드 …겸용 도로서 보행자 '쾅' 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260724120000060?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-07-25"
+      },
+      {
+        "title": "가격도 기술도 ‘급’이 달라졌다...中 전기 차의 질주 [스페셜리포트] 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12101364",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-07-25"
+      },
+      {
+        "title": "[비즈톡톡] ‘집에서 공항까지 모십니다’… 매장 밖으로 확장하는 백화... 새 창 열림",
+        "link": "https://biz.chosun.com/distribution/channel/2026/07/26/VEGLP2U4KJDDPHVD46YBZTTC7U/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-25"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-25"
+      },
+      {
+        "title": "\"패밀리카 끝판왕\" 3040에 불티…대반란 일으킨 '아빠車' [최수진의 모빌... 새 창 열림",
+        "link": "https://www.hankyung.com/article/202607244428g",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-07-25"
+      },
+      {
+        "title": "지누스, 내달 2일까지 '에어 쿨슬립 페스타'...최대 25% 할인 새 창 열림",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=754261",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-25"
+      },
+      {
+        "title": "'만원 한 장'이면 충분…요즘 입소문 난 '이곳' 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000324372?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-07-26"
+      },
+      {
+        "title": "“매일 오전 11시 선착순”…치킨업계, 신메뉴 들고 ‘앱 오픈런’ 새 창 열림",
+        "link": "https://www.segye.com/newsView/20260725504859?OutUrl=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-25"
+      },
+      {
+        "title": "전기이륜차 구독모델 만든 '덕업일치' 창업자…투자자도 반했다 새 창 열림",
+        "link": "https://www.mt.co.kr/future/2026/07/25/2026072411201324888",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-07-25"
+      },
+      {
+        "title": "중복 무더위에 전국이 '헉헉'…온열질환·가축 폐사 초비상 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260725041100056?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-07-25"
+      },
+      {
+        "title": "‘ 배달 ·숙박·오픈마켓’ 들여다보는 공정위…입점업체 상대 ‘신종갑... 새 창 열림",
+        "link": "https://view.asiae.co.kr/article/2026072109234427185",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-26"
+      }
+    ]
   }
 };
