@@ -19068,5 +19068,174 @@ window.historyData = {
         "date": "2026-07-26"
       }
     ]
+  },
+  "2026-07-27": {
+    "macro": [
+      {
+        "title": "'실적 슈퍼위크'에 FOMC까지 줄줄이 … 韓증시 분수령 새 창 열림",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/27/2026072700071.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-07-26"
+      },
+      {
+        "title": "7월 FOMC 앞두고 '동결' 유력...하반기 중 인상 가능성 대두 새 창 열림",
+        "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=606206",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-27"
+      },
+      {
+        "title": "한경잡앤조이 새 창 열림",
+        "link": "https://magazine.hankyung.com/job-joy",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-07-26"
+      },
+      {
+        "title": "다시 직면한 ‘고유가-고금리’ 위험 새 창 열림",
+        "link": "https://www.hani.co.kr/arti/economy/finance/1270019.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-07-27"
+      },
+      {
+        "title": "4대 은행 중기 대출 연체율 9년 만에 최고…'생산적금융' 딜레마 커진다 새 창 열림",
+        "link": "https://www.dailian.co.kr/news/view/1671108/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-07-27"
+      },
+      {
+        "title": "[Invest]셀러 파이낸싱(Seller Financing)의 역사, 그리고 함의 새 창 열림",
+        "link": "https://www.investchosun.com/site/data/html_dir/2026/07/24/2026072480171.html",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-26"
+      },
+      {
+        "title": "코스피, 외국인 순매도에 장중 하락 전환 새 창 열림",
+        "link": "https://view.asiae.co.kr/article/2026072710182546351",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-26"
+      },
+      {
+        "title": "李대통령 \"경기회복 이면 그림자…윗목·아랫목 고루 따뜻해야\" 새 창 열림",
+        "link": "https://www.pressian.com/pages/articles/2026072710045432515?utm_source=naver&utm_medium=search",
+        "source": "프레시안",
+        "tier": "C",
+        "date": "2026-07-27"
+      },
+      {
+        "title": "李대통령 “유가 불안 해소될 때까지 최고가격제 지속” 새 창 열림",
+        "link": "https://www.donga.com/news/Politics/article/all/20260727/134369651/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-07-27"
+      },
+      {
+        "title": "고졸 청년 5명 중 1명 \"취업 경험 없다\"…'무경험' 비중 역대 최고 새 창 열림",
+        "link": "https://www.news1.kr/economy/trend/6238469",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-07-27"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "애물단지에서 ‘효자 상품’ 된 삼천리 전기 자전거 새 창 열림",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01623606645518456",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-07-26"
+      },
+      {
+        "title": "'매출 20% 삭제' 학원 셔틀버스 고민…노선 최적화로 해결한 이곳 새 창 열림",
+        "link": "https://www.mt.co.kr/future/2026/07/27/2026071017070663124",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-07-26"
+      },
+      {
+        "title": "맞은 편서 질주하는 전동 킥보드 …겸용 도로서 보행자 '쾅' 새 창 열림",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008675648&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-07-27"
+      },
+      {
+        "title": "'국경 없는 커머스'에 돈 몰렸다…AI 물류 스타트업 투자 '활활' 새 창 열림",
+        "link": "https://www.mt.co.kr/future/2026/07/26/2026072614062643043",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-07-26"
+      },
+      {
+        "title": "[비즈톡톡] ‘집에서 공항까지 모십니다’… 매장 밖으로 확장하는 백화... 새 창 열림",
+        "link": "https://biz.chosun.com/distribution/channel/2026/07/26/VEGLP2U4KJDDPHVD46YBZTTC7U/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-26"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-26"
+      },
+      {
+        "title": "최현덕 \"남양주시 정책 1순위는 쾌속교통망 확충·양질의 일자리\" 새 창 열림",
+        "link": "https://www.news1.kr/local/gyeonggi/6239344",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-07-26"
+      },
+      {
+        "title": "우아한형제들, ISO37301 인증 갱신…준법경영 체계 유지 새 창 열림",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=205534",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-26"
+      },
+      {
+        "title": "쿠팡 ·우리은행, 원화 스테이블 코인 기반 실시간 정산 기술 검증 새 창 열림",
+        "link": "https://www.datanet.co.kr/news/articleView.html?idxno=213330",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-27"
+      },
+      {
+        "title": "[부캐 키우는 금융사] 은행이 배달까지…신한 '땡겨요'의 큰 그림 새 창 열림",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=307712",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-26"
+      },
+      {
+        "title": "'국경 없는 커머스'에 돈 몰렸다…AI 물류 스타트업 투자 '활활' 새 창 열림",
+        "link": "https://www.mt.co.kr/future/2026/07/26/2026072614062643043",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-07-26"
+      },
+      {
+        "title": "[특파원 칼럼] 기시감 새 창 열림",
+        "link": "https://www.joongang.co.kr/article/25448307",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-07-27"
+      },
+      {
+        "title": "“짜장면 한 그릇 11000원도 열 받는데”...단무지 떨어졌다며 보낸 음식... 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12107511",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-07-26"
+      }
+    ]
   }
 };
