@@ -19237,5 +19237,195 @@ window.historyData = {
         "date": "2026-07-26"
       }
     ]
+  },
+  "2026-07-28": {
+    "macro": [
+      {
+        "title": "엔비디아 \"보증 설테니 우리 제품 사라\"…유가 하락에도 반도체주 약세... 새 창 열림",
+        "link": "https://www.hankyung.com/article/202607289209i",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-07-27"
+      },
+      {
+        "title": "토큰포스트 새 창 열림",
+        "link": "https://www.tokenpost.kr",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-27"
+      },
+      {
+        "title": "미국 무역대표 “301조 관세, 연준 금리 결정에 영향 없을 것” 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12109146",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-07-27"
+      },
+      {
+        "title": "[셀럽의 한 수] 심전닉스 \"안 산 사람이 승자\"? 기회일까 함정일까 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000324838?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-07-27"
+      },
+      {
+        "title": "이 대통령이 아파트 매각할 때 쓴 방법, 수도권 넘어 부산까지 확산 새 창 열림",
+        "link": "https://www.wikitree.co.kr/articles/1148853",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-27"
+      },
+      {
+        "title": "아르헨 첫 방문 IMF 총재 \"경제 상황 훨씬 견고해져\" 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260728010500087?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "에너지경제 새 창 열림",
+        "link": "https://www.ekn.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-27"
+      },
+      {
+        "title": "인니 대통령 지지율 8개월 만에 81→51% 급락…\"경제 악화\" 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260728056100104?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-07-27"
+      },
+      {
+        "title": "\"집값 더 오른다\" 주택가격전망 4년 10개월 만에 최대치 새 창 열림",
+        "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=389036",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "제조업 고용 부진 지속…\"부진 업종 대응방안 순차 발표\" 새 창 열림",
+        "link": "https://www.mt.co.kr/economy/2026/07/28/2026072808283781272",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-07-27"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-27"
+      },
+      {
+        "title": "전기자전거 배터리, 집이 아닌 스테이션에서 갈아 끼운다 새 창 열림",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=746378",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-27"
+      },
+      {
+        "title": "아시아에이 새 창 열림",
+        "link": "https://www.asiaa.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-27"
+      },
+      {
+        "title": "지바이크, ‘배터리 구독형 전기자전거’ 이용자 390% 급증 새 창 열림",
+        "link": "https://biz.chosun.com/it-science/ict/2026/07/28/S3IRP2SUHVEZDLFNPD6IBRLH4I/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "맞은 편서 질주하는 전동 킥보드 …겸용 도로서 보행자 '쾅' 새 창 열림",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008675648&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "“안전장치 달면 규정 위반”…초소형 전기 차 중량 규제 에 업계 '발목' 새 창 열림",
+        "link": "https://www.etnews.com/20260728000093",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-27"
+      },
+      {
+        "title": "[K-연애 예능의 경쟁력④] 일반인이 광고 모델로... 연애 예능이 바꾸는... 새 창 열림",
+        "link": "https://www.banronbodo.com/news/articleView.html?idxno=32697",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-27"
+      },
+      {
+        "title": "에너지경제 새 창 열림",
+        "link": "https://www.ekn.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-27"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-27"
+      },
+      {
+        "title": "신작 '홀로라이브 드림스' 구글 플레이 매출 순위 상위권 진입... '포켓... 새 창 열림",
+        "link": "https://gamefocus.co.kr/detail.php?number=177754",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-27"
+      },
+      {
+        "title": "최현덕 \"남양주시 정책 1순위는 쾌속교통망 확충·양질의 일자리\" 새 창 열림",
+        "link": "https://www.news1.kr/local/gyeonggi/6239344",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-07-27"
+      },
+      {
+        "title": "삼성 '갤럭시Z8 시리즈' 예약 판매…통신 3사, 혜택 총력전 새 창 열림",
+        "link": "https://www.news1.kr/it-science/mobile/6240909",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "쿠팡 ‧우리은행, '스테이블 코인 결제‧즉시 정산' 기술 기반 확보 새 창 열림",
+        "link": "https://www.news2day.co.kr/article/20260728500048",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-27"
+      },
+      {
+        "title": "강북구 '서울시 다회용기 배달서비스' 참여 음식점 모집 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260727132100004?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-07-27"
+      },
+      {
+        "title": "지바이크, ‘배터리 구독형 전기자전거’ 이용자 390% 급증 새 창 열림",
+        "link": "https://biz.chosun.com/it-science/ict/2026/07/28/S3IRP2SUHVEZDLFNPD6IBRLH4I/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-27"
+      },
+      {
+        "title": "퍼블릭뉴스통신(public news-network for TTL) 새 창 열림",
+        "link": "https://www.ttlnews.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-27"
+      }
+    ]
   }
 };
