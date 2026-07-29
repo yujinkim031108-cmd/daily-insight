@@ -19427,5 +19427,202 @@ window.historyData = {
         "date": "2026-07-27"
       }
     ]
+  },
+  "2026-07-29": {
+    "macro": [
+      {
+        "title": "일요서울 새 창 열림",
+        "link": "https://www.ilyoseoul.co.kr/",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "경기· 물가 동시에 뜨겁다…한은 \"금리 인상 기조 이어갈 필요\" 새 창 열림",
+        "link": "https://www.news1.kr/economy/trend/6242321",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "우리투자證, 발행어음형 정기예금 최고 연 3.90%로 금리 인상 새 창 열림",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=03791686645519440",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "일주일 새 0.08%p↑…가파르게 오르는 주담대 금리, 연 8% 목전 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260728_0003726908",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "[단독] 아파트 잔금 대출 풀린다… 총량 관리서 제외 검토 새 창 열림",
+        "link": "https://biz.chosun.com/stock/finance/2026/07/29/MGZL545KCZA3HBSKCJZWWD7IWQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "중·저신용 위한 인뱅인데… 대출 문턱, 시중은행보다 높아졌다 [뉴스 ... 새 창 열림",
+        "link": "https://www.seoul.co.kr/news/economy/finance/2026/07/29/20260729032005?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "中 반도체 자립 우려…삼성·SK 급락 이끈 ‘차이나칩 포비아’ 새 창 열림",
+        "link": "https://www.sedaily.com/article/20073181?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "롯데칠성, 물류 차량 10대 중 4대 전기차 … 친환경 배송체계 전환 속도 새 창 열림",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/29/2026072900036.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "韓총리 \"비상 경제 점검회의 종료…중동 대응은 부총리 중심으로\" 새 창 열림",
+        "link": "https://www.news1.kr/politics/president/6242328",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "“금리 동결 이유, 알아서 해석해라”…워시표 Fed 새 소통법, 사라질 위... 새 창 열림",
+        "link": "https://magazine.hankyung.com/business/article/202607220336b",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-07-28"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "전기자전거 배터리, 집이 아닌 스테이션에서 갈아 끼운다 새 창 열림",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=746378",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "아시아에이 새 창 열림",
+        "link": "https://www.asiaa.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "배터리 구독 전기자전거 ‘그라인드’ 이용자 391%·매출 407% 증가 새 창 열림",
+        "link": "https://sports.khan.co.kr/article/202607282319003?pt=nv",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "“보석상보다 뚫기 쉽다” 탈탈 털리는 프랑스 박물관들 새 창 열림",
+        "link": "https://www.chosun.com/international/international_general/2026/07/29/XDK4VA6A7FHPJLZUK6QITOMWGQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "딴지일보 새 창 열림",
+        "link": "https://www.ddanzi.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "대여비로 수백 썼는데 걸린 적 없어요…대치동 학원가 전동 킥보드 무법... 새 창 열림",
+        "link": "https://biz.heraldcorp.com/article/10822936?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "[K-연애 예능의 경쟁력④] 일반인이 광고 모델로... 연애 예능이 바꾸는... 새 창 열림",
+        "link": "https://www.banronbodo.com/news/articleView.html?idxno=32697",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "에너지경제 새 창 열림",
+        "link": "https://www.ekn.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-28"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "[모빌리티핫이슈] 테슬라 수익성 악화...스페이스X와 합병 가능성↑ 새 창 열림",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687649",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "금호타이어, 29일 네이버 라이브커머스 진행…최대 44% 할인 새 창 열림",
+        "link": "https://www.news1.kr/industry/auto-industry/6242255",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "돼지고기는 역시 ‘이곳’…가장 먼저 떠오르는 브랜드 부문 6년 연속 1... 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12110315",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "강북구, ‘서울시 다회용기 배달서비스’ 사업 참여 음식점 모집 새 창 열림",
+        "link": "https://biz.heraldcorp.com/article/10823345?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "대여비로 수백 썼는데 걸린 적 없어요…대치동 학원가 전동 킥보드 무법... 새 창 열림",
+        "link": "https://biz.heraldcorp.com/article/10822936?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "배터리 구독 전기자전거 ‘그라인드’ 이용자 391%·매출 407% 증가 새 창 열림",
+        "link": "https://sports.khan.co.kr/article/202607282319003?pt=nv",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "존폐 기로 선 ‘전주맛 배달 ’···“독자 운영 접고 광역형으로 전환해... 새 창 열림",
+        "link": "https://www.khan.co.kr/article/202607281134001",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-07-29"
+      }
+    ]
   }
 };
