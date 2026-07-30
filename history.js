@@ -19624,5 +19624,174 @@ window.historyData = {
         "date": "2026-07-29"
       }
     ]
+  },
+  "2026-07-30": {
+    "macro": [
+      {
+        "title": "중소제조업 취업자 10만 8천 명 감소…생산도 3.7% 줄어 새 창 열림",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008682064&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "美 연준 ‘매파적 동결’…한은 8월 연속 인상 가능성 커지나 새 창 열림",
+        "link": "https://www.thepowernews.co.kr/view.php?ud=202607300957153766de3f0aa1be_7",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "정부, 美 금리 동결에 \"국내 경제·금융시장 영향 면밀 점검\" 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260730066900002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "매파적 금리 동결 택한 美 연준…한은, 백투백 인상 나설까 새 창 열림",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=298504",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "제주 가계대출 한 달 새 1454억원 증가…기업대출은 주춤 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260730_0003729438",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "美 기준금리 동결…'매파 균열'에 국내 은행 대출 금리 상승 압력 커지나 새 창 열림",
+        "link": "https://www.the-today.com/news/articleView.html?idxno=87988",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-30"
+      },
+      {
+        "title": "미 증시 약세·국제유가 상승...코스피 등락 오가 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0102_202607301000552263",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "금시세(금값) 2026년 7월 30일 새 창 열림",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=593146",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "강은희·임종식 교육감 \"학생 감소만으로 교육재정 축소 안 돼\"(종합) 새 창 열림",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1391008",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-30"
+      },
+      {
+        "title": "한은 \"연준 통화정책 불확실성 확대…각별한 경계감\" 새 창 열림",
+        "link": "https://www.mediapen.com/news/view/1113193",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-29"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "[르포] \"전기·수도 끊겨 집에서 생활 못해\"…대피소로 모여든 주민들 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260730036500073?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-07-30"
+      },
+      {
+        "title": "“보석상보다 뚫기 쉽다” 탈탈 털리는 프랑스 박물관들 새 창 열림",
+        "link": "https://www.chosun.com/international/international_general/2026/07/29/XDK4VA6A7FHPJLZUK6QITOMWGQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-30"
+      },
+      {
+        "title": "딴지일보 새 창 열림",
+        "link": "https://www.ddanzi.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "10년 만에 깨어난 ‘최고위험 단층’… 단수·정전에 대피소도 멈췄다 새 창 열림",
+        "link": "https://www.chosun.com/international/international_general/2026/07/30/C65EKDZLNZCEFC45BZURV5YPBU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "FPN 새 창 열림",
+        "link": "https://www.fpn119.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-29"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "한 대로 20가지 변신…레고처럼 조립하는 만능 전기 차 등장 새 창 열림",
+        "link": "https://www.thedrive.co.kr/news/newsview.php?ncode=1065590905021691",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "“ 배달 기사는 화물용 타라”…전국 50곳 ‘갑질 아파트’ 지도 [라이프... 새 창 열림",
+        "link": "https://nownews.seoul.co.kr/news/newsView.php?id=20260730601002&wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-07-30"
+      },
+      {
+        "title": "요아정, 유럽 디저트 감성 더한 '박준우 셰프의 정석' 선봬 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260730_0003729269",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "알칸타라 스페셜 티셔츠도 요기 있어요! 키움, 31일 SSG전서 ‘ 요기요 파... 새 창 열림",
+        "link": "https://www.sportsseoul.com/news/read/1625593?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "정부, 배달라이더 일감배정 알고리즘 공개…ILO협약 비준 추진 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260730055900530?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-07-29"
+      },
+      {
+        "title": "“쉬면 등급 깎여”…폭염 내몰리는 배달 기사 새 창 열림",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8623953&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-07-30"
+      }
+    ]
   }
 };
