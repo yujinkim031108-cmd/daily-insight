@@ -19793,5 +19793,181 @@ window.historyData = {
         "date": "2026-07-30"
       }
     ]
+  },
+  "2026-07-31": {
+    "macro": [
+      {
+        "title": "엔화, 日 통화당국 시장 개입에 1달러=159엔대 후반 급등 출발 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260731_0003731142",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-07-30"
+      },
+      {
+        "title": "일본은행, 오늘 금리동결 유력…엔화 방어용 매파 메시지 주목 새 창 열림",
+        "link": "https://www.news1.kr/world/international-economy/6245019",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "日, 40년 만의 엔저에 개입 정황…BOJ 추가 인상 주목 새 창 열림",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=03758886645520096",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "100년 만의 대홍수…‘칩플레이션’ [스페셜리포트] 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12106469",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-07-30"
+      },
+      {
+        "title": "핀다, 중저신용자 '생활안정 대출 ' 실수요 집중…조회 승인율 98.3% 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260731_0003731152",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "잔금 대출 도 규제 대상… “자금계획 미리 세워야”[부동산 빨간펜] 새 창 열림",
+        "link": "https://www.donga.com/news/Economy/article/all/20260730/134397303/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-07-30"
+      },
+      {
+        "title": "AI 우려 해소에 코스피·코스닥 동반 폭등…쌍둥이 '매수 사이드카' 발동 새 창 열림",
+        "link": "https://www.mediapen.com/news/view/1113494",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-30"
+      },
+      {
+        "title": "포인트경제 새 창 열림",
+        "link": "https://www.pointe.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "이란 전쟁 직격탄… 석유 부국 사우디 경제 도 역성장 새 창 열림",
+        "link": "https://biz.chosun.com/international/international_general/2026/07/31/IWBXHJH6HJB2DBUCTERBNJ7S5U/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-30"
+      },
+      {
+        "title": "전남광주통합특별시 출범 기획 보도 [가지 않은 길] 4편 프랑스 지역 통... 새 창 열림",
+        "link": "https://kjmbc.co.kr/NewsArticle/1530027",
+        "source": "MBC",
+        "tier": "S",
+        "date": "2026-07-31"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-30"
+      },
+      {
+        "title": "강진에 멈춰선 구마모토 TSMC…“반도체 장비 미세 진동에도 취약, 재개... 새 창 열림",
+        "link": "https://www.joongang.co.kr/article/25449559",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "IT동아 새 창 열림",
+        "link": "https://it.donga.com/",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "[인도 특징주] 라르센앤투브로, 신규 전자 사업에 5년간 7500억원 투자한... 새 창 열림",
+        "link": "https://www.newspim.com/news/view/20260730001255",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-30"
+      },
+      {
+        "title": "10년 만에 깨어난 ‘최고위험 단층’… 단수·정전에 대피소도 멈췄다 새 창 열림",
+        "link": "https://www.chosun.com/international/international_general/2026/07/30/C65EKDZLNZCEFC45BZURV5YPBU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "조례 안·일반안건 13건 처리... 화순군의회, 제281회 임시회 폐회 새 창 열림",
+        "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003255486&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+        "source": "오마이뉴스",
+        "tier": "C",
+        "date": "2026-07-31"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-30"
+      },
+      {
+        "title": "안산시, 공유형 모빌리티 무단 방치 개선대책 추진 새 창 열림",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=1397446",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-30"
+      },
+      {
+        "title": "BBQ, 아시안게임 앞두고 진천선수촌에 치킨 500인분 전달 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260731039200030?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "\"폭염을 시원하게\"…커피업계, 취약계층·배달기사 지원 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260731038800030?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "우버-배민 한지붕…공정위 '플랫폼 공룡' 심사 쟁점은? 새 창 열림",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=298574",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-30"
+      },
+      {
+        "title": "맥모터스, 2026 그린에너텍서 전기 이륜차 몬스터 시리즈 선보인다 새 창 열림",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1812739",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-30"
+      },
+      {
+        "title": "한 총리 \"폭염 피해 최소화에 총력‥부처별 대처 상황 점검\" 새 창 열림",
+        "link": "https://imnews.imbc.com/news/2026/politics/article/6841443_36911.html",
+        "source": "MBC",
+        "tier": "S",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "'라이더=노동자' 첫 확정 판결…제도화 논쟁 불붙나 새 창 열림",
+        "link": "https://www.nocutnews.co.kr/news/6556195?utm_source=naver&utm_medium=article&utm_campaign=20260731062630",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-30"
+      }
+    ]
   }
 };
