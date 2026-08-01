@@ -19969,5 +19969,167 @@ window.historyData = {
         "date": "2026-07-30"
       }
     ]
+  },
+  "2026-08-01": {
+    "macro": [
+      {
+        "title": "[다음주 경제] 7월 소비자물가 3% 아래로 떨어졌을까 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260801013900002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-08-01"
+      },
+      {
+        "title": "금값, 어디까지 추락할까 새 창 열림",
+        "link": "https://magazine.hankyung.com/business/article/202607305674b",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "'부동산 문제'는 어떻게 '지지율의 무덤'이 되는가?[박세열 칼럼] 새 창 열림",
+        "link": "https://www.pressian.com/pages/articles/2026073009185320183?utm_source=naver&utm_medium=search",
+        "source": "프레시안",
+        "tier": "C",
+        "date": "2026-08-01"
+      },
+      {
+        "title": "6월 경상수지 또 역대 최고치 쓰나…400억달러 돌파 여부 관심[한은 미리... 새 창 열림",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01646566645543056",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "신도림 59㎡ 1년새 4억 뛰었다… 대출 규제에 서울 외곽 중소형 급등 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260731_0003731915",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-08-01"
+      },
+      {
+        "title": "케이뱅크, 개인사업자 '집중 공략' 했더니…수익 늘고 성장성도 입증 새 창 열림",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=251433",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-01"
+      },
+      {
+        "title": "[7월 종합] 코스피 한달 −22.19%, IMF·금융위기 이후 최악…100대 기업... 새 창 열림",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473430",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "머니투데이방송 새 창 열림",
+        "link": "https://news.mtn.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "美 8월 증시 황소장이냐 조정이냐…신중론 속 낙관적 전망 우세 새 창 열림",
+        "link": "https://www.mediapen.com/news/view/1113741",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "[뉴욕증시] MS·아마존발 AI 투자 우려 완화, 조정 끝?···하이퍼스케... 새 창 열림",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=634689",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-01"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "구마모토 강진 사망자 35명…대피소 덮친 폭염에 열사병 환자 속출 새 창 열림",
+        "link": "https://www.joongang.co.kr/article/25449921",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "IT동아 새 창 열림",
+        "link": "https://it.donga.com/",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "리모와, 대전신세계점 이전 오픈 새 창 열림",
+        "link": "https://www.bntnews.co.kr/article/view/bnt202608010043",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "조례 안·일반안건 13건 처리... 화순군의회, 제281회 임시회 폐회 새 창 열림",
+        "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003255486&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+        "source": "오마이뉴스",
+        "tier": "C",
+        "date": "2026-08-01"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "도나우 강에서 수영해 봤어? 빈을 색다르게 즐기는 여름 사용법 새 창 열림",
+        "link": "https://www.khan.co.kr/article/202608010700001",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-08-01"
+      },
+      {
+        "title": "신규·휴면 고객 동시에 잡는다…유통업계 ‘덕후 마케팅’ 확산 새 창 열림",
+        "link": "https://www.sedaily.com/article/20074258?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "[Why] 배송 다음은 결제… 쿠팡 이 스테이블코인에 꽂힌 이유 새 창 열림",
+        "link": "https://biz.chosun.com/distribution/channel/2026/08/01/EONHVLS3KRESFMU2FTNKWZHAM4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "우버, 배민 인수 절차 착수…공정위 기업결합 심사 본격화 새 창 열림",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=238210",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "8.4배 뛴 주방 이모 시급…4000원 김밥 팔면 200원 남는다 새 창 열림",
+        "link": "https://www.joongang.co.kr/article/25450017",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "테크M 새 창 열림",
+        "link": "https://www.techm.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-07-31"
+      }
+    ]
   }
 };
