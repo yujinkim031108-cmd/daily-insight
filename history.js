@@ -20131,5 +20131,153 @@ window.historyData = {
         "date": "2026-07-31"
       }
     ]
+  },
+  "2026-08-02": {
+    "macro": [
+      {
+        "title": "1410원대까지 떨어진 환율…8월 하락세 이어갈까[주간외환전망] 새 창 열림",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01128326645543384",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-08-02"
+      },
+      {
+        "title": "[다음주 환율전망] 美 물가 둔화에 외국인 증시 매수 기대감… 1420원대... 새 창 열림",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=289819",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-02"
+      },
+      {
+        "title": "7월 원화 절상률 8.81% '주요국 1위'…환율 1400원 하회 전망도 새 창 열림",
+        "link": "https://www.news1.kr/economy/trend/6246341",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-08-01"
+      },
+      {
+        "title": "반도체 호황이 부른 금리 인상… 시험대 오른 AI 투자 붐 새 창 열림",
+        "link": "https://biz.chosun.com/policy/policy_sub/2026/08/02/QKWAMY3MGZFY5JIO7OPANNWQOA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-08-01"
+      },
+      {
+        "title": "대출 조여도 가계 빚 4조 늘었다…마통도 약 4년만에 최대 새 창 열림",
+        "link": "https://news.tvchosun.com/site/data/html_dir/2026/08/02/2026080290009.html",
+        "source": "TV조선",
+        "tier": "B",
+        "date": "2026-08-01"
+      },
+      {
+        "title": "금융당국 은행권 집단 대출 총량 제외 검토, 상호금융권도 포함될까 '촉... 새 창 열림",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=443715",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-01"
+      },
+      {
+        "title": "7월 원화값 8.8% 급등…금융위기 후 최대폭 절상 새 창 열림",
+        "link": "https://biz.chosun.com/policy/policy_sub/2026/08/02/6EAHTIWCCFC4FFAUMKP33LVAGM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-08-01"
+      },
+      {
+        "title": "미국-이란 긴장과 고용지표에 요동치는 뉴욕증시, 기술주 투자심리 시험... 새 창 열림",
+        "link": "https://www.tokenpost.kr/news/market/383766",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-02"
+      },
+      {
+        "title": "건강보험 곳간 비는데…보험료율 결정 앞두고 政 고심 새 창 열림",
+        "link": "https://biz.chosun.com/science-chosun/medicine-health/2026/08/02/VDPHQAC5UZD63C25WILGTHHO3E/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-08-01"
+      },
+      {
+        "title": "6500선 되찾은 코스피… 이번 주 ‘빅테크 실적·7월 고용’에 쏠린 눈 ... 새 창 열림",
+        "link": "https://www.dt.co.kr/article/12075983?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-01"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-01"
+      },
+      {
+        "title": "[DD 주간브리핑] 코히어 CRO 방한부터 AIDC 얼라이언스 가동까지… 이번... 새 창 열림",
+        "link": "https://www.ddaily.co.kr/page/view/2026073116113700477",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-01"
+      },
+      {
+        "title": "경북매일신문 새 창 열림",
+        "link": "https://www.kbmaeil.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-01"
+      },
+      {
+        "title": "리모와, 대전신세계점 이전 오픈 새 창 열림",
+        "link": "https://www.bntnews.co.kr/article/view/bnt202608010043",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-01"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-01"
+      },
+      {
+        "title": "도나우 강에서 수영해 봤어? 빈을 색다르게 즐기는 여름 사용법 새 창 열림",
+        "link": "https://www.khan.co.kr/article/202608010700001",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-08-02"
+      },
+      {
+        "title": "[써보니] 갤럭시 Z 폴드8, '접는 폰'에서 '일상폰'으로 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260731130700017?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-08-02"
+      },
+      {
+        "title": "[Why] 배송 다음은 결제… 쿠팡 이 스테이블코인에 꽂힌 이유 새 창 열림",
+        "link": "https://biz.chosun.com/distribution/channel/2026/08/01/EONHVLS3KRESFMU2FTNKWZHAM4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-08-01"
+      },
+      {
+        "title": "서울시 배달 오토바이 등 친환경 전환…450만원→100만원대 혜택 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260801023400004?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-08-01"
+      },
+      {
+        "title": "\"전화는 안받고 문자만\"…형사의 직감, '두물머리 유기' 사건 풀었다 새 창 열림",
+        "link": "https://www.mt.co.kr/society/2026/08/02/2026073114060367481",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-08-02"
+      }
+    ]
   }
 };
