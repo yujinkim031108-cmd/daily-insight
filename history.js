@@ -20279,5 +20279,153 @@ window.historyData = {
         "date": "2026-08-02"
       }
     ]
+  },
+  "2026-08-03": {
+    "macro": [
+      {
+        "title": "[주간경제일정] 美 7월 고용보고서 발표 예정…취업자수·실업률 주목 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000326124?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "“유가 안정에 물가 석 달 만에 2%대로…4분기부터 점진적 둔화 예상”... 새 창 열림",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01397286645543712",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "기아, 전기차 ‘평생 고객’ 잡는다…선택지 늘리고 혜택 확대 새 창 열림",
+        "link": "https://www.dailian.co.kr/news/view/1673747/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "시사저널이코노미 새 창 열림",
+        "link": "https://www.sisajournal-e.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "비즈한국 새 창 열림",
+        "link": "https://www.bizhankook.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-02"
+      },
+      {
+        "title": "집단 대출 총량규제 예외 검토… 상호금융 \"막힌 숨통 트이나\" 새 창 열림",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=1397617",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-02"
+      },
+      {
+        "title": "티웨이홀딩스 '상한가'…실적 개선 기대에 트리니티항공 지분 부각[특징... 새 창 열림",
+        "link": "https://www.newsway.co.kr/news/view?ud=2026080310041389515",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-02"
+      },
+      {
+        "title": "“사우디 빈살만, 트럼프에 ‘대이란 공습’ 만류” 새 창 열림",
+        "link": "https://www.koreadaily.com/article/20260802181757469",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-02"
+      },
+      {
+        "title": "줄어들던 부동산 자산 쏠림, 재확대 경고등 새 창 열림",
+        "link": "https://www.joongang.co.kr/article/25450210",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "\"5000피 다시 갈수도\" … AMD 실적·엔캐리 변수에 불나방 개미 '경계령... 새 창 열림",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/08/03/2026080300070.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-08-02"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-02"
+      },
+      {
+        "title": "[DD 주간브리핑] 코히어 CRO 방한부터 AIDC 얼라이언스 가동까지… 이번... 새 창 열림",
+        "link": "https://www.ddaily.co.kr/page/view/2026073116113700477",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-02"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-02"
+      },
+      {
+        "title": "데이터 입은 행정 혁신…시민 삶 개선 아이디어 빛났다 새 창 열림",
+        "link": "https://www.kado.net/news/articleView.html?idxno=2064333",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-02"
+      },
+      {
+        "title": "“더 가볍고 빠르게”…배민, 배달 로봇 ‘딜리’ 신규 모델 현장 투입 새 창 열림",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=90056",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-02"
+      },
+      {
+        "title": "쿠팡이츠 , 속초관광수산시장 기획전…전통시장 온라인 판로 지원 새 창 열림",
+        "link": "https://www.newsinside.kr/news/articleView.html?idxno=4887043",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-02"
+      },
+      {
+        "title": "요기요 , 키움히어로즈와 함께한 '파트너데이' 성료 새 창 열림",
+        "link": "https://www.ddaily.co.kr/page/view/2026080309582441614",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-02"
+      },
+      {
+        "title": "서울시 배달 오토바이 등 친환경 전환…450만원→100만원대 혜택 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260801023400004?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-08-02"
+      },
+      {
+        "title": "[스타트 브리핑] 더 낮은 곳에 더 가혹한 폭염... 라이더 들은 '아찔한 배... 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0103_202608030716589999",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-08-02"
+      },
+      {
+        "title": "엔비티, 하반기 대형 유료 콘텐츠 플랫폼 과 오퍼월 제휴 논의 새 창 열림",
+        "link": "https://www.etoday.co.kr/news/view/2609744",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-02"
+      }
+    ]
   }
 };
