@@ -20427,5 +20427,153 @@ window.historyData = {
         "date": "2026-08-02"
       }
     ]
+  },
+  "2026-08-04": {
+    "macro": [
+      {
+        "title": "7월 전남광주 물가 2.8% 상승… 3개월 만에 2%대 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260804_0003735398",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-08-04"
+      },
+      {
+        "title": "한은 \"8월 물가 , 통신요금 할인 기저효과로 다시 높아질 것\" 새 창 열림",
+        "link": "https://www.mt.co.kr/economy/2026/08/04/2026080409260571617",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-08-04"
+      },
+      {
+        "title": "둔화한 7월 물가에 채권시장 8월 금리 동결 가능성에 무게 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260804040900008?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-08-04"
+      },
+      {
+        "title": "\"까라면 까\"…일본 구하기에 흔들리는 美 중앙은행 [Fed 워치] 새 창 열림",
+        "link": "https://www.hankyung.com/article/202608043276i",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "\"물타기도 못 하나\"... 레버리지 규제에 제대로 뿔난 2030 청년들 새 창 열림",
+        "link": "https://www.insight.co.kr/news/566239",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "[단독] 고신용자만 대출 더 받았다…힘 못쓰는 포용금융 새 창 열림",
+        "link": "https://www.joongang.co.kr/article/25450593",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "[투데이증시] \"코스닥 살아나나\"...반도체 조정 틈타 바이오주 강세 새 창 열림",
+        "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=128553",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "나스닥 2.13% 상승…하닉ADR 0.7%↓ 새 창 열림",
+        "link": "https://www.munhwa.com/article/11607035?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-04"
+      },
+      {
+        "title": "김대종 세종대 교수, '4700조 메가프로젝트, 2027년 경제 대전망' 출간 새 창 열림",
+        "link": "https://www.mt.co.kr/policy/2026/08/04/2026080409055067849",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-08-04"
+      },
+      {
+        "title": "“연애 관심 없어” 日보다 더 높았다…한국 청년들 변한 이유 새 창 열림",
+        "link": "https://www.joongang.co.kr/article/25450610",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-08-04"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "기아 PV5 신규 라인업 5종 선보여, 주행거리 늘어난 '2027 EV6' 사전 계약... 새 창 열림",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=443789",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-03"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "은평구 탄소중립 계획, 읽을수록 '수상한 숫자'가 보였다 새 창 열림",
+        "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003256016&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+        "source": "오마이뉴스",
+        "tier": "C",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "KT, 갤럭시 Z 폴드8 시리즈 오늘부터 사전개통…정식 발매는 7일 새 창 열림",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=251887",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "[기고] 과징금으로 상생이 희생된다면 새 창 열림",
+        "link": "https://www.news1.kr/industry/distribution/6248299",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "CWN 새 창 열림",
+        "link": "https://www.cwn.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "혁신당, '민생기병대' 출범…라이더 유니온 간담회 새 창 열림",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3654392",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "세무사회 '장특공제 개편' 등 건의, 세제개편안에 대거 반영 새 창 열림",
+        "link": "https://www.taxtimes.co.kr/news/article.html?no=276260",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "비지니스코리아 새 창 열림",
+        "link": "https://www.businesskorea.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-03"
+      }
+    ]
   }
 };
