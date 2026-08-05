@@ -20575,5 +20575,174 @@ window.historyData = {
         "date": "2026-08-03"
       }
     ]
+  },
+  "2026-08-05": {
+    "macro": [
+      {
+        "title": "충북 7월 소비자물가 3.2%↑ 새 창 열림",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8628904&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-08-04"
+      },
+      {
+        "title": "에너지경제 새 창 열림",
+        "link": "https://www.ekn.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "美, 국채 금리 방어 노렸나...엔화 부양 나선 배경은? 새 창 열림",
+        "link": "https://magazine.hankyung.com/business/article/202608043470b",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-08-04"
+      },
+      {
+        "title": "[스타트 경제] 근원물가 31개월 만에 최대 폭 상승...8월 금통위 , '기준... 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0102_202608050737109429",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-08-04"
+      },
+      {
+        "title": "카카오뱅크, 상반기 순익 3280억 '역대 최대'···비이자·플랫폼 견인 새 창 열림",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=702506",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-04"
+      },
+      {
+        "title": "금리 뛰고, 공급 절벽…은행 전세 대출 급감 새 창 열림",
+        "link": "https://www.hankyung.com/article/2026080446711",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "과징금 반영에 2분기 '적자' 난 쿠팡, 3분기 부담 커진다 새 창 열림",
+        "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=244680",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-04"
+      },
+      {
+        "title": "美·이란 협상 이뤄지나… 유가 급락·S&P500 2개월 만에 최고치 새 창 열림",
+        "link": "https://www.sisajournal.com/news/articleView.html?idxno=382363",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-04"
+      },
+      {
+        "title": "AI, 개도국선 일자리 감소 보다 생산성 높여…세계은행 \"성장엔진 될 것... 새 창 열림",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=03358726645544368",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-08-04"
+      },
+      {
+        "title": "미국도 엔캐리 청산은 싫어. 왜? 새 창 열림",
+        "link": "https://www.chosun.com/economy/stock-finance/2026/08/05/7ZX63GTJZZGRXNERR2NATMHL3A/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-08-05"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-04"
+      },
+      {
+        "title": "지쿠 , 20대 3명 중 1명 탄다 새 창 열림",
+        "link": "https://view.asiae.co.kr/article/2026080509111045716",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-04"
+      },
+      {
+        "title": "“송도 자전거길, 청년들이 바꾼다”…인천시, 탄소중립 리빙랩 본격 가... 새 창 열림",
+        "link": "https://www.munhwa.com/article/11607296?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-04"
+      },
+      {
+        "title": "기후부, 녹색사업을 제2반도체로…순환경제로 전환 박차 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260803_0003734261",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-08-04"
+      },
+      {
+        "title": "의학신문 새 창 열림",
+        "link": "https://www.bosa.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-04"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-04"
+      },
+      {
+        "title": "20대 3명 중 1명의 발이 된 전동킥보드가 있다? 새 창 열림",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=747135",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-04"
+      },
+      {
+        "title": "배민, 서울시와 K 배달 문화 확산 협약 새 창 열림",
+        "link": "https://biz.chosun.com/distribution/food/2026/08/05/2SQ2DYNDHZFB7OOV6PEND7D4KA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "EBN 새 창 열림",
+        "link": "https://www.ebn.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-04"
+      },
+      {
+        "title": "[와글와글 플러스] 폭염이 바꾼 '산업 지형'‥빙과·배달 특수 새 창 열림",
+        "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6842491_37012.html",
+        "source": "MBC",
+        "tier": "S",
+        "date": "2026-08-04"
+      },
+      {
+        "title": "' 전기 국가' 내건 기후부…재생E 100GW·수자원 재편 총력 새 창 열림",
+        "link": "https://www.news1.kr/society/environment/6248272",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-08-04"
+      },
+      {
+        "title": "내년 최저임금 1만700원 확정···월급 기준 223만6300원 새 창 열림",
+        "link": "https://www.khan.co.kr/article/202608050952001",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-08-04"
+      },
+      {
+        "title": "식당에서 절대 못 참는 것 1위… 손님 78%가 싫어한 '이 서비스' 새 창 열림",
+        "link": "https://www.wikitree.co.kr/articles/1150472",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-04"
+      }
+    ]
   }
 };
