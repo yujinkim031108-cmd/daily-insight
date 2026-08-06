@@ -20744,5 +20744,181 @@ window.historyData = {
         "date": "2026-08-04"
       }
     ]
+  },
+  "2026-08-06": {
+    "macro": [
+      {
+        "title": "[당신의 생각은] “치킨 다리 먼저 먹은 남친, 누구 잘못?”… 커플 싸움... 새 창 열림",
+        "link": "https://biz.chosun.com/topics/topics_social/2026/08/06/2PW5RT7OZBGWVI4A2RZEZRY5PY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "한은 금통위도 갈렸다…8월 금리 인상 가능성 커지나 새 창 열림",
+        "link": "https://www.sedaily.com/article/20076336?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-06"
+      },
+      {
+        "title": "금리 뛰자 상업용 부동산 ‘핵심 자산’ 쏠림…호텔에 돈 몰렸다 새 창 열림",
+        "link": "https://www.ddaily.co.kr/page/view/2026080609565592878",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "우리금융硏 “8월 금통위 , 매파적 금리 동결 가능성” 새 창 열림",
+        "link": "https://www.chosun.com/economy/stock-finance/2026/08/06/BQCCOE3SCFDN3EIF57Z4ARK4SY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "‘5만 가구+α’ 추가 공급대책 다음 주 발표 새 창 열림",
+        "link": "https://www.sedaily.com/article/20076334?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "[단독]빚 못갚는 중저신용자… 연체 율 4년 만에 최고 새 창 열림",
+        "link": "https://www.donga.com/news/Economy/article/all/20260805/134427898/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-08-06"
+      },
+      {
+        "title": "미 기술주 약세에 코스피 3% 하락...코스닥도 ↓ 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0102_202608061008257272",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-08-06"
+      },
+      {
+        "title": "트럼프 \"살상하고 싶지 않다…이란과 합의하는 게 더 좋아\" 새 창 열림",
+        "link": "https://www.news1.kr/world/usa-canada/6250844",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "유럽 '생명줄' 라인강 말랐다…사상 최저 수위에 물류·에너지·관광 '비... 새 창 열림",
+        "link": "https://www.ajunews.com/view/20260806094208336",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "어린이 1명당 270만 원…중국서 '부자 캠프' 열풍 새 창 열림",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008692342&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-08-05"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "지쿠 , 20대 청년 인구 3명 중 1명 사용 새 창 열림",
+        "link": "https://sports.khan.co.kr/article/202608060146003?pt=nv",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "한신 서울시의회 교통위원장 \"서울 교통의 답은 안전과 균형\" 새 창 열림",
+        "link": "https://www.mhj21.com/news/articleView.html?idxno=253502",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "20대 3명 중 1명의 발이 된 전동킥보드 가 있다? 새 창 열림",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=747135",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "차 팔수록 손해인데? 베트남 토종 전기 차의 아슬아슬한 질주[딥다이브] 새 창 열림",
+        "link": "https://www.donga.com/news/Economy/article/all/20260805/134423117/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "[분석]⑤AI·디지털 기술이 바꾸는 화학안전…정부 정책 현실로 만드는... 새 창 열림",
+        "link": "https://www.energydaily.co.kr/news/articleView.html?idxno=201938",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-05"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "[테크 차이나] 배터리 교체비가 찻값 넘었다…中 전기 차 재활용 체계 시... 새 창 열림",
+        "link": "https://www.etnews.com/20260805000085",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "홍콩반점, 부산 한정 '돼지국밥짬뽕' 전국 판매…2주간 한정 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260806033600030?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-08-06"
+      },
+      {
+        "title": "카카오, 에이전틱 AI로 ‘의도 경제’ 시대 이끈다.. 쿠팡이츠 와 협업 발... 새 창 열림",
+        "link": "https://kpenews.com/View.aspx?No=4176410",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "폭염이 바꾼 외식업 현황…매장 손님 줄고 배달은 늘었다 새 창 열림",
+        "link": "https://www.kwnews.co.kr/article/20260805501091",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "혁신·진보당, 민생현장서 입법 경쟁 새 창 열림",
+        "link": "https://www.naeil.com/news/read/597816?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "광주 출입국사무소 \" 배달 대행업체 유착 사실 아니다\" 새 창 열림",
+        "link": "https://www.news1.kr/local/gwangju-jeonnam/6250751",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-08-05"
+      },
+      {
+        "title": "애플 \"韓 38조 경제효과 창출\"…팀 쿡 \"개발자 지원 자랑스러워\" 새 창 열림",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=02843766645544696",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-08-05"
+      }
+    ]
   }
 };
