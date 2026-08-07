@@ -20920,5 +20920,174 @@ window.historyData = {
         "date": "2026-08-05"
       }
     ]
+  },
+  "2026-08-07": {
+    "macro": [
+      {
+        "title": "토큰포스트 새 창 열림",
+        "link": "https://www.tokenpost.kr",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-06"
+      },
+      {
+        "title": "[사사건건] 폭염에 밥상 물가 ‘들썩’…‘히트플레이션’ 고착화? 새 창 열림",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8630369&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-08-06"
+      },
+      {
+        "title": "빠르게 오르는 가계대출 금리 …신한은행, 신규 평균 5% 돌파 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260807_0003740178",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-08-07"
+      },
+      {
+        "title": "[투자 노하우] 메리츠증권, 연내 금리인하 가능성 언급…8월 이후는? 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000327126?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-08-06"
+      },
+      {
+        "title": "'잔금 대출 대란' 디에이치방배 숨통…KB·신한은행, 2000억 배정 새 창 열림",
+        "link": "https://www.news1.kr/finance/general-finance/6252128",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-08-06"
+      },
+      {
+        "title": "[사설]중저신용자 연체 4년만에 최고… 금리인상기 ‘뇌관’ 될 수도 새 창 열림",
+        "link": "https://www.donga.com/news/Opinion/article/all/20260806/134434567/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-08-07"
+      },
+      {
+        "title": "와이드경제 새 창 열림",
+        "link": "https://www.widedaily.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-07"
+      },
+      {
+        "title": "이란, 호르무즈 해협 주도권·통행료 요구...트럼프 \"합의는 아직\" 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0104_202608071033180641",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-08-07"
+      },
+      {
+        "title": "AI 투자 순환매에 흔들리는 증시… 일자리 대체 공포 속 노동 시장 대전... 새 창 열림",
+        "link": "https://www.g-enews.com/view.php?ud=202608071033079947fbbec65dfb_1",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-06"
+      },
+      {
+        "title": "도지코인, 8월 첫 데드크로스 형성…주목할 가격대는 새 창 열림",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690884",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-06"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-06"
+      },
+      {
+        "title": "지쿠 , 엄태구와 ‘올바른 주차 캠페인’ 진행 새 창 열림",
+        "link": "https://biz.chosun.com/it-science/ict/2026/08/07/YH3KQPTQ4NB45PMBDV4766DIAE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-08-06"
+      },
+      {
+        "title": "\"헬멧 쓴 사람 6%뿐\"…전동 킥보드 뇌손상 위험, 오토바이의 3.5배 새 창 열림",
+        "link": "https://view.asiae.co.kr/article/2026080709385660707",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-07"
+      },
+      {
+        "title": "차 팔수록 손해인데…베트남 토종 전기 차의 아슬아슬한 질주[딥다이브] 새 창 열림",
+        "link": "https://www.donga.com/news/Economy/article/all/20260805/134423117/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-08-07"
+      },
+      {
+        "title": "[분석]⑤AI·디지털 기술이 바꾸는 화학안전…정부 정책 현실로 만드는... 새 창 열림",
+        "link": "https://www.energydaily.co.kr/news/articleView.html?idxno=201938",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-06"
+      },
+      {
+        "title": "한신 서울시의회 교통위원장 \"서울 교통의 답은 안전과 균형\" 새 창 열림",
+        "link": "https://www.mhj21.com/news/articleView.html?idxno=253502",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-06"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-06"
+      },
+      {
+        "title": "주스드, 듀얼 배터리 전기자전거 출시…한 번 충전에 최대 200km 달린다 새 창 열림",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690872",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-06"
+      },
+      {
+        "title": "41.4℃ 찍은 '불금', 배달 앱 불났다...\"외식 대신 집으로\" 새 창 열림",
+        "link": "https://www.mt.co.kr/tech/2026/08/07/2026080709120930980",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-08-06"
+      },
+      {
+        "title": "삼성증권 \"카카오, 수익성 개선 가시화\"…목표가 4만9000원 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000327291?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-08-07"
+      },
+      {
+        "title": "세븐일레븐, 쿠팡이츠 입점 확대… 연내 24시간 배달 체계 구축 새 창 열림",
+        "link": "https://biz.chosun.com/distribution/channel/2026/08/07/TKACMKFYIBBEHKXOE4LM7XBKKA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-08-06"
+      },
+      {
+        "title": "일요일이라서 문 닫은 버스 터미널 창구... 깜짝 놀랐다 새 창 열림",
+        "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003257089&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+        "source": "오마이뉴스",
+        "tier": "C",
+        "date": "2026-08-06"
+      },
+      {
+        "title": "와이드경제 새 창 열림",
+        "link": "https://www.widedaily.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-06"
+      }
+    ]
   }
 };
