@@ -21089,5 +21089,167 @@ window.historyData = {
         "date": "2026-08-06"
       }
     ]
+  },
+  "2026-08-08": {
+    "macro": [
+      {
+        "title": "초이스경제 새 창 열림",
+        "link": "https://www.choicenews.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-07"
+      },
+      {
+        "title": "스콧 베선트 美 재무 \"엔저 시정 전폭 지지…추가 공동 개입도 주저 안... 새 창 열림",
+        "link": "https://magazine.hankyung.com/business/article/202608055521b",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-08-08"
+      },
+      {
+        "title": "美 고용 쇼크에 증시는 환호…S&P500 사상 최고 새 창 열림",
+        "link": "https://www.chosun.com/economy/industry-company/2026/08/08/DFPDF6YSGVGKHDTKCFDSPY6IGU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-08-08"
+      },
+      {
+        "title": "연합인포맥스 새 창 열림",
+        "link": "https://news.einfomax.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-07"
+      },
+      {
+        "title": "금리 인상 여파에 은행 부실채권 급증…NPL 8년來 최고 새 창 열림",
+        "link": "https://www.pressian.com/pages/articles/2026080716122300329?utm_source=naver&utm_medium=search",
+        "source": "프레시안",
+        "tier": "C",
+        "date": "2026-08-08"
+      },
+      {
+        "title": "[선데이 칼럼] 관치금융 2.0 새 창 열림",
+        "link": "https://www.joongang.co.kr/article/25451726",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-08-07"
+      },
+      {
+        "title": "\"'이 주식' 지금 사야합니다\"...도대체 뭐길래 새 창 열림",
+        "link": "https://magazine.hankyung.com/business/article/202608081740b",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-08-08"
+      },
+      {
+        "title": "주유소 기름값 12주 연속 하락…휘발유·경유 1800원대 유지 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000327451?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-08-07"
+      },
+      {
+        "title": "3% 성장에도 고용률 6년 만에 하락 전망...미래 없는 성장 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0102_202608080624535771",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-08-08"
+      },
+      {
+        "title": "왜 심리지수는 실제 소비를 예측하지 못할까 새 창 열림",
+        "link": "https://www.hani.co.kr/arti/economy/economy_general/1271972.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-08-07"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-07"
+      },
+      {
+        "title": "지쿠 , 엄태구와 ‘올바른 주차 캠페인’ 진행 새 창 열림",
+        "link": "https://biz.chosun.com/it-science/ict/2026/08/07/YH3KQPTQ4NB45PMBDV4766DIAE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-08-08"
+      },
+      {
+        "title": "전동 킥보드 사고, 오토바이보다 뇌손상 위험 3.5배 높다 새 창 열림",
+        "link": "https://www.insight.co.kr/news/567086",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-08"
+      },
+      {
+        "title": "\"헬멧 쓴 사람 6%뿐\"… 전동킥보드 뇌손상 위험, 오토바이의 3.5배 새 창 열림",
+        "link": "https://view.asiae.co.kr/article/2026080709385660707",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-07"
+      },
+      {
+        "title": "KOTRA해외시장뉴스 새 창 열림",
+        "link": "https://dream.kotra.or.kr/kotranews/index.do",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-07"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-07"
+      },
+      {
+        "title": "8년 만에 몸집 키운 대부도 뱃길… '좌석 확대' 넘어 체류형 관광으로 ... 새 창 열림",
+        "link": "https://www.thereport.co.kr/news/articleView.html?idxno=90214",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-07"
+      },
+      {
+        "title": "지쿠, ‘올바른 주차 캠페인’ 전격 개최···배우 엄태구, 캠페인 모델... 새 창 열림",
+        "link": "https://sports.khan.co.kr/article/202608080708003?pt=nv",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-08-07"
+      },
+      {
+        "title": "잘 나가는 쿠팡 ? 상반기 1조 적자에 미국 소송까지 새 창 열림",
+        "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=336298",
+        "source": "미디어오늘",
+        "tier": "C",
+        "date": "2026-08-07"
+      },
+      {
+        "title": "\"퇴근하자마자 집 가고파\" 더위에 외식 줄고 배달 쑥 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12121160",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-08-07"
+      },
+      {
+        "title": "밖은 40도, 안은 800도…찜통지옥 속에서 버티는 사람들 새 창 열림",
+        "link": "https://www.joongang.co.kr/article/25451788",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-08-08"
+      },
+      {
+        "title": "공정위, 과도한 플랫폼 수수료 들여다본다 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12121174",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-08-07"
+      }
+    ]
   }
 };
