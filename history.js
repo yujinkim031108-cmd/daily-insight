@@ -21251,5 +21251,146 @@ window.historyData = {
         "date": "2026-08-07"
       }
     ]
+  },
+  "2026-08-09": {
+    "macro": [
+      {
+        "title": "코스피 거래대금·거래량 올해 최저…반등 모멘텀 실종 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000327480?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-08-09"
+      },
+      {
+        "title": "[증시전망] 코스피 수급 정상화 언제쯤...美 물가 향방 주목 새 창 열림",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691253",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-08"
+      },
+      {
+        "title": "“ 금리 내렸다는데 전세 이자는 왜”…더 커진 세입자 빚부담 새 창 열림",
+        "link": "https://www.joongang.co.kr/article/25451867",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-08-08"
+      },
+      {
+        "title": "외국인 국채선물 12거래일 연속 순매수…韓 금리상승 베팅 접었나 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260808025900008?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-08-08"
+      },
+      {
+        "title": "대출 규제에 울산 신축 아파트 입주 예정자들 '발 동동' 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260807160800057?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-08-08"
+      },
+      {
+        "title": "[선데이 칼럼] 관치금융 2.0 새 창 열림",
+        "link": "https://www.joongang.co.kr/article/25451726",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-08-09"
+      },
+      {
+        "title": "경인방송 새 창 열림",
+        "link": "https://news.ifm.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-08"
+      },
+      {
+        "title": "40도 폭염에 '히트플레이션' 현실화…시금치 한 달 새 152% 폭등 새 창 열림",
+        "link": "https://www.ngonews.kr/news/articleView.html?idxno=234989",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-09"
+      },
+      {
+        "title": "北, 러 파병·무기 수출로 31조 확보…핵·미사일 재원 유입 새 창 열림",
+        "link": "https://www.g-enews.com/view.php?ud=202608090850289494fbbec65dfb_1",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-08"
+      },
+      {
+        "title": "한국서 경험 쌓아 고향 네팔서 창업…코이카 '상생형 개발협력' 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260808049200371?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-08-09"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-08"
+      },
+      {
+        "title": "지쿠 , ‘올바른 주차 캠페인’ 전격 개최···배우 엄태구, 캠페인 모델... 새 창 열림",
+        "link": "https://sports.khan.co.kr/article/202608080708003?pt=nv",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-08-09"
+      },
+      {
+        "title": "`전동 킥보드 사고` 뇌손상 위험, 오토바이보다 3배 높다 새 창 열림",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=02899526645545352",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-08-09"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-08"
+      },
+      {
+        "title": "'찾아가는 배민아카데미', 이번엔 부산…참가자 모집 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260809_0003741611",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-08-08"
+      },
+      {
+        "title": "시사저널이코노미 새 창 열림",
+        "link": "https://www.sisajournal-e.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-08"
+      },
+      {
+        "title": "\"밖은 위험해\" 백화점 붐비고 배달 늘었다[폭염이 바꾼 소비지도①] 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260807_0003740590",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-08-08"
+      },
+      {
+        "title": "34도 폭염에 도로는 40도… 배달라이더 는 쉴 곳도 없다 새 창 열림",
+        "link": "https://kjmbc.co.kr/NewsArticle/1531267",
+        "source": "MBC",
+        "tier": "S",
+        "date": "2026-08-09"
+      },
+      {
+        "title": "\"앱에 계좌 연동하면 5% 적립\"…외식업계, 자사앱 '단골 잡기' 경쟁 새 창 열림",
+        "link": "https://www.news1.kr/industry/distribution/6250142",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-08-08"
+      }
+    ]
   }
 };
