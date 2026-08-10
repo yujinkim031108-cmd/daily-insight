@@ -21392,5 +21392,153 @@ window.historyData = {
         "date": "2026-08-08"
       }
     ]
+  },
+  "2026-08-10": {
+    "macro": [
+      {
+        "title": "[주간경제일정] 美 소비자물가지수 발표예정…연준 방향 바꿀까? 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000327545?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-08-09"
+      },
+      {
+        "title": "美 9월 금리조정, 결국 물가 에 달렸다…고용 이어 12일 CPI 주목 새 창 열림",
+        "link": "https://www.news1.kr/world/international-economy/6253690",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "원·달러 환율, 7.1원 내린 1409원 새 창 열림",
+        "link": "https://biz.chosun.com/policy/policy_sub/2026/08/10/WPJZJYI36FB5HBZ434W47LIG7I/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-08-09"
+      },
+      {
+        "title": "신현송이 지목한 성장·물가 나왔다…금리 인상 시점은 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260807_0003741031",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "[아산소식] 기록적 폭염 속 현장 밀착 행정 강화 외 새 창 열림",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1394009",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-09"
+      },
+      {
+        "title": "온투업 중금리 대출 한 달 새 824억 '쑥'…주담대·스탁론은 '뚝' 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000327547?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "보스, 'QC 헤드폰 2세대' 국내 출시…몰입 오디오·무손실 음원 지원 새 창 열림",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=02417366645546008",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-08-09"
+      },
+      {
+        "title": "\"공습 멈추면 이란이 더 아프다\"…트럼프, 경제압박 선회 시사 새 창 열림",
+        "link": "https://www.news1.kr/world/usa-canada/6253681",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-08-09"
+      },
+      {
+        "title": "교육계, 교부금 개편 저지 총력전…\"교육재정 축소 안 된다\" 새 창 열림",
+        "link": "https://www.news1.kr/society/education/6253442",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-08-09"
+      },
+      {
+        "title": "코스피, '반도체 강세' 힘입어 6300선 출발···SK하이닉스 4%대↑ 새 창 열림",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=635279",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-09"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-09"
+      },
+      {
+        "title": "헬멧 안쓰고 ‘쌩쌩’…‘전동 킥보드 이용자’ 뇌손상 위험, 오토바이의... 새 창 열림",
+        "link": "https://www.nongmin.com/article/20260807500175",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-09"
+      },
+      {
+        "title": "사고 나면 치명적… AI 영상분석으로 ‘ 이륜차 ’ 단속 [교통안전, 시민... 새 창 열림",
+        "link": "https://www.busan.com/view/busan/view.php?code=2026080918151689859",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-09"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-09"
+      },
+      {
+        "title": "경상일보 새 창 열림",
+        "link": "https://www.ksilbo.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-09"
+      },
+      {
+        "title": "HLB제약, 브랜드스토어 관심고객 10만명 돌파 감사제 새 창 열림",
+        "link": "https://www.asiatime.co.kr/article/20260810500030",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-09"
+      },
+      {
+        "title": "'AI 팩토리'에 미래 건 네이버…'카톡'에 올인 카카오 새 창 열림",
+        "link": "https://www.news1.kr/it-science/internet-platform/6252938",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "배민·쿠팡이츠 양강 구도 속 공공배달 앱 성장 정체…경쟁 활성화 방안... 새 창 열림",
+        "link": "https://www.etnews.com/20260806000277",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-09"
+      },
+      {
+        "title": "수원일보 새 창 열림",
+        "link": "https://www.suwonilbo.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-09"
+      },
+      {
+        "title": "\"취지는 공감, 현실은 외면\"…새벽배송· 플랫폼 규제에 업계 반발 새 창 열림",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1393903",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-09"
+      }
+    ]
   }
 };
