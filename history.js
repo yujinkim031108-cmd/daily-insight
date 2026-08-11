@@ -21540,5 +21540,167 @@ window.historyData = {
         "date": "2026-08-09"
       }
     ]
+  },
+  "2026-08-11": {
+    "macro": [
+      {
+        "title": "코스피, 美 증시 약세·중동 불안에 1% 하락 6200선 출발 새 창 열림",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=635348",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "엔비디아 빠지고 '이곳' 뛰었다?…CPI 발표 전 퍼진 뜻밖의 '신호' 새 창 열림",
+        "link": "https://www.wikitree.co.kr/articles/1151652",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "美·日, 엔화 약세 방어 ‘기습 공조’ … 변동성 큰 韓증시 2차 충격파... 새 창 열림",
+        "link": "https://www.munhwa.com/article/11608624?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "[오늘의 주요일정]금융·증권(8월11일 화요일) 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260810_0003743067",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "“하다하다 대출 까지 오픈런” 선착순 경쟁에 실수요자 ‘발동동’ 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12123670",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "주담대·스탁론 막히자…온투업계 '중금리 대출 ' 눈길 새 창 열림",
+        "link": "https://www.asiatime.co.kr/article/20260810500261",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "WTI 5% 급등에 투심 위축…코스피·코스닥 동반 하락[개장시황] 새 창 열림",
+        "link": "https://www.news1.kr/finance/market-exr/6255029",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "日 9월 또 금리 인상 가능성... 미국 엔화 개입 이유는 “우에다 총재의... 새 창 열림",
+        "link": "https://www.chosun.com/international/international_general/2026/08/11/J4XJ3AYPT5BQVOYBVD2PEPG4DI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "“유럽 덮친 폭염으로 올해 295조원 손실 전망…GDP 1％” 새 창 열림",
+        "link": "https://www.khan.co.kr/article/202608110855001",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "집값·취업난에 막힌 2030...결국 '한 방 투자'로 몰렸다 [Y녹취록] 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0134_202608110758128923",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-08-10"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "지쿠 3억 라이드 눈앞 \"배터리 교체소도 품는다\" 새 창 열림",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=747642",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "'법의 공백' 무면허 킥보드 …해법은? 새 창 열림",
+        "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=203338",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "전기이륜 형자동차협회, 제1차 KS BSS 워킹그룹 회의 개최 새 창 열림",
+        "link": "https://www.electimes.com/news/articleView.html?idxno=371160",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "차를 파는 현대차, 이젠 '주차면'을 만든다… 로봇으로 수용력 최대 50%... 새 창 열림",
+        "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=42920",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-10"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "지쿠 3억 라이드 눈앞 \"배터리 교체소도 품는다\" 새 창 열림",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=747642",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "배민, 60계치킨·스텔라떡볶이와 픽업 전용 메뉴 출시 새 창 열림",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=04391926645546336",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "폭염에 일한 대가 175원?…이상기후 느는데 보상은 ‘후퇴’ 새 창 열림",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8633518&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "배달의민족·행안부 착한가격업소 활성화 협약, 3천 원 할인 쿠폰 제공 새 창 열림",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=444380",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "\"조공\" 녹취에…출입국사무소- 배달 업체 유착 의혹 일파만파(종합) 새 창 열림",
+        "link": "https://www.news1.kr/local/gwangju-jeonnam/6254578",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "[기고] 온라인 플랫폼 공정화법, 증명되지 않은 위험으로 정당화될 수 ... 새 창 열림",
+        "link": "https://www.joongang.co.kr/article/25452178",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-08-11"
+      }
+    ]
   }
 };
