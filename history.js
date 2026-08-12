@@ -21702,5 +21702,160 @@ window.historyData = {
         "date": "2026-08-11"
       }
     ]
+  },
+  "2026-08-12": {
+    "macro": [
+      {
+        "title": "코스피, 반도체 강세에 2% 안팎 상승…코스닥은 하락(종합) 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260812043300008?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "[오늘의 채권분석] 남은 2주의 백투백 셈법 새 창 열림",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429714",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "서울 오피스 임대료 오르는데…노후 빌딩은 왜 더 어려워질까? 새 창 열림",
+        "link": "https://www.hankyung.com/article/202608103915O",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "8월 12일 (水) 경제 캘린더 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0102_202608120459473157",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "포인트경제 새 창 열림",
+        "link": "https://www.pointe.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "뉴욕증시 이틀째 하락…호르무즈 불확실성에 유가 상승 영향[뉴스새벽배... 새 창 열림",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=03388246645546664",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "'삼전·닉스' 강세에 코스피 6,500선...코스닥 하락 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0102_202608120942331004",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "[이 시각 시황] 코스피 2%대 강세·코스닥 약세…전력설비·건설·LPG株 ... 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000328139?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "극한 가뭄에 ‘불가항력 선언’까지…라인강 물류 운송 초비상 새 창 열림",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8634815&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "취업자 10만8000명 늘었지만 청년 고용 ‘한파’…45개월째 취업자 감소 새 창 열림",
+        "link": "https://www.joongang.co.kr/article/25452678",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-08-12"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "쏘카, 2분기 영업익 68억원...전년 대비 271% 증가 새 창 열림",
+        "link": "https://www.news2day.co.kr/article/20260811500247",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "지쿠 누적 이용 2.9억건 돌파…해외·배터리 교환 사업도 확대 새 창 열림",
+        "link": "https://biz.chosun.com/it-science/ict/2026/08/11/QUSNIFEKEJA27G3MQKRSRKYHBM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "[제주 24시] '금토금토 새연쇼'⋯서귀포시, 광복절 특별공연⋅상권 자율... 새 창 열림",
+        "link": "https://www.sisajournal.com/news/articleView.html?idxno=383142",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-11"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "[모빌리티핫이슈] 웨이모 vs 테슬라, 자율주행 기술 방식 '재격돌' 새 창 열림",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692046",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "배민, 외식업주 모임 '배민프렌즈' 12기 출범 새 창 열림",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476531",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "[유통갤러리] SSG닷컴, 7월 그로서리 매출 12% 늘었다 外 새 창 열림",
+        "link": "https://theviewers.co.kr/View.aspx?No=4183196",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "선크림·쿨링패드도 배달이 대세…폭염에 배달앱 결제액 '껑충' 새 창 열림",
+        "link": "https://www.news1.kr/industry/distribution/6255679",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "‘500원’ 보상책 믿고 폭염 속 달렸는데… 새 창 열림",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8634612&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "주병기 공정위원장 \"쿠팡이라고 해서 차별적 법 집행하지 않아\" 새 창 열림",
+        "link": "https://imnews.imbc.com/news/2026/econo/article/6844141_36932.html",
+        "source": "MBC",
+        "tier": "S",
+        "date": "2026-08-12"
+      }
+    ]
   }
 };
