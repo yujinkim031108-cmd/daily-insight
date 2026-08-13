@@ -21857,5 +21857,153 @@ window.historyData = {
         "date": "2026-08-12"
       }
     ]
+  },
+  "2026-08-13": {
+    "macro": [
+      {
+        "title": "美 7월 CPI 예상치 부합에도 뉴욕증시 혼조 새 창 열림",
+        "link": "https://www.junggi.co.kr/news/articleView.html?idxno=37434",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "코스피, 4%대 급등에 6900선 눈앞…7000피 탈환 기대감 '쑥' 새 창 열림",
+        "link": "https://news.tf.co.kr/read/economy/2353651.htm",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "[오늘의 주요일정·13일] 행안부, 폭염·가뭄 재난대응 중앙재난안전대... 새 창 열림",
+        "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=244880",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-13"
+      },
+      {
+        "title": "은행권, 1년 예금에 '고금리' 제공…3년물과 최대 0.8%p 격차 새 창 열림",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=716656",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-13"
+      },
+      {
+        "title": "“대단지 아니네요”… 대출 오픈런도 헛걸음 새 창 열림",
+        "link": "https://www.seoul.co.kr/news/economy/finance/2026/08/13/20260813001004?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "원 · 달러 환율 , 0.9원 내린 1415.7원 새 창 열림",
+        "link": "https://biz.chosun.com/policy/policy_sub/2026/08/13/POQFJT2OGZAX3GPXCN73M2ODVM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-08-13"
+      },
+      {
+        "title": "'삼전닉스' 강세에 코스피 4% 급등, 6800선 회복[개장시황] 새 창 열림",
+        "link": "https://www.news1.kr/finance/market-exr/6257689",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "전력·물류난에 가뭄까지 3중고‥유럽 경제 휘청 새 창 열림",
+        "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6844373_37012.html",
+        "source": "MBC",
+        "tier": "S",
+        "date": "2026-08-13"
+      },
+      {
+        "title": "금시세(금값) 13일 새 창 열림",
+        "link": "https://www.bntnews.co.kr/article/view/bnt202608130060",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-12"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "9년간 지구 9천 바퀴 달렸다! 창립 9주년 지쿠 , 친환경 3억 라이드 시대... 새 창 열림",
+        "link": "https://sports.khan.co.kr/article/202608120633003?pt=nv",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-08-13"
+      },
+      {
+        "title": "광양 대전환 첫 공감토크…시민들 변화·혁신 '한 목소리' 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260812_0003746403",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-08-13"
+      },
+      {
+        "title": "인천 남동구의회, 본회의장서 어린이 모의의회...현직 의원과 질의응답 새 창 열림",
+        "link": "https://www.kmaeil.com/news/articleView.html?idxno=648300",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-12"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "파주시, 전국 최초 공공발전소 준공…9월부터 中企 공급 새 창 열림",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=03972086645546992",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-08-13"
+      },
+      {
+        "title": "[유통갤러리] 교원라이프 \"장례 후 상속·증여 세무상담까지 지원해요\"... 새 창 열림",
+        "link": "https://theviewers.co.kr/View.aspx?No=4184847",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "노브랜드 버거, '무쇠팔' 박주성 셰프와 '무쇠팔 통새우 가쓰오' 출시 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260813_0003747182",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-08-13"
+      },
+      {
+        "title": "이디야커피, 말차·자스민티·구아바 활용 여름 음료 3종 출시 새 창 열림",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=716640",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-13"
+      },
+      {
+        "title": "“입구부터 걸어 오라니” 아파트 단지 배달 갈등 새 창 열림",
+        "link": "https://www.chosun.com/national/national_general/2026/08/13/VADDZS4KHBE7VB22JSITXDRLBU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-08-12"
+      },
+      {
+        "title": "[기자수첩] '빠른 배송'에 올라탄 편의점 새 창 열림",
+        "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=128721",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-12"
+      }
+    ]
   }
 };
