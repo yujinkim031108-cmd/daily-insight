@@ -22005,5 +22005,174 @@ window.historyData = {
         "date": "2026-08-12"
       }
     ]
+  },
+  "2026-08-14": {
+    "macro": [
+      {
+        "title": "美 생산자 물가 예상 하회…달러·원 환율 1416원대 출발 새 창 열림",
+        "link": "https://www.news1.kr/finance/market-exr/6258943",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-08-13"
+      },
+      {
+        "title": "코스피, 21일 만에 장중 7000선 복귀...반도체 강세·외국인 매수 새 창 열림",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693124",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-13"
+      },
+      {
+        "title": "AI 투자 기대에 반도체 강세…메모리 성장 전망 확대 새 창 열림",
+        "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=102326",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-13"
+      },
+      {
+        "title": "수입 물가 전년 대비 19% 상승…반도체값 급등에 수출 물가는 49%↑ 새 창 열림",
+        "link": "https://www.chosun.com/economy/economy_general/2026/08/14/BUMMYDATWZCQHA4WEPCNEEYMTE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-08-13"
+      },
+      {
+        "title": "[전격시사] 김재원 국민의힘 최고위원 - “수요자 원하는 곳에 공급해야... 새 창 열림",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8637078&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-08-13"
+      },
+      {
+        "title": "수도권 비거주 1 주택 자, 내년부터 전세 대출 차단… 갭투자 봉쇄 새 창 열림",
+        "link": "https://www.donga.com/news/Economy/article/all/20260814/134476015/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-08-14"
+      },
+      {
+        "title": "EBN 새 창 열림",
+        "link": "https://www.ebn.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-13"
+      },
+      {
+        "title": "파리바게뜨도 가격 올린다…고 유가 에 식품가 줄인상 새 창 열림",
+        "link": "https://www.donga.com/news/Economy/article/all/20260814/134477123/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-08-14"
+      },
+      {
+        "title": "\"선행지수 꺾이면 코스피도 같이 꺾인다\" 새 창 열림",
+        "link": "https://magazine.hankyung.com/money/article/202607203251c",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-08-14"
+      },
+      {
+        "title": "\"일자리는 많은데 내 자리는 없다\"…울산 청년은 왜 떠나나 새 창 열림",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=877906",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-14"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-13"
+      },
+      {
+        "title": "지쿠 , 창립 9주년…누적 3억 라이드 목전, 지구 9545바퀴 새 창 열림",
+        "link": "https://www.electimes.com/news/articleView.html?idxno=371274",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-13"
+      },
+      {
+        "title": "에픽하이, 러닝 크루에 소신 발언 \"제발 무리 지어 다니지 좀 마\"('EPIKAS... 새 창 열림",
+        "link": "https://mhnse.com/news/articleView.html?idxno=1487854",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-13"
+      },
+      {
+        "title": "﻿위안화 밖으로 나온 중국 자본… 달러로 공급망과 회수로를 설계한다... 새 창 열림",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092167658",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-08-13"
+      },
+      {
+        "title": "[2026 전남광주미래산업박람회] 리베라웨어코리아, 고위험·협소·밀폐 ... 새 창 열림",
+        "link": "https://www.etnews.com/20260813000115",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-13"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-13"
+      },
+      {
+        "title": "일요서울 새 창 열림",
+        "link": "https://www.ilyoseoul.co.kr/",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-08-14"
+      },
+      {
+        "title": "[황윤주의 외식 비즈니스 컨설팅] 외식창업 시장, 빠르게 변화하는 소비... 새 창 열림",
+        "link": "https://www.lecturernews.com/news/articleView.html?idxno=208496",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-13"
+      },
+      {
+        "title": "뉴욕치즈케이크에 조청 입혔다…배스킨, 김희은 셰프와 협업 새 창 열림",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=03280006645547320",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-08-14"
+      },
+      {
+        "title": "공정위 배민·쿠팡·야놀자 거래 들여다본다 : 입점업체 수수료·광고비... 새 창 열림",
+        "link": "https://www.huffingtonpost.kr/article/259556",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-13"
+      },
+      {
+        "title": "\"폭염 속 잠시 쉬어가세요\"…강남구, 이동노동자 안전지원 강화 새 창 열림",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=223943",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-13"
+      },
+      {
+        "title": "현관 앞 음식 내려놓더니 발로 쓱, 케이크도 툭…CCTV 찍힌 배달 기사[영... 새 창 열림",
+        "link": "https://www.news1.kr/society/general-society/6258421",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-08-14"
+      },
+      {
+        "title": "中 배달 ·차량호출 노동자 5300만명… 일감보다 사람이 많다 새 창 열림",
+        "link": "https://www.hankookilbo.com/news/article/A2026081309280005925?did=NA",
+        "source": "한국일보",
+        "tier": "C",
+        "date": "2026-08-14"
+      }
+    ]
   }
 };
