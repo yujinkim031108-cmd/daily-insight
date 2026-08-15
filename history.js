@@ -22174,5 +22174,167 @@ window.historyData = {
         "date": "2026-08-14"
       }
     ]
+  },
+  "2026-08-15": {
+    "macro": [
+      {
+        "title": "PPI도 둔화세…S&P500 사상 최고치, 뉴욕증시 일제히 상승 새 창 열림",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=315070",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-14"
+      },
+      {
+        "title": "미국 물가 둔화, 한은 8월 금리 인상 '고심'…백투백 가능성은 새 창 열림",
+        "link": "https://www.dailian.co.kr/news/view/1678557/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-08-15"
+      },
+      {
+        "title": "[주末머니]“브라질 채권, 지금은 달러로 이자 챙겨라…헤알화는 선거 ... 새 창 열림",
+        "link": "https://view.asiae.co.kr/article/2026081408444700250",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-14"
+      },
+      {
+        "title": "[광화문에서/지민구]과거보다 길어질 금리인상기… 영끌-빚투에 울리는... 새 창 열림",
+        "link": "https://www.donga.com/news/Opinion/article/all/20260814/134482177/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-08-14"
+      },
+      {
+        "title": "오픈런 이제 없다?.. 대출 한도에서 집단 대출 은 빼고, 추가한도 더 준다 새 창 열림",
+        "link": "https://www.mt.co.kr/finance/2026/08/15/2026081417070378808",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-08-15"
+      },
+      {
+        "title": "수도권 비거주 1 주택 자, 내년부터 전세 대출 차단… 갭투자 봉쇄 새 창 열림",
+        "link": "https://www.donga.com/news/Economy/article/all/20260814/134476015/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-08-14"
+      },
+      {
+        "title": "[여경 코멘토] 8월 둘째 주 2명 활동···7건 지적·건의 무슨 내용? 새 창 열림",
+        "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257324",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-14"
+      },
+      {
+        "title": "7월 미 소비자 지출 큰 폭 감소… 경제 둔화 가능성 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260815_0003750408",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-08-15"
+      },
+      {
+        "title": "[특파원시선] 화려한 中 성장의 어두운 그림자…2026 배달원 생존 보고... 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260814177600083?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-08-14"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-14"
+      },
+      {
+        "title": "[ON 선데이] 다시 태어나려면 먼저 죽어야 한다 새 창 열림",
+        "link": "https://www.joongang.co.kr/article/25453509",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-08-14"
+      },
+      {
+        "title": "\"'렌터카 이용↑' 8월 무면허 사고 최다…가해자 10명 중 3명 19세 이하\" 새 창 열림",
+        "link": "https://www.news1.kr/local/kangwon/6259168",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-08-15"
+      },
+      {
+        "title": "﻿위안화 밖으로 나온 중국 자본… 달러로 공급망과 회수로를 설계한다... 새 창 열림",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092167658",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-08-14"
+      },
+      {
+        "title": "[2026 전남광주미래산업박람회] 우연시스템, 첨단 재난대응 솔루션 '스마... 새 창 열림",
+        "link": "https://www.etnews.com/20260814000314",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-14"
+      },
+      {
+        "title": "이정연 하남시의원, 미사2지구대 유지부터 호수공원까지… 주민 정담회... 새 창 열림",
+        "link": "https://www.seoul.co.kr/news/publicnews/local_govern/news_local/2026/08/14/20260814500133?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-08-14"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-14"
+      },
+      {
+        "title": "알톤, 2분기 영업이익 17억…전년比 3.6%↑ 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260814_0003749527",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-08-14"
+      },
+      {
+        "title": "\"패션 넘어 뷰티로\"…무신사·에이블리·지그재그, 여름 고객잡기 '총력... 새 창 열림",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=225135",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-14"
+      },
+      {
+        "title": "[신상품] CU '참깨 푸실리 에그 컵' 외 새 창 열림",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=635701",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-14"
+      },
+      {
+        "title": "뉴스톱 새 창 열림",
+        "link": "https://www.newstopkorea.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-15"
+      },
+      {
+        "title": "'셀프 조사 우려' 단속 제외 라이더 서울로 이송…유착 의혹 규명? 새 창 열림",
+        "link": "https://www.news1.kr/local/gwangju-jeonnam/6259282",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-08-14"
+      },
+      {
+        "title": "부산시, 6374억 규모 3차 추경 편성…소상공인·교통·해양산업 집중 새 창 열림",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=740280",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-14"
+      }
+    ]
   }
 };
