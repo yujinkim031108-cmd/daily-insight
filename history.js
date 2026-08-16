@@ -22336,5 +22336,160 @@ window.historyData = {
         "date": "2026-08-14"
       }
     ]
+  },
+  "2026-08-16": {
+    "macro": [
+      {
+        "title": "美·이란 협상 지켜보며 '7천피' 회복 타진 [주간전망] 새 창 열림",
+        "link": "https://www.hankyung.com/article/2026081534856",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-08-16"
+      },
+      {
+        "title": "유상대 한은 부총재 \"금리 인상 가능성 커\" … 코스피, 유동성 '씨가 마... 새 창 열림",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/08/14/2026081400108.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-08-16"
+      },
+      {
+        "title": "美 실업자 느는데…주식시장은 연일 사상최고가 찍는 이유는 [주末머니... 새 창 열림",
+        "link": "https://view.asiae.co.kr/article/2026081408403849450",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-15"
+      },
+      {
+        "title": "'가계부채 2천조원' 시대 진입…금리 인상기 건전성 비상 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260815039600002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-08-15"
+      },
+      {
+        "title": "집 사고 주식 사고…2분기 가계 빚 얼마나 늘었나[한은 미리보기] 새 창 열림",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01161126645547976",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-08-15"
+      },
+      {
+        "title": "“전세금 맡기면, 매달 돈 준다”…정부가 당장 9월부터 공고 낸다는 '이... 새 창 열림",
+        "link": "https://www.wikitree.co.kr/articles/1152643",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-16"
+      },
+      {
+        "title": "외환시장 개입한 미 재무부...엔화가 아닌 미 국채를 구했다 새 창 열림",
+        "link": "https://www.mt.co.kr/world/2026/08/16/2026081516404755179",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-08-16"
+      },
+      {
+        "title": "러시아, 인도 석유 시장 점유율 50% 돌파 새 창 열림",
+        "link": "https://www.g-enews.com/view.php?ud=2026081609073443672bd56fbc3c_1",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-16"
+      },
+      {
+        "title": "[글로벌 경제 지표] 美연준 FOMC 의사록 관건…월마트 실적 주목 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000328700?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-08-16"
+      },
+      {
+        "title": "아르헨티나 경제 폭망 원인은 누적된 재정적자 새 창 열림",
+        "link": "https://weekly.donga.com/3/all/11/6347674/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-08-16"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-15"
+      },
+      {
+        "title": "[ON 선데이] 다시 태어나려면 먼저 죽어야 한다 새 창 열림",
+        "link": "https://www.joongang.co.kr/article/25453509",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-08-15"
+      },
+      {
+        "title": "FPN 새 창 열림",
+        "link": "https://www.fpn119.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-15"
+      },
+      {
+        "title": "EBN 새 창 열림",
+        "link": "https://www.ebn.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-15"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-15"
+      },
+      {
+        "title": "[굿모닝! 이 법안] 미래자동차산업 경쟁력 강화·지원 특별법 대기 중 새 창 열림",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=290326",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-15"
+      },
+      {
+        "title": "[기자수첩] 넘쳐나는 IP협업, 브랜드 팬덤은? 새 창 열림",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=635686",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-15"
+      },
+      {
+        "title": "\"후기가 없어졌다?\"…배달플랫폼 리뷰정책에 소비자 불만 증가세 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260815044100001?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-08-15"
+      },
+      {
+        "title": "뉴스웍스 새 창 열림",
+        "link": "https://www.newsworks.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-16"
+      },
+      {
+        "title": "[폭염 속 기후 난민] ③ \"경로당 대신 안심숙소\"…폭염 불평등 깰 해법... 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260814065000061?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-08-15"
+      },
+      {
+        "title": "[위클립] 8월 2주 새 창 열림",
+        "link": "https://www.laborplus.co.kr/news/articleView.html?idxno=41307",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-15"
+      }
+    ]
   }
 };
