@@ -22491,5 +22491,146 @@ window.historyData = {
         "date": "2026-08-15"
       }
     ]
+  },
+  "2026-08-17": {
+    "macro": [
+      {
+        "title": "\"한 줄 4천 원 육박\"…쌀·계란값 상승에 김밥 가격도 부담 새 창 열림",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008708182&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-08-16"
+      },
+      {
+        "title": "물가 낮춘다던 AI, 올해는 거꾸로 밀어올린다…최대 0.4%p 계산 나왔다 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260817_0003751159",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-08-16"
+      },
+      {
+        "title": "은행으로 돌아오는 돈…수신 경쟁에 '최고 연 13% 금리 '까지 등장 새 창 열림",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1396116",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-16"
+      },
+      {
+        "title": "'가계부채 2천조원' 시대 진입…금리 인상기 건전성 비상 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260815039600002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-08-16"
+      },
+      {
+        "title": "대출 여력 30조원 늘어난다…막혔던 주담대 숨통 트일까 새 창 열림",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=143342",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-16"
+      },
+      {
+        "title": "'혼자선 힘들다'...인뱅, 이자수익 높이려 '합종연횡' 새 창 열림",
+        "link": "https://www.mt.co.kr/finance/2026/08/17/2026081215310194808",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-08-17"
+      },
+      {
+        "title": "24시간 현물환 시대 … 밤사이 원화값 쥐락펴락하던 NDF 힘 빠지나 새 창 열림",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/08/14/2026081400201.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-08-17"
+      },
+      {
+        "title": "200일 넘게 항구 못 갔다…5000명 탄 美항모에 무슨 일이 새 창 열림",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=01216886645548304",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-08-16"
+      },
+      {
+        "title": "[통일전망대] '인파십리' 해수욕장 북한 선전과 속내 새 창 열림",
+        "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6845210_37012.html",
+        "source": "MBC",
+        "tier": "S",
+        "date": "2026-08-17"
+      },
+      {
+        "title": "마크롱 측근들, 현 총리 대선 차출론에 '불 지피기' 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260816041400081?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-08-17"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-16"
+      },
+      {
+        "title": "\"16인치 듀얼 스크린에 플래그십 성능\" 에이수스 ROG 제피러스 듀오(2026... 새 창 열림",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092168278",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-08-16"
+      },
+      {
+        "title": "[2026 전남광주미래산업박람회] 대한응급처치교육센터, 심폐소생술 등 ... 새 창 열림",
+        "link": "https://www.etnews.com/20260814000334",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-16"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-16"
+      },
+      {
+        "title": "배달 앱 다회용기 이용 사업 큰 호응…제주도 “내년 전역 확대” 새 창 열림",
+        "link": "https://www.khan.co.kr/article/202608162055025",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-08-17"
+      },
+      {
+        "title": "강남, 이동노동자들에게 얼음생수 새 창 열림",
+        "link": "https://www.seoul.co.kr/news/publicnews/seoul_local/news_seoul/2026/08/17/20260817020004?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-08-16"
+      },
+      {
+        "title": "“내 후기 왜 없어졌지?” 배달 플랫폼 리뷰 정책 소비자 불만 해마다 ... 새 창 열림",
+        "link": "https://www.chosun.com/economy/economy_general/2026/08/16/6QAJ4CO5GFB5FPWQMFLGDKLZX4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-08-16"
+      },
+      {
+        "title": "[폭염 속 기후 난민] ③ \"경로당 대신 안심숙소\"…폭염 불평등 깰 해법... 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260814065000061?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-08-17"
+      },
+      {
+        "title": "삼성전자 ETF 반토막, 설계대로 작동한 결과였다 새 창 열림",
+        "link": "https://www.sisain.co.kr/news/articleView.html?idxno=58337",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-16"
+      }
+    ]
   }
 };
