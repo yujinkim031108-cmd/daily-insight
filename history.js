@@ -22632,5 +22632,167 @@ window.historyData = {
         "date": "2026-08-16"
       }
     ]
+  },
+  "2026-08-18": {
+    "macro": [
+      {
+        "title": "“뉴욕증시 빠졌지만 반도체 불기둥”…프리마켓서 달아오른 삼전닉스... 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12129801",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-08-17"
+      },
+      {
+        "title": "유가 90달러 돌파에 美국채 장기물 '휘청'…30년 금리 19년來 최고 새 창 열림",
+        "link": "https://www.news1.kr/world/international-economy/6261175",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "사상 최대 외국인 순매수에도 웃을 수 없는 이유 새 창 열림",
+        "link": "https://www.chosun.com/economy/stock-finance/2026/08/18/3VE7ZWGXFVBIBNLHRGJQMPG3QQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "연합인포맥스 새 창 열림",
+        "link": "https://news.einfomax.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-17"
+      },
+      {
+        "title": "5대 은행, 주담대 가산금리 역대 최고… 가계대출 총량 관리 새 창 열림",
+        "link": "https://www.dailian.co.kr/news/view/1679206/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "가계 빚 2천조 원 돌파...금리 인상에 부실관리 시급 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0102_202608172258547573",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "남도일보 새 창 열림",
+        "link": "https://www.namdonews.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-17"
+      },
+      {
+        "title": "[속보]삼성전자·SK하이닉스가 장 초반 각각 3%·5%대의 급등…코스피, ... 새 창 열림",
+        "link": "https://www.kwnews.co.kr/article/20260818500067",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-17"
+      },
+      {
+        "title": "행복 사회 만들기, 공익을 위해 질주!… 동반 성장 이끌기, 상생을 향해... 새 창 열림",
+        "link": "https://www.munhwa.com/article/11610017?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-17"
+      },
+      {
+        "title": "청년일자리희망委 핵심은 체감 가능한 변화 만드는 ‘사회적 대화’[기... 새 창 열림",
+        "link": "https://www.donga.com/news/Society/article/all/20260818/134490934/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-08-17"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-17"
+      },
+      {
+        "title": "\"16인치 듀얼 스크린에 플래그십 성능\" 에이수스 ROG 제피러스 듀오(2026... 새 창 열림",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092168278",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-08-17"
+      },
+      {
+        "title": "더벨 새 창 열림",
+        "link": "https://www.thebell.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-17"
+      },
+      {
+        "title": "[2026 전남광주미래산업박람회] 두이엔지, AI 기반 자동검사 장비·AMR 공... 새 창 열림",
+        "link": "https://www.etnews.com/20260814000339",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-17"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-17"
+      },
+      {
+        "title": "미 인디애나주 역대급 폭풍우 · 돌발홍수.. 최소 7명 사망 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260817_0003751202",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-08-17"
+      },
+      {
+        "title": "배민, 코카콜라와 '한그릇' 할인 행사 새 창 열림",
+        "link": "https://www.etnews.com/20260818000042",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-17"
+      },
+      {
+        "title": "[Invest]올해는 KB· 쿠팡 ·담합? 국감 주인공 찾는 국회…산업·금융계 촉... 새 창 열림",
+        "link": "https://www.investchosun.com/site/data/html_dir/2026/08/14/2026081480131.html",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-08-17"
+      },
+      {
+        "title": "“40도 폭염은 처음이지? 이것부터 챙겨”…양산·선글라스 ‘더위 방어... 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12129240",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "보령시, 전기이륜차 22대 보급…12월 4일까지 신청 새 창 열림",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3666780",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-17"
+      },
+      {
+        "title": "[우분투칼럼] 프랑스의 아프리카 디아스포라…공은 둥글고 국경선은 곧... 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260814038900898?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-08-17"
+      },
+      {
+        "title": "한영수 경기도의원 \"처인구, 개발과 함께 교통·정주환경 준비해야\" 새 창 열림",
+        "link": "https://www.news1.kr/local/gyeonggi/6261177",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-08-18"
+      }
+    ]
   }
 };
