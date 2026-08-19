@@ -22794,5 +22794,181 @@ window.historyData = {
         "date": "2026-08-18"
       }
     ]
+  },
+  "2026-08-19": {
+    "macro": [
+      {
+        "title": "한투증권 \"7월 미국 PCE 물가 , 전월 대비 상승폭 확대 전망\" 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260819022800008?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "버핏의 '중력'이 돌아온다?…AI 강세장 위협하는 20년 만의 위험신호 새 창 열림",
+        "link": "https://www.hankyung.com/article/202608186623i",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "“월급 받아 이자 내기도 빠듯한데”…오늘부터 주담대 변동 금리 또 오... 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12130797",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "[Invest]8월말 바라보는 회사채 시장…금융사 중심 발행 이어진다 새 창 열림",
+        "link": "https://www.investchosun.com/site/data/html_dir/2026/08/18/2026081880106.html",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "미 40조 달러 부채, 일 재정 우려…글로벌 장기채 금리 급등 새 창 열림",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008711032&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "30년물 5.323%, 미 가계 대출 부담 키웠다 새 창 열림",
+        "link": "https://www.tokenpost.kr/news/cryptocurrency/392696",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "한국 증시 상황은? 새 창 열림",
+        "link": "https://www.yna.co.kr/view/PYH20260819019300013?input=1196m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "코스피, 6400선까지 밀려…5% 이상 급락에 매도 사이드카 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260819_0003753714",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "[이 시각 세계] 대만 경제성장률 '39년 만에' 최고 새 창 열림",
+        "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6845669_37012.html",
+        "source": "MBC",
+        "tier": "S",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "국힘 박수영 “李정권, 청년 혼삿길·내집 마련에 세금폭탄 떨어뜨려” 새 창 열림",
+        "link": "https://biz.chosun.com/policy/politics/assembly/2026/08/19/HKPFLNDID5GEBA2L6ZHDSOVHCA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-08-18"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "시오트, 새 싱글 '을지로' 발매…24일 정오 공개 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260818_0003752280",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "[바로간다] 널려있는 공유 전기자전거들‥아무 데나 반납하면 그만? 새 창 열림",
+        "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6845591_37004.html",
+        "source": "MBC",
+        "tier": "S",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "\"시속 90km 자동차 사이 지그재그 질주\" 새 창 열림",
+        "link": "https://www.koreadaily.com/article/20260818065623957",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "KOTRA해외시장뉴스 새 창 열림",
+        "link": "https://dream.kotra.or.kr/kotranews/index.do",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "최근 5년 추석 연휴 화재 전국 2077건, 대구경북 216건...소방청, 명절 대... 새 창 열림",
+        "link": "https://www.hidomin.com/news/articleView.html?idxno=717602",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-18"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "공유 자전거 타는 뉴욕 시장 “헬멧 좀 쓰라” 지적에 착용 인증샷 새 창 열림",
+        "link": "https://www.joongang.co.kr/article/25454352",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "한투운용, 'K전략산업 투자 ETF' 라이브 세미나 개최 새 창 열림",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=02791286645548960",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "[5대 금융 대해부④]미래 먹거리…‘글로벌·AI·스테이블코인’ 새 창 열림",
+        "link": "https://magazine.hankyung.com/business/article/202608138478b",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "편의점 4사, 배달앱 입점 완료…24시간·상품 경쟁 2라운드 새 창 열림",
+        "link": "https://www.news1.kr/industry/distribution/6259375",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "에이치아이모빌리티, 160km 주행 전기 빅스쿠터 ‘수퍼렉스 i6’ 출시 새 창 열림",
+        "link": "https://www.hankyung.com/article/202608186754O",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "정부, ‘일하는 사람 기본법’ 연말 입법 추진 새 창 열림",
+        "link": "https://www.donga.com/news/Society/article/all/20260819/134499879/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "“AI 에이전트가 다 해주는데요”···‘제로 클릭’ 시대, 플랫폼 이 살... 새 창 열림",
+        "link": "https://www.khan.co.kr/article/202608190700001",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-08-19"
+      }
+    ]
   }
 };
