@@ -22970,5 +22970,167 @@ window.historyData = {
         "date": "2026-08-19"
       }
     ]
+  },
+  "2026-08-20": {
+    "macro": [
+      {
+        "title": "트럼프, 또 연준 압박…\"인플레 두렵다고 금리 올릴 필요 없어\" 새 창 열림",
+        "link": "https://news.jtbc.co.kr/article/NB12314173?influxDiv=NAVER",
+        "source": "JTBC",
+        "tier": "A",
+        "date": "2026-08-20"
+      },
+      {
+        "title": "美 연준 위원 다수 “ 물가 안 꺾이면 금리 인상 필요” 새 창 열림",
+        "link": "https://www.g-enews.com/view.php?ud=2026082009201928269a1f309431_1",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "미국이 고 금리 잡으려고 꺼낸 칼 ‘바이백’이란? 새 창 열림",
+        "link": "https://www.chosun.com/economy/stock-finance/2026/08/20/IVSTXBL2FVBG5IE7QLYQHLKUOI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-08-20"
+      },
+      {
+        "title": "가스공사 800억원 발행, MBS 200억원 미매각 새 창 열림",
+        "link": "https://www.tokenpost.kr/news/cryptocurrency/393796",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-20"
+      },
+      {
+        "title": "가계 부채 2천조원 첫 돌파… 2분기 25.9조 급증 새 창 열림",
+        "link": "https://www.kmaeil.com/news/articleView.html?idxno=649013",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "가계 빚 '2천조 원' 시대...빚투·주담대에 증가 폭 커져 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0102_202608192248512108",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-08-20"
+      },
+      {
+        "title": "코스피 상승 출발 새 창 열림",
+        "link": "https://www.news1.kr/photos/8063675",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "요소수 매점매석 금지 두 달 더 … 석유최고가격 21일 발표 새 창 열림",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/08/20/2026082000044.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-08-20"
+      },
+      {
+        "title": "“이란 사태 장기화 땐 고금리 지속…하반기 증시 변동성 확대될 것” 새 창 열림",
+        "link": "https://biz.chosun.com/stock/stock_general/2026/08/20/6WJ5L25UMFBAVLXCQKRQOS7RMM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-08-20"
+      },
+      {
+        "title": "구름만 찍는 꿀알바 '월 1200만원' 정체가 뭐길래 새 창 열림",
+        "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=02843766645549288",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-08-20"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "‘데이트 폭력 의혹’ 홍민기, 반려견 학대·팬 비하 폭로 '점입가경'…... 새 창 열림",
+        "link": "https://www.sportschosun.com/entertainment/2026-08-19/202608190100111390007078",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-08-20"
+      },
+      {
+        "title": "[2026 전남광주미래산업박람회] 아이에스엠, 실시간 혈관 탐지기 '베인프... 새 창 열림",
+        "link": "https://www.etnews.com/20260820000028",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-20"
+      },
+      {
+        "title": "아산시의회, 제267회 제1차 정례회 개회 예정 새 창 열림",
+        "link": "https://www.newstnt.com/news/articleView.html?idxno=714483",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-19"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "“ 시장 님, 헬멧 좀 쓰세요”… 지적 쏟아지자 ‘헬멧 인증’한 맘다니 새 창 열림",
+        "link": "https://www.chosun.com/international/us/2026/08/19/G2GCXCOBCBDBJKY6P35KYBDBGY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "우아한형제들, 배민B마트 '최저가도전' 주문수·거래액 50% 이상 증가 새 창 열림",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=143665",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "GS더프레시, 가맹점 500개 돌파…근거리 장보기 공략 새 창 열림",
+        "link": "https://biz.chosun.com/distribution/channel/2026/08/20/SCIENPUWGZHULFW6EVQHVP4EQM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-08-20"
+      },
+      {
+        "title": "GS더프레시, 가맹 500호점 달성…'생활권 슈퍼' 확장 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260820_0003755271",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-08-20"
+      },
+      {
+        "title": "에이치아이모빌리티, 1회 충전 160km ‘수퍼렉스 i6’ 출시 새 창 열림",
+        "link": "https://biz.heraldcorp.com/article/10845071?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "배달 기사 출입 ‘과도 통제’ 아파트 논란…배민, 실태조사 나섰다 새 창 열림",
+        "link": "https://www.joongang.co.kr/article/25454693",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "[이광재 칼럼] 디지털 월세의 시대, 일할 권리에 임대료가 붙었다 새 창 열림",
+        "link": "https://zdnet.co.kr/view/?no=20260820082427",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-19"
+      }
+    ]
   }
 };
