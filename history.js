@@ -23132,5 +23132,174 @@ window.historyData = {
         "date": "2026-08-19"
       }
     ]
+  },
+  "2026-08-21": {
+    "macro": [
+      {
+        "title": "물가 는 둔화했는데 살림은 더 팍팍…日수입액 사상 최대 새 창 열림",
+        "link": "https://www.hankyung.com/article/202608213917i",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-08-20"
+      },
+      {
+        "title": "‘이틀연속’ 환율 1300원대…‘두번연속’ 금리인상 부담 더나 새 창 열림",
+        "link": "https://www.joongang.co.kr/article/25454966",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-08-21"
+      },
+      {
+        "title": "[애널픽] 美 장기 금리 5%대에도 금값 반등, 왜? 새 창 열림",
+        "link": "https://theviewers.co.kr/View.aspx?No=4193839",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-20"
+      },
+      {
+        "title": "[스타트 경제] 정부 vs 서울시, 용산공원 놓고 평행선...다음주 다시 만... 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0102_202608210731052580",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-08-20"
+      },
+      {
+        "title": "6월 국내 은행 대출 연체율 0.56%…동월 기준 10년 만에 최고 새 창 열림",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008715054&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-08-21"
+      },
+      {
+        "title": "코스피ㆍ코스닥 동반 하락 출발… 원 / 달러 환율 하락 새 창 열림",
+        "link": "https://www.yna.co.kr/view/PYH20260821018500013?input=1196m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-08-20"
+      },
+      {
+        "title": "(사설) 전기국가 전환 위해 전력 시스템 혁신 필요하다 새 창 열림",
+        "link": "https://www.electimes.com/news/articleView.html?idxno=371486",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-20"
+      },
+      {
+        "title": "“AI 채권 올해 이미 280조 원”…실질 금리 상승 압력 새 창 열림",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8642487&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-08-21"
+      },
+      {
+        "title": "[프리즘] ‘아무 AI’론 안된다…‘내 전공의 AI’ 배울 때 새 창 열림",
+        "link": "https://www.joongang.co.kr/article/25454967",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-08-20"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-20"
+      },
+      {
+        "title": "제네시스 최상위 ‘GV90’ 첫 공개… 정의선 “럭셔리의 새 비전” 새 창 열림",
+        "link": "https://www.donga.com/news/Economy/article/all/20260820/134515277/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-08-21"
+      },
+      {
+        "title": "[단독] 길에 뒤엉킨 전기자전거, 견인하고 돈 물린다 새 창 열림",
+        "link": "https://www.chosun.com/national/national_general/2026/08/21/CGLBHWOPXBBA3OZU2OMC2LBSUI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-08-20"
+      },
+      {
+        "title": "[김필수의 시선] 앞으로 수출중고차 산업의 발전 가능성은? 새 창 열림",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=715044",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-20"
+      },
+      {
+        "title": "에이치브레인, KPEX 2026서 AI ADAS 'Praevio' 선봬... \"사각지대 예방\" 새 창 열림",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1813415",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-20"
+      },
+      {
+        "title": "페로타임즈 새 창 열림",
+        "link": "https://www.ferrotimes.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-20"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-20"
+      },
+      {
+        "title": "삼천리 자전거 , '팬텀' 타고 성장세…120억 자사주 소각 승부수 새 창 열림",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=316259",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-20"
+      },
+      {
+        "title": "\"빙수·피자·편의점까지 반값 할인\"…'알토란' 같아진 통신사 멤버십 새 창 열림",
+        "link": "https://www.hankyung.com/article/202608201363g",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-08-20"
+      },
+      {
+        "title": "[뉴스톡톡] 배달앱 '한그릇 전쟁' 2R…프로모션 떼도 1인분 배달 시장 클... 새 창 열림",
+        "link": "https://www.news1.kr/industry/distribution/6263365",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-08-20"
+      },
+      {
+        "title": "경상일보 새 창 열림",
+        "link": "https://www.ksilbo.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-20"
+      },
+      {
+        "title": "에이치아이모빌리티, 전기 빅스쿠터 ‘수퍼렉스 i6’ 사전예약 개시 새 창 열림",
+        "link": "https://www.swtvnews.com/news/newsview.php?ncode=1065575977757145",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-20"
+      },
+      {
+        "title": "\"폭염 피해 쉬어가세요\" 세븐일레븐, 부산 '무더위쉼터' 조성 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260821_0003756929",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-08-21"
+      },
+      {
+        "title": "‘우버의 민족’이 온다…관전 포인트 5 [스페셜리포트] 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12127721",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-08-21"
+      }
+    ]
   }
 };
