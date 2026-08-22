@@ -23301,5 +23301,174 @@ window.historyData = {
         "date": "2026-08-21"
       }
     ]
+  },
+  "2026-08-22": {
+    "macro": [
+      {
+        "title": "채소값 뛰고 가공식품 줄인상…추석 앞 밥상 물가 비상[치솟는 먹거리 물... 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260821_0003757683",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-08-21"
+      },
+      {
+        "title": "[미리보는 금통위] '백투백' 인상이냐 숨고르기냐···셈법 복잡해진 한... 새 창 열림",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=636175",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-21"
+      },
+      {
+        "title": "[다음주 경제] 기준금리 동결이냐 인상이냐…작년 출생통계도 발표 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260822016400002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-08-22"
+      },
+      {
+        "title": "“모든 수단 동원” 韓 총리, 주택 신속공급 총력…8·13 대책 속도전 새 창 열림",
+        "link": "https://www.sedaily.com/article/20082088?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-22"
+      },
+      {
+        "title": "연 10%대 1000만원 대출 , 인기터지네… 캐피탈 \"우리도 하자\" 새 창 열림",
+        "link": "https://www.mt.co.kr/finance/2026/08/22/2026082114234830610",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-08-21"
+      },
+      {
+        "title": "6월 은행 연체 율 꺾였지만...기업 대출 연체 율은 ‘빨간불’ 새 창 열림",
+        "link": "https://www.joongang.co.kr/article/25455144",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-08-21"
+      },
+      {
+        "title": "달러 - 원 NDF 1385.80원, 전장보다 0.55원 하락 새 창 열림",
+        "link": "https://www.tokenpost.kr/news/cryptocurrency/395444",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-22"
+      },
+      {
+        "title": "에너지경제 새 창 열림",
+        "link": "https://www.ekn.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-21"
+      },
+      {
+        "title": "“895조 썼는데 길 하나쯤이야”…광주에 ‘삼성길·하이닉스길’ 생길... 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12133740",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-08-21"
+      },
+      {
+        "title": "[동아시론/김대일]청년 일자리 위기, 노동시장-교육의 낡은 틀 바꿔야 새 창 열림",
+        "link": "https://www.donga.com/news/Opinion/article/all/20260821/134522869/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-08-22"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-21"
+      },
+      {
+        "title": "제네시스 최상위 ‘GV90’ 첫 공개… 정의선 “럭셔리의 새 비전” 새 창 열림",
+        "link": "https://www.donga.com/news/Economy/article/all/20260820/134515277/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-08-22"
+      },
+      {
+        "title": "시민 발걸음 막는 전기 자전거‥이제는 '강제 견인' 새 창 열림",
+        "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6846451_37004.html",
+        "source": "MBC",
+        "tier": "S",
+        "date": "2026-08-22"
+      },
+      {
+        "title": "[김필수의 시선] 앞으로 수출중고차 산업의 발전 가능성은? 새 창 열림",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=715044",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-21"
+      },
+      {
+        "title": "디일렉 새 창 열림",
+        "link": "https://www.thelec.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-21"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-21"
+      },
+      {
+        "title": "시민태양광 1호 도시 대구…발전소 된 車시험장 벽[넷제로케이스스터디... 새 창 열림",
+        "link": "https://www.mt.co.kr/industry/2026/08/22/2026082110240334681",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-08-21"
+      },
+      {
+        "title": "외환위기 명퇴자들 희망 걸던 PC방…주52시간·코로나로 확 줄어든 노래... 새 창 열림",
+        "link": "https://www.joongang.co.kr/article/25455250",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-08-22"
+      },
+      {
+        "title": "[기자수첩] 배달노동도 로봇으로 대체되면 사람이 할 일은? 새 창 열림",
+        "link": "https://vop.co.kr/A00001696315.html",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-21"
+      },
+      {
+        "title": "던킨, 올여름 배달 매출 전년동기대비 50% 증가 새 창 열림",
+        "link": "https://www.100ssd.co.kr/news/articleView.html?idxno=212156",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-22"
+      },
+      {
+        "title": "에이치아이모빌리티, ‘수퍼렉스 i6’로 전기이륜차 시장 공략…160km 주... 새 창 열림",
+        "link": "https://www.gosiweek.com/article/1065576999308128",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-21"
+      },
+      {
+        "title": "쉬는 것도, 콜 거절도 부담…허울뿐인 '사장님' 새 창 열림",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008716545&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-08-21"
+      },
+      {
+        "title": "일요서울 새 창 열림",
+        "link": "https://www.ilyoseoul.co.kr/",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-08-22"
+      }
+    ]
   }
 };
