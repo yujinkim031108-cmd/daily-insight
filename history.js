@@ -23470,5 +23470,174 @@ window.historyData = {
         "date": "2026-08-22"
       }
     ]
+  },
+  "2026-08-23": {
+    "macro": [
+      {
+        "title": "'AI 반도체 슈퍼위크'…코스피 '주주환원 약발' 계속되나 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260822023400008?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-08-22"
+      },
+      {
+        "title": "8월 금통위 ‘백투백’ 인상할까…성장률 전망도 주목[한은 미리보기] 새 창 열림",
+        "link": "https://www.edaily.co.kr/News/Read?newsId=01125046645550272&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-08-23"
+      },
+      {
+        "title": "금시세(금값) 새 창 열림",
+        "link": "https://www.bntnews.co.kr/article/view/bnt202608230005",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-23"
+      },
+      {
+        "title": "\"동결해도 끝 아냐\"…한은 금리 인상 사이클 계속 새 창 열림",
+        "link": "https://www.hankyung.com/article/2026082363977",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-08-22"
+      },
+      {
+        "title": "2금융권 중금리대출, 가계대출 총량서 전액 제외… 서민금융 확대 새 창 열림",
+        "link": "https://biz.chosun.com/stock/finance/2026/08/23/UPOD22JYLJEKPFFYHQEGHEKMJE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-08-22"
+      },
+      {
+        "title": "가계 대출 총량 2배로 늘렸지만… \"고금리에 취약 서민 지원은 한계” 새 창 열림",
+        "link": "https://www.g-enews.com/view.php?ud=202608211518199638cd0bfacc1c_1",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-23"
+      },
+      {
+        "title": "세아제강, 건설 불황에도 웃었다…해상풍력·LNG가 실적 견인 새 창 열림",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479681",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-22"
+      },
+      {
+        "title": "코스피 여전히 저평가?...대신證 “반도체가 지수 반등 이끌 것” 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12133345",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-08-23"
+      },
+      {
+        "title": "54년만에 폐지된 교육교부금 내국세 연동제...남은 숙제는 새 창 열림",
+        "link": "https://www.mt.co.kr/policy/2026/08/23/2026082113173535239",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-08-23"
+      },
+      {
+        "title": "\"평생 청소부? 못해\" 이 일 뛰어들더니...'슈퍼카' 오너 된 20대[트민자... 새 창 열림",
+        "link": "https://www.mt.co.kr/world/2026/08/23/2026082021231066920",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-08-23"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-22"
+      },
+      {
+        "title": "베일 벗은 GV90...제네시스가 그린 미래 럭셔리 청사진 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12133189",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-08-22"
+      },
+      {
+        "title": "2026 '충북교육! 미래를 그리다'③…청주온마을배움터 새 창 열림",
+        "link": "https://www.nocutnews.co.kr/news/6566434?utm_source=naver&utm_medium=article&utm_campaign=20260822082610",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-22"
+      },
+      {
+        "title": "신흥에스이씨 실적 반등 본격화…데이터센터·BESS가 새 성장엔진 새 창 열림",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479598",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-22"
+      },
+      {
+        "title": "이플로우, IFA 2026서 AFPM 모터 적용 전동체어 'NUBINA'· 모빌리티 휠·수... 새 창 열림",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1813522",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-22"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-22"
+      },
+      {
+        "title": "시민태양광 1호 도시 대구…발전소 된 車시험장 벽[넷제로케이스스터디... 새 창 열림",
+        "link": "https://www.mt.co.kr/industry/2026/08/22/2026082110240334681",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-08-22"
+      },
+      {
+        "title": "엔씨, 전국 PC방 70곳서 주말 게릴라 이벤트 새 창 열림",
+        "link": "https://www.sportschosun.com/entertainment/2026-08-22/202608220100130850008355",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-08-22"
+      },
+      {
+        "title": "카톡도 떼어낸 카카오, 쪼개기 마술 통할까 [허진의 테크토닉] 새 창 열림",
+        "link": "https://www.hankyung.com/article/202608226296i",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-08-22"
+      },
+      {
+        "title": "[무엇이든 리뷰] 문앞까지 배달하는 '로봇'…아파트 배달 갈등 해법 될... 새 창 열림",
+        "link": "https://www.etnews.com/20260821000145",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-23"
+      },
+      {
+        "title": "고의로 사람 쳤는데 ‘시민 영웅’? 새 창 열림",
+        "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546487",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-22"
+      },
+      {
+        "title": "창원시, 이동노동자 거점쉼터 올해말까지 일요일·공휴일도 운영 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260821118700052?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-08-22"
+      },
+      {
+        "title": "[위클립] 8월 3주 새 창 열림",
+        "link": "https://www.laborplus.co.kr/news/articleView.html?idxno=41354",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-23"
+      }
+    ]
   }
 };
