@@ -23639,5 +23639,188 @@ window.historyData = {
         "date": "2026-08-23"
       }
     ]
+  },
+  "2026-08-24": {
+    "macro": [
+      {
+        "title": "연준 인사 \"미·캐나다 갈등에 인플레 장기화 우려\"...금리 인상 필요성... 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0104_202608240621579857",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "“기준금리 인상, 8월 아닌 10월에 할 듯”<한화투자證> 새 창 열림",
+        "link": "https://www.news2day.co.kr/article/20260824500046",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-23"
+      },
+      {
+        "title": "\"美 국채 금리 우려 안해, 왜냐면…\" 카시가리 금리 향방 '신중' 새 창 열림",
+        "link": "https://www.mt.co.kr/world/2026/08/24/2026082408412495971",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "THE Biz(더비즈) 새 창 열림",
+        "link": "https://www.the-biz.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "\"강남 전세 숨통 트일까\"…디에이치방배 3064가구 입주 앞둬 새 창 열림",
+        "link": "https://www.hankyung.com/article/2026082477616",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "2금융권 중금리 대출 , 총량규제서 전액 제외… 중저신용자 ‘숨통’ 새 창 열림",
+        "link": "https://www.donga.com/news/Economy/article/all/20260823/134526959/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-08-23"
+      },
+      {
+        "title": "코스피 소폭 하락 출발 새 창 열림",
+        "link": "https://www.yna.co.kr/view/PYH20260824018100013?input=1196m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "초이스경제 새 창 열림",
+        "link": "https://www.choicenews.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-23"
+      },
+      {
+        "title": "[스타트 경제 ] 당정, 비거주 1주택자 '실거주 인정 범위' 확대...내용은... 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0102_202608240730412376",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "천안 고용률 70.3%…15~64세 고용지표 역대 최고치 새 창 열림",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3672215",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-23"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-23"
+      },
+      {
+        "title": "[ 모빌리티 NOW] 앞·뒤 모두 ‘S’…더 영리하고 젊어진 벤츠 끝판왕 새 창 열림",
+        "link": "https://www.sportsworldi.com/newsView/20260823508084",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-23"
+      },
+      {
+        "title": "80세도 킥보드 정리한다… 지쿠 직원 86%가 '서울 밖' 새 창 열림",
+        "link": "https://www.hankyung.com/article/202608247832i",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "성남시, 규제혁신 아이디어 공모 새 창 열림",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=1404972",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-23"
+      },
+      {
+        "title": "\"서방엔 과잉 생산, 아프리카엔 도약의 기회\"… 中 전기 차, 아프리카 시... 새 창 열림",
+        "link": "https://www.g-enews.com/view.php?ud=2026082316500323680c8c1c064d_1",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-23"
+      },
+      {
+        "title": "충전 9분 만에 '펑'… 2명 숨진 전기 스쿠터, 리콜 앞두고 제조사 '연락 ... 새 창 열림",
+        "link": "https://www.hankookilbo.com/news/article/A2026082011230000434?did=NA",
+        "source": "한국일보",
+        "tier": "C",
+        "date": "2026-08-23"
+      },
+      {
+        "title": "[2026 전남광주미래산업박람회] 씨더블유에이치텍, 센싱·자동제어 융복... 새 창 열림",
+        "link": "https://www.etnews.com/20260822000023",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-23"
+      },
+      {
+        "title": "아산시의회, 제267회 아산시의회 제1차 정례회 25일 개회 새 창 열림",
+        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1176703",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-23"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-23"
+      },
+      {
+        "title": "[Who Is ?] 이진안 앰코테크놀로지코리아 대표이사 사장 새 창 열림",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=445352",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-23"
+      },
+      {
+        "title": "“안정적 수익 통한 동반성장” GS더프레시, 가맹 500호점 돌파 새 창 열림",
+        "link": "https://sports.donga.com/economy/article/all/20260823/134524266/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-08-23"
+      },
+      {
+        "title": "[소셜＋] \"이유 없는 1점에도 속수무책\"…'별점 테러'에 떠는 자영업자 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260820154800505?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-08-23"
+      },
+      {
+        "title": "빨라진 추석 선물도 ‘극과극’…3100만원 로봇 vs 9900원 김 새 창 열림",
+        "link": "https://www.edaily.co.kr/News/Read?newsId=02112326645550272&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-08-23"
+      },
+      {
+        "title": "[ 배달 업계 퀵커머스 전쟁] 음식 넘어 생필품도 30분 배송…'생활밀착'으... 새 창 열림",
+        "link": "https://www.ajunews.com/view/20260819121515419",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-23"
+      },
+      {
+        "title": "카톡도 떼어낸 카카오, 쪼개기 마술 통할까 [허진의 테크토닉] 새 창 열림",
+        "link": "https://www.hankyung.com/article/202608226296i",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-08-23"
+      }
+    ]
   }
 };
