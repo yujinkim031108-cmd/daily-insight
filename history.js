@@ -23822,5 +23822,195 @@ window.historyData = {
         "date": "2026-08-23"
       }
     ]
+  },
+  "2026-08-25": {
+    "macro": [
+      {
+        "title": "이럴 바엔 식당 가죠… 재료비 폭등해 집에서 해 먹기 부담스러워진 '밥... 새 창 열림",
+        "link": "https://www.wikitree.co.kr/articles/1154657",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "신현송이 말한 조건 셋 중 둘 ‘충족’…“백투백 인상, 가능성 열려 있... 새 창 열림",
+        "link": "https://www.chosun.com/economy/economy_general/2026/08/25/WZGYES2XFVH7JOBUXN2DIHJ6GE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "미래에셋, 'TIGER 삼성전자SK하이닉스미국채혼합50 ETF' 신규 상장 새 창 열림",
+        "link": "https://view.asiae.co.kr/article/2026082509215918389",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "[마켓 프리뷰] '악재'된 삼성전자 주주환원…장중 환율 1370원대로 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000330512?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "[기자수첩] 생산적 금융이 부실 미루기 되지 않으려면 새 창 열림",
+        "link": "https://www.ngetnews.com/news/articleView.html?idxno=552669",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-25"
+      },
+      {
+        "title": "[기자24시] 2천조 가계부채, 한은의 딜레마 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12134986",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-08-25"
+      },
+      {
+        "title": "원 · 달러 환율 , 2.1원 내린 1380.3원 새 창 열림",
+        "link": "https://biz.chosun.com/policy/policy_sub/2026/08/25/6FYDZAIIQFCGFA3XDXCNSXEQ7U/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "[ 국제유가 ] '초강력 이란 제재'에도 유가 뒷걸음질…WTI 7거래일 만에 하... 새 창 열림",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=290578",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "안동MBC 새 창 열림",
+        "link": "https://www.andongmbc.co.kr/",
+        "source": "MBC",
+        "tier": "S",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "미국에서 애국심이 가장 높은 주는 어디일까? 새 창 열림",
+        "link": "https://monthly.chosun.com/news/articleView.html?idxno=71183",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-08-24"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "THE Biz(더비즈) 새 창 열림",
+        "link": "https://www.the-biz.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "“헬멧·반사조끼에 번호판·보험까지”… 전동 킥보드 규제 고삐 죄는... 새 창 열림",
+        "link": "https://biz.chosun.com/it-science/ict/2026/08/24/3VI64KTAQNBGXGBLOOYUPDXONM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "성남시, '규제혁신 아이디어' 공모 및 '어린이 먹거리' 498곳 점검 새 창 열림",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=717828",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "시민 아이디어가 법을 바꾼다...성남시 '생활 속 규제혁신' 본격화 새 창 열림",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=316456",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "KOTRA해외시장뉴스 새 창 열림",
+        "link": "https://dream.kotra.or.kr/kotranews/index.do",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "충전 9분 만에 '펑'… 2명 숨진 전기 스쿠터, 리콜 앞두고 제조사 '연락 ... 새 창 열림",
+        "link": "https://www.hankookilbo.com/news/article/A2026082011230000434?did=NA",
+        "source": "한국일보",
+        "tier": "C",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "[부산ㆍ경남 대학 브리핑 모음(8월25일)] 경상국립대, 대학원생 대상 AI... 새 창 열림",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608241532100350122",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-24"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "지쿠 일자리 86.2%가 ‘서울 밖’···80대까지 시니어 일자리 확대 새 창 열림",
+        "link": "https://sports.khan.co.kr/article/202608250623003?pt=nv",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-08-25"
+      },
+      {
+        "title": "\"데이터로 꼽은 동네 맛집\"…배민, '민트스타' 전국 확대 새 창 열림",
+        "link": "https://www.hankyung.com/article/202608250410g",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-08-25"
+      },
+      {
+        "title": "\"밖에 못 나가겠네\"…폭염에 한국인들 3.3조 쏟아부은 곳이 새 창 열림",
+        "link": "https://www.hankyung.com/article/202608250218g",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-08-25"
+      },
+      {
+        "title": "월요신문 새 창 열림",
+        "link": "https://www.wolyo.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "[김종석의 리포트]목숨 걸고 타는 ‘대륙의 발’ 새 창 열림",
+        "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546774",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "배달라이더 의 근로자성 첫 확정판결…판단 가른 '플랫폼 통제' [취재파... 새 창 열림",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008719308&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-08-25"
+      },
+      {
+        "title": "“햄버거는 배달 앱으로 잘 안 시켜요”…자체앱 주문 확 늘어난 이유는 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12135201",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-08-25"
+      }
+    ]
   }
 };
