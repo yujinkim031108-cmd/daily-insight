@@ -24012,5 +24012,181 @@ window.historyData = {
         "date": "2026-08-25"
       }
     ]
+  },
+  "2026-08-26": {
+    "macro": [
+      {
+        "title": "금리 하락에 반도체 저가 매수세, 국내 증시 회복 신호탄? 새 창 열림",
+        "link": "https://www.edaily.co.kr/News/Read?newsId=02548566645551256&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-08-25"
+      },
+      {
+        "title": "내일 금통위…엇갈린 금리 전망 속 '점도표'에도 주목 새 창 열림",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008722033&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-08-26"
+      },
+      {
+        "title": "케이뱅크, '데굴데굴 농장' 입금왕 챌린지…최대 100만원 지급 새 창 열림",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=480572",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-25"
+      },
+      {
+        "title": "8월 금통위 D-1...시장 시선 '한은 점도표·수정전망' 집중 새 창 열림",
+        "link": "https://www.etnews.com/20260826000012",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-26"
+      },
+      {
+        "title": "핀다 우수대부 중개 1000억원 돌파…중저신용자 수요 몰렸다 새 창 열림",
+        "link": "https://www.viva100.com/article/20260826500215",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-25"
+      },
+      {
+        "title": "내 통장· 대출 살피고 금리 인하까지 신청…‘금융 AI 비서’ 나온다 새 창 열림",
+        "link": "https://www.chosun.com/economy/stock-finance/2026/08/25/DUUZVVAJARHTXH75N5MCNVZSIY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-08-26"
+      },
+      {
+        "title": "원 · 달러 환율 , 4.3원 내린 1381.8원 새 창 열림",
+        "link": "https://biz.chosun.com/policy/policy_sub/2026/08/26/ZOICA7GLG5ENHMRYUU6WOFRSCY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-08-25"
+      },
+      {
+        "title": "[뉴욕 브리핑] 캐나다, 美에 200억달러 보복관세…3대지수 상승 새 창 열림",
+        "link": "https://news.dealsitetv.com/articles/175198",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-26"
+      },
+      {
+        "title": "금시세(금값) 새 창 열림",
+        "link": "https://www.bntnews.co.kr/article/view/bnt202608260118",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-26"
+      },
+      {
+        "title": "‘김민석호’가 선거제도 개혁부터 해야 하는 이유들 새 창 열림",
+        "link": "https://h21.hani.co.kr/arti/politics/politics_general/59781.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-08-26"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-25"
+      },
+      {
+        "title": "\"B필러 없애고 온돌 넣었다…럭셔리 새 기준\" GV90 해외서 호평 새 창 열림",
+        "link": "https://www.news1.kr/industry/auto-industry/6269618",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-08-25"
+      },
+      {
+        "title": "지쿠 일자리 86.2%가 ‘서울 밖’···80대까지 시니어 일자리 확대 새 창 열림",
+        "link": "https://sports.khan.co.kr/article/202608250623003?pt=nv",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-08-25"
+      },
+      {
+        "title": "배우 홍민기 전 여자친구 A씨, 23일 응급실 이송…\"난동 피웠다는 주장... 새 창 열림",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=16173192",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-25"
+      },
+      {
+        "title": "'더 멀리'서 '더 안전·더 오래'로…EV 캐즘이 바꾼 배터리 경쟁 새 창 열림",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=748857",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-25"
+      },
+      {
+        "title": "자율주행 셔틀·로봇배송 택배 … 세종 'AI 미래도시' 연말 착공 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12135979",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-08-25"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-25"
+      },
+      {
+        "title": "[모빌리티핫이슈] 로보택시 삼국지…中 전고체 배터리 상용화 질주 새 창 열림",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695358",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-25"
+      },
+      {
+        "title": "\"급하게 슬랙스 필요한데\"…배민, 여성복 '시아쥬' 입점 새 창 열림",
+        "link": "https://www.news1.kr/industry/distribution/6269593",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-08-26"
+      },
+      {
+        "title": "배달앱 4사 7월 결제액… 역대 최대 3조2700억 새 창 열림",
+        "link": "https://www.donga.com/news/Economy/article/all/20260825/134542696/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-08-25"
+      },
+      {
+        "title": "\"한국 가면 치킨 시킬래요\"… 배달앱, 외국인 잡기 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12135972",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-08-25"
+      },
+      {
+        "title": "영남일보 새 창 열림",
+        "link": "https://www.yeongnam.com/web/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-25"
+      },
+      {
+        "title": "중장년 취향 담았다…우체국도 ‘맞춤형 체크카드’[우정 이야기] 새 창 열림",
+        "link": "https://weekly.khan.co.kr/article/202608260600051",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-08-26"
+      },
+      {
+        "title": "\"혜택은 들쭉날쭉, 앱은 불편\"…울산시, 울산페이·페달 서비스 전면 개... 새 창 열림",
+        "link": "https://www.pressian.com/pages/articles/2026082514560291063?utm_source=naver&utm_medium=search",
+        "source": "프레시안",
+        "tier": "C",
+        "date": "2026-08-26"
+      }
+    ]
   }
 };
