@@ -24188,5 +24188,181 @@ window.historyData = {
         "date": "2026-08-26"
       }
     ]
+  },
+  "2026-08-27": {
+    "macro": [
+      {
+        "title": "제3경인 50~200원·서수원~의왕 100원 등 경기도 2개 민자도로 통행료 인... 새 창 열림",
+        "link": "https://www.khan.co.kr/article/202608271405001",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "신현송 \"호미로 물가 막겠다\" … 3% ‘백투백’ 강수, 취약차주 짓누르... 새 창 열림",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/08/27/2026082700205.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "\"지금이 호미로 막을 때\"…신현송, 연속 금리 인상은 '선제 대응' 새 창 열림",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1721927",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "연합인포맥스 새 창 열림",
+        "link": "https://news.einfomax.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "새마을금고, 집단 대출 6개월 만에 재개 새 창 열림",
+        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=663279",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-26"
+      },
+      {
+        "title": "한은, 기준금리 3%로 두 달 연속 인상…물가·고성장에 긴축 속도 새 창 열림",
+        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2436751",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-26"
+      },
+      {
+        "title": "신현송 한은 총재 \"가래 대신 호미로 막는 정책…뒤늦은 대응은 비용 더... 새 창 열림",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=879034",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-26"
+      },
+      {
+        "title": "[진단] 올해 상반기, 미주 · 아프리카 원유 수입 확대 새 창 열림",
+        "link": "https://www.todayenergy.kr/news/articleView.html?idxno=302075",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-26"
+      },
+      {
+        "title": "한은, 올해 성장률 전망치 2.6%→3.3%로 대폭 상향 새 창 열림",
+        "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=609871",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-26"
+      },
+      {
+        "title": "빌 게이츠 “AI 피해 대비 위해 규제와 국제적 협력 필요” 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260827_0003765283",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-08-26"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-26"
+      },
+      {
+        "title": "\"B필러 없애고 온돌 넣었다…럭셔리 새 기준\" GV90 해외서 호평 새 창 열림",
+        "link": "https://www.news1.kr/industry/auto-industry/6269618",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-08-26"
+      },
+      {
+        "title": "아무 데나 대면 최대 2만 원...수원시, 공유 킥보드 '지정주차구역' 운영 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0115_202608270438373988",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-08-26"
+      },
+      {
+        "title": "[우분투칼럼] 아프리카의 미래를 다시 쓰는 청년들… 절망을 기회로 바... 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260818028000898?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "[2026 전남광주미래산업박람회] 다원디엔에스, AI 개인 맞춤형 비대면 안... 새 창 열림",
+        "link": "https://www.etnews.com/20260827000112",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-26"
+      },
+      {
+        "title": "아산시의회, 시민 보행 안전 확보 및 추락한 공직 청렴도 쇄신 조례 상... 새 창 열림",
+        "link": "https://www.newsworker.co.kr/news/articleView.html?idxno=501044",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-26"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-26"
+      },
+      {
+        "title": "케이카 \"기름값 20% 오르면 차 바꾼다…교체 1순위는 '친환경차'\" 새 창 열림",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=406130",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-26"
+      },
+      {
+        "title": "카뱅, 26주적금에 배민·에버랜드 등 6개 브랜드 혜택 ‘두둑’ 새 창 열림",
+        "link": "https://www.dailian.co.kr/news/view/1683085/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "“카페에서 마라를?”…메가MGC커피, ‘중식마녀 마라크림 새우토스트’... 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12137673",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "디지틀조선일보 새 창 열림",
+        "link": "https://digitalchosun.dizzo.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-26"
+      },
+      {
+        "title": "에이치아이모빌리티, 전기 빅스쿠터 '수퍼렉스 i6' 출시… 배달 시장 공... 새 창 열림",
+        "link": "https://www.it-b.co.kr/news/articleView.html?idxno=89627",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-26"
+      },
+      {
+        "title": "[뉴스토리 10분요약] 배차도 단가도 앱이 정한다?…그래도 라이더 는 '사... 새 창 열림",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008722142&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-08-26"
+      },
+      {
+        "title": "데일리환경 새 창 열림",
+        "link": "https://www.dailyt.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-26"
+      }
+    ]
   }
 };
