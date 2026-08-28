@@ -24364,5 +24364,188 @@ window.historyData = {
         "date": "2026-08-26"
       }
     ]
+  },
+  "2026-08-28": {
+    "macro": [
+      {
+        "title": "日 8월 도쿄권 CPI 1.8%↑ …\"7개월 연속 2% 밑돌아\" 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260828_0003767292",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-08-28"
+      },
+      {
+        "title": "[글로벌 증시 따라잡기] 바이백 베센트 VS 시장 중심 워시 잭슨홀 이후... 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000331383?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "좁혀진 한미 금리 차···환율 8거래일째 1300원대 새 창 열림",
+        "link": "https://www.fnnews.com/news/202608281602383545",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "월말 네고 쏟아지며 달러·원 1372원…13개월 만에 최저치(종합) 새 창 열림",
+        "link": "https://www.news1.kr/finance/market-exr/6272875",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-08-28"
+      },
+      {
+        "title": "인뱅 중·저신용 대출 확대 ‘주춤’…신규·잔액 비중 나란히 하락 새 창 열림",
+        "link": "https://www.edaily.co.kr/News/Read?newsId=03978646645551912&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "'경기부진' 보험사 대출 연체 율 1% 돌파…중기 연체 율 0.66%p 급등 새 창 열림",
+        "link": "https://www.g-enews.com/view.php?ud=202608281541346627e30fcb1ba8_1",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-28"
+      },
+      {
+        "title": "코스피, '삼전닉스' 약세에 1.79% 하락 마감…코스닥은 강보합 새 창 열림",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=317170",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-28"
+      },
+      {
+        "title": "이란전 6개월 세계 안보·경제 흔들…\"한반도에도 그림자\" 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260828129400009?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-08-28"
+      },
+      {
+        "title": "첫 일자리 '정규직인지 아닌지'가 10년 뒤에도 이어져 새 창 열림",
+        "link": "https://www.junggi.co.kr/news/articleView.html?idxno=37592",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "[다음 주 경제일정] 美 8월 비농업 취업자수· 실업률 관건…브로드컴 실... 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000331349?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-08-27"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "뉴스웍스 새 창 열림",
+        "link": "https://www.newsworks.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "'배우 마케팅'에 꽂힌 플랫폼업계…\"이미지가 브랜드 좌우\" 새 창 열림",
+        "link": "https://www.ddaily.co.kr/page/view/2026082811370337703",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "아무 데나 대면 최대 2만 원...수원시, 공유 킥보드 '지정주차구역' 운영 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0115_202608270438373988",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "[우분투칼럼] 아프리카의 미래를 다시 쓰는 청년들… 절망을 기회로 바... 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260818028000898?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "한라대, '커리어 핏' 취업박람회…채용·진로 한자리서 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260827_0003765711",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "아산시의회, 시민 체감형 조례 잇따라 발의…돌봄·소상공인·청렴·출생... 새 창 열림",
+        "link": "https://www.dynews.co.kr/news/articleView.html?idxno=863273",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-27"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "“ 전기 차 누가 사요?” 했는데 ‘반전’…요즘 운전자들 확 달라졌다 새 창 열림",
+        "link": "https://www.sedaily.com/article/20084361?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "바이라인네트워크 새 창 열림",
+        "link": "https://byline.network",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "배달 플랫폼 골라주는 '동네 맛집' 리스트…업주들 줄세우기 우려도 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260828_0003766891",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-08-28"
+      },
+      {
+        "title": "요기요 , 치킨·피자 브랜드 할인 기획전 진행 새 창 열림",
+        "link": "https://www.etnews.com/20260828000244",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-28"
+      },
+      {
+        "title": "[탐방] EV트렌드코리아 2026 성료…\" 전기 로 움직이는 세상 엿봤다\" 새 창 열림",
+        "link": "https://www.todayenergy.kr/news/articleView.html?idxno=302133",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "타임 'AI 100인' 명단에 배우 두 명과 노조 위원장 새 창 열림",
+        "link": "https://platum.kr/archives/293528",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "제주의소리 새 창 열림",
+        "link": "https://www.jejusori.net/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-27"
+      }
+    ]
   }
 };
