@@ -24547,5 +24547,132 @@ window.historyData = {
         "date": "2026-08-27"
       }
     ]
+  },
+  "2026-08-30": {
+    "macro": [
+      {
+        "title": "금리 올리면 트럼프와 충돌, 안 올리면 신뢰 타격…워시의 딜레마 새 창 열림",
+        "link": "https://www.donga.com/news/Inter/article/all/20260830/134568626/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-08-30"
+      },
+      {
+        "title": "AI 투자 열풍의 숨은 청구서…빅테크 채권 발행이 ‘돈의 가격’까지 밀... 새 창 열림",
+        "link": "https://www.thepowernews.co.kr/view.php?ud=202608281117449650de3f0aa1be_7",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-29"
+      },
+      {
+        "title": "30조원 추가 대출 풀어도…일반 대출 몫은 6조~8조원뿐 새 창 열림",
+        "link": "https://www.chosun.com/economy/stock-finance/2026/08/30/NUTEDQ6WGRAM3NWAXHWPSPMWIY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-08-29"
+      },
+      {
+        "title": "‘연속인상’ 명분 강조하는 신현송…선제대응 필요성 연구 보니 [머니... 새 창 열림",
+        "link": "https://biz.heraldcorp.com/article/10856321?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-29"
+      },
+      {
+        "title": "“5억 주담대 이자만 연125만원 더”…요즘 대출 고정? 변동? ‘복잡해... 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12139648",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-08-30"
+      },
+      {
+        "title": "기준금리 3%로 올랐는데…2000조 가계빚·자영업자 부채 '경고등' 새 창 열림",
+        "link": "https://www.news1.kr/economy/trend/6272868",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-08-30"
+      },
+      {
+        "title": "국장 25% 폭락하며 약세장… 개미 자금 10조는 美 증시로 새 창 열림",
+        "link": "https://www.chosun.com/economy/money/2026/08/30/7MGVK5W5DRBTJGABC7QAODYKNE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-08-30"
+      },
+      {
+        "title": "금리 안정에 안도랠리 이어질까…코스피 6400~7500 [주간 증시 전망] 새 창 열림",
+        "link": "https://www.dailian.co.kr/news/view/1683857/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-08-30"
+      },
+      {
+        "title": "뉴스웍스 새 창 열림",
+        "link": "https://www.newsworks.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-29"
+      },
+      {
+        "title": "오중기 민주당 경북도당위원장, 강훈식 비서실장 만나 경북 현안 지원 ... 새 창 열림",
+        "link": "https://sports.donga.com/region/article/all/20260830/134568371/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-08-29"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-29"
+      },
+      {
+        "title": "[2026 전남광주미래산업박람회] 국립목포대 항공드론융합전공, UAM 기체... 새 창 열림",
+        "link": "https://www.etnews.com/20260824000364",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-29"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-29"
+      },
+      {
+        "title": "뉴스웍스 새 창 열림",
+        "link": "https://www.newsworks.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-29"
+      },
+      {
+        "title": "서비스 연결 통로 노리는 공격… 'API 보안' 왜 중요해졌나 [보안TMI] 새 창 열림",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092169031",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-08-29"
+      },
+      {
+        "title": "플랫폼 노동 '법적 공백'…해외는 별도 기준 세웠다 [취재파일] 새 창 열림",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008725440&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-08-29"
+      },
+      {
+        "title": "[프랜차이즈의 명과 암] ③커피 가맹점 폭증의 그늘...매출 늘어도 '푼돈... 새 창 열림",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=309980",
+        "source": "",
+        "tier": "D",
+        "date": "2026-08-29"
+      }
+    ]
   }
 };
