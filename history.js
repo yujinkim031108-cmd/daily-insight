@@ -24674,5 +24674,65 @@ window.historyData = {
         "date": "2026-08-29"
       }
     ]
+  },
+  "2026-09-02": {
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp.",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "[모빌리티핫이슈] 테슬라 '사이버캡' 출격…中 FSD 철수? 새 창 열림",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=697314",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "[현장] AI부터 와인 지식까지… '막막한 사장님' 위한 배민의 무료 학교 새 창 열림",
+        "link": "https://www.hankookilbo.com/news/article/A2026082814500005192?did=NA",
+        "source": "한국일보",
+        "tier": "C",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "카카오, 계열사 묶는 ‘통합 멤버십’ 준비…카톡 중심 혜택 연계 새 창 열림",
+        "link": "https://www.mydaily.co.kr/page/view/2026090210291722615",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "[지역이 경쟁력이다] '깨끗한' 시흥시, 지속가능한 환경도시 '순항' 새 창 열림",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=544787",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "비건뉴스 새 창 열림",
+        "link": "https://www.vegannews.co.kr",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "사람 키우고 지역 잇고… 상생의 새 공식 새 창 열림",
+        "link": "https://www.pressman.kr/news/articleView.html?idxno=103473",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "공공 배달 앱에 1240억 투입…\"일회성 쿠폰 아닌 이용 활성화 대책 필요... 새 창 열림",
+        "link": "https://www.news1.kr/industry/sb-founded/6276552",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-09-01"
+      }
+    ]
   }
 };
