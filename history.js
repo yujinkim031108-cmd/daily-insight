@@ -25410,5 +25410,30 @@ window.historyData = {
         "date": "2026-09-13"
       }
     ]
+  },
+  "2026-09-15": {
+    "macro": [
+      {
+        "title": "환율 1320원 찍고 반등? 美연준 금리 인상이 변수 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12152903",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-09-15"
+      },
+      {
+        "title": "\"연준 금리 인상 시작하면 S&P 500 최대 10% 조정\" 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0104_202609151056356167",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-09-15"
+      },
+      {
+        "title": "‘年8회→6회’ FOMC 축소 구상… 정보공백에 변동성 더 커질듯[글로벌... 새 창 열림",
+        "link": "https://www.munhwa.com/article/11617041?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-14"
+      }
+    ]
   }
 };
