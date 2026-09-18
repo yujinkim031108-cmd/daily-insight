@@ -25435,5 +25435,195 @@ window.historyData = {
         "date": "2026-09-14"
       }
     ]
+  },
+  "2026-09-18": {
+    "macro": [
+      {
+        "title": "엔화, 미일 기준금리 축소 난망에 1달러=156엔대 전반 하락 출발 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260918_0003795173",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-09-17"
+      },
+      {
+        "title": "“원화는 단기 약세, 엔화는 지속 강세”…환율 디커플링 전망 이유는 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12156260",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-09-17"
+      },
+      {
+        "title": "트럼프, 워시와 대화…“혼자선 못 바꾸니 하고 싶은대로 하라” 새 창 열림",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8667013&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-09-17"
+      },
+      {
+        "title": "집값·유가·환율 ‘쌓이는 명분’…한은, 3연속 금리 인상 문 열었다 새 창 열림",
+        "link": "https://www.joongang.co.kr/article/25462890",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-09-17"
+      },
+      {
+        "title": "노란봉투법 두 번째 원·하청 단협…중견기업선 처음 새 창 열림",
+        "link": "https://www.sedaily.com/article/20092481?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-17"
+      },
+      {
+        "title": "부동산·인사 논란에 중도층, 검찰개혁 후퇴에 핵심 지지층 등 돌려 새 창 열림",
+        "link": "https://shindonga.donga.com/3/all/13/6390601/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "비지니스코리아 새 창 열림",
+        "link": "https://www.businesskorea.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-17"
+      },
+      {
+        "title": "머니투데이방송 새 창 열림",
+        "link": "https://news.mtn.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "히틀러가 1930년 사고로 죽었다면?… '총균쇠' 저자의 역사인물 'WAR' 계... 새 창 열림",
+        "link": "https://www.hankookilbo.com/news/article/A2026091622390004749?did=NA",
+        "source": "한국일보",
+        "tier": "C",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "中 대졸자 1270만명 쏟아진 8월, 청년 실업률 18% '비명' 새 창 열림",
+        "link": "https://www.news1.kr/world/northeast-asia/6294676",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-09-17"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-17"
+      },
+      {
+        "title": "디캠프 ‘배치 8기’ 출범… 딥테크 스타트업 10개사 스케일업 지원 새 창 열림",
+        "link": "https://sports.khan.co.kr/article/202609170307003?pt=nv",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-09-17"
+      },
+      {
+        "title": "지쿠 , 올바른 주차관리 강화! 반납 전 ‘사전 예방’, 반복 위반은 ‘이... 새 창 열림",
+        "link": "https://sports.khan.co.kr/article/202609170021003?pt=nv",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-09-17"
+      },
+      {
+        "title": "에너지경제 새 창 열림",
+        "link": "https://www.ekn.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-17"
+      },
+      {
+        "title": "나경만 원주시의원 \"방치 전동킥보드 , 신고 전달 넘어 직접 견인해야\" 새 창 열림",
+        "link": "https://www.newspim.com/news/view/20260917001118",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-17"
+      },
+      {
+        "title": "스텔스 차량 범칙금 2만원… 추석 야간 귀성길 '보이지 않는 차 ' 비상 새 창 열림",
+        "link": "https://www.imaeil.com/page/view/2026091417435644233",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-17"
+      },
+      {
+        "title": "더벨 새 창 열림",
+        "link": "https://www.thebell.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-17"
+      },
+      {
+        "title": "오산시 조례 현장의 목소리를 정책으로… 권혁만 오산시의원 새 창 열림",
+        "link": "https://www.kgnews.co.kr/news/article.html?no=910814",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-17"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-17"
+      },
+      {
+        "title": "IT동아 새 창 열림",
+        "link": "https://it.donga.com/",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "새울원자력, 추석 맞이 울주군 복지단체에 지역 농산물 전달 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260918051600057?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-09-17"
+      },
+      {
+        "title": "매출 GS25, 수익성 CU...편의점 1위 경쟁 다음 승부처는? 새 창 열림",
+        "link": "https://www.koreareport.co.kr/news/articleView.html?idxno=53051",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "\"AI 배차 정말 편할까\"…1일 '부릉 라이더' 되어보니 새 창 열림",
+        "link": "https://zdnet.co.kr/view/?no=20260917175828",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-17"
+      },
+      {
+        "title": "울산시, 전기이륜차 250대 추가 보급…21일부터 신청 접수 새 창 열림",
+        "link": "https://www.news1.kr/local/ulsan/6294802",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-09-17"
+      },
+      {
+        "title": "배달 의 1㎞를 지나 주방의 1㎞로…김희종 대표가 그리는 SFN 새 창 열림",
+        "link": "https://www.klnews.co.kr/news/articleView.html?idxno=322791",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "\"오죽 힘들면\"… 배달플랫폼 에 먼저 손내민 사장님 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260917_0003794477",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-09-18"
+      }
+    ]
   }
 };
