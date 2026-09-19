@@ -25625,5 +25625,160 @@ window.historyData = {
         "date": "2026-09-18"
       }
     ]
+  },
+  "2026-09-19": {
+    "macro": [
+      {
+        "title": "젠슨 황에 웃고 트럼프에 울고…이란 리스크와 국장 [주간 증시해설서] 새 창 열림",
+        "link": "https://www.thescoop.co.kr/news/articleView.html?idxno=311668",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "금리 추가인상 시점 10월인가 11월인가…한은의 3가지 고민은 [Deep Spot] 새 창 열림",
+        "link": "https://biz.heraldcorp.com/article/10879019?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-19"
+      },
+      {
+        "title": "日 31년 만에 최고 금리 …엔 캐리 청산 우려는 ‘제한적’ 새 창 열림",
+        "link": "https://www.sentv.co.kr/article/view/sentv202609190010",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "한은, 퇴임한 이창용에 매달 700만원…자문 기록은 \"관리 안 해\" 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260918089600002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-09-19"
+      },
+      {
+        "title": "시사저널이코노미 새 창 열림",
+        "link": "https://www.sisajournal-e.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "'월 50만원 더 내라고?'…5년 전 영끌족 '날벼락' 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000335431?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "[외환+] 고유가·美 긴축에 환율 1400원 턱밑···7거래일간 47.2원↑ 새 창 열림",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=638358",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "[연합뉴스 이 시각 헤드라인] - 10:30 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260919026200011?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "한국 대기업 인도시장 공략 ‘후끈’…현대차·LG전자 현지화 박차 새 창 열림",
+        "link": "https://www.g-enews.com/view.php?ud=202609190011562477fda4f5ab74_1",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "5%를 넘은 미국 국채 10년물, 쉽게 내려오지 못하는 이유 새 창 열림",
+        "link": "https://magazine.hankyung.com/business/article/202609156919b",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-09-19"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "세종시, 도담동 학원가서 경찰 및 봉사단체와 전동 킥보드 안전 캠페인 새 창 열림",
+        "link": "https://www.newsworker.co.kr/news/articleView.html?idxno=505220",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "[전북 24시] 전북대 취업박람회 청년 5000여명 북새통 새 창 열림",
+        "link": "https://www.sisajournal.com/news/articleView.html?idxno=387664",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-18"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "진주시, '미래 모빌리티' 지방자치 경영대전 대통령상…100원 버스·하모... 새 창 열림",
+        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5063859",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "\"우리가 매출 22%를 떼갔다고?\"…'온플법' 위기감에 행동 나선 e커머스 새 창 열림",
+        "link": "https://www.hankyung.com/article/202609184623i",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "[푸드·다이닝 트렌드] 굽네, '서울엄마 파기름떡볶이 치킨' 출시 기념 ... 새 창 열림",
+        "link": "https://www.ibabynews.com/news/articleView.html?idxno=154654",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "시차 없는 아시안게임, 추석까지 겹쳤다…편의점, '집관족' 잡기 총력전 새 창 열림",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1407888",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-19"
+      },
+      {
+        "title": "울산 전기 오토바이 250대 추가 지원…상반기에 작년 연간의 89% 보급 새 창 열림",
+        "link": "https://www.g-enews.com/view.php?ud=20260918115758856f7ba87f45b_1",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "반올림피자, '2026 국민공감대상' 농식품부 장관상 수상 새 창 열림",
+        "link": "https://sports.hankooki.com/news/articleView.html?idxno=6939961",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-19"
+      },
+      {
+        "title": "8조 '배민 인수전' 손 뗀 네이버, 이해진 저무는 커머스보다 뜨는 AI 투... 새 창 열림",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=447600",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-18"
+      }
+    ]
   }
 };
