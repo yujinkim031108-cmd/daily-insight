@@ -25780,5 +25780,146 @@ window.historyData = {
         "date": "2026-09-18"
       }
     ]
+  },
+  "2026-09-20": {
+    "macro": [
+      {
+        "title": "1.3%p였던 체감-실제 물가 격차, 1년 새 왜 사라졌나[세쓸통] 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260918_0003796177",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-09-20"
+      },
+      {
+        "title": "금시세(금값) 새 창 열림",
+        "link": "https://www.bntnews.co.kr/article/view/bnt202609200006",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-19"
+      },
+      {
+        "title": "中, 대출우대 금리 16개월 연속 동결…1년물 3.0%·5년물 3.5% 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260920020800083?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-09-20"
+      },
+      {
+        "title": "유가 완화돼도 채권시장 단기금리 상승 부담 여전 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260919022200008?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-09-19"
+      },
+      {
+        "title": "[부박사] 지금 안 사면 평생 후회? 새 창 열림",
+        "link": "https://monthly.chosun.com/news/articleView.html?idxno=71402",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-09-19"
+      },
+      {
+        "title": "'월 50만원 더 내라고?'…5년 전 영끌족 '날벼락' 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000335431?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-09-20"
+      },
+      {
+        "title": "환율 상승, 북적이는 환전소 새 창 열림",
+        "link": "https://www.news1.kr/photos/8116061",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-09-20"
+      },
+      {
+        "title": "오세훈 “李대통령 지지율 반등 어려워…전세 물량 감소 책임져야” 새 창 열림",
+        "link": "https://www.segye.com/newsView/20260920503791?OutUrl=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-20"
+      },
+      {
+        "title": "IMF 한복판, 실직자를 위해 열린 ‘大바자회’ [사진기자 이제원의 30년... 새 창 열림",
+        "link": "https://www.segye.com/newsView/20260920503636?OutUrl=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-19"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-19"
+      },
+      {
+        "title": "쏘카 매출 77%가 카셰어링…자전거·주차·KTX까지 넓힌다 새 창 열림",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488724",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-19"
+      },
+      {
+        "title": "\"우주·방산·반도체까지\"…디캠프, 기술 자립 딥테크 10곳 선정 새 창 열림",
+        "link": "https://www.news1.kr/industry/sb-founded/6296371",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-09-19"
+      },
+      {
+        "title": "부산진구의회 제360회 정례회 ‘민생 현안 총점검’… 5분발언부터 구정... 새 창 열림",
+        "link": "https://sports.donga.com/region/article/all/20260920/134702001/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-09-19"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-19"
+      },
+      {
+        "title": "[전국레이더] 추석 앞두고 지역화폐 대방출…특수 선점 경쟁 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260917185900064?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-09-19"
+      },
+      {
+        "title": "\"침대 토퍼 2개 이상 구매하면 최대 35% 할인\"...지누스, 다다익선 이벤... 새 창 열림",
+        "link": "https://www.mt.co.kr/living/2026/09/20/2026092010295093788",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-09-20"
+      },
+      {
+        "title": "배민은 아이폰, 쿠팡이츠 는 카톡…배달앱 '앱 밖 연동' 경쟁' 새 창 열림",
+        "link": "https://www.etnews.com/20260918000227",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-20"
+      },
+      {
+        "title": "로봇이 다닐 길부터 짓는다…건설사, ‘로봇 친화 설계’ 속도 새 창 열림",
+        "link": "https://www.mediapen.com/news/view/1124680",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-19"
+      },
+      {
+        "title": "\" 배달 앱에 단골 뺏길라\"…치킨 3사, 자사앱 멤버십 앞세워 '록인 경쟁' 새 창 열림",
+        "link": "https://www.news1.kr/industry/distribution/6295504",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-09-19"
+      }
+    ]
   }
 };
