@@ -25921,5 +25921,174 @@ window.historyData = {
         "date": "2026-09-19"
       }
     ]
+  },
+  "2026-09-21": {
+    "macro": [
+      {
+        "title": "추석 전에 약하고 후에 강한 코스피? 연휴 직후 美 PCE·마이크론 실적... 새 창 열림",
+        "link": "https://www.chosun.com/economy/money/2026/09/21/JIBJEXL3ABEHLFYAWSZJ2Y7ERU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-09-21"
+      },
+      {
+        "title": "전쟁·기후·운송난 겹쳤다…美기업들 \"코로나 때보다 힘들어\" 새 창 열림",
+        "link": "https://www.news1.kr/world/usa-canada/6296796",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-09-21"
+      },
+      {
+        "title": "토허구역 실거주 의무 추가 유예에도…서울 아파트 시장 '짙은 관망세' 새 창 열림",
+        "link": "https://www.ngonews.kr/news/articleView.html?idxno=238843",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-20"
+      },
+      {
+        "title": "전세 감소 '정상화'라던 李 … 주담대 8% 눈앞·전세난에 퇴로 막힌 실수... 새 창 열림",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/09/21/2026092100109.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-09-21"
+      },
+      {
+        "title": "뉴스웍스 새 창 열림",
+        "link": "https://www.newsworks.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-21"
+      },
+      {
+        "title": "오늘 환율 , 원 · 달러 1384.90원… 달러 ·엔·유로 일제히 하락 새 창 열림",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=228400",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-20"
+      },
+      {
+        "title": "추석 연휴 기름값 인하에 뿔난 주유소업계…\"시장 교란하는 특혜 행정\" 새 창 열림",
+        "link": "https://www.edaily.co.kr/News/Read?newsId=02535446645582416&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-09-21"
+      },
+      {
+        "title": "IMF 총재 \"세계 부채 사상 최대…美·中 재정적자 줄여야\" 새 창 열림",
+        "link": "https://www.news1.kr/world/international-economy/6296776",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-09-20"
+      },
+      {
+        "title": "美 금리 인상에도 코스피 오른다?...“관건은 10년물 금리” 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12156255",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-09-21"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-20"
+      },
+      {
+        "title": "\"우주·방산·반도체까지\"…디캠프, 기술 자립 딥테크 10곳 선정 새 창 열림",
+        "link": "https://www.news1.kr/industry/sb-founded/6296371",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-09-20"
+      },
+      {
+        "title": "정병용 하남시의회 의장 “청소년 무면허 킥보드 막아야”… PM 안전법... 새 창 열림",
+        "link": "https://www.seoul.co.kr/news/publicnews/local_govern/news_local/2026/09/21/20260921500047?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-09-21"
+      },
+      {
+        "title": "[21일 화성시] 추석 연휴 응급진료대책 가동 등 새 창 열림",
+        "link": "https://www.asiatime.co.kr/article/20260921500112",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-20"
+      },
+      {
+        "title": "‘세계 교통의 미래’, 다음 달 강릉에서 만나요 새 창 열림",
+        "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000013783&cp=nv",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-20"
+      },
+      {
+        "title": "부산진구의회 제360회 정례회 ‘민생 현안 총점검’… 5분발언부터 구정... 새 창 열림",
+        "link": "https://sports.donga.com/region/article/all/20260920/134702001/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-09-20"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-20"
+      },
+      {
+        "title": "[전국레이더] 추석 앞두고 지역화폐 대방출…특수 선점 경쟁 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260917185900064?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-09-20"
+      },
+      {
+        "title": "[단독] 국회 산자위 국감에 MBK 김병주 소환…최태원·이재용 불발 새 창 열림",
+        "link": "https://www.hankyung.com/article/202609217511i",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-09-20"
+      },
+      {
+        "title": "치킨과 떡볶이가 만났다! 굽네 HOT 신메뉴 ‘서울엄마 파기름떡볶이 치... 새 창 열림",
+        "link": "https://www.bntnews.co.kr/article/view/bnt202609090237",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-20"
+      },
+      {
+        "title": "요기요 , 추석 맞아 '원더풀 한가위 메가적립 페스타' 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260921_0003797970",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-09-20"
+      },
+      {
+        "title": "[화성소식]치매 어르신에 '스마트태그 배회감지기' 무상지원 등 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260921_0003797908",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-09-21"
+      },
+      {
+        "title": "디지틀조선일보 새 창 열림",
+        "link": "https://digitalchosun.dizzo.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-21"
+      },
+      {
+        "title": "\" 배달 앱 '땡겨요'에서 '동백전'으로 주문하면 5000원 할인\" 새 창 열림",
+        "link": "https://www.news1.kr/local/busan-gyeongnam/6297178",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-09-20"
+      }
+    ]
   }
 };
