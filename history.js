@@ -26090,5 +26090,174 @@ window.historyData = {
         "date": "2026-09-20"
       }
     ]
+  },
+  "2026-09-22": {
+    "macro": [
+      {
+        "title": "‘4반떼’ 된 아반떼 가격…사원 대신 ‘대리의 첫차’ 되나 새 창 열림",
+        "link": "https://www.joongang.co.kr/article/25463864",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-09-21"
+      },
+      {
+        "title": "연합인포맥스 새 창 열림",
+        "link": "https://news.einfomax.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-21"
+      },
+      {
+        "title": "15조 던지던 외국인 \"이제는 산다\" … 추석 연휴 앞둔 숨은 베팅 새 창 열림",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/09/22/2026092200067.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-09-22"
+      },
+      {
+        "title": "[오늘의 주요일정]금융·증권(9월22일 월요일) 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260921_0003798339",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-09-22"
+      },
+      {
+        "title": "은행권 연체율 한 달 만에 상승…7월 0.63% 새 창 열림",
+        "link": "https://news.tf.co.kr/read/economy/2368761.htm",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-21"
+      },
+      {
+        "title": "중앙그룹 워크아웃·회생 여파…은행 연체 율 0.63%로 다시 ‘껑충’ 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12159029",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-09-22"
+      },
+      {
+        "title": "미국과 이란 외교 타결 기대감에 국제유가 하락 새 창 열림",
+        "link": "https://www.junggi.co.kr/news/articleView.html?idxno=37868",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-21"
+      },
+      {
+        "title": "예멘 반군 드론 끊임없이 뜬다…사우디의 긴급 SOS에 응답한 영국 [밀리... 새 창 열림",
+        "link": "https://www.seoul.co.kr/news/international/middleeast-africa/2026/09/22/20260922500086?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-09-21"
+      },
+      {
+        "title": "\"소비·복지 외면 중국 경제 , 공산당 집권 기반 잠식\"-WP 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260922_0003799848",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-09-21"
+      },
+      {
+        "title": "\"어려운 취업 대신 창업\"…中 청년들, AI로 '1인 기업' 열풍 새 창 열림",
+        "link": "https://www.hankyung.com/article/202609220102i",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-09-22"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-21"
+      },
+      {
+        "title": "“中 로봇 ‘폭풍성장’ 전야…전기차·배터리가 굴기 밑거름”[정다은... 새 창 열림",
+        "link": "https://www.sedaily.com/article/20093397?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-21"
+      },
+      {
+        "title": "정병용 하남시의회 의장 “청소년 무면허 킥보드 막아야”… PM 안전법... 새 창 열림",
+        "link": "https://www.seoul.co.kr/news/publicnews/local_govern/news_local/2026/09/21/20260921500047?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-09-21"
+      },
+      {
+        "title": "[21일 화성시] 추석 연휴 응급진료대책 가동 등 새 창 열림",
+        "link": "https://www.asiatime.co.kr/article/20260921500112",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-21"
+      },
+      {
+        "title": "[배터리코리아] K-배터리, 가격 경쟁 넘어 초격차 기술 경쟁으로… 차세... 새 창 열림",
+        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=86359",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-21"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-21"
+      },
+      {
+        "title": "에코프로비엠 1.43% 하락…유상증자 이후 투자성과 시험대 새 창 열림",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=228596",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-21"
+      },
+      {
+        "title": "\"월 300만원 벌어도\"...'중국 동포 환영' 내건 택시회사 새 창 열림",
+        "link": "https://www.edaily.co.kr/News/Read?newsId=03283286645582744&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-09-21"
+      },
+      {
+        "title": "짧아진 추석에 ‘들고 간다’…유통가 ‘핸드캐리 선물세트’ 경쟁 새 창 열림",
+        "link": "https://www.mydaily.co.kr/page/view/2026092122361941580",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-21"
+      },
+      {
+        "title": "GS25, “명절에도 편의점 배달·픽업”…퀵커머스 행사 실시 새 창 열림",
+        "link": "https://www.etnews.com/20260922000132",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-21"
+      },
+      {
+        "title": "[화성소식]치매 어르신에 '스마트태그 배회감지기' 무상지원 등 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260921_0003797908",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-09-22"
+      },
+      {
+        "title": "[단독]쿠팡이츠, 매장 노출반경 제한 기준 구체화…1㎞ 이내 땐 사유 통... 새 창 열림",
+        "link": "https://www.news1.kr/industry/distribution/6298438",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-09-22"
+      },
+      {
+        "title": "설빙 8개월 만에 100만…프랜차이즈 ‘자사 앱’ 전쟁 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12156513",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-09-22"
+      }
+    ]
   }
 };
