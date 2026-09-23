@@ -26259,5 +26259,167 @@ window.historyData = {
         "date": "2026-09-22"
       }
     ]
+  },
+  "2026-09-23": {
+    "macro": [
+      {
+        "title": "미·중 정상회담에 쏠린 증시 눈…반도체 규제 향방이 삼전·닉스 변수 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260922_0003800994",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-09-22"
+      },
+      {
+        "title": "메타 뮤즈 열풍에 나스닥 최고치…기술주 랠리 재점화 새 창 열림",
+        "link": "https://www.sedaily.com/article/20094407?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-22"
+      },
+      {
+        "title": "UBS \"日 외환개입하면 엔화 팔겠다…BOJ 인상에도 약세 지속\" 새 창 열림",
+        "link": "https://www.news1.kr/world/international-economy/6300125",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-09-22"
+      },
+      {
+        "title": "한은 \"물가·경기 흐름 점검해 금리 추가 인상 결정\" 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260922_0003799411",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-09-22"
+      },
+      {
+        "title": "금융 당국, 시장 금리 상승에 가계대출 대응 체계 강화 새 창 열림",
+        "link": "https://biz.chosun.com/stock/finance/2026/09/23/ZSWZGEZQMFFZJFFH7FL5HUMUJE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-09-23"
+      },
+      {
+        "title": "주담대 금리 ‘더블’…버티자니 이자폭탄, 빚 갚자니 규제폭탄 새 창 열림",
+        "link": "https://www.joongang.co.kr/article/25464247",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-09-22"
+      },
+      {
+        "title": "[종합 환율 ] 9월 23일 장중, 달러 유로 엔 원화 대비 하락 중 새 창 열림",
+        "link": "https://www.tournews21.com/news/articleView.html?idxno=144203",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-22"
+      },
+      {
+        "title": "유가 내리고 연휴 특수…항공株, 모처럼 랠리 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260923_0003801704",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-09-23"
+      },
+      {
+        "title": "[그래픽] ADB, 올해 한국 경제성장률 2.6→3.2% 대폭 상향 새 창 열림",
+        "link": "https://www.newsis.com/view/NISI20260923_0002247259",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-09-22"
+      },
+      {
+        "title": "[이 시각 세계] 미 연준 인사 '인플레 경고' 잇따라 새 창 열림",
+        "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6853682_37012.html",
+        "source": "MBC",
+        "tier": "S",
+        "date": "2026-09-23"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-22"
+      },
+      {
+        "title": "인천일보 새 창 열림",
+        "link": "https://www.incheonilbo.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-22"
+      },
+      {
+        "title": "KES 2026 이노베이션 어워즈, 6개 분야 42개 혁신 제품·기술 선정… 10월... 새 창 열림",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1814702",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-22"
+      },
+      {
+        "title": "KT, ‘모두의 AI’ 컨소시엄 출범…“국민 체감형 AI 서비스 구현 본격화... 새 창 열림",
+        "link": "https://www.munhwa.com/article/11618953?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-22"
+      },
+      {
+        "title": "페로타임즈 새 창 열림",
+        "link": "https://www.ferrotimes.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-22"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-22"
+      },
+      {
+        "title": "현대로템, 차세대 고속철 독일서 첫 공개 새 창 열림",
+        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=665207",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-22"
+      },
+      {
+        "title": "배민·서울시, 추석엔 ' 배달 대신 픽업'…고립가구 외출 돕는다 새 창 열림",
+        "link": "https://www.e-science.co.kr/news/articleView.html?idxno=136041",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-22"
+      },
+      {
+        "title": "쿠팡 , GS25서 실물 기프트카드 판매…\"신용카드 결제 가능\" 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260923077700030?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-09-23"
+      },
+      {
+        "title": "월요신문 새 창 열림",
+        "link": "https://www.wolyo.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-22"
+      },
+      {
+        "title": "[기고] 배달 플랫폼 독과점, 규제보다 경쟁 촉진으로 풀어야 새 창 열림",
+        "link": "https://www.chosun.com/opinion/contribution/2026/09/22/P3J5JU2VERH5FHU3S3VAQLLYZY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-09-23"
+      },
+      {
+        "title": "BBQ, 추석 맞아 치즈볼 10알 쏜다… 앱 포장 주문하면 5000원 할인 새 창 열림",
+        "link": "https://www.wikitree.co.kr/articles/1161577",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-22"
+      }
+    ]
   }
 };
