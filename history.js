@@ -26421,5 +26421,174 @@ window.historyData = {
         "date": "2026-09-22"
       }
     ]
+  },
+  "2026-09-24": {
+    "macro": [
+      {
+        "title": "자주 사는 우유·라면 등 오르면 물가 더 뛴걸로 느낀다…'밥상 물가 ' 비... 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260922112600063?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "국채 파동에 Fed 협조 안 하면…트럼프 ‘코인 화폐화’ 추진[한상춘의... 새 창 열림",
+        "link": "https://magazine.hankyung.com/business/article/202609170601b",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-09-23"
+      },
+      {
+        "title": "6년만에 세계 성장률 넘어서나… 韓 성장 전망 3% 후반까지 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12160841",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "연합인포맥스 새 창 열림",
+        "link": "https://news.einfomax.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-23"
+      },
+      {
+        "title": "정부 지적에도 그대로…부동산원, 직원 주택 대출 '특혜' 논란 새 창 열림",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=319917",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-23"
+      },
+      {
+        "title": "금리 오르면 집값은 6개월 뒤 '뚝'…0.25%p 인상에 1.2% 하락 새 창 열림",
+        "link": "https://news.jtbc.co.kr/article/NB12319799?influxDiv=NAVER",
+        "source": "JTBC",
+        "tier": "A",
+        "date": "2026-09-23"
+      },
+      {
+        "title": "센트럴경제 새 창 열림",
+        "link": "https://www.newskr.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-23"
+      },
+      {
+        "title": "중동의 '검은 눈물'에 투자?…큰 코 다치지 않으려면 새 창 열림",
+        "link": "https://www.dailian.co.kr/news/view/1694192/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "[전격시사] 추석상 ‘정치 민심’ 바로 읽기! (김용남) “내란진상 더 ... 새 창 열림",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8671066&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-09-23"
+      },
+      {
+        "title": "AI, 대졸 구직자에 직격탄…22~25세 입사 3분의 1로 급감 새 창 열림",
+        "link": "https://www.koreadaily.com/article/20260923180451338",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-23"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-23"
+      },
+      {
+        "title": "연결 넘어 '공간 인지'로…6G 시대 통합 센싱·통신 뜬다 새 창 열림",
+        "link": "https://www.koit.co.kr/news/articleView.html?idxno=209179",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-23"
+      },
+      {
+        "title": "지쿠 , 업계 최초 ‘3억 라이드’ 돌파···‘소셜임팩트리포트 2026’ 발... 새 창 열림",
+        "link": "https://sports.khan.co.kr/article/202609240155003?pt=nv",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "이시영, 한복 입은 돌잔치 사진 공개…두 아이와 담은 설렘 순간 새 창 열림",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=16210400",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-23"
+      },
+      {
+        "title": "세계가 주목한 성남, 유엔 국제회의 품고 글로벌 모빌리티 중심도시로 새 창 열림",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363737669",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "강릉시, ' 개인형 이동장치 ' 이용 조례 안 전부개정 추진 새 창 열림",
+        "link": "https://www.mbceg.co.kr/post/140422",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-23"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-23"
+      },
+      {
+        "title": "지쿠, 업계 최초 ‘3억 라이드’ 돌파···‘소셜임팩트리포트 2026’ 발... 새 창 열림",
+        "link": "https://sports.khan.co.kr/article/202609240155003?pt=nv",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-09-23"
+      },
+      {
+        "title": "추석 음식도 ‘ 배달 앱’ 시대...송편 380%·모둠전 270% 급증 새 창 열림",
+        "link": "https://www.m-economynews.com/news/article.html?no=71041",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-23"
+      },
+      {
+        "title": "나흘뿐인 추석, 유통가는 '짧을수록 화끈하게' 새 창 열림",
+        "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=129647",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-23"
+      },
+      {
+        "title": "\"명절 음식도 배달앱으로\"…작년 추석 당일 배민 송편 주문 폭증 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260923182800030?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "\" 라이더 대기 시간도 돈 줘야\"… 배달 앱 1800억 '폭탄' 터졌다 [곽용희의... 새 창 열림",
+        "link": "https://www.hankyung.com/article/202609234466i",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "머니투데이방송 새 창 열림",
+        "link": "https://news.mtn.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-23"
+      }
+    ]
   }
 };
