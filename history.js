@@ -26590,5 +26590,160 @@ window.historyData = {
         "date": "2026-09-23"
       }
     ]
+  },
+  "2026-09-25": {
+    "macro": [
+      {
+        "title": "\"사후 상속보다 20대 증여가 낫다\" 새 창 열림",
+        "link": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54162",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "연준 추가 인상론 확산…폴슨 “ 물가 여전히 높아, 추가 긴축 필요” 새 창 열림",
+        "link": "https://www.edaily.co.kr/News/Read?newsId=01292326645583728&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "美 국채 금리 22년 만에 최고…10월 추가 인상 가능성 75% 넘어 새 창 열림",
+        "link": "https://www.dailian.co.kr/news/view/1694456/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "삼성카드 6.6조·신한카드 6.3조…불황 대비 ‘곳간’ 채우는 카드업계 새 창 열림",
+        "link": "https://www.ceoscoredaily.com/page/view/2026092115441272090",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "소득 다 털어도 빚 갚기 빠듯한 차주 3년 반 만에 반등 새 창 열림",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8671587&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "\"월급 꼬박 이체했는데\"…금리 우대 못 받은 황당한 이유 새 창 열림",
+        "link": "https://www.hankyung.com/article/202609229909i",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "3분기 실적 시즌 임박…반도체는 ‘맑음’, 비반도체는 환율 에 ‘희비’... 새 창 열림",
+        "link": "https://www.sedaily.com/article/20094852?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "미 30년물 국채 금리 22년 만에 최고...국채 매도세 확산 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0102_202609251039381118",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "연소득 '1천200만원 밑' 자영업 사업장 837만곳…4년새 43% 증가 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000336699?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "산재 사망 줄었지만 청년고용 부진 여전…노동부 정책 성과 시험대 [미... 새 창 열림",
+        "link": "https://www.dailian.co.kr/news/view/1694381/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-09-25"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "차 빌려주던 쏘카가 달라졌다…전기자전거·주차 이어 자율주행 진출 새 창 열림",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490280",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "지쿠 , 업계 최초 ‘3억 라이드’ 돌파···‘소셜임팩트리포트 2026’ 발... 새 창 열림",
+        "link": "https://sports.khan.co.kr/article/202609240155003?pt=nv",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "주차위반 큐싱 QR 찍자 1000만원 인출…공공 사칭 2년새 71배 새 창 열림",
+        "link": "https://www.imaeil.com/page/view/2026092412190559016",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-25"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "지쿠, 업계 최초 ‘3억 라이드’ 돌파···‘소셜임팩트리포트 2026’ 발... 새 창 열림",
+        "link": "https://sports.khan.co.kr/article/202609240155003?pt=nv",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "“100만원 팔면 26만원 플랫폼 몫”, 자영업자들 수수료 개편 호소 새 창 열림",
+        "link": "https://www.chosun.com/economy/smb-venture/2026/09/25/R274ICRYLJCUTDMOQYUDTKXEZY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "쿠팡 , GS25서 실물 기프트카드 판매… 신용카드 결제 지원·자유 금액 충... 새 창 열림",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=320052",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "명절 음식도 배달앱 주문 급증…\"모듬전-나물-약과·한과 시킵니다\" 새 창 열림",
+        "link": "https://news.jtbc.co.kr/article/NB12319932?influxDiv=NAVER",
+        "source": "JTBC",
+        "tier": "A",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "배달 라이더 교육 예산 40% 늘었는데…이수자는 31% 감소 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260924033600030?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "\"100만원 팔면 배달 앱에 26만원\"...벼랑 끝 소상공인, 직접 나섰다 새 창 열림",
+        "link": "https://www.mt.co.kr/living/2026/09/25/2026092510002662025",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-09-24"
+      }
+    ]
   }
 };
