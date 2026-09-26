@@ -26745,5 +26745,146 @@ window.historyData = {
         "date": "2026-09-24"
       }
     ]
+  },
+  "2026-09-26": {
+    "macro": [
+      {
+        "title": "[다음주 경제] 반도체 생산 얼마나 늘었나… 물가 ·금리 지표도 발표 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260926014400002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "THE Biz(더비즈) 새 창 열림",
+        "link": "https://www.the-biz.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "주도주 없는 증시…연 5% 채권의 귀환 새 창 열림",
+        "link": "https://www.hankyung.com/article/202609233390r",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-09-26"
+      },
+      {
+        "title": "[다음주 한국은행 및 금융위·금감원 일정] 새 창 열림",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436521",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-26"
+      },
+      {
+        "title": "가계대출 차주 1인당 9790만원…다중채무자 비중도 10년 새 최고 새 창 열림",
+        "link": "https://www.dailian.co.kr/news/view/1694547/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "“신용점수 950점, 그래도 안돼요”…현실로 닥친 ‘ 대출 셧다운’ 새 창 열림",
+        "link": "https://www.dt.co.kr/article/12085810?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-26"
+      },
+      {
+        "title": "환율 하락에 항공주 수혜…식음료는 딜레마 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000336762?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-09-26"
+      },
+      {
+        "title": "트럼프, 이란 7일 휴전안 거부… \"중간선거 뒤 폭격 재개 가능\" 새 창 열림",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490363",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "“18시간 일해도 밥값 못벌어” 고유가에 심해지는 ‘에너지 양극화’ 새 창 열림",
+        "link": "https://www.seoul.co.kr/news/international/economy-global/2026/09/23/20260923500314?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "트럼프 확장 재정의 역설… 아스트라 모멘텀 옥죄는 AI 투자 문턱 새 창 열림",
+        "link": "https://biz.chosun.com/policy/policy_sub/2026/09/26/GAOIJANVTZHQNHJ4NTTT5YLPQQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-09-25"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "차 빌려주던 쏘카가 달라졌다…전기자전거·주차 이어 자율주행 진출 새 창 열림",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490280",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-25"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "트램· 전기 차·타슈…대전시 민원은 '교통'이 가장 많았다 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260922104400063?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "배민, 다음달 가게 배달 에 AI 시간 예측 도입…정확도 1.7배↑ 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000336752?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-09-26"
+      },
+      {
+        "title": "추석 장보기부터 가을옷·온열매트까지…이커머스 연휴 할인전 새 창 열림",
+        "link": "https://www.segye.com/newsView/20260926503186?OutUrl=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "디저트부터 술안주 배달 인기…추석 연휴 배달 특수 기대 새 창 열림",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092170740",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-09-26"
+      },
+      {
+        "title": "생생비즈플러스 새 창 열림",
+        "link": "https://www.livebiz.today/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "팬미팅에 굿즈까지…외식업계, 자사앱 혜택 경쟁 새 창 열림",
+        "link": "https://www.newsway.co.kr/news/view?ud=2026092216180356115",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-26"
+      }
+    ]
   }
 };
