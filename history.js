@@ -26886,5 +26886,160 @@ window.historyData = {
         "date": "2026-09-26"
       }
     ]
+  },
+  "2026-09-27": {
+    "macro": [
+      {
+        "title": "탄탄한 기관 매수, 물가 ·고용 시험대 [이정훈의 코인 위클리뷰] 새 창 열림",
+        "link": "https://www.edaily.co.kr/News/Read?newsId=01325126645584384&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-09-26"
+      },
+      {
+        "title": "7000선 회복한 코스피…PCE 물가 지수·마이크론 실적 주목 [주간전망] 새 창 열림",
+        "link": "https://www.hankyung.com/article/2026092664736",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-09-27"
+      },
+      {
+        "title": "\"12조 팔아치운 외인 돌아올까\"…10월 '반전' 기대하는 이유 [노정동의 ... 새 창 열림",
+        "link": "https://www.hankyung.com/article/2026092331726",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-09-26"
+      },
+      {
+        "title": "76년 만에 찾은 '초대 금통위 ' 사진…윤보선 손자 제보로 발견 새 창 열림",
+        "link": "https://www.news1.kr/economy/trend/6301949",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-09-26"
+      },
+      {
+        "title": "이자 아끼려 했더니…11개 은행 주담대 대환 금리, 신규보다 높아 새 창 열림",
+        "link": "https://www.news1.kr/finance/general-finance/6302221",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-09-26"
+      },
+      {
+        "title": "당국, 고정금리 늘려 '금리 충격' 낮춘다…스트레스 DSR도 유지 무게 새 창 열림",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=751952",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-27"
+      },
+      {
+        "title": "삼성전자, 창사 첫 '분기 영업익 100조' 눈 앞 새 창 열림",
+        "link": "https://www.dailian.co.kr/news/view/1694677/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-09-27"
+      },
+      {
+        "title": "[ 국제 유가 ] \"제발 수출 막지 마라\"…유럽, 트럼프 경유 통제 조짐에 전... 새 창 열림",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=609903",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-27"
+      },
+      {
+        "title": "민주당 \"추석 민심은 민생…정기국회 '민생 올인'할 것\" 새 창 열림",
+        "link": "https://www.nocutnews.co.kr/news/6583390?utm_source=naver&utm_medium=article&utm_campaign=20260927105921",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-26"
+      },
+      {
+        "title": "'이웃한 이나라들' 대졸이상 학력 10명중 4명이 실업자 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000336264?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-09-26"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-26"
+      },
+      {
+        "title": "지쿠 , 누적 탑승 3억 건 돌파…이용 98%는 5km 이하 근거리 새 창 열림",
+        "link": "https://news.tvchosun.com/site/data/html_dir/2026/09/26/2026092690039.html",
+        "source": "TV조선",
+        "tier": "B",
+        "date": "2026-09-26"
+      },
+      {
+        "title": "[단독] 상반기 車소음민원 3천건 육박해도 과태료 고작 55회…정책 개발... 새 창 열림",
+        "link": "https://www.dt.co.kr/article/12085910?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-26"
+      },
+      {
+        "title": "알톤, 입문용 로드바이크 '자비스 R14M' 출시 새 창 열림",
+        "link": "https://www.etnews.com/20260927000032",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-26"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-26"
+      },
+      {
+        "title": "트램· 전기 차·타슈…대전시 민원은 '교통'이 가장 많았다 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260922104400063?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-09-27"
+      },
+      {
+        "title": "1588 콜센터 \"잠깐 기다리세요\"하더니 전화요금 '폭탄' 왜? 새 창 열림",
+        "link": "https://www.mt.co.kr/tech/2026/09/27/2026092208204461789",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-09-26"
+      },
+      {
+        "title": "\"2차 피해차단·1.7조 보상\"… 쿠팡 이 내세운 과징금 감경 논리는 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260924053400530?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-09-27"
+      },
+      {
+        "title": "추석엔 우리 앱으로 주문하세요…외식업계 ‘자사앱 모시기’ 경쟁 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12161707",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-09-27"
+      },
+      {
+        "title": "주문하자마자 담고 출발...마트의 '대반격' [자막뉴스] 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0134_202609270819051453",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-09-27"
+      },
+      {
+        "title": "일요서울 새 창 열림",
+        "link": "https://www.ilyoseoul.co.kr/",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-09-26"
+      }
+    ]
   }
 };
