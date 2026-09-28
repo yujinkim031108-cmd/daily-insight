@@ -27041,5 +27041,160 @@ window.historyData = {
         "date": "2026-09-26"
       }
     ]
+  },
+  "2026-09-28": {
+    "macro": [
+      {
+        "title": "8월 日 기업 서비스 가격 3.7%↑…\"중동전쟁 장기화에 가속\" 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260928_0003805058",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-09-27"
+      },
+      {
+        "title": "美재무장관 \"연준, 금리에 열린 마음 가져야…AI 생산성이 물가 억제\" 새 창 열림",
+        "link": "https://www.fnnews.com/news/202609281040471363",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-27"
+      },
+      {
+        "title": "美국채 금리 급등에 칠천피 붕괴…삼전닉스 4%대 낙폭[장중시황] 새 창 열림",
+        "link": "https://www.news1.kr/finance/market-exr/6303001",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-09-28"
+      },
+      {
+        "title": "\"단기 크레딧, 편입 10월 초 이후 분할로\"<iM證> 새 창 열림",
+        "link": "https://www.news2day.co.kr/article/20260928500022",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-27"
+      },
+      {
+        "title": "10월 대출 모집인 창구 다시 열리지만 … 연간 총량 다 쓴 은행들 '찔끔 ... 새 창 열림",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/09/28/2026092800100.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-09-27"
+      },
+      {
+        "title": "올 서울 경매 아파트 낙찰자 70%가 실수요자 새 창 열림",
+        "link": "https://www.chosun.com/economy/real_estate/2026/09/28/B3C4DEGMZNBHHOUZEW37RA3NV4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-09-27"
+      },
+      {
+        "title": "[기고] 비싼 항공기가 더 싼 선택일 수 있다 - 항공사는 왜 NPV로 투자하... 새 창 열림",
+        "link": "https://www.dailian.co.kr/news/view/1694910/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-09-27"
+      },
+      {
+        "title": "머니투데이방송 새 창 열림",
+        "link": "https://news.mtn.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-27"
+      },
+      {
+        "title": "[전격시사] ‘北 포로’ 비공개VS 공개, 논란? (김현정) “대통령 거짓... 새 창 열림",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8672516&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-09-27"
+      },
+      {
+        "title": "[주간 뉴욕증시] 마이크론 실적·美고용 주목…AI 수요·금리 향방 가늠 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260928_0003804696",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-09-27"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-27"
+      },
+      {
+        "title": "인도 점령 공유 자전거 방치땐, 견인료 4만원 업체에 물린다 새 창 열림",
+        "link": "https://www.donga.com/news/Society/article/all/20260928/134739576/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-09-27"
+      },
+      {
+        "title": "[단독] 상반기 車소음민원 3천건 육박해도 과태료 고작 55회… 정책 개발... 새 창 열림",
+        "link": "https://www.dt.co.kr/article/12085910?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-27"
+      },
+      {
+        "title": "알톤, 입문용 로드바이크 '자비스 R14M' 출시 새 창 열림",
+        "link": "https://www.etnews.com/20260927000032",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-27"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-27"
+      },
+      {
+        "title": "수소트램에 AI 접목, 현대로템 '자율주행 승부수'..30조 시장 공략 새 창 열림",
+        "link": "https://www.mt.co.kr/industry/2026/09/27/2026092415163061739",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-09-28"
+      },
+      {
+        "title": "담합·회생·개인정보 유출까지 … 국감 '전방위 검증대' 오른 유통가 새 창 열림",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/09/28/2026092800091.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-09-28"
+      },
+      {
+        "title": "보배반점, '빵빵이의 일상'과 협업…'빵빵이와 옥지의 중식야차' 프로모... 새 창 열림",
+        "link": "https://www.gokorea.kr/news/articleView.html?idxno=879781",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-28"
+      },
+      {
+        "title": "디지틀조선일보 새 창 열림",
+        "link": "https://digitalchosun.dizzo.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-27"
+      },
+      {
+        "title": "비플랩, ‘혁신성장유형’ 벤처기업 인증 획득 새 창 열림",
+        "link": "https://www.sentv.co.kr/article/view/sentv202609280032",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-27"
+      },
+      {
+        "title": "퍼블릭뉴스통신(public news-network for TTL) 새 창 열림",
+        "link": "https://www.ttlnews.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-27"
+      }
+    ]
   }
 };
