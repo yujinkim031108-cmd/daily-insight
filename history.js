@@ -27196,5 +27196,174 @@ window.historyData = {
         "date": "2026-09-27"
       }
     ]
+  },
+  "2026-09-29": {
+    "macro": [
+      {
+        "title": "\"더 못참아\" 스페인 주택난 민심 폭발, 계기는 87세 노인 강제퇴거 새 창 열림",
+        "link": "https://www.mt.co.kr/world/2026/09/29/2026092910194887165",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-09-28"
+      },
+      {
+        "title": "한은 총재 집무실에는 농기구가 있다 새 창 열림",
+        "link": "https://www.edaily.co.kr/News/Read?newsId=03588326645585040&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-09-28"
+      },
+      {
+        "title": "전쟁 끝나도 美 국채 안 돌아온다… 금리 브레이크 실종 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000337211?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "[N2 모닝 경제 브리핑-9월 29일] 美 증시, 금리·유가 급등에 일제히 하... 새 창 열림",
+        "link": "https://www.news2day.co.kr/article/20260928500207",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "주담대 금리 깎아준다…보험사 이어 인뱅까지 참전 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000337216?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-09-28"
+      },
+      {
+        "title": "[친절한 경제] 집값 전망 '여전'…'금리 인상 효과'는 언제? 새 창 열림",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008773760&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "뉴욕증시 또 미끄럼…코스피도 하락 출발 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000337210?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "러트닉 \"김정관 피곤하고 터프\"…李대통령 \"우리 입장에선 훌륭한 협상... 새 창 열림",
+        "link": "https://www.news1.kr/politics/president/6304417",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "이 대통령 \"3대 핵심 사회 정책 추진...주거·일자리·서민 금융에 자원... 새 창 열림",
+        "link": "https://www.hankookilbo.com/news/article/A2026092911140002983?did=NA",
+        "source": "한국일보",
+        "tier": "C",
+        "date": "2026-09-28"
+      },
+      {
+        "title": "쿡 美연준 이사 \"AI, 인플레 부추겨…추가 금리 인상은 데이터 따라 결... 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260929_0003806527",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-09-29"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-28"
+      },
+      {
+        "title": "동대문구, 자전거· 킥보드 안전교육 확대…\"7세부터 고교생까지\" 새 창 열림",
+        "link": "https://www.news1.kr/local/moi/6303266",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-09-28"
+      },
+      {
+        "title": "이재표 미디어날 대표 \"추석 명절 눈살 찌푸린 현수막 정치…피해는 고... 새 창 열림",
+        "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4108858",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-28"
+      },
+      {
+        "title": "인도 점령 공유자전거 방치땐, 견인료 4만원 업체에 물린다 새 창 열림",
+        "link": "https://www.donga.com/news/Society/article/all/20260928/134739576/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "[ESGX 이슈 5] 정부, ‘10대 K-GX 프로젝트’ 띄운다 새 창 열림",
+        "link": "https://www.etoday.co.kr/news/view/2630304",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-28"
+      },
+      {
+        "title": "마스타자동차 '엇박자 경영' … 27억 벌고 68억 잃었다 새 창 열림",
+        "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=246047",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-28"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-28"
+      },
+      {
+        "title": "세계 유일 마라톤 완주 로봇 개 만든 그 회사 [내일은 천억클럽] 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12158313",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-09-28"
+      },
+      {
+        "title": "배민, 4년 연속 청년 산재 신청 1위…2~4위는 쿠팡 계열사 새 창 열림",
+        "link": "https://www.donga.com/news/Economy/article/all/20260929/134750862/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-09-28"
+      },
+      {
+        "title": "주병기 \" 쿠팡 현장조사 재개, 무너진 정의 다시 세우는 노력\" 새 창 열림",
+        "link": "https://www.nocutnews.co.kr/news/6584366?utm_source=naver&utm_medium=article&utm_campaign=20260929112546",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-28"
+      },
+      {
+        "title": "배달은 시켰지만 음식은 안 와요… 가짜 경험에 빠진 '뉴 자린고비' 새 창 열림",
+        "link": "https://www.hankookilbo.com/news/article/A2026092308290002595?did=NA",
+        "source": "한국일보",
+        "tier": "C",
+        "date": "2026-09-28"
+      },
+      {
+        "title": "CPBC NEWS 새 창 열림",
+        "link": "https://news.cpbc.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-28"
+      },
+      {
+        "title": "주병기 \"쿠팡 집행정지 기각 다행…늦더라도 무너진 정의 다시 세울 것... 새 창 열림",
+        "link": "https://www.news1.kr/economy/trend/6304393",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-09-29"
+      }
+    ]
   }
 };
