@@ -27365,5 +27365,195 @@ window.historyData = {
         "date": "2026-09-29"
       }
     ]
+  },
+  "2026-09-30": {
+    "macro": [
+      {
+        "title": "THE Biz(더비즈) 새 창 열림",
+        "link": "https://www.the-biz.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "\"스테이블코인 미 국채 2000억달러 매입에도 10년물 못 미쳐\"<iM證> 새 창 열림",
+        "link": "https://www.news2day.co.kr/article/20260930500048",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "\"채권시장에 악영향 우려?\"…부랴부랴 보도자료 고친 정부 [김익환의 부... 새 창 열림",
+        "link": "https://www.hankyung.com/article/202609304272i",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "한은 금통위 원 “주요국 국채금리 상승, 금융·외환시장 위험 요인” 새 창 열림",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8673848&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "제주 금융취약도민·소상공인 '금융지원 3종 세트' 본격 운영 새 창 열림",
+        "link": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=599749",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "은행자금 대이동… 여윳돈은 예금 → 적금, 대출 은 가계 → 기업 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12163882",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "뉴스맵 새 창 열림",
+        "link": "https://www.newsmap.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "코스피, 1%대 상승세 보이다 탄력 둔화…보합권서 등락 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20260930088100008?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "건설투자 2.6% 반등 기대했지만… 경제 3.2% 성장 전망에도 '제자리' 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260930_0003808487",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "고금리에도 강한 美 증시…10가지 이유와 5가지 변수[박신영의 월가 아... 새 창 열림",
+        "link": "https://www.hankyung.com/article/202609304092i",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-09-30"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "“전기자전거 이젠 충전하지 말고 배터리 갈아끼우세요” 새 창 열림",
+        "link": "https://www.chosun.com/economy/tech_it/2026/09/30/JNLHGRVPJFEFBC526AOU4455A4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "\"터미널에서 음악을\"…포천공영버스터미널, 교통 넘어 '문화 공간'으로 새 창 열림",
+        "link": "https://www.kyeonggi.com/article/20260930580077",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "뉴욕시, 전기자전거 규제 대폭 손본다…20여개 법안 한꺼번에 심사 새 창 열림",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703471",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "동해시 '개인형 이동장치' 관리 공백… 조례 있지만 단속·주차장 '전무' 새 창 열림",
+        "link": "https://www.newspim.com/news/view/20260929001002",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "KOTRA해외시장뉴스 새 창 열림",
+        "link": "https://dream.kotra.or.kr/kotranews/index.do",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "[국민의 기업] 충전부터 운행까지 안전하게, 제주서 ‘ 전기 차 안심 이용... 새 창 열림",
+        "link": "https://www.joongang.co.kr/article/25465882",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "전북중장년내일센터, 중장년 경력전환 탐색 기회 새 창 열림",
+        "link": "https://sjbnews.com/news/news.php?number=888862",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "성남시의회, 10월 정례회 개회…추경·결산 심사에 행정감사 준비 새 창 열림",
+        "link": "https://www.asiatime.co.kr/article/20260930500128",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-29"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "“ 전기자전거 이젠 충전하지 말고 배터리 갈아끼우세요” 새 창 열림",
+        "link": "https://www.chosun.com/economy/tech_it/2026/09/30/JNLHGRVPJFEFBC526AOU4455A4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "'올해의 레스토랑' 대상에 한식당... 주인이 누군가 했더니 새 창 열림",
+        "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003271448&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+        "source": "오마이뉴스",
+        "tier": "C",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "SSG닷컴, 새벽배송 넘어 '2시간 장보기'로 … 즉시배송 속도전 새 창 열림",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/09/30/2026093000095.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "비즈니스플러스 새 창 열림",
+        "link": "https://www.businessplus.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "배달 오토바이 사고, 주문 몰리는 오후 5~9시에 42% 집중…인천은 2년째... 새 창 열림",
+        "link": "https://www.fnnews.com/news/202609300949220722",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "20대 잡은 ‘KB Youth Club’…3분기 인기 체크카드 1위 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12164613",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-09-29"
+      }
+    ]
   }
 };
