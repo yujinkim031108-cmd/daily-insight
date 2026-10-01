@@ -27555,5 +27555,181 @@ window.historyData = {
         "date": "2026-09-29"
       }
     ]
+  },
+  "2026-10-01": {
+    "macro": [
+      {
+        "title": "美 물가 예상 밑돌자 10월 인상 전망 45→35%…10년물은 5.26% 반등 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261001_0003810174",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "물가 상승, 수요보다 유가·환율 영향…김영환 \"추가 금리인상 신중해야... 새 창 열림",
+        "link": "https://www.mt.co.kr/politics/2026/10/01/2026100110563970102",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "더쎈뉴스 새 창 열림",
+        "link": "https://www.mhns.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "[증시전략] 뉴욕증시, 물가 둔화에도 장기금리 급등 부담…혼조 마감 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000337671?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "가계대출 조이자 DSR 예외 늘었다...신규 대출의 70% 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0102_202610011058485944",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "채무조정 상담· 담보 물 확인시 인터넷은행도 대면업무 허용 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000337614?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "삼전·닉스 자사주 매수에 코스피 낙폭 축소…코스닥 2%대 강세 새 창 열림",
+        "link": "https://www.hankyung.com/article/2026100173296",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "韓 수출 첫 8000억달러 돌파…9월 수출 1209억달러 '역대 최대'(종합) 새 창 열림",
+        "link": "https://www.news1.kr/economy/idustry-trade/6307373",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "9월 수출·무역흑자 ‘역대 최대’…AI 호황에 추가 금리 인상론도 힘 새 창 열림",
+        "link": "https://www.donga.com/news/Economy/article/all/20261001/134765980/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "민주당, 국회서 대구·경북 예산정책협의회 개최 새 창 열림",
+        "link": "https://www.kbsm.net/news/view.php?idx=536191",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-01"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "[단독] LG전자, '웹OS SW연구소' 신설…류재철 '플랫폼 전략' 드라이브 새 창 열림",
+        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5067466",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "“전기자전거 이젠 충전하지 말고 배터리 갈아끼우세요” 새 창 열림",
+        "link": "https://www.chosun.com/economy/tech_it/2026/09/30/JNLHGRVPJFEFBC526AOU4455A4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "서울시 조례 34건 공포…2030년까지 전량 저상버스로 교체 새 창 열림",
+        "link": "https://www.edaily.co.kr/News/Read?newsId=02873286645608656&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "\" 전기이륜차 어디서 충전?\"…중기옴부즈만, 업체 고충 등 현장서 듣는다 새 창 열림",
+        "link": "https://www.mt.co.kr/economy/2026/09/30/2026093016215433920",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "'킥보드 없는 거리' 확대 찬반… \"보행자 안전 지켜\" vs \"이동권 제한해... 새 창 열림",
+        "link": "https://kids.donga.com/news/articleView.html?idxno=169956",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "휠체어도 탈 수 있는 서울 저상버스, 이제 선택 아닌 의무로 새 창 열림",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=2001663",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-30"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "'경쟁은 따로, 검증은 함께'…中 전기 차 속도전의 숨은 엔진[왓츠 인 차... 새 창 열림",
+        "link": "https://www.edaily.co.kr/News/Read?newsId=01705606645585368&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "테크M 새 창 열림",
+        "link": "https://www.techm.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "'탈팡'은 없었다…개인정보 유출 직격탄 맞고도 결제액 5조 넘긴 쿠팡 의... 새 창 열림",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=301884",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "파리크라상, 신임 대표에 강신봉 전 삼성전자 부사장 내정 새 창 열림",
+        "link": "https://www.bloter.net/news/articleView.html?idxno=674792",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "경북매일신문 새 창 열림",
+        "link": "https://www.kbmaeil.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "딜사이트경제TV 새 창 열림",
+        "link": "https://www.dailyimpact.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-01"
+      }
+    ]
   }
 };
