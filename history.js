@@ -27731,5 +27731,188 @@ window.historyData = {
         "date": "2026-10-01"
       }
     ]
+  },
+  "2026-10-02": {
+    "macro": [
+      {
+        "title": "9월 물가 상승률 둔화했지만…고유가에 연간 전망치 2.6% 웃돌까 새 창 열림",
+        "link": "https://www.edaily.co.kr/News/Read?newsId=03522726645608984&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "한은 “10월 소비자 물가 상승률 3% 내외 높은 수준 예상” 새 창 열림",
+        "link": "https://www.seoul.co.kr/news/economy/finance/2026/10/02/20261002500105?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "코스피, 연휴 앞두고 보합권 혼조…개인·기관·외인 모두 '팔자' 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000338085?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "머니스톰 새 창 열림",
+        "link": "https://www.moneystorm.kr",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "가계 빚·레버리지·ELS 뒷북 수습 … 이억원·이찬진, 국감서도 김용범... 새 창 열림",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/10/02/2026100200112.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "[프로필]권대영 재경1차관…가계부채 대책 주도한 경제·금융전문가 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261001_0003810938",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "미 국채금리에 또 출렁…코스피 롤러코스터 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000338064?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "삼전닉스 자사주가 끌어올려 6900선...개인·외인·기관은 모두 ‘팔자’ 새 창 열림",
+        "link": "https://biz.chosun.com/stock/stock_general/2026/10/02/OPWZU6CECZHG5INQZW2BCCBY4U/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "이광재 “30년 멈춘 과세기준 현실화해야...소득세 공제액 등 상향 필요... 새 창 열림",
+        "link": "https://www.chosun.com/politics/assembly/2026/10/02/VHVXPQKFQ5AHJL32WW5LTGNLDY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "삼성전자·SK하이닉스 등 반도체株 희비...9월 고용앞두고 경계 새 창 열림",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3711458",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-01"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "덕우전자, 46시리즈 배터리 부품 4000억 수주…12월 멕시코 양산 돌입 새 창 열림",
+        "link": "https://www.etoday.co.kr/news/view/2630946",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "광남신문 새 창 열림",
+        "link": "https://www.gjdream.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "성남 찾은 안민석 경기도교육감 \"통학로 안전·교육재정 직접 챙길 것\" 새 창 열림",
+        "link": "https://www.mt.co.kr/policy/2026/10/01/2026100117255491659",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "통학로부터 AI교육까지…안민석 ‘현장 교육정책’ 시동 새 창 열림",
+        "link": "https://www.hankyung.com/article/202610018788h",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "9세 아이 치고 도주 오토바이…\"보라색 스쿠터 목격자 찾아요\" 새 창 열림",
+        "link": "https://www.news1.kr/local/gwangju-jeonnam/6307706",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "[전남광주 단신] ‘전남광주뷰티산업전 2~4일 개최…113개 기업 참여’... 새 창 열림",
+        "link": "https://www.kukinews.com/article/view/kuk202610010187",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "서울 버스 전량 저상버스로···서울시, 조례 34건 공포 새 창 열림",
+        "link": "https://www.khan.co.kr/article/202610011649011",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-10-02"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "샹들리에를 끄고, 새로운 빛을 켜다…도시의 밤을 바꾼 조명 [조수민의... 새 창 열림",
+        "link": "https://www.hankyung.com/article/202609233944i",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "우리금융그룹, 전 국민 물품기부 캠페인 '우리가 오네 시즌2' 실시 새 창 열림",
+        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=122762",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "'홈플러스 회생·담합·정보유출'…유통·식품업계, 국감 도마에 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261002061100030?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "요기요 , 배달앱 최초 '삼성 페이' 결제 도입 새 창 열림",
+        "link": "https://www.insight.co.kr/news/576282",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "[친절한 경제] 닭값 내렸는데 치킨값 그대로?…대통령 '점검' 나설까 새 창 열림",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008779776&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "닭값 내렸는데 치킨값은 그대로…李 가격점검 예고에 업계는 \"억울하다... 새 창 열림",
+        "link": "https://www.socialvalue.kr/news/view/1065578712727461",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-01"
+      }
+    ]
   }
 };
