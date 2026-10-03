@@ -27914,5 +27914,181 @@ window.historyData = {
         "date": "2026-10-01"
       }
     ]
+  },
+  "2026-10-03": {
+    "macro": [
+      {
+        "title": "금리 급등에 주식 매력 '흔들'…구원투수는 '실적'[금리 쇼크①] 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261002_0003812247",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "코스닥 시총 기준 200억~300억으로 높였는데…법원 ‘소명 기회 줘야’ 새 창 열림",
+        "link": "https://www.sedaily.com/article/20097884?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "미 고용쇼크에 금리 동결 가능성, 나스닥·엔비디아 장중 신고가 경신 새 창 열림",
+        "link": "https://www.sidae.com/article/2026100310330647518",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "한은 \"금리 인상, 물가·주택 가격 안정에 도움 될 것\" 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261002_0003812668",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "美 고용이 식으니 금리인상 공포도 ‘멈춤’…연휴 이후 코스피 7000선 ... 새 창 열림",
+        "link": "https://biz.heraldcorp.com/article/10892431?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "“1억으로 월 240만 원… 조기 은퇴자의 ETF 포트폴리오” [은퇴 레시피... 새 창 열림",
+        "link": "https://www.donga.com/news/Economy/article/all/20261002/134758411/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "[10월 첫째 주 세계경제동향 브리핑] 코스피 7,000선 회복…코스닥 5%대... 새 창 열림",
+        "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3036531",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "생생비즈플러스 새 창 열림",
+        "link": "https://www.livebiz.today/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "[광화문·뷰] 반도체 외줄 탄 ‘4만달러 시대’의 불안 새 창 열림",
+        "link": "https://www.chosun.com/opinion/column/2026/10/02/R7JHNOBLQJG3ZJZRVHPAJ7N6DY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "미국 남성 취업자 1년 새 120만명 줄었다…여성은 65만명 늘어 새 창 열림",
+        "link": "https://www.imaeil.com/page/view/2026100310214894154",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-02"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "안민석 경기도교육감, 통학로 안전부터 교육재정·AI 시대 교육까지 '성... 새 창 열림",
+        "link": "https://www.lecturernews.com/news/articleView.html?idxno=211483",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "핼러윈 난장판 없어질까…日시부야 \"상점들 술 판매 말아달라\" 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261002148800009?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "아프리카의 미래를 그리는 청년들 새 창 열림",
+        "link": "https://www.yonhapmidas.com/news/articleView.html?idxno=10643",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "\"9세 딸 피 철철 흘리는데 뺑소니…'보라색 스쿠터' 잡아주세요\" 피해자... 새 창 열림",
+        "link": "https://www.fnnews.com/news/202610020833421582",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "IT동아 새 창 열림",
+        "link": "https://it.donga.com/",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "전동킥보드 관리 미흡…전담 관리체계 구축 시급 새 창 열림",
+        "link": "https://news.skbroadband.com/news/articleView.html?idxno=239227",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-02"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "샹들리에를 끄고, 새로운 빛을 켜다…도시의 밤을 바꾼 조명 [조수민의... 새 창 열림",
+        "link": "https://www.hankyung.com/article/202609233944i",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "“가장 싼 걸로 갈아타줘”…AI 에이전트와 ‘귀찮음 경제’의 종말[딥... 새 창 열림",
+        "link": "https://www.donga.com/news/Economy/article/all/20261002/134774330/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "탈탈 털리는 유통 국감…정보 유출부터 책임 회피까지 새 창 열림",
+        "link": "https://magazine.hankyung.com/business/article/202609305812b",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "카카오도 월 4900원 멤버십…네이버와 혜택은 어떻게 다를까 새 창 열림",
+        "link": "https://www.sentv.co.kr/article/view/sentv202610020176",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "“ 배달 갔더니 동전으로 3만원 주네요”… 100원짜리 가득 지퍼백엔 ‘... 새 창 열림",
+        "link": "https://www.seoul.co.kr/news/society/2026/10/03/20261003500009?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "비대면진료 처방약 배송 확대…약사들 거리로 새 창 열림",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7186939",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-02"
+      }
+    ]
   }
 };
