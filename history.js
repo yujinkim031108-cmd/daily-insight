@@ -28090,5 +28090,139 @@ window.historyData = {
         "date": "2026-10-02"
       }
     ]
+  },
+  "2026-10-04": {
+    "macro": [
+      {
+        "title": "집 있는 맞벌이 중산층 아니다?…빚· 물가 에 갇힌 ‘노후 불안층’ 새 창 열림",
+        "link": "https://www.joongang.co.kr/article/25466949",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "가공식품 물가 3개월째 상승폭 확대···26개 품목 중 24개 올라 새 창 열림",
+        "link": "https://www.todaykorea.co.kr/news/articleView.html?idxno=406784",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "딜사이트 새 창 열림",
+        "link": "https://dealsite.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-04"
+      },
+      {
+        "title": "막바지 편입 앞둔 WGBI…외국인 공백 이후 연말 채권수급 촉각 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261003023200008?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-10-04"
+      },
+      {
+        "title": "“빚 잘 갚을 사람인지 다 알수 있어요”…‘신파일러’ 대출 판 키우는... 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12167921",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-10-04"
+      },
+      {
+        "title": "“1억으로 월 240만 원… 조기 은퇴자의 ETF 포트폴리오” [은퇴 레시피... 새 창 열림",
+        "link": "https://www.donga.com/news/Economy/article/all/20261002/134758411/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "환율 급락에 수출농가 ‘비상’…운임까지 크게 올라 ‘겹악재’ 새 창 열림",
+        "link": "https://www.nongmin.com/article/20261002500561",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "지이코노미 새 창 열림",
+        "link": "https://www.geconomy.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "글로벌 지수 편입에 꿈틀…'베트남 ETF'에 자금 몰린다 새 창 열림",
+        "link": "https://www.news1.kr/finance/general-stock/6309955",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "나이키·룰루레몬·언더아머 줄줄이 하락…스포츠웨어株에 무슨 일이 새 창 열림",
+        "link": "https://www.chosun.com/economy/money/2026/10/04/GXTXNQLWLNFCFOPYME6RJAB2BY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-10-03"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "2030년까지 서울 전체 시내버스 ‘저상버스’ 된다…조례 공포 새 창 열림",
+        "link": "https://biz.heraldcorp.com/article/10892699?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-03"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "\"화장품 90% 싸게 팝니다\"…올리브영 위협하는 '이곳' [장서우의 하입:h... 새 창 열림",
+        "link": "https://www.hankyung.com/article/202610031362i",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "네이버·카카오· 쿠팡 '멤버십 삼국지'…구독자 잡기 불붙었다 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261002154300017?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "대통령 '치킨값 점검' 예고에 업계 긴장…세무조사·국감까지 겹쳤다 새 창 열림",
+        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=86982",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "\"3만원 맞아요, 열 번 넘게 셌어요\"… 라이더 사연에 '울컥' 새 창 열림",
+        "link": "https://www.hankyung.com/article/2026100318567",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "“빅맥가격을 이렇게 결정한다고?”…맥도날드 AI 정책에 점주들 불만 ... 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12167891",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-10-03"
+      }
+    ]
   }
 };
