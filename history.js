@@ -28224,5 +28224,153 @@ window.historyData = {
         "date": "2026-10-03"
       }
     ]
+  },
+  "2026-10-05": {
+    "macro": [
+      {
+        "title": "삼전닉스 자사주 매입 막바지…'수급 공백' 메울 190조 실적 '기대' 새 창 열림",
+        "link": "https://www.news1.kr/finance/general-stock/6309589",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-10-05"
+      },
+      {
+        "title": "AMRO, 올해 한국 성장률 3.3% 전망...4월부터 3연속 전망치 상향 새 창 열림",
+        "link": "https://www.chosun.com/economy/economy_general/2026/10/05/F2KGNWAVUZDJTFN2N2DZPOHVTU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-10-05"
+      },
+      {
+        "title": "우방국까지 매도 행진…미 국채 금리 , 분기 상승 폭 32년 만에 최고 새 창 열림",
+        "link": "https://www.chosun.com/economy/economy_general/2026/10/05/VDXTQZ2ORJBTLGYYLZ2PDY6H4I/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-10-04"
+      },
+      {
+        "title": "막바지 편입 앞둔 WGBI…외국인 공백 이후 연말 채권수급 촉각 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261003023200008?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-10-04"
+      },
+      {
+        "title": "빚투 꺾여도 주담대 6개월째↑…증시가 변수 새 창 열림",
+        "link": "https://www.sidae.com/article/2026100214345897221",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-05"
+      },
+      {
+        "title": "‘반도체·실물경기 호황’ 딴 세상 얘기…‘고금리’ 시름 자영업, 연... 새 창 열림",
+        "link": "https://www.hani.co.kr/arti/economy/economy_general/1280851.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-10-04"
+      },
+      {
+        "title": "분기 영업익 100조 '꿈의 숫자' 눈앞…삼성전자 실적 D-3 새 창 열림",
+        "link": "https://www.mt.co.kr/stock/2026/10/05/2026100217315021825",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-10-04"
+      },
+      {
+        "title": "국제유가 다시 요동치나...호르무즈 원유 수송량 감소 조짐 새 창 열림",
+        "link": "https://www.news2day.co.kr/article/20261005500016",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-04"
+      },
+      {
+        "title": "AMRO, 올해 韓 성장률 3.3%로 상향…“AI 수출·투자 수요 견조” 새 창 열림",
+        "link": "https://www.etnews.com/20261005000082",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-04"
+      },
+      {
+        "title": "美 고용 둔화에 亞 증시 상승…日 닛케이, 대만 가권지수 2%대 급등 새 창 열림",
+        "link": "https://www.chosun.com/economy/economy_general/2026/10/05/GWTMBGYBC5C6NIP575WYCQGDJ4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-10-04"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-04"
+      },
+      {
+        "title": "서울시, 내년부터 킥보드 대여업체 관리 실태 평가… 방치 문제 해결한... 새 창 열림",
+        "link": "https://biz.chosun.com/topics/topics_social/2026/10/05/ZVQ5NXMKBVH6TLVWU75KLUND5Q/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-10-04"
+      },
+      {
+        "title": "단속해도 또 방치… 전동 킥보드 골머리 새 창 열림",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8677676&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-10-04"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-04"
+      },
+      {
+        "title": "노원구 탄소중립 성과 국내외에 알린다…EU 그린데이 페스티벌 참가 새 창 열림",
+        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5068305",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-04"
+      },
+      {
+        "title": "'구매는 소액, 이용은 계획적으로'베트맨, 10월 소액구매 건전화 캠페인... 새 창 열림",
+        "link": "https://www.sportschosun.com/sports-news/2026-10-05/202610050100031260001990",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-10-04"
+      },
+      {
+        "title": "배민· 쿠팡이츠 ‘대금·정산’ 불만, 2년 새 6배 증가 새 창 열림",
+        "link": "https://www.khan.co.kr/article/202610042053005",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-10-05"
+      },
+      {
+        "title": "청년피자, 요기요 서 10월 할인 프로모션 실시 새 창 열림",
+        "link": "https://www.kbsm.net/news/view.php?idx=536452",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-04"
+      },
+      {
+        "title": "'일기본법' 연내 입법 추진…\"강행규정·구제절차도 설계해야\" 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261004_0003814035",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-10-05"
+      },
+      {
+        "title": "2026 국감이 소환한 기업의 '평판 리스크' 새 창 열림",
+        "link": "https://www.the-pr.co.kr/news/articleView.html?idxno=62809",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-05"
+      }
+    ]
   }
 };
