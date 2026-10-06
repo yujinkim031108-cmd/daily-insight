@@ -28372,5 +28372,181 @@ window.historyData = {
         "date": "2026-10-05"
       }
     ]
+  },
+  "2026-10-06": {
+    "macro": [
+      {
+        "title": "연합인포맥스 새 창 열림",
+        "link": "https://news.einfomax.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-05"
+      },
+      {
+        "title": "가을 출하로 농산물 가격 안정세…고유가 부담은 여전 새 창 열림",
+        "link": "https://www.edaily.co.kr/News/Read?newsId=01561286645610296&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "에너지경제 새 창 열림",
+        "link": "https://www.ekn.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "[KFT 모닝 브리프] 2026.10.06 — 오늘 꼭 알아야 할 국내외 경제뉴스 새 창 열림",
+        "link": "https://www.fntimes.com/html/view.php?ud=202610060719198784141825007d_18",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-05"
+      },
+      {
+        "title": "E동아 새 창 열림",
+        "link": "https://edu.donga.com/",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "보험사 주담대 연체 율 0.4% 제자리인데…장기 연체 비중 55.8% 새 창 열림",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492910",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-05"
+      },
+      {
+        "title": "외국인 팔자에 코스피 7천선 붕괴…뉴욕증시 상승 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000338406?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-10-05"
+      },
+      {
+        "title": "베트남 응이선정유소, 쿠웨이트산 원유 수입 재개…9월 600만 배럴 입고 새 창 열림",
+        "link": "https://www.insidevina.com/news/articleView.html?idxno=44202",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-05"
+      },
+      {
+        "title": "美 소비자신뢰지수 12년 최저인데 가계지출 6.1%↑…실질소비도 늘었다 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261006_0003815334",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-10-05"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-05"
+      },
+      {
+        "title": "[와글와글 플러스] 방치된 킥보드 줄어드나‥대여업체 평가 도입 새 창 열림",
+        "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6855937_37012.html",
+        "source": "MBC",
+        "tier": "S",
+        "date": "2026-10-05"
+      },
+      {
+        "title": "단속해도 또 방치… 전동 킥보드 골머리 새 창 열림",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8678077&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "뉴욕시 보행자·차량 탑승자 교통사고 사망 역대 최저 새 창 열림",
+        "link": "https://www.koreadaily.com/article/20261005183450311",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-05"
+      },
+      {
+        "title": "기후부, 재생에너지 100GW·2040 탈석탄 추진…전력·물관리 체계 전면 ... 새 창 열림",
+        "link": "https://www.energydaily.co.kr/news/articleView.html?idxno=203824",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-05"
+      },
+      {
+        "title": "KOTRA해외시장뉴스 새 창 열림",
+        "link": "https://dream.kotra.or.kr/kotranews/index.do",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-05"
+      },
+      {
+        "title": "길거리 방치된 킥보드…서울시, 업체평가·전용주차 도입 [SEOUL NOW] 새 창 열림",
+        "link": "https://www.dt.co.kr/article/12087395?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-06"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-05"
+      },
+      {
+        "title": "노원구 탄소중립 성과 국내외에 알린다…EU 그린데이 페스티벌 참가 새 창 열림",
+        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5068305",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-05"
+      },
+      {
+        "title": "李대통령 치킨값 점검 예고했는데…중량도 최대 30% 차이 새 창 열림",
+        "link": "https://www.etoday.co.kr/news/view/2632762",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-05"
+      },
+      {
+        "title": "“장보기 수요도 우리가” 네카토, ‘새벽의 침공’…커머스 2막 열린다 새 창 열림",
+        "link": "https://www.edaily.co.kr/News/Read?newsId=03293126645610296&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-10-05"
+      },
+      {
+        "title": "\"어디서나 즐기는 황치즈 미쯔\" 요아정, 협업 메뉴 3종 정식 출시 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261002_0003812173",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "기후부, 재생에너지 100GW·2040 탈석탄 추진…전력·물관리 체계 전면 ... 새 창 열림",
+        "link": "https://www.energydaily.co.kr/news/articleView.html?idxno=203824",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-05"
+      },
+      {
+        "title": "벽산예술상 수상작 '프라우드 메리' 무대화…윤한솔 연출 새 창 열림",
+        "link": "https://www.news1.kr/life-culture/performance-exhibition/6309710",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "하남돼지집, 국세청 특별세무조사…법인 슈퍼카는 사주가 타고, 배우자... 새 창 열림",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=321191",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-05"
+      }
+    ]
   }
 };
