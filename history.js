@@ -28548,5 +28548,216 @@ window.historyData = {
         "date": "2026-10-05"
       }
     ]
+  },
+  "2026-10-07": {
+    "macro": [
+      {
+        "title": "日 8월 실질임금 1.5%↑…8개월 연속 증가 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261007049700009?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "[오늘 금시세] 美국채금리 진정에 금값 반등…금 한돈 67만5150원 새 창 열림",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=16240272",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "“지금 시장 떠나면 백전백패…AI 병목·채권 투자로 버틸 때” [헤럴드... 새 창 열림",
+        "link": "https://biz.heraldcorp.com/article/10895584?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "[단독]韓 정부부채 비율 42.6%로 하락 새 창 열림",
+        "link": "https://www.edaily.co.kr/News/Read?newsId=01646566645610624&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "수수료 낮췄는데 빚 먼저 갚는 사람 줄었다 … 은행권 ‘ 대출 갈아타기... 새 창 열림",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/10/07/2026100700123.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "[경제일보] 이은미 토스뱅크 대표, 첫 연간 흑자 기반 WM·주담대로 사업... 새 창 열림",
+        "link": "https://www.ajunews.com/view/20261007100539924",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "증권가 \"삼성전자, 3분기 호실적 넘어 내년 메모리 고성장 기대\" 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261007085600008?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "트럼프, 확전·선거철 여론악화 우려해 예멘내전 '뒷짐' 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261007084700009?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "[생생뉴스] 정치와 세상을 잇는 시간, 정치잇수 새 창 열림",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8679596&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "브라질 대선 결선, 룰라 ‘역전’ 할까…트럼프 돈로주의 향방 주목 새 창 열림",
+        "link": "https://www.hani.co.kr/arti/international/international_general/1281230.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-10-07"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "AI 데이터센터부터 차세대 원전까지…K-철강, 첨단 영토 확장 새 창 열림",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=2002968",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "2030 생활 인프라 된 공유모빌리티…지바이크 \"규제보다 안전\" [현장] 새 창 열림",
+        "link": "https://www.ddaily.co.kr/page/view/2026100711011988834",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "주무열 서울시의원, 관악 6개 학교 현장 찾아 교육 현안 해법 모색 새 창 열림",
+        "link": "https://www.seoul.co.kr/news/publicnews/local_govern/smc_movement/2026/10/07/20261007500080?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "IT동아 새 창 열림",
+        "link": "https://it.donga.com/",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "안산시, 이달부터 무단 방치 PM 주·야간 즉시 견인 새 창 열림",
+        "link": "https://www.viva100.com/article/20261007500412",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "차량· 이륜차 소음 민원 급증하는데… 과태료 부과는 2% 남짓 새 창 열림",
+        "link": "https://www.segye.com/newsView/20261006510169?OutUrl=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "폐 전기이륜차 도 '폐차 시스템' 만든다…전국 220곳서 회수·재활용 실증 새 창 열림",
+        "link": "https://www.energydaily.co.kr/news/articleView.html?idxno=203874",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "[부산ㆍ경남 대학 브리핑 모음(10월7일)] 국립부경대생, 북항 상어 ‘부... 새 창 열림",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610061537270950618",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "'PM만 규제? 자전거도 즉시 견인'…안산시의회, 조례 개정 추진 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261007074400061?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-10-07"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "[제약·바이오 트렌드] 광동제약, 비타500 신규 모델로 악뮤 발탁…40종... 새 창 열림",
+        "link": "https://www.ibabynews.com/news/articleView.html?idxno=154999",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "'PM만 규제? 자전거 도 즉시 견인'…안산시의회, 조례 개정 추진 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261007074400061?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "배민, 도심형 뷰티 아웃렛 ‘오프뷰티’ 입점 새 창 열림",
+        "link": "https://www.fntimes.com/html/view.php?ud=202610071132161444b5b890e35c_18",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "‘가나 초콜릿’과 손잡은 이디야…어떤 전략으로 승부수 띄울까 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12170153",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "요기요 멤버십 200만 명 눈앞…'적립·무료배달' 혜택 강화 새 창 열림",
+        "link": "https://www.klnews.co.kr/news/articleView.html?idxno=322979",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "뉴욕시 보행자·차량 탑승자 교통사고 사망 역대 최저 새 창 열림",
+        "link": "https://www.koreadaily.com/article/20261005183450311",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "허성무 의원 “상생 배달 앱, 쿠폰보다 배달 인프라·데이터 경쟁력 강화... 새 창 열림",
+        "link": "https://biz.chosun.com/industry/business-venture/2026/10/07/HMUBFNHL6ZDL5I6MTJHFOBLFLM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "누구나홀딱반한닭 광주삼리점, 업종변경 매출 증가 사례 공개 새 창 열림",
+        "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=551346",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-07"
+      }
+    ]
   }
 };
