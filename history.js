@@ -28759,5 +28759,216 @@ window.historyData = {
         "date": "2026-10-07"
       }
     ]
+  },
+  "2026-10-08": {
+    "macro": [
+      {
+        "title": "[다음 주 경제일정] 美 어닝시즌 개막…美 9월 인플레이션 지표 관건 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000338915?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "IMF \"파키스탄과 중요한 진전…실무자급 합의\" 새 창 열림",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3716002",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "미국 향후 1년 기대 인플레 3.9%‥3년 반 만에 최고 새 창 열림",
+        "link": "https://imnews.imbc.com/news/2026/world/article/6856547_36925.html",
+        "source": "MBC",
+        "tier": "S",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "연합인포맥스 새 창 열림",
+        "link": "https://news.einfomax.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "\"실적도, 신뢰도 흔들\"…신한지주, 악재(증권 손실·해외투자 감액·고객... 새 창 열림",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=302311",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "우크라이나 전쟁에 ‘올인’하는 푸틴… 개전 이후 사상 최대 국방비 편... 새 창 열림",
+        "link": "https://weekly.donga.com/3/all/11/6410584/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "삼성전자 호실적에도 코스피 약세…“내년 이익 추정치 더 주시해야” 새 창 열림",
+        "link": "https://www.donga.com/news/Economy/article/all/20261008/134807982/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "삼전 역대급 실적에도 증시 혼조세...미 국채금리 탓 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0102_202610081135350768",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "한투증권 \"환율, 1330원대 돼도 추가 하락 가능성\" 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000338893?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "베트남, 3분기 '쉬었음 청년' 160만 명…전체 청년층 11% 웃돌아 새 창 열림",
+        "link": "https://www.insidevina.com/news/articleView.html?idxno=44221",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-07"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "서울시, 공유자전거 '4만원 견인료' 추진…지쿠·스윙·카카오 '비상' 새 창 열림",
+        "link": "https://www.bloter.net/news/articleView.html?idxno=675168",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "[KES 2026 이노베이션 어워즈 수상 기업] 인포비온, KES 2026서 박막 증착... 새 창 열림",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1815202",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "\"의지부족 아닌 진입장벽 때문\"…스타트업들이 본 청년문제 본질 새 창 열림",
+        "link": "https://www.mt.co.kr/future/2026/10/07/2026100714432277715",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "방치 킥보드 '무관용 견인'…민원 2배 급증에 칼 빼든 안산시 새 창 열림",
+        "link": "https://www.mt.co.kr/policy/2026/10/07/2026100716484994594",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "IT동아 새 창 열림",
+        "link": "https://it.donga.com/",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "수원 초등학생 42명 '일일 시의원' 변신… 전동킥보드 조례 직접 심의 새 창 열림",
+        "link": "https://www.g-enews.com/view.php?ud=2026100715483957378fbfc802b3_1",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "배민, K-GX 프로젝트 선정…녹색 배달 생태계 확산 본격화 새 창 열림",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=279391",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "더좋은사람, IoT 기반 ‘LED 배달통 광고’ 탑재 전기 오토바이 출시… \"... 새 창 열림",
+        "link": "https://www.gosiweek.com/article/1065603384292043",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "[외신 헤드라인] 스페이스X, 엔비디아 칩 구매에 54조원 조달 추진 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000338859?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "'PM만 규제? 자전거도 즉시 견인'…안산시의회, 조례 개정 추진 새 창 열림",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008788741&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-10-07"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "'PM만 규제? 자전거 도 즉시 견인'…안산시의회, 조례 개정 추진 새 창 열림",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008788741&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "배민, K-GX 프로젝트 선정…녹색 배달 생태계 확산 본격화 새 창 열림",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=279391",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "명륜진사갈비, 가맹점 매출 다변화 나선다… 배달 서비스 개시 새 창 열림",
+        "link": "https://www.dt.co.kr/article/12088100?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "배달을 넘어 일상으로, 푸드 딜리버리 플랫폼의 확장 경쟁 [삼정 KPMG CFO... 새 창 열림",
+        "link": "https://www.hankyung.com/article/202610076885r",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "[2026 국감] 정용식 교통안전공단 이사장 \" 전기 차 안전관리 강화…AI 적... 새 창 열림",
+        "link": "https://www.newspim.com/news/view/20261008000616",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "스마트폰으로 만든 영화 1317편…예천서 세계 창작자 만난다 새 창 열림",
+        "link": "https://www.edaily.co.kr/News/Read?newsId=03503046645610952&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "연합인포맥스 새 창 열림",
+        "link": "https://news.einfomax.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-07"
+      }
+    ]
   }
 };
