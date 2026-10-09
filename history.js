@@ -28970,5 +28970,195 @@ window.historyData = {
         "date": "2026-10-07"
       }
     ]
+  },
+  "2026-10-09": {
+    "macro": [
+      {
+        "title": "美 연준, 연내 한 차례 더 올릴까…10월 인상엔 신중 새 창 열림",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=321630",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "[투자 노하우] 현지시간 7일 뉴욕증시 3대지수 일제히 하락 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000339032?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "오르는 금리 에 대출자 고민… 변동 금리 쏠림 꺾이나 새 창 열림",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092171701",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-10-09"
+      },
+      {
+        "title": "[ETF 따라잡기] 삼성전자 3분기 107.4조원 매출 “소부장ETF 방망이 짧게... 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000338965?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-10-09"
+      },
+      {
+        "title": "“갚을 수 있어도 안 갚는다”…수시로 바뀌는 대출 빗장에 차주들 ‘버... 새 창 열림",
+        "link": "https://www.dailian.co.kr/news/view/1699608/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-10-09"
+      },
+      {
+        "title": "[2026 국감] 금융권 해킹에 집값 불안까지…이억원 ‘정책 성적표’ 집... 새 창 열림",
+        "link": "https://www.dailian.co.kr/news/view/1699660/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "삼성전자 영업익 107조 이어…SK하이닉스, 이익률 80% 넘보나 새 창 열림",
+        "link": "https://www.seoul.co.kr/news/economy/industry/2026/10/09/20261009500055?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-10-09"
+      },
+      {
+        "title": "트럼프 “美 중간선거 전 이란 공격 없을 것”…해상 봉쇄는 유지 새 창 열림",
+        "link": "https://www.kukinews.com/article/view/kuk202610090009",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "[국제금융 브리핑] 연준 인사 추가 금리 인상 시사...미 10년물 5bp 하락... 새 창 열림",
+        "link": "https://www.tokenpost.kr/news/economy/420237",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "미국 올해 재정적자 2조달러 육박…\"지속불가능한 상황\" 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261009030200009?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-10-08"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "[KES 2026 이노베이션 어워즈 수상 기업] 인포비온, KES 2026서 박막 증착... 새 창 열림",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1815202",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "IT동아 새 창 열림",
+        "link": "https://it.donga.com/",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "제주의소리 새 창 열림",
+        "link": "https://www.jejusori.net/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-09"
+      },
+      {
+        "title": "정용식 TS 이사장 \"자율주행 지원·페달 오조작 방지장치 확대\" 새 창 열림",
+        "link": "https://www.news1.kr/realestate/general/6314670",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-10-09"
+      },
+      {
+        "title": "[2026 국감] 정용식 교통안전공단 이사장 \" 전기 차 안전관리 강화…AI 적... 새 창 열림",
+        "link": "https://www.newspim.com/news/view/20261008000616",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "[외신 헤드라인] 스페이스X, 엔비디아 칩 구매에 54조원 조달 추진 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000338859?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "'PM만 규제? 자전거도 즉시 견인'…안산시의회, 조례 개정 추진 새 창 열림",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008788741&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-10-09"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "'PM만 규제? 자전거 도 즉시 견인'…안산시의회, 조례 개정 추진 새 창 열림",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008788741&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "FETV 새 창 열림",
+        "link": "https://www.fetv.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "쿠팡 , 한밤 접속 오류‥\"서비스 업그레이드 과정에서 발생\" 새 창 열림",
+        "link": "https://imnews.imbc.com/news/2026/econo/article/6856794_36932.html",
+        "source": "MBC",
+        "tier": "S",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "[뉴스톡톡] 배민은 열고 쿠팡은 '쿠페이'…배달앱 결제전략도 제각각 새 창 열림",
+        "link": "https://www.news1.kr/industry/distribution/6312373",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-10-09"
+      },
+      {
+        "title": "[2026 국감] 정용식 TS 이사장 “페달 오조작 방지장치 확대…AI로 교통... 새 창 열림",
+        "link": "https://www.dailian.co.kr/news/view/1699617/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "쿠팡, 새벽 시스템 장애 보상…주문 취소 고객에 5000원 새 창 열림",
+        "link": "https://www.hani.co.kr/arti/economy/economy_general/1281656.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "“음식 배달 오토바이 엄청 늘었다했더니”…앱 이용 식당 매출 20% 급증 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12172192",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-10-09"
+      }
+    ]
   }
 };
