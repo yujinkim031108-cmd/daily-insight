@@ -29160,5 +29160,160 @@ window.historyData = {
         "date": "2026-10-09"
       }
     ]
+  },
+  "2026-10-10": {
+    "macro": [
+      {
+        "title": "“붕어빵 계절왔다”…1개 1000원에서 또 오를까? [푸드360] 새 창 열림",
+        "link": "https://biz.heraldcorp.com/article/10897611?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-09"
+      },
+      {
+        "title": "[주간증시전망] 코스피 지수, 5%대 하락…美 CPI·수출 지표가 반등 가른... 새 창 열림",
+        "link": "https://www.etoday.co.kr/news/view/2634056",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-09"
+      },
+      {
+        "title": "\"증시 덮칠 '진짜 공포' 따로 있다\"…증권가 '무서운 경고' [분석+] 새 창 열림",
+        "link": "https://www.hankyung.com/article/2026100804296",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-10-09"
+      },
+      {
+        "title": "금리 두 번 올린 신현송…첫 국감서 쟁점은[한은 미리보기] 새 창 열림",
+        "link": "https://www.edaily.co.kr/News/Read?newsId=01525206645611608&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-10-09"
+      },
+      {
+        "title": "[다음주 경제] 취업자 얼마나 늘었나…IMF, 韓성장률 전망 수정치 발표 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261010018000002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-10-10"
+      },
+      {
+        "title": "“현대모비스·한국타이어 투자가 안정적” [투자360] 새 창 열림",
+        "link": "https://biz.heraldcorp.com/article/10897539?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-09"
+      },
+      {
+        "title": "전국 휘발유값 21주 연속 하락…ℓ당 1857.6원 새 창 열림",
+        "link": "https://www.dailian.co.kr/news/view/1699874/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-10-10"
+      },
+      {
+        "title": "[해설] '한국형 녹색대전환(K-GX)', 경제 대도약 청사진 새 창 열림",
+        "link": "https://www.todayenergy.kr/news/articleView.html?idxno=304019",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-09"
+      },
+      {
+        "title": "'쿠데타 모의' 보우소나루 아들 대선 1차 투표 1위①[최종일의 월드 뷰... 새 창 열림",
+        "link": "https://www.news1.kr/world/latin-america/6314153",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-10-10"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-09"
+      },
+      {
+        "title": "“스펙보다 실전 경험, 차보다 공유 킥보드”…2030의 생존법 새 창 열림",
+        "link": "https://www.edaily.co.kr/News/Read?newsId=02059846645611280&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-10-09"
+      },
+      {
+        "title": "아마존, 강력한 알렉사+ 탑재 태블릿 3종 공개…구글 플레이·AI 비서 결... 새 창 열림",
+        "link": "https://www.aitimes.kr/news/articleView.html?idxno=42244",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-09"
+      },
+      {
+        "title": "윤충식 경기도의원 \"열폭주 막는다\" 배터리 화재예방 조례 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261007_0003818117",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-10-09"
+      },
+      {
+        "title": "서울타임즈뉴스 새 창 열림",
+        "link": "https://seoultimes.news/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-09"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-09"
+      },
+      {
+        "title": "달리고, 노 젓고, 걷다 보면 춘천은 낭만 한도 초과 새 창 열림",
+        "link": "https://www.chosun.com/national/weekend/2026/10/10/BDKMNKVNAFCRZDSWDXPLPQXA4E/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-10-09"
+      },
+      {
+        "title": "중앙이코노미뉴스 새 창 열림",
+        "link": "https://www.joongangenews.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-09"
+      },
+      {
+        "title": "\"해킹 아니냐\" 떠들썩... 쿠팡이츠 한밤중 '먹통 사태' [자막뉴스] 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0134_202610101057003174",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-10-10"
+      },
+      {
+        "title": "[뉴스톡톡] 배민은 열고 쿠팡은 '쿠페이'…배달앱 결제전략도 제각각 새 창 열림",
+        "link": "https://www.news1.kr/industry/distribution/6312373",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-10-09"
+      },
+      {
+        "title": "[해설] '한국형 녹색대전환(K-GX)', 경제 대도약 청사진 새 창 열림",
+        "link": "https://www.todayenergy.kr/news/articleView.html?idxno=304019",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-09"
+      },
+      {
+        "title": "\"치킨값 부담 덜어볼까\" 치킨업계, 할인·멤버십 혜택 확대 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261008_0003819509",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-10-10"
+      }
+    ]
   }
 };
