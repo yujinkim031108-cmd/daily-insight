@@ -29315,5 +29315,153 @@ window.historyData = {
         "date": "2026-10-10"
       }
     ]
+  },
+  "2026-10-11": {
+    "macro": [
+      {
+        "title": "중국 소비 부진 속 황금연휴 효과 기대…5중전회에 쏠리는 눈 새 창 열림",
+        "link": "https://www.edaily.co.kr/News/Read?newsId=01400566645611936&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-10-10"
+      },
+      {
+        "title": "美 3년 만에 금리인상…세계경제 미칠 파장은[한상춘의 국제경제 심층 ... 새 창 열림",
+        "link": "https://magazine.hankyung.com/business/article/202610065631b",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-10-11"
+      },
+      {
+        "title": "금리 오르는데…은행 가계대출 57.3%가 변동 금리 , 1년 새 4.3%포인트 늘어 새 창 열림",
+        "link": "https://www.chosun.com/economy/economy_general/2026/10/11/WLYIUSMUVJHUBOEEK6XUIRGVXA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-10-10"
+      },
+      {
+        "title": "美금리 뛰고 물가도 3% 위협…한은, '3연속 인상 vs 10월 동결' 기로 새 창 열림",
+        "link": "https://www.news1.kr/economy/trend/6315050",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-10-11"
+      },
+      {
+        "title": "가계대출 10명 중 6명은 변동금리…1년 새 4.3%p 확대 새 창 열림",
+        "link": "https://www.dailian.co.kr/news/view/1699976/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-10-11"
+      },
+      {
+        "title": "외국인은 ‘반도체 엑소더스’·개인은 ‘미국행’… 韓증시 동반 이탈 새 창 열림",
+        "link": "https://www.segye.com/newsView/20261011506973?OutUrl=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-11"
+      },
+      {
+        "title": "[포토타임] 주유소 기름값 21주째 하락세...휘발유,경유 1800원대 새 창 열림",
+        "link": "https://www.joongang.co.kr/article/25468656",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-10-11"
+      },
+      {
+        "title": "반도체가 만들어낸 착시…가계·기업엔 온기 안 퍼진다[주末머니] 새 창 열림",
+        "link": "https://view.asiae.co.kr/article/2026100810460563324",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-11"
+      },
+      {
+        "title": "룰라는 ‘돈로 독트린’ 막을 보루로 남을까 새 창 열림",
+        "link": "https://h21.hani.co.kr/arti/world/world_general/60024.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-10-11"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-10"
+      },
+      {
+        "title": "윤충식 경기도의원 \"열폭주 막는다\" 배터리 화재예방 조례 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261007_0003818117",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-10-10"
+      },
+      {
+        "title": "1000조 투입하는 K-GX, 철강부터 에너지까지 제조업 판 바꾼다 [헤비급브... 새 창 열림",
+        "link": "https://www.ddaily.co.kr/page/view/2026101110535347792",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-10"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-10"
+      },
+      {
+        "title": "달리고, 노 젓고, 걷다 보면 춘천은 낭만 한도 초과 새 창 열림",
+        "link": "https://www.chosun.com/national/weekend/2026/10/10/BDKMNKVNAFCRZDSWDXPLPQXA4E/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-10-10"
+      },
+      {
+        "title": "롯데 이커머스 30년…연중 최대 할인 ‘온쇼페’가 온다 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12172887",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-10-11"
+      },
+      {
+        "title": "쿠팡 , 잇단 악재에 보상 카드…시험대 오른 위기관리 새 창 열림",
+        "link": "https://www.asiatime.co.kr/article/20261011500029",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-11"
+      },
+      {
+        "title": "배달 플랫폼 소비자 상담 급증…\"5년여간 누적 9천430건 기록\" 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261008146000001?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-10-11"
+      },
+      {
+        "title": "기후 대응과 지역 균형 한번에…220조 어느 동네 투자되나 봤더니[Pick코... 새 창 열림",
+        "link": "https://www.sedaily.com/article/20099983?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-10"
+      },
+      {
+        "title": "\"한국서 배달 만 해도 큰돈 번다\"…외국인 유학생 '바글바글' 새 창 열림",
+        "link": "https://www.hankyung.com/article/202610103376i",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-10-10"
+      },
+      {
+        "title": "“ 배달 앱 수수료 상한제 생기나”…입법 본격화 속도 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12172881",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-10-10"
+      }
+    ]
   }
 };
