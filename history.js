@@ -29463,5 +29463,174 @@ window.historyData = {
         "date": "2026-10-10"
       }
     ]
+  },
+  "2026-10-12": {
+    "macro": [
+      {
+        "title": "'시공사 교체 파동' 상대원2구역 드디어 홍보관 오픈…DL이앤씨‘그라투... 새 창 열림",
+        "link": "https://realty.chosun.com/site/data/html_dir/2026/10/12/2026101201041.html",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "신현송 한은 총재 \"독립적으로 통화정책 수행할 것\" 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261012_0003821968",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-10-11"
+      },
+      {
+        "title": "한은 총재 “7·8월 연속 기준금리 인상으로 궁극적 비용 축소” 새 창 열림",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8683120&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "규제가 서민을 '더 비싼 돈'으로 내몰았다..대부업·P2P 대환 새 창 열림",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=2004577",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-11"
+      },
+      {
+        "title": "'700만' 외국인 잡아라…휴대전화로 5분 만에 카뱅 통장 만든다 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000339337?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-10-11"
+      },
+      {
+        "title": "5% 주담대의 급증, 금리 충격을 '개별 차주'에게만 떠넘길 것인가 [서지... 새 창 열림",
+        "link": "https://www.dailian.co.kr/news/view/1699256/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "환율 , 장중 1333원까지 하락…2년 만에 최저 새 창 열림",
+        "link": "https://www.ajunews.com/view/20261012113748279",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-11"
+      },
+      {
+        "title": "[해외 칼럼] G2 강대국이 약해진 시대, 유럽의 굴기를 위한 조건 새 창 열림",
+        "link": "https://economychosun.com/site/data/html_dir/2026/10/03/2026100300031.html",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "[뉴스 속 경제] 소득보다 더 오른 물가‥미국 통상 정책 영향은? 새 창 열림",
+        "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6857176_37012.html",
+        "source": "MBC",
+        "tier": "S",
+        "date": "2026-10-12"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-11"
+      },
+      {
+        "title": "QR 인증부터 수거 책무까지… 파리·싱가포르·런던 공유자전거 해법 새 창 열림",
+        "link": "https://www.bloter.net/news/articleView.html?idxno=675363",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-11"
+      },
+      {
+        "title": "'준복동'된 이준, 공유자전거 들고 뛰었다… 지쿠 알바 100만뷰 돌파 새 창 열림",
+        "link": "https://www.ddaily.co.kr/page/view/2026101210515859990",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-11"
+      },
+      {
+        "title": "강동구, 암사역 일대 자전거·전동 킥보드 올바른 주차문화 확산 캠페인 새 창 열림",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3718417",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-11"
+      },
+      {
+        "title": "1000조 투입하는 K-GX, 철강부터 에너지까지 제조업 판 바꾼다 [헤비급브... 새 창 열림",
+        "link": "https://www.ddaily.co.kr/page/view/2026101110535347792",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-11"
+      },
+      {
+        "title": "5평 채소 가게에서 온누리상품권 122억 원어치가 결제된 이유는? 새 창 열림",
+        "link": "https://slownews.kr/167684",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-11"
+      },
+      {
+        "title": "현대자동차그룹, '뚜벅이'가 고객 될 때까지…MZ세대와 동행 새 창 열림",
+        "link": "https://www.hankyung.com/article/2026101139581",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-10-11"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-11"
+      },
+      {
+        "title": "[중국 특징주] 테슬라 이어 샤오펑 유럽 자율주행 승인 겨냥...\"현지 맞... 새 창 열림",
+        "link": "https://www.newspim.com/news/view/20261012000096",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-11"
+      },
+      {
+        "title": "[단독] 배민, 산재 9600건 중 정부 보고 3%뿐...“라이더도 의무화해야” 새 창 열림",
+        "link": "https://www.joongang.co.kr/article/25468907",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-10-11"
+      },
+      {
+        "title": "쿠팡이츠 , 새벽 장애 취소 주문 정산금 100% 보상... 16일까지 일괄 지급 새 창 열림",
+        "link": "https://www.insight.co.kr/news/577346",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-11"
+      },
+      {
+        "title": "이디야커피, 오트 음료 취향 공략...에스프레소·콜드브루와 결합 새 창 열림",
+        "link": "https://www.e-science.co.kr/news/articleView.html?idxno=137068",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "'최저 배달 비' 보장한다는데 라이더 들 갸우뚱…소비자 배달 비 부담 줄어... 새 창 열림",
+        "link": "https://www.hankyung.com/article/202610125065g",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-10-11"
+      },
+      {
+        "title": "수수료 2% 대구 공공 배달 앱 새 주인 찾는다 새 창 열림",
+        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3078049",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-11"
+      }
+    ]
   }
 };
