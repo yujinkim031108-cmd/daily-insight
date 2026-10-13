@@ -29632,5 +29632,188 @@ window.historyData = {
         "date": "2026-10-11"
       }
     ]
+  },
+  "2026-10-13": {
+    "macro": [
+      {
+        "title": "\"실적 좋아도 外人 마구 팔았다\"…코스피 200조 매도세 돌릴 방법 없나 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261013_0003823699",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "IMF, 한국 성장률 3.3%로 올렸다…0.7%p 파격 상향 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000339623?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "로버트 홀·마이클 우드퍼드, 세계 중앙은행 금리 모델 토대 세워 새 창 열림",
+        "link": "https://www.junggi.co.kr/news/articleView.html?idxno=38056",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "두 번 올린 한은, 10월엔 숨 고르기?…11월 추가 인상 가능성 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12174299",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "주택담보 대출 금리 석 달 연속 상승… 한 달 새 0.28%p 껑충 새 창 열림",
+        "link": "https://biz.chosun.com/stock/finance/2026/10/13/IE6VRV4ODNG3TDOGSSLBDLF3DQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "\"집값 신고가 행진 속 이상 징후\"…은평·금천에 무슨 일이 새 창 열림",
+        "link": "https://www.edaily.co.kr/News/Read?newsId=01597366645612592&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "'검은 화요일' 코스피 추락에 악 소리…닷새 만에 '7천피→5천피' 새 창 열림",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008795052&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "후티 또 공격, 사우디는 요격…“미국 개입하면 보복” 새 창 열림",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8684228&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "베트남 국회의장 방중 …리창 \"AI·청정에너지 협력 확대 희망\" 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261013_0003823527",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "[하워드 막스 메모] “경제법칙을 폐기시킬까요” 새 창 열림",
+        "link": "https://www.hankyung.com/article/202610064823r",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-10-13"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "천안 스타트업, 우주까지 뚫었다···C-STAR ‘산업대전환’ 시동 새 창 열림",
+        "link": "https://www.khan.co.kr/article/202610131023001",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "지바이크, 대만 기업과 '수소 카고바이크' 공동 개발…생활물류 시장 공... 새 창 열림",
+        "link": "https://www.etnews.com/20261012000312",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "게임뷰 새 창 열림",
+        "link": "https://www.gamevu.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "한국 2차전지 산업의 위기, 이제 무엇을 해야 하는가? 새 창 열림",
+        "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=395158",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "데일리환경 새 창 열림",
+        "link": "https://www.dailyt.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "김해대, 구산고 학생 대상 이틀간 직업진로체험 운영 새 창 열림",
+        "link": "https://www.busan.com/view/busan/view.php?code=2026101214264891267",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-13"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "삼성SDI ‘원통형 LFP’ 내년 상반기 양산…AI 서버 배터리 시장 겨냥 [... 새 창 열림",
+        "link": "https://biz.heraldcorp.com/article/10900765?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "[단독] 배민에서 아이돌 앨범까지...‘리센느’ 컴백 앨범 사전 예약 받... 새 창 열림",
+        "link": "https://www.chosun.com/economy/industry-company/2026/10/13/BL3EENHBY5GRXDINRQSDED4B4Y/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "MBK파트너스 김병주 회장, 홈플러스 사태 해명 위해 국회 증인 출석 결정 새 창 열림",
+        "link": "https://www.gokorea.kr/news/articleView.html?idxno=881217",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "[단독] 배달앱 피해구제 신청 4년 새 3.6배…3건 중 1건 합의 못했다 새 창 열림",
+        "link": "https://www.kukinews.com/article/view/kuk202610120146",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "데일리환경 새 창 열림",
+        "link": "https://www.dailyt.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "\"한집 배달 ·해외 자금 이전 논란\"···'국감 뭇매' 배민, 소비자 고지·... 새 창 열림",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=240721",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "지이코노미 새 창 열림",
+        "link": "https://www.geconomy.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-13"
+      }
+    ]
   }
 };
