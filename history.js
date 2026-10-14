@@ -29815,5 +29815,195 @@ window.historyData = {
         "date": "2026-10-13"
       }
     ]
+  },
+  "2026-10-14": {
+    "macro": [
+      {
+        "title": "연합인포맥스 새 창 열림",
+        "link": "https://news.einfomax.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "IMF, 韓 성장률 0.7%p 올린 3.3% 제시···세계 평균 상향폭 웃돌아 새 창 열림",
+        "link": "https://www.todaykorea.co.kr/news/articleView.html?idxno=407113",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "씨티 \"한은, 10월 '매파적 동결' 후 11월 인상 예상\" 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261014079800002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "데일리환경 새 창 열림",
+        "link": "https://www.dailyt.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "증시 활황이었던 2분기…저축은행 소액 대출 다시 ‘쑥’ 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12175390",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "[단독]서민 ‘보금자리론’ 연체 액 3년 8개월 새 3배로…집 경매로 팔려... 새 창 열림",
+        "link": "https://www.chosun.com/economy/stock-finance/2026/10/14/PEF2XCUZ3NCJLHXZAEQRUU3BRY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "HBN뉴스 새 창 열림",
+        "link": "https://hbnpress.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "“SK이노베이션, 지정학적 위기에 정유부문 마진 증가… 3분기 영업이익... 새 창 열림",
+        "link": "https://weekly.donga.com/3/all/11/6418618/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "반도체 호황에 성장·세수 전망 개선…IMF, 한국 부채비율 대폭 하향 새 창 열림",
+        "link": "https://www.joongang.co.kr/article/25469594",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "英 CFO 절반 이상 \"AI 도입으로 인력 감축 예상\" 새 창 열림",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092171971",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-10-13"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "천안시 C-STAR 기업들, 미래산업 분야서 두각 새 창 열림",
+        "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2306608",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "지바이크, GPS 정밀도 높인 차세대 공유 모빌리티 ‘업그레이드 지쿠 ’... 새 창 열림",
+        "link": "https://www.lawissue.co.kr/view.php?ud=202610140856458697204ead0791_12",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "“외제차 허세도 옛말?”…차 안 사는 청년들 [이코노픽] 새 창 열림",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8684472&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "공원 순찰로봇·산업현장 휴머노이드 실증…AI·로봇 규제 완화 새 창 열림",
+        "link": "https://www.mt.co.kr/economy/2026/10/13/2026101314400117351",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "[함양소식] 전기 이륜차 구매 보조금 신청 접수 등 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261013_0003823970",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "[ 모빌리티 핫이슈] 테슬라 유럽서 'FSD' 이름 버렸다…햇빛 먹고 달리는... 새 창 열림",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706796",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "대구시교육청 조직 개편 실시…미래교육·학생 통학안전 기능 강화 새 창 열림",
+        "link": "https://www.imaeil.com/page/view/2026101315364719090",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-13"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "150년 뉴욕 명물 역사 속으로...센트럴파크 관광 마차 사라진다 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0104_202610141005430398",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "유통업계, 김장철 앞두고 절임배추 사전 예약 판매 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0102_202610141007074669",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "소상공인- 상품개발 마케팅 집중, 물류기업- 보관•통관•운송 맡아 새 창 열림",
+        "link": "https://www.klnews.co.kr/news/articleView.html?idxno=323076",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "[요즘신상] 설탕 대신 깔끔함, 콩은 통째로… 음료도 성분 따진다 새 창 열림",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3439986",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "결제에 이륜차 확대…편의성·친환경 확장 전략 강화한 배민 새 창 열림",
+        "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261012010003309",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "\"월급만으론 못 버틴다\"…직장인 '제2의 명함'으로 뜨는 직업 새 창 열림",
+        "link": "https://www.hankyung.com/article/2026101394681",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "가맹점 2배·회원 4배 증가…구미시 공공 배달 앱 '먹깨비' 급성장 새 창 열림",
+        "link": "https://www.news1.kr/local/daegu-gyeongbuk/6319332",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-10-13"
+      }
+    ]
   }
 };
