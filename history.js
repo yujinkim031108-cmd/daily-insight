@@ -30005,5 +30005,181 @@ window.historyData = {
         "date": "2026-10-13"
       }
     ]
+  },
+  "2026-10-15": {
+    "macro": [
+      {
+        "title": "\"美연준 10월 금리 동결 후 12월 '빅스텝' 0.5%p 인상 가능성\" 새 창 열림",
+        "link": "https://www.news1.kr/world/international-economy/6320905",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "연합인포맥스 새 창 열림",
+        "link": "https://news.einfomax.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "고점서 26%나 하락한 금값…금 ETF 수익률도 '뚝' 새 창 열림",
+        "link": "https://www.imaeil.com/page/view/2026101510125241773",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "코스피 폭락, 바닥인가? \"저가 매수? 두드릴 돌다리 많다\" 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0102_202610150813177730",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "주담대 금리 오르자 중도금 무이자 단지에 쏠린 눈 ‘두산위브 트리니뷰... 새 창 열림",
+        "link": "https://www.edaily.co.kr/News/Read?newsId=03155366645613248&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "[단독] 서민 집 마련 돕는 ‘보금자리론’ 연체 액 3년 8개월 새 3배로 새 창 열림",
+        "link": "https://www.chosun.com/economy/stock-finance/2026/10/15/ZUU3PHW6UVCN5GRB7D226GK22I/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "머니스톰 새 창 열림",
+        "link": "https://www.moneystorm.kr",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "美 물가 충격에 日 닛케이 4% 급락 … 반도체·AI주 투매 새 창 열림",
+        "link": "https://www.newdaily.co.kr/site/data/html/2026/10/15/2026101500106.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "재정 승수 0.2의 경고 … '현금 복지' 퍼붓기엔 재정 곳간 위태롭다 [N-경... 새 창 열림",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/10/15/2026101500072.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "고용률 전국 1위 제주… 구직 7.5% 늘 때 구인 0.6% 그쳐 새 창 열림",
+        "link": "https://www.fnnews.com/news/202610150855434732",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-14"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "공유 전기자전거 한번 탔다가 자동결제 '날벼락' 새 창 열림",
+        "link": "https://www.hankyung.com/article/2026101421471",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "공유 전기자전거 소비자 상담 다발‥자동결제 전 '알림 미제공' 새 창 열림",
+        "link": "https://imnews.imbc.com/news/2026/econo/article/6857893_36932.html",
+        "source": "MBC",
+        "tier": "S",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\"딱 한 번 탔는데 환불 안 돼\"…전기자전거 구독 약관 '도마' 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261014_0003824995",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "지쿠 , 인체공학적 설계와 최신 IoT 결합한 ‘업그레이드 지쿠 ’ 출시 새 창 열림",
+        "link": "https://sports.khan.co.kr/article/202610150001003?pt=nv",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "뒤에서 달려온 무면허 중학생 킥보드 …60대 여성 들이받아 하천 추락 새 창 열림",
+        "link": "https://www.joongang.co.kr/article/25469705",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "베트남, ' 전기이륜차 ' 급성장 속 내연오토바이 판매 두 자릿수 증가세…... 새 창 열림",
+        "link": "https://www.insidevina.com/news/articleView.html?idxno=44269",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "[충북은, 지금] \"채용과 정착, 내일을 잇는 충청권 4개 시·도 통합 일자... 새 창 열림",
+        "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4112353",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-14"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "드류 스타키 “여러 면에서 연기를 스포츠 처럼 대해요. 제 자신과 경쟁... 새 창 열림",
+        "link": "https://www.gqkorea.co.kr/2026/10/15/%eb%93%9c%eb%a5%98-%ec%8a%a4%ed%83%80%ed%82%a4-%ec%a0%80%eb%8a%94-%ec%97%ac%eb%9f%ac-%eb%a9%b4%ec%97%90%ec%84%9c-%ec%97%b0%ea%b8%b0%eb%a5%bc-%ec%8a%a4%ed%8f%ac%ec%b8%a0%ec%b2%98%eb%9f%bc-%eb%8c%80/?utm_source=naver&utm_medium=partnership",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\"하루 설거지만 200번\"…청년들 몰린 '월 120만원' 일자리 [차이나 워치... 새 창 열림",
+        "link": "https://www.hankyung.com/article/202610142597i",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "‘배민 라이더’ 201명 개인정보 노출 정황…로그인 없이 열람 가능 새 창 열림",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8686388&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "[연합뉴스 이 시각 헤드라인] - 10:30 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261015065000011?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "티빙, 정보보호 전문성 강화 위해 국태호 CISO 신규 영입 새 창 열림",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065574007210567",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "신발·화장품도 속속 입점…왜 배달 앱으로 몰리나 [권용훈의 트렌드워치... 새 창 열림",
+        "link": "https://www.hankyung.com/article/202610141869i",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-10-15"
+      }
+    ]
   }
 };
