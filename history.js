@@ -30181,5 +30181,188 @@ window.historyData = {
         "date": "2026-10-15"
       }
     ]
+  },
+  "2026-10-16": {
+    "macro": [
+      {
+        "title": "연합인포맥스 새 창 열림",
+        "link": "https://news.einfomax.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "정부 \"수출 폭증·투자 양호…견조한 경기회복 흐름\" 새 창 열림",
+        "link": "https://www.edaily.co.kr/News/Read?newsId=03266886645613576&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "“그의 말이 시장을 움직인다”…노벨경제학상이 재조명한 ‘중앙은행... 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12177601",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "에너지경제 새 창 열림",
+        "link": "https://www.ekn.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "\"은행권 조달구조 악화 지속…3분기 순이자마진 하락 전망\"<SK證> 새 창 열림",
+        "link": "https://www.news2day.co.kr/article/20261016500019",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "\"5년 전 주담대 받았는데…\" 직격탄 맞은 영끌족 '어쩌나' 새 창 열림",
+        "link": "https://www.hankyung.com/article/2026101547071",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "대한항공, 3분기 매출 5조448억원…분기 기준 역대 최대 새 창 열림",
+        "link": "https://www.cnbizm.com/news/articleView.html?idxno=318226",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "금융위, '증시 충격'에 10명 긴급 소집…세종 가면 'KTX 회의'? [금융당국... 새 창 열림",
+        "link": "https://www.hankyung.com/article/202610165808i",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "코스피 7000→5500 급락에 긴급점검… 정부 “韓 증시 변동성 상대적으... 새 창 열림",
+        "link": "https://www.seoul.co.kr/news/economy/2026/10/16/20261016500054?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "부산 취업자 늘고 실업자 줄었다…9월 고용률 59.4% 새 창 열림",
+        "link": "https://www.news1.kr/local/busan-gyeongnam/6322225",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-10-16"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "[공유자전거 자동결제] \"나도 모르게 또 결제됐네\"…공유 전기자전거 이... 새 창 열림",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=615435",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "‘엘리트 라벨’ 경주 마라톤… 역대 최다 2만명 ‘가을 속으로’ 새 창 열림",
+        "link": "https://www.donga.com/news/Sports/article/all/20261016/134851380/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "[동두천 소식]불법 주·정차 예방 '교통안전 캠페인' 등 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261016_0003828623",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "[새로운 경기교육] 소통 위해 직접 찾아간다…안민석 경기도교육감, 지... 새 창 열림",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363739419",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "베트남, ' 전기이륜차 ' 급성장 속 내연오토바이 판매 두 자릿수 증가세…... 새 창 열림",
+        "link": "https://www.insidevina.com/news/articleView.html?idxno=44269",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "[충북은, 지금] \"채용과 정착, 내일을 잇는 충청권 4개 시·도 통합 일자... 새 창 열림",
+        "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4112353",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-15"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "드류 스타키 “여러 면에서 연기를 스포츠 처럼 대해요. 제 자신과 경쟁... 새 창 열림",
+        "link": "https://www.gqkorea.co.kr/2026/10/15/%eb%93%9c%eb%a5%98-%ec%8a%a4%ed%83%80%ed%82%a4-%ec%a0%80%eb%8a%94-%ec%97%ac%eb%9f%ac-%eb%a9%b4%ec%97%90%ec%84%9c-%ec%97%b0%ea%b8%b0%eb%a5%bc-%ec%8a%a4%ed%8f%ac%ec%b8%a0%ec%b2%98%eb%9f%bc-%eb%8c%80/?utm_source=naver&utm_medium=partnership",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "김인제 서울시의원, 자전거 통행제한·안전교육 확대 조례안 발의 새 창 열림",
+        "link": "https://www.swtvnews.com/news/newsview.php?ncode=1065602226585111",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "‘ 배달 도 탄소중립’…광명시 '친환경 밸류체인' 주목 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261016_0003828671",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "bhc, 신메뉴 '쏘이갈릭킹·커링클·콰삭모짜킹' 연속 흥행…누적 판매 3... 새 창 열림",
+        "link": "https://www.socialvalue.kr/news/view/1065573285351012",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "부산영화제 열기에 배달 주문도 증가…최고 인기 음식은? 새 창 열림",
+        "link": "https://view.asiae.co.kr/article/2026101607574409588",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "광명시, 전기이륜차 배달 건당 약 800원 지역화폐 지급 계획 새 창 열림",
+        "link": "https://www.kmaeil.com/news/articleView.html?idxno=654569",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "[전격시사] 양경규 정의당 대표 - “의석이 없지, 입이 없나? 극단적 정... 새 창 열림",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8687384&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "제주도, 공공 배달 앱 운영사 공모…19~22일 제안서 접수 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261016_0003828673",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-10-15"
+      }
+    ]
   }
 };
