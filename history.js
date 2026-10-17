@@ -30364,5 +30364,195 @@ window.historyData = {
         "date": "2026-10-15"
       }
     ]
+  },
+  "2026-10-17": {
+    "macro": [
+      {
+        "title": "미국 국채금리 급락…한국 국고채도 하락, 다음 주 전망은 새 창 열림",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=16249656",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "韓 증시 ‘끔찍한 폭락’...원인은?[위클리 이슈] 새 창 열림",
+        "link": "https://magazine.hankyung.com/business/article/202610154507b",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "은행권 주담대 변동 금리 상단 6% ↑...차주 부담 커진다 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0102_202610171002577591",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "[다음주 경제] 기준금리 3연속 인상할까…생산자 물가도 발표 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261017011700002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "李 대통령 \"장기간 고금리 시대…정부가 연체채권 매입\" [많이 본 경제기... 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000340214?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "두 번 올린 금리, 10월엔 멈추나… 한은 '추가 인상' 고심 새 창 열림",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172161",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "오늘(17일) 금시세 하락…순금 1돈 78만6000원 새 창 열림",
+        "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=90981",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "국내 기름값 22주 연속 하락…휘발유·경유 1천800원대 지속 새 창 열림",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8688160&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "美 재정적자 2조달러, 2021년 이후 최대…재무부 발표 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261017018600072?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "[특파원 시선] 남아시아서 정부 쥐고 흔드는 Z세대의 존재감 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261016132500104?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-10-16"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "2억 원짜리 국내차 상륙… GV90이 마이바흐에 도전장을 내다 [조두현의... 새 창 열림",
+        "link": "https://www.hankyung.com/article/202610078935i",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "‘엘리트 라벨’ 경주 마라톤… 역대 최다 2만명 ‘가을 속으로’ 새 창 열림",
+        "link": "https://www.donga.com/news/Sports/article/all/20261016/134851380/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "킥보드 에서 자전거까지… 안산시 보행 방해하는 이동수단 안전관리 근거... 새 창 열림",
+        "link": "https://www.thereport.co.kr/news/articleView.html?idxno=92377",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "광산구의회, '서울·하남 비교견학'... 복지·경제 현안 해법 모색 새 창 열림",
+        "link": "https://www.newsworker.co.kr/news/articleView.html?idxno=509038",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "오토바이도 예외 없다… 이륜차사고 가 부르는 엄중한 형사 책임 새 창 열림",
+        "link": "https://www.ppss.kr/news/articleView.html?idxno=315844",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "충청권 4개 시도 손잡은 '내일이음 취업박람회' 성료 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261016125400064?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "'안산시 무단 방치 전기 공유자전거 견인' 근거 마련한다 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261016_0003829230",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-10-17"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "[공유경제 ①] '공유'는 사라지고 임대업만 남았다 새 창 열림",
+        "link": "https://www.eroun.net/news/articleView.html?idxno=92659",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "올리브영에 도전장 '제2 뷰티숍' 속속…K뷰티 유통전 확대 새 창 열림",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172182",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "\"끈 없는 귀마개·붕어빵 담요 팝니다\"…찬바람에 월동준비 나선 편의점 새 창 열림",
+        "link": "https://www.edaily.co.kr/News/Read?newsId=04516566645613576&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "[주말용] “보상 신청률 14%”…티빙, 보안 책임자 선임에도 신뢰 회복... 새 창 열림",
+        "link": "https://www.sentv.co.kr/article/view/sentv202610160162",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "오토바이도 예외 없다… 이륜차 사고가 부르는 엄중한 형사 책임 새 창 열림",
+        "link": "https://www.ppss.kr/news/articleView.html?idxno=315844",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "도둑질하려고 취업한 알바생…부산·울산 편의점들 당했다 새 창 열림",
+        "link": "https://news.jtbc.co.kr/article/NB12323455?influxDiv=NAVER",
+        "source": "JTBC",
+        "tier": "A",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "\"먹고 싶은 건 못 참겠고 돈은 아깝고\"…美 Z세대 덮친 ' 배달 죄책감' 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261016_0003829788",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-10-17"
+      }
+    ]
   }
 };
