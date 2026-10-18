@@ -30554,5 +30554,174 @@ window.historyData = {
         "date": "2026-10-17"
       }
     ]
+  },
+  "2026-10-18": {
+    "macro": [
+      {
+        "title": "중간선거 앞 경제지표 악재 속출에 트럼프·공화당 궁지 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261018012700009?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-10-18"
+      },
+      {
+        "title": "[인터뷰] 최진영 미래운용 본부장 \"우량채로 이자수익 확보할 때\" 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261016112700008?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "달러 대비 원화 환율 2년 1개월 만에 최저...원화 강세에 달러·엔화예금... 새 창 열림",
+        "link": "https://www.chosun.com/economy/economy_general/2026/10/18/3XTKHXUCW5FDBEJ7RCDX5K35UY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "[이번주 경제] 한은, 기준금리 인상 이어갈까…생산자물가도 주목 새 창 열림",
+        "link": "https://www.news1.kr/economy/trend/6323475",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-10-18"
+      },
+      {
+        "title": "토스·카카오·케이뱅크, 지방은행과 공동 대출 확대…개인 넘어 기업금... 새 창 열림",
+        "link": "https://www.viva100.com/article/20261016500659",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-18"
+      },
+      {
+        "title": "대출 이자 집주인 7년간 66% 늘 때 전세 가구 144% 뛰어 새 창 열림",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8688379&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "달러 - 원 환율 1340원대로 뚝…엔화는 19년 만에 최저 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000340576?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "[사설] 시장에서 의심받기 시작한 AI생태계 우리경제 악영향 예고 새 창 열림",
+        "link": "https://www.asiatime.co.kr/article/20261018500025",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "“살림은 엉망인데, 한국 경제 체력 살아난다?”…잠재 성장률 40년만에... 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12178679",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-10-18"
+      },
+      {
+        "title": "올해 취업자 증가 6년 만에 최저 위기…정부 전망치 ‘15만명’도 못 미... 새 창 열림",
+        "link": "https://biz.chosun.com/policy/policy_sub/2026/10/18/AT2ADB55PZEIPFCJHQBLMBCUZA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-10-17"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "[공유경제 ①] '공유'는 사라지고 임대업만 남았다 새 창 열림",
+        "link": "https://www.eroun.net/news/articleView.html?idxno=92659",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "지쿠 , IoT 기술 결합된 공유 전동킥보드 출시…서울에 4000대 우선 도입 새 창 열림",
+        "link": "https://news.tvchosun.com/site/data/html_dir/2026/10/17/2026101790039.html",
+        "source": "TV조선",
+        "tier": "B",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "자전거인 듯 오토바이인 듯… 도심 속 시한폭탄 불법 개조 ‘자토바이’ 새 창 열림",
+        "link": "https://weekly.donga.com/3/all/11/6421408/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "안산시의회, 이동 수단 안전 강화·커피찌꺼기 재활용 조례 안 가결 새 창 열림",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160284479655153",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-17"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "안산시의회, 이동수단 안전 강화·커피찌꺼기 재활용 조례안 가결 새 창 열림",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160284479655153",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "“동네마트 배달 도 1시간에”…배민, 전국 5천곳 퀵커머스 확대 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12178681",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "강점은 카톡, 관건은 외부 연동… 카카오 AI의 수익화 시험대 새 창 열림",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172188",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "[주말용] “보상 신청률 14%”…티빙, 보안 책임자 선임에도 신뢰 회복... 새 창 열림",
+        "link": "https://www.sentv.co.kr/article/view/sentv202610160162",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "광명시, 친환경 배달 모델 전국 모범사례 선정…탄소중립 실천 확대 새 창 열림",
+        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072704",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "도둑질하려고 취업한 알바생…부산·울산 편의점들 당했다 새 창 열림",
+        "link": "https://news.jtbc.co.kr/article/NB12323455?influxDiv=NAVER",
+        "source": "JTBC",
+        "tier": "A",
+        "date": "2026-10-17"
+      },
+      {
+        "title": "공공 배달플랫폼 가맹 서산 소상공인에게 배달 비 등 지원 추진 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261016098400063?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-10-17"
+      }
+    ]
   }
 };
