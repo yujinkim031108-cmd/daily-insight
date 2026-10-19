@@ -30723,5 +30723,181 @@ window.historyData = {
         "date": "2026-10-17"
       }
     ]
+  },
+  "2026-10-19": {
+    "macro": [
+      {
+        "title": "프랑스 경제, 무슨 문제인가…50년 재정적자에 돈 풀 여력 없다 새 창 열림",
+        "link": "https://www.news1.kr/world/international-economy/6324238",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-10-18"
+      },
+      {
+        "title": "中 CXMT 매출 최대 7배 폭증 예고…삼성, ‘차세대 HBM’ TSMC와 함께 만... 새 창 열림",
+        "link": "https://www.sedaily.com/article/20103153?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "[이슈PICK+] 韓 잠재성장률, 40년 만에 2년 연속 반등 전망···반도체 의... 새 창 열림",
+        "link": "https://www.todaykorea.co.kr/news/articleView.html?idxno=407300",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-18"
+      },
+      {
+        "title": "부동산 쏠림에 대출규제…상위 0.1% 순자산 4년만에 174조↑ 새 창 열림",
+        "link": "https://www.sedaily.com/article/20103144?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "\"매월 신용 개선 살펴 조정\"…제주은행표 포용금융 '다이나믹 금리인하... 새 창 열림",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=883954",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-18"
+      },
+      {
+        "title": "전세가구 이자 7년새 2.4배로 새 창 열림",
+        "link": "https://www.donga.com/news/Economy/article/all/20261018/134862510/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-10-18"
+      },
+      {
+        "title": "이형일 \" 환율 , 펀더멘털 찾는 중...한미스와프, 의미있고 필요\" 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0102_202610191052563281",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "증시에 쏟아붓고 채권 보유기준 '106조' 펑크 낸 국민연금 … 국채 금리... 새 창 열림",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/10/19/2026101900080.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "이형일 \"올해 성장률 3% 중반 전망…잠재 성장률 반등 임박\" 새 창 열림",
+        "link": "https://www.hankyung.com/article/2026101900767",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "프린스턴 박사도 2300곳서 퇴짜…미국 고용시장 ‘얼어붙은 취업문’ 새 창 열림",
+        "link": "https://www.dt.co.kr/article/12089804?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-18"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-18"
+      },
+      {
+        "title": "공유 모빌리티 이용자 83.1% “서비스 사라지면 일상 불편” 새 창 열림",
+        "link": "https://biz.chosun.com/it-science/ict/2026/10/19/2ONCESAF3BDXBLW4TLW4PRIKZA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "대전 공유킥보드 ·자전거 지정주차제 시행...위반 땐 패널티 새 창 열림",
+        "link": "https://www.wikitree.co.kr/articles/1167288",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "최다 산재 한전MCS… 최다 사망 한국전력 하청업체 새 창 열림",
+        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3079048",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-18"
+      },
+      {
+        "title": "첫 '충청권 내일이음 취업박람회' 성료 새 창 열림",
+        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2446794",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-18"
+      },
+      {
+        "title": "[민선 9기 취임 100일]이기형 김포시장 \"시민 목소리 정책으로…김포 변... 새 창 열림",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363739702",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-18"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-18"
+      },
+      {
+        "title": "[생생뉴스] 계속되는 트램 논란! 무엇이 문제인가? 새 창 열림",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8688867&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "[단독] 배민 모회사 “韓서 위험 커져”…과징금 예상 손실 2900억 반영 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12179361",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "“배달음식에 월40만원, 내가 너무 한심”…미국 Z세대 번지는 ‘배달 ... 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12178851",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "머니투데이방송 새 창 열림",
+        "link": "https://news.mtn.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-18"
+      },
+      {
+        "title": "광명시 친환경 배달 모델, K-GX 수송 분야 모범사례 소개 새 창 열림",
+        "link": "https://www.globalepic.co.kr/view.php?ud=202610161507267895f69d33b22_29",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-18"
+      },
+      {
+        "title": "저점매수냐, 등가교환이냐…아, 결혼 어렵다[창간기획 춘추정병시대] 새 창 열림",
+        "link": "https://www.khan.co.kr/article/202610190630001",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-10-18"
+      },
+      {
+        "title": "[단독]세금 떼였다 전액 환급받은 영세사업자 95.9%는 연 2000만원 이하 ... 새 창 열림",
+        "link": "https://www.khan.co.kr/article/202610181626001",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-10-19"
+      }
+    ]
   }
 };
