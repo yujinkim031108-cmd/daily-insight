@@ -30899,5 +30899,188 @@ window.historyData = {
         "date": "2026-10-19"
       }
     ]
+  },
+  "2026-10-20": {
+    "macro": [
+      {
+        "title": "채권시장 참여자 93% \"10월 금통위서 기준금리 동결 예상\" 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261020070400008?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "트럼프·공화당, 벌써부터 ‘패배 책임론’ 내홍 새 창 열림",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8690034&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "우리은행, 가입 기간 3·6·9개월 '우리 369 정기예금' 2조 원 한도 특판 새 창 열림",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=254012",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-20"
+      },
+      {
+        "title": "官治에 놀아난 국민연금 … '李 인기몰이' 증시 부양책에 무너진 국민 ... 새 창 열림",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/10/20/2026102000046.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "분양가 상승세에 기분양 단지 주목… '이천역 예미지 센트럴파크' 공급 새 창 열림",
+        "link": "https://magazine.hankyung.com/business/article/202610202745b",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "李 “전작권, 美 선의는 고맙지만 반드시 조기에 환수할 것” 새 창 열림",
+        "link": "https://www.joongang.co.kr/article/25470996",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "서울 주택산업 경기전망 반등…중저가 지역 가격 상승세 영향 새 창 열림",
+        "link": "https://www.edaily.co.kr/News/Read?newsId=03342326645614888&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-10-20"
+      },
+      {
+        "title": "서울 주택사업 전망 110 돌파…수도권 기준선 회복 새 창 열림",
+        "link": "https://www.fnnews.com/news/202610200932291617",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "호남 반도체 1350조, 한미 갈등 부르나 새 창 열림",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172373",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "호남·제주 하반기 고용조사…4.4만가구 대상 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261020_0003832903",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-10-20"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "공유 모빌리티 사라지면?···이용자 83.1% “일상 차질” 새 창 열림",
+        "link": "https://sports.khan.co.kr/article/202610192336003?pt=nv",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-10-20"
+      },
+      {
+        "title": "대전시, 공유 자전거· 킥보드 지정 주차구역 운영 새 창 열림",
+        "link": "https://tjmbc.co.kr/NewsArticle/868364",
+        "source": "MBC",
+        "tier": "S",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "면허 없으면 못 타는데 빌릴 순 있다? 공유 킥보드 '위험한 모순' [추적+... 새 창 열림",
+        "link": "https://www.thescoop.co.kr/news/articleView.html?idxno=311973",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "최청환 화성시의회 부위원장, 무단 방치 전동킥보드 관리 강화 조례 개... 새 창 열림",
+        "link": "https://www.tournews21.com/news/articleView.html?idxno=146124",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "디지틀조선일보 새 창 열림",
+        "link": "https://digitalchosun.dizzo.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "충청권 4개 시도 첫 광역 취업박람회…249개 기업·구직자 2032명 참여 새 창 열림",
+        "link": "https://www.aflnews.co.kr/news/articleView.html?idxno=330011",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "최청환 부위원장, 개인형 이동장치 관리 조례 안 상임위 심사 통과 새 창 열림",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=2007792",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-19"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "CATCH NEWS 새 창 열림",
+        "link": "https://www.catchnews.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "아들의 당부, 마루 뜯은 어머니... 윤동주 시집 탄생의 주역 새 창 열림",
+        "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003275592&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+        "source": "오마이뉴스",
+        "tier": "C",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "쿠팡이츠 , 외식 브랜드 협업 확대…와우회원 할인 강화 새 창 열림",
+        "link": "https://www.thepowernews.co.kr/view.php?ud=202610201027255966de3f0aa1be_7",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "[단독] 누군가 당신의 리뷰를 팔고 있다…쿠팡·올영 덮친 ‘AI크롤링’ 새 창 열림",
+        "link": "https://www.kmib.co.kr/article/20261019502174",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "[백광엽 칼럼] 유럽, 복지국가라는 이름의 '가불 국가' 새 창 열림",
+        "link": "https://www.hankyung.com/article/2026101914031",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "\"주문 늘어도 남는게 없어\"...치킨 점주, '할인전' 뿔났다 새 창 열림",
+        "link": "https://www.newsway.co.kr/news/view?ud=2026101915435603814",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-20"
+      }
+    ]
   }
 };
