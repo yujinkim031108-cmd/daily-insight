@@ -31082,5 +31082,195 @@ window.historyData = {
         "date": "2026-10-20"
       }
     ]
+  },
+  "2026-10-21": {
+    "macro": [
+      {
+        "title": "연합인포맥스 새 창 열림",
+        "link": "https://news.einfomax.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-20"
+      },
+      {
+        "title": "“김치 먹기 겁나네” 생산자 물가 상승…배추값 43% ‘껑충’ 새 창 열림",
+        "link": "https://www.kukinews.com/article/view/kuk202610210044",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "서울 오피스 공실 빠르게 해소…강남·여의도는 빈자리 1%대 새 창 열림",
+        "link": "https://www.hankyung.com/article/202610215507r",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "주담대 금리 상단 6%대 중반 돌파..기준금리 동결 전망에도 이자 부담 가... 새 창 열림",
+        "link": "https://kpenews.com/View.aspx?No=4272506",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-20"
+      },
+      {
+        "title": "KB국민은행, 비대면 가계대출 개편…코어뱅킹 현대화 1단계 마무리 새 창 열림",
+        "link": "https://www.apnews.kr/news/articleView.html?idxno=3052303",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-20"
+      },
+      {
+        "title": "[경제 포커스] 韓 금리 인상에 취약한 이유는… 변동금리 많은 선진국 ... 새 창 열림",
+        "link": "https://biz.chosun.com/policy/policy_sub/2026/10/20/6XYMCDRT6ZCIXNKXF2GERCNCN4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "라온신문 새 창 열림",
+        "link": "https://www.raonnews.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-20"
+      },
+      {
+        "title": "주식·채권 동반 급락에… ‘알아서 굴려준다’던 TDF의 배신 새 창 열림",
+        "link": "https://biz.chosun.com/stock/stock_general/2026/10/21/IQNNSP3Z2NHLJFSXM7CGVI2PDQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "신현송 한국은행 총재 “원·달러 환율, 추가 하락 여지 있다” [이주의... 새 창 열림",
+        "link": "https://magazine.hankyung.com/business/article/202610140982b",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "취업 한파·초단기 근로… 청년, 고용 ‘이중절벽’에 갇혔다 새 창 열림",
+        "link": "https://biz.heraldcorp.com/article/10909497?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-20"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-20"
+      },
+      {
+        "title": "비건뉴스 새 창 열림",
+        "link": "https://www.vegannews.co.kr",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-20"
+      },
+      {
+        "title": "신예 한예서·이세빈·허소윤·최미금, 태원아트미디어 전속계약 새 창 열림",
+        "link": "https://star.ytn.co.kr/_sn/0117_202610211101182556",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "대전시, 공유 자전거· 킥보드 지정 주차구역 운영 새 창 열림",
+        "link": "https://tjmbc.co.kr/NewsArticle/868364",
+        "source": "MBC",
+        "tier": "S",
+        "date": "2026-10-20"
+      },
+      {
+        "title": "익산시의회, '개인형 이동장치 이용 안전 조례 안' 상임위 통과 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261020099400055?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "IT동아 새 창 열림",
+        "link": "https://it.donga.com/",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-10-20"
+      },
+      {
+        "title": "[보령소식] '2026 취·창업박람회' 성황리 마무리…현장 합격 59명 외 새 창 열림",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1416801",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-20"
+      },
+      {
+        "title": "최청환 부위원장, 개인형 이동장치 관리 조례 안 상임위 심사 통과 새 창 열림",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=2007792",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-20"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-20"
+      },
+      {
+        "title": "[모빌리티핫이슈] \"진짜 날았다\" 테슬라 로드스터 신드롬…日 노리는 폭... 새 창 열림",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708528",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-20"
+      },
+      {
+        "title": "통신판매중개업자, 입점업체에 농수산물 원산지 표시 제도 안내해야 새 창 열림",
+        "link": "https://biz.chosun.com/policy/policy_sub/2026/10/21/IWOZCBL3TBDQPOIWOJFZOWP7C4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-10-20"
+      },
+      {
+        "title": "한국인 가장 많이 쓰는 페이 앱은 '삼성 월렛'…월 이용자 1887만 명 새 창 열림",
+        "link": "https://www.news1.kr/it-science/internet-platform/6326640",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "따릉이 포인트 4배 더…폴바셋·파바, 텀블러 혜택도 2배 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000341038?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-10-20"
+      },
+      {
+        "title": "광명시장, 탄소중립 확산 아이디어 기후부 장관에 건의 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261020_0003834072",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "전쟁과 이주의 아픔...연극 '프라우드 메리' 새 창 열림",
+        "link": "https://www.abcn.kr/news/articleView.html?idxno=93338",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-20"
+      },
+      {
+        "title": "프랜차이즈 치킨 ‘자사 앱’ 주문 손짓…동네 사장님들에도 좋을까? 새 창 열림",
+        "link": "https://www.hani.co.kr/arti/economy/consumer/1283337.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-10-20"
+      }
+    ]
   }
 };
