@@ -31272,5 +31272,174 @@ window.historyData = {
         "date": "2026-10-20"
       }
     ]
+  },
+  "2026-10-22": {
+    "macro": [
+      {
+        "title": "“560만원이던 공사비가 1300만원으로”…서울 정비사업 몸살 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12182566",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "[전문] 한국은행 금융통화위원회 10월 통화정책방향 결정문 새 창 열림",
+        "link": "https://www.news1.kr/economy/trend/6328320",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "토큰포스트 새 창 열림",
+        "link": "https://www.tokenpost.kr",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "[MD포커스] ‘물가·주택가격’ 상승에도 금리 멈춘 한은…11월 인상에 ... 새 창 열림",
+        "link": "https://www.mydaily.co.kr/page/view/2026102210552212334",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "상호금융 ‘집값 70% 넘게 빌린’ 주담대 18조…반년 새 24% 급증 새 창 열림",
+        "link": "https://www.edaily.co.kr/News/Read?newsId=04936406645615216&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "스마트투데이 새 창 열림",
+        "link": "https://www.smarttoday.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "금통위원 전원 동결 택했지만⋯\"3% 물가·금융안정 리스크 여전\" [10월 금... 새 창 열림",
+        "link": "https://www.etoday.co.kr/news/view/2638810",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "당진시민 내년 설 전 30만원씩 받나…조례안 시의회 상임위 통과 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261022059100063?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-10-21"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "쏘카, K-MaaS 부름 받다 새 창 열림",
+        "link": "https://www.mt.co.kr/industry/2026/10/22/2026102119455737423",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "차세대 라이징 스타 4인 한예서·이세빈·허소윤·최미금···태원아트미... 새 창 열림",
+        "link": "https://sports.khan.co.kr/article/202610220810003?pt=nv",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "고양시, 올바른 킥보드 문화 확산…이용자·보행자·차량 안전 최우선 새 창 열림",
+        "link": "https://www.edaily.co.kr/News/Read?newsId=02843766645615544&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "[베트남 주간 이슈] SK 원유 터지고 UOB VN성장률 9.2% 상향…베트남, 모... 새 창 열림",
+        "link": "https://www.insidevina.com/news/articleView.html?idxno=44319",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "\"휠체어 탄 우리, 입고 싶은 대로 입는다\" 제4회 '걸즈온휠즈' 토크콘서... 새 창 열림",
+        "link": "https://www.ablenews.co.kr/news/articleView.html?idxno=234077",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "[지방의회 내가 뛴다] 화성시의회 김상균 도시건설위원장 새 창 열림",
+        "link": "https://www.kyeongin.com/article/1773098",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-21"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "고양시, 전동킥보드 무단 방치 막는다.. ‘주차·단속’ 강화 새 창 열림",
+        "link": "https://sports.donga.com/region/article/all/20261022/134886948/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "'수수료 0%' 상생 외치던 배달의민족 , 뒤로는 15% 폭리…전통시장·소비... 새 창 열림",
+        "link": "https://www.imaeil.com/page/view/2026102210290924141",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "쿠팡 이어 또…피해 보상인가 판촉인가 새 창 열림",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172458",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "넷플릭스·배민·쿠팡, 생성형 AI도 인정한 플랫폼 강자…2위 경쟁은 '혼... 새 창 열림",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065596033335541",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "광명 친환경 배달 , 전국으로 확대되나…정부와 협력 새 창 열림",
+        "link": "https://www.sentv.co.kr/article/view/sentv202610210172",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "주병기 \"대기업 역할 부정 아냐\"…한화 조사정보 유출 의혹엔 \"감찰해야... 새 창 열림",
+        "link": "https://www.news1.kr/economy/trend/6327794",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "바이라인네트워크 새 창 열림",
+        "link": "https://byline.network",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-22"
+      }
+    ]
   }
 };
