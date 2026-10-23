@@ -31441,5 +31441,188 @@ window.historyData = {
         "date": "2026-10-22"
       }
     ]
+  },
+  "2026-10-23": {
+    "macro": [
+      {
+        "title": "일 9월 소비자물가 2% 넘어 \"12월 금리 인상 가능성\" 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0104_202610231024003367",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "한은 총재 \"2022년에 올린 3.5%가 최고 금리\" 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000341748?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "[2026 국정감사] 신현송 총재 \"올해·내년 성장률 전망 상향…내년 물가... 새 창 열림",
+        "link": "https://www.ajunews.com/view/20261023105930643",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "신현송 \"韓 잠재성장, AI 투자로 변곡점 맞아⋯연말 한은 추정치 공개\" ... 새 창 열림",
+        "link": "https://www.etoday.co.kr/news/view/2639298",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "이억원 금융위원장 \" 가계대출 총량 규제 필요…은행 자율관리 방식은 보... 새 창 열림",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=746662",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "국내은행 대출 연체 율 0.69%…9년 10개월 만에 최고 새 창 열림",
+        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=88088",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "산업연 “최고가격제 시행으로 보통휘발유 상대가격 하락…재정 부담 함... 새 창 열림",
+        "link": "https://www.khan.co.kr/article/202610231104001",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "솔리다임 상장 중단에도…미국발 반도체 충격에 코스피·코스닥 동반 하... 새 창 열림",
+        "link": "https://www.donga.com/news/Economy/article/all/20261023/134894938/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "신현송 “韓 잠재 성장률 중요 변곡점 … 연말 추정치 공개” [2026 국정감... 새 창 열림",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/10/23/2026102300116.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "[The View]임금 체계 개편, 채용 시장에 불어올 칼바람 새 창 열림",
+        "link": "https://view.asiae.co.kr/article/2026102207432989809",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-22"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "쏘카, K-MaaS 부름 받다 새 창 열림",
+        "link": "https://www.mt.co.kr/industry/2026/10/22/2026102119455737423",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "질라이트, KPEX 2026서 다중 파장 활용한 과학수사 감식용 광원 솔루션 ... 새 창 열림",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1815860",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "차세대 라이징 스타 4인 한예서·이세빈·허소윤·최미금···태원아트미... 새 창 열림",
+        "link": "https://sports.khan.co.kr/article/202610220810003?pt=nv",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "고양시, 전동 킥보드 무단 방치 막는다…PM 주차구역 104곳 운영 새 창 열림",
+        "link": "https://www.mt.co.kr/policy/2026/10/22/2026102215473561555",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "[공기업탐방] 정용식 TS 이사장, 콜택시 사고 줄이고 미래차 안전 검증... 새 창 열림",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=2009120",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\"휠체어 탄 우리, 입고 싶은 대로 입는다\" 제4회 '걸즈온휠즈' 토크콘서... 새 창 열림",
+        "link": "https://www.ablenews.co.kr/news/articleView.html?idxno=234077",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-22"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "고양시, 전동킥보드 무단 방치 막는다…PM 주차구역 104곳 운영 새 창 열림",
+        "link": "https://www.mt.co.kr/policy/2026/10/22/2026102215473561555",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "배민·외식업중앙회, K-장 웰니스 요리대회 성료…수상 레시피 무료 보... 새 창 열림",
+        "link": "https://www.etnews.com/20261023000112",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "“라이더들, 정기소득 있어도 대출 어려운데…” [현장영상] 새 창 열림",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8692624&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "고물가에 근거리 장보기 수요↑…SSM업계, 신선식품·배송 경쟁 후끈 새 창 열림",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=323127",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "[공기업탐방] 정용식 TS 이사장, 콜택시 사고 줄이고 미래차 안전 검증... 새 창 열림",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=2009120",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "안도걸 국회의원 “ 라이더 실제 소득 금융권서 인정해야”…표준 금융... 새 창 열림",
+        "link": "https://gj.newdaily.co.kr/site/data/html/2026/10/23/2026102300001.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "﻿﻿﻿[기고] 배달 수수료 상한제, 기대와 우려 사이 새 창 열림",
+        "link": "https://www.hankyung.com/article/202610230679O",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-10-22"
+      }
+    ]
   }
 };
