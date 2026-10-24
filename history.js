@@ -31624,5 +31624,188 @@ window.historyData = {
         "date": "2026-10-22"
       }
     ]
+  },
+  "2026-10-24": {
+    "macro": [
+      {
+        "title": "오늘(24일) 금시세 하락…순금 1돈 금값 74만8000원 새 창 열림",
+        "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=91724",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "신현송 \"매 금통위 마다 전제 없이 데이터 참고해 결정\" 새 창 열림",
+        "link": "https://www.edaily.co.kr/News/Read?newsId=05822006645615872&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "한국은행, 기준금리 3% 유지…물가 불안에 인상 여지 남겨둬 새 창 열림",
+        "link": "https://www.nongmin.com/article/20261023500690",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "2년 만에 최저치까지 떨어진 원·달러…\"1300원 아래도 가능\" 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261023_0003839140",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "금리 0.5%p 오르면… 대출 이자 얼마 더 내나[긴축 청구서①] 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261023_0003838242",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "소득은 적은데 빚부터…갚을 힘 잃어가는 청년들 새 창 열림",
+        "link": "https://www.mt.co.kr/finance/2026/10/24/2026102216141967460",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "뉴스웍스 새 창 열림",
+        "link": "https://www.newsworks.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "중동 다시 D-데이…트럼프 \"재타격 할수도\" 이란 \"레드라인없다\" 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261024021500009?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "미 북한 전문가 “김정은 인생 최고 시기···우크라이나 전쟁으로 2~3... 새 창 열림",
+        "link": "https://weekly.khan.co.kr/article/202610241014001",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "\"AI 해고, 경기둔화시 가속…11명 중 1명 실직\" 골드만의 경고 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261023_0003838830",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-10-24"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "IT동아 새 창 열림",
+        "link": "https://it.donga.com/",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "지쿠 X기후에너지환경부, 지쿠 자전거 타면 탄소중립포인트 ‘4배 적립’ 새 창 열림",
+        "link": "https://sports.khan.co.kr/article/202610240146013?pt=nv",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "(2026 국감) 전동 킥보드 주차관리 비용 지자체만 부담…\"업체도 분담해... 새 창 열림",
+        "link": "https://www.electimes.com/news/articleView.html?idxno=373837",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "프랑스 등 유럽 6개국서 주말 추가 시위…대규모 충돌 우려 새 창 열림",
+        "link": "https://www.dailian.co.kr/news/view/1705120/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "SK브로드밴드 새 창 열림",
+        "link": "https://news.skbroadband.com",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "화성시의회, 제255회 임시회 마무리 새 창 열림",
+        "link": "https://gg.newdaily.co.kr/site/data/html/2026/10/23/2026102300263.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-10-23"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "뉴욕시, 150년 전통 센트럴파크 관광마차 운행 전면 금지…2028년 6월 시... 새 창 열림",
+        "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=396028",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "[연합뉴스 이 시각 헤드라인] - 10:30 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261024020700011?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "KB Pay 리브메이트 오늘의 퀴즈 정답 10월 24일 새 창 열림",
+        "link": "https://www.bntnews.co.kr/article/view/bnt202610240001",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "[대전소식]농협대전본부-대전시, 쌀 소비 촉진 캠페인 등 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261023_0003838837",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "기름값 무서워 전기 차 탄다…인도, 소비 대목에 'EV 품귀' 심화 새 창 열림",
+        "link": "https://www.newspim.com/news/view/20261023000790",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "역삼 연쇄방화 속 작은 영웅들…족발집 사장도, 라이더 도 나섰다 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261023185200004?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "\"기술탈취·상속· 배달 앱\"…중기 국감서 집중 포화(종합) 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261023_0003839162",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-10-23"
+      }
+    ]
   }
 };
