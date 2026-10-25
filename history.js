@@ -31807,5 +31807,167 @@ window.historyData = {
         "date": "2026-10-23"
       }
     ]
+  },
+  "2026-10-25": {
+    "macro": [
+      {
+        "title": "정부는 ‘닥공’ 외치는데…“지을수록 적자” 폐업건설사 역대 최고 새 창 열림",
+        "link": "https://www.joongang.co.kr/article/25472529",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "한 번 쉬고 12월 다시 올리나…美 연준 ‘긴축 속도’에 쏠린 눈 새 창 열림",
+        "link": "https://www.chosun.com/economy/int_economy/2026/10/25/BIZ7365TMZEGLP7TJUUKDDLWQ4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "[주간증시전망] ‘역대급 실적’ 기대에도 못 웃는 증시…AI 불신에 수급... 새 창 열림",
+        "link": "https://biz.chosun.com/stock/stock_general/2026/10/25/J4SSA6WFLBELZCHWULHN5VSKUE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "2년 연속 3%대 성장 전망…내후년까지 물가 부담, 고금리 길어진다 새 창 열림",
+        "link": "https://www.news1.kr/economy/trend/6330448",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "집값 상승에 가계대출 다시 들썩…5대은행 이달 2.6조 증가 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000341949?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "\"학자금 대출 만 1500만원\" 월세는? 생활비는?...버거운 청년들 새 창 열림",
+        "link": "https://www.mt.co.kr/economy/2026/10/25/2026102413595811650",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "외국인 40兆 매도 폭탄에도 원화는 강세 … 환율 1300원선 깨질까 새 창 열림",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/10/25/2026102500023.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "삼성바이오로직스 강세, 알테오젠 등 약세…양대지수, 뉴욕증시 하락국... 새 창 열림",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=619030",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "북 \"불패의 북중 친선\" 과시...남북 대화는 '침묵' 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0101_202610251033185234",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "\"월세만 내도 통장 텅텅\" 연애도 결혼도 사치...우울한 20대 새 창 열림",
+        "link": "https://www.mt.co.kr/economy/2026/10/25/2026102413422057862",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-10-24"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "IT동아 새 창 열림",
+        "link": "https://it.donga.com/",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "지쿠 X기후에너지환경부, 지쿠 자전거 타면 탄소중립포인트 ‘4배 적립’ 새 창 열림",
+        "link": "https://sports.khan.co.kr/article/202610240146013?pt=nv",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "‘애물단지’ 킥보드 의 반전… 공실 넘치는 지식산업센터 ‘구원투수’ 새 창 열림",
+        "link": "https://www.dt.co.kr/article/12090663?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "프랑스 등 유럽 6개국서 주말 추가 시위…대규모 충돌 우려 새 창 열림",
+        "link": "https://www.dailian.co.kr/news/view/1705120/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "박완수 경남지사, 태풍 대비 특별지시…위험지역 선제대피 강조 새 창 열림",
+        "link": "https://www.kukinews.com/article/view/kuk202610250002",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-24"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "폭락한 구찌, 믿었던 에르메스·루이비통마저…명품주 ‘패닉’, 왜 [재... 새 창 열림",
+        "link": "https://www.seoul.co.kr/news/economy/2026/10/24/20261024500027?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "‘건강한 토토라이프 만들기’ 베트맨, 10월 소액 구매 건전화 캠페인 ... 새 창 열림",
+        "link": "https://sports.donga.com/sports/article/all/20261025/134902367/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "'쫄깃·탱탱' 회가 뭐길래 '불티'…25년 횟집 사장님도 놀랐다 새 창 열림",
+        "link": "https://www.hankyung.com/article/202610229019g",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "[연합뉴스 이 시각 헤드라인] - 10:30 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261024020700011?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "데일리스포츠한국 새 창 열림",
+        "link": "https://www.dailysportshankook.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-25"
+      }
+    ]
   }
 };
