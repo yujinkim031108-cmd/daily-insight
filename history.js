@@ -31969,5 +31969,160 @@ window.historyData = {
         "date": "2026-10-25"
       }
     ]
+  },
+  "2026-10-26": {
+    "macro": [
+      {
+        "title": "코스피, 장 초반 5400선 후퇴 후 낙폭 축소…외국인·기관 '매수' 새 창 열림",
+        "link": "https://www.hankyung.com/article/2026102643866",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "내년 기준금리 3.50%까지 오른다? 높은 성장세, 높은 물가 탓 새 창 열림",
+        "link": "https://www.kmib.co.kr/article/20261026500144",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "실적 모멘텀 실종된 은행주…\"당분간 증시 소외 이어질 듯\" 새 창 열림",
+        "link": "https://news.bizwatch.co.kr/article/market/2026/10/26/0006",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "\"연말이 무섭다\"…기준금리 백투백 여파, 불어나는 대출 이자 새 창 열림",
+        "link": "https://www.dailian.co.kr/news/view/1705462/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "카드론 금리 석 달 만에 13%대…중금리 대출 확대 영향 새 창 열림",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=725256",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "\"공무원·대졸자 마저 무너졌다\"… 中 4050 중년층 신용카드 연체 '비상... 새 창 열림",
+        "link": "https://www.g-enews.com/view.php?ud=2026102523013711630c8c1c064d_1",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "[포토] 코스피·코스닥 하락 출발 새 창 열림",
+        "link": "https://www.ajunews.com/view/20261026091734057",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "패색 짙은 트럼프...이란에 '화풀이 공습' 나서나 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0104_202610261050544085",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "룰라 4선 성공하자 브라질 증시 18% 폭락…우파, 의회 장악·탄핵 위협 새 창 열림",
+        "link": "https://www.dailian.co.kr/news/view/1706040/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "추석 때 무산된 ‘30만원 지원금’…결국 모든 시민에 쏘는 당진 새 창 열림",
+        "link": "https://www.joongang.co.kr/article/25472781",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-10-26"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "청년이 만든 충남 청양 ‘매콤한 거리’…전국서 찾는 관광명소 도전 새 창 열림",
+        "link": "https://www.sedaily.com/article/20106033?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "일요서울 새 창 열림",
+        "link": "https://www.ilyoseoul.co.kr/",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "광남신문 새 창 열림",
+        "link": "https://www.gjdream.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-25"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "일요서울 새 창 열림",
+        "link": "https://www.ilyoseoul.co.kr/",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "배민, 매일 오전 11시 맥도날드 ‘빅아치 3000원 할인 쿠폰 푼다 새 창 열림",
+        "link": "https://biz.chosun.com/distribution/fashion-beauty/2026/10/26/PN3DZ4GOL5HOFO5QZI6JUQ6QXE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "실적 없어도 OK… 쿠팡 와우카드, ‘매월 최대 7만5000원’ 적립 새 창 열림",
+        "link": "https://biz.heraldcorp.com/article/10914593?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "예약·결제까지 한번에…국산 '실행형 AI 에이전트' 확산 새 창 열림",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709632",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "배달 료 수억 원 가로채 잠적… 배달 기사 40여 명 경찰 고소 새 창 열림",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8694896&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "​“ 배달 만 하는 앱 아니다”… 배달 특급, 복지•환경 잇는 공공 상생 플... 새 창 열림",
+        "link": "https://www.khan.co.kr/article/202610260855028",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-10-25"
+      }
+    ]
   }
 };
