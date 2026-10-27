@@ -32124,5 +32124,188 @@ window.historyData = {
         "date": "2026-10-25"
       }
     ]
+  },
+  "2026-10-27": {
+    "macro": [
+      {
+        "title": "기름값 관리한 한·중·태국, 상승률 15%…美·獨보다 10%p 낮아 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261027_0003842435",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "[문화현장] 엮은 풀, 대지의 흙이 만나 '그려지는' 채성필의 화면 새 창 열림",
+        "link": "https://www.cnbizm.com/news/articleView.html?idxno=319332",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "\"美연준, 10월 금리 동결 확률 우세\"…선거 앞두고 시장 충격 우려? 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261027_0003842391",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "라온신문 새 창 열림",
+        "link": "https://www.raonnews.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "이억원 위원장 “AI 시대, 금융사 청년 채용 투자 확대해야” 새 창 열림",
+        "link": "https://biz.chosun.com/stock/finance/2026/10/27/46XXRBOOA5EIPKFQDWM62K4W5E/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "집값도 빚도 못 잡고 연체 율까지 치솟았다 [ 대출 규제 역설] 새 창 열림",
+        "link": "https://www.dailian.co.kr/news/view/1706210/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "국민소득 4만 달러 시대 '확실'…12년 만에 3만 달러 대 탈출 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000342331?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "반도체 호황에도 민간소비는 냉골 … 성장률 1.0%의 '낙수효과 실종' 새 창 열림",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/10/27/2026102700133.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "4분기 제로 성장해도 연 3.6% 성장…반도체 호황에 4%도 넘보나 새 창 열림",
+        "link": "https://www.mt.co.kr/economy/2026/10/27/2026102710354175770",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "'청년취업난' 中공무원시험에 400만명 몰려…평균 경쟁률 97대 1 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261027069600009?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-10-27"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "빌릴 땐 면허 없어도 되는데, 보험 적용 땐 필수? 공유킥보드 또다른 모... 새 창 열림",
+        "link": "https://www.thescoop.co.kr/news/articleView.html?idxno=312072",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "\"인도가 ‘ 지쿠 ’ 주차장인가\"…널브러진 전기자전거에 보행권 뒷전, 정... 새 창 열림",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065580067157806",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "정치권 \"해보라\"던 '북한 기습 남침' 게임...기자가 해보니 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0106_202610262305207032",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "“특정건축물 정리에 관한 특별조치법 대응 시민 구제” 새 창 열림",
+        "link": "https://sjbnews.com/news/news.php?number=890905",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "배터리 위기, 중국을 무조건 배척해선 안된다 새 창 열림",
+        "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003278213&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+        "source": "오마이뉴스",
+        "tier": "C",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "미래모빌리티 창업 꿈나무 한자리… '스마트 모빌리티 창업캠프' 막 내... 새 창 열림",
+        "link": "https://www.dkilbo.com/news/articleView.html?idxno=558550",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "[AI 시티 포럼] 새만금, AI 도시 설계 구체화…자율주행·자율운항까지 새 창 열림",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=313956",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-26"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "IT동아 새 창 열림",
+        "link": "https://it.donga.com/",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "산지 직거래 농산물도 ' 배달 앱'으로 … 배민, '지역상생' 확대 새 창 열림",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/10/27/2026102700145.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "쿠팡 VS 네이버...멤버십 확장 경쟁 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12186726",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "“인기 메뉴 주문시 최대 50% 포인트 적립”… 요기요 , 적립 프로모션 진... 새 창 열림",
+        "link": "https://www.donga.com/news/Economy/article/all/20261027/134915090/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "[단독] 원금 이자에 \"건당\" 추가로… 배달 대행업체 '외국인 고금리 장사... 새 창 열림",
+        "link": "https://news.jtbc.co.kr/article/NB12324880?influxDiv=NAVER",
+        "source": "JTBC",
+        "tier": "A",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "쿠팡은 조사 불응, MBK 회장은 불출석…유통가에 남은 책임론 [2026 유통... 새 창 열림",
+        "link": "https://www.ddaily.co.kr/page/view/2026102710342510264",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-26"
+      }
+    ]
   }
 };
