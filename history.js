@@ -32307,5 +32307,174 @@ window.historyData = {
         "date": "2026-10-26"
       }
     ]
+  },
+  "2026-10-28": {
+    "macro": [
+      {
+        "title": "“돈 3분의 1이 먹는 데 나간다”…일본 44년 만에 벌어진 일 새 창 열림",
+        "link": "https://www.edaily.co.kr/News/Read?newsId=03814646645617512&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "국제유가 100달러 장기화…세계 50개국 중 31개국, 내년 물가 전망 상향 새 창 열림",
+        "link": "https://www.newsworker.co.kr/news/articleView.html?idxno=510907",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "나스닥, 앤트로픽 상장 기대에 1.18% 상승… 인공지능 반도체주 반등 주... 새 창 열림",
+        "link": "https://www.jemin.com/news/articleView.html?idxno=845536",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "[시사플랫폼] “한국은행, 금리를 어느 정도 속도로 올릴 지 고민할 것... 새 창 열림",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8696532&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "광주은행·전북은행 가계대출 금리 '최고'…2~7%P 더 높아 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261028086500054?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "울산지법, 취약계층 신속면책· 주택담보대출 채무조정 시행 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261028091000057?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "SK하이닉스 주주 환원에 이틀 연속 매수사이드카…코스피 장중 6000선 터... 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000342637?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "이란 \"조건 맞으면 종전\"에 유가 100달러 아래로…후티 공격 변수 새 창 열림",
+        "link": "https://www.mt.co.kr/world/2026/10/28/2026102809215735220",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "민주, 경제 성장률 자화자찬 … 같은 통계서 민간소비 3년9개월 만에 떨... 새 창 열림",
+        "link": "https://www.newdaily.co.kr/site/data/html/2026/10/28/2026102800155.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "돌아온 고국에서도 그들은 이방인이 된다 [한국이 빌려 쓴 청춘] 새 창 열림",
+        "link": "https://www.sisain.co.kr/news/articleView.html?idxno=58671",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-27"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "와이드경제 새 창 열림",
+        "link": "https://www.widedaily.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "\"인도가 ‘ 지쿠 ’ 주차장인가\"…널브러진 전기자전거에 보행권 뒷전, 정... 새 창 열림",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065580067157806",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "“ 킥보드 는 길 막고 아파트 하자는 감감”···세종시, 시민청 시범 ‘... 새 창 열림",
+        "link": "https://www.khan.co.kr/article/202610281054001",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "[뉴스 저격] “中으로 몰리는 글로벌 자금… 로봇· 전기 차는 세계 최고... 새 창 열림",
+        "link": "https://www.chosun.com/economy/money/2026/10/28/SECPATNDQFAPPKO57HBTIIOBVY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "\"로봇 넘어 사람 타는 PM도 자율주행\"…클레빌, 중기부 팁스 선정 새 창 열림",
+        "link": "https://www.mt.co.kr/future/2026/10/27/2026102715183899440",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-10-27"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "\" 전기 요금 부담 덜고 자전거 길 편의 높인다\" 손배찬 파주 시장 , 태양광 ... 새 창 열림",
+        "link": "https://www.wikitree.co.kr/articles/1169713",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "우아한형제들, '테크 콘퍼런스'…' 배달의민족 ' 플랫폼 기술 소개 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261028092400030?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "비즈니스플러스 새 창 열림",
+        "link": "https://www.businessplus.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "요기요 , 뚜레쥬르 포장 주문 최대 50% 할인 새 창 열림",
+        "link": "https://www.news1.kr/industry/distribution/6334366",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "테크M 새 창 열림",
+        "link": "https://www.techm.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "배민 창업자 김봉진 의장, 중고명품 ‘고쳐팔기’ 패피스에 개인투자 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12188204",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-10-27"
+      }
+    ]
   }
 };
