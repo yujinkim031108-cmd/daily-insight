@@ -32476,5 +32476,167 @@ window.historyData = {
         "date": "2026-10-27"
       }
     ]
+  },
+  "2026-10-29": {
+    "macro": [
+      {
+        "title": "연준 금리 동결… “더 보고 판단” 새 창 열림",
+        "link": "https://m.skyedaily.com/news_view.html?ID=313749",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "美 연준 금리 동결, 한은 11월 인상 저울질 … 반도체 호황·소비 침체 ... 새 창 열림",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/10/29/2026102900125.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-10-29"
+      },
+      {
+        "title": "고정형 주택담보대출 평균 금리 5% 넘어…12개월 연속 올랐다 새 창 열림",
+        "link": "https://www.mt.co.kr/economy/2026/10/29/2026102910411346661",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "美 금리 동결에도 한은 11월 인상에 무게…깜짝 성장·고물가 부담 새 창 열림",
+        "link": "https://www.news1.kr/economy/trend/6335605",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-10-29"
+      },
+      {
+        "title": "대출 문턱 양극화 심화…의·약사는 한도 '2배' 더 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000342967?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "울산지법, 취약계층 빚 탕감· 주택 대출 조정 지원 새 창 열림",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8698298&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "코스피, 삼성전자 실적 발표 후 하락 전환 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0102_202610291143115196",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-10-29"
+      },
+      {
+        "title": "꼬여가는 국제유가 …중동산 수출 풀려도 시장엔 공포감 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261029102100009?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "계층상승 더 힘들어졌다…2024년 소득분위 상향 이동 '최저' 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261029099500002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "대통령이 약속한 '억강부약' 바로 지금입니다 새 창 열림",
+        "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003279799&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+        "source": "오마이뉴스",
+        "tier": "C",
+        "date": "2026-10-28"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "[국산차 Pick] KGM·제네시스, 고객 초청 행사하고, 자사 기술력 알려 새 창 열림",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=210488",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "\" 킥보드 , 아무 데나 세워도 될까?... 세종시민이 찾은 해법은 새 창 열림",
+        "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003279808&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+        "source": "오마이뉴스",
+        "tier": "C",
+        "date": "2026-10-29"
+      },
+      {
+        "title": "[뉴스 저격] “中으로 몰리는 글로벌 자금… 로봇· 전기 차는 세계 최고... 새 창 열림",
+        "link": "https://www.chosun.com/economy/money/2026/10/28/SECPATNDQFAPPKO57HBTIIOBVY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "[부산ㆍ경남 대학 브리핑 모음(10월29일)] 국립창원대 ‘AK·횡운차’, 전... 새 창 열림",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610281501429000597",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-28"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "광주~강진 고속도로 12월 개통… 황금빛 ‘경제의 길’ 기대 새 창 열림",
+        "link": "https://www.chosun.com/special/special_section/2026/10/29/2J6HEFYEWJDSBH4EA2KE6Y5EOU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-10-29"
+      },
+      {
+        "title": "‘이름 하나로 정보 줄줄’ 고객센터 바뀐다…고객정보 접근 통제 강화 새 창 열림",
+        "link": "https://www.hani.co.kr/arti/economy/it/1284778.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "할인 넘어 AI 동맹까지 … 카드사 PLCC 경쟁 '충성 고객' 잡기 새 창 열림",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/10/29/2026102900134.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "\"상담 화면에 이름만 입력하면 고객 집주소가 쫙\"…정부, 고객센터 화면... 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261029_0003845971",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-10-29"
+      },
+      {
+        "title": "비즈니스플러스 새 창 열림",
+        "link": "https://www.businessplus.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "경산시, 신한은행 ‘땡겨요’ 도입 소상공인 배달 수수료 부담 완화 새 창 열림",
+        "link": "https://tk.newdaily.co.kr/site/data/html/2026/10/29/2026102900076.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-10-28"
+      }
+    ]
   }
 };
