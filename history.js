@@ -32638,5 +32638,188 @@ window.historyData = {
         "date": "2026-10-28"
       }
     ]
+  },
+  "2026-10-30": {
+    "macro": [
+      {
+        "title": "[오늘 금시세] 금 한돈 64만5788원 하락…미국 물가 상승에 금값 압박 새 창 열림",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=16263433",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-29"
+      },
+      {
+        "title": "뉴스웍스 새 창 열림",
+        "link": "https://www.newsworks.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "[속보] 일본은행, 기준금리 1.25%로 동결…시장 기대 부합 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261030_0003848255",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-10-29"
+      },
+      {
+        "title": "미국 따라 금리결정 횟수 줄였던 한은 이번에도?…그 때와 지금은 다르... 새 창 열림",
+        "link": "https://biz.heraldcorp.com/article/10920375?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-29"
+      },
+      {
+        "title": "\"이자로 40조 벌었다\"…5대 금융, 올 3분기까지 순익 20조 육박 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261030_0003848120",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "“개인 주식 투자 주춤”…제주 가계 대출 감소 흐름 새 창 열림",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8699219&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-10-29"
+      },
+      {
+        "title": "3분기 외환거래 하루 평균 1220.1억 달러 … 7분기 연속 역대 최대 새 창 열림",
+        "link": "https://biz.chosun.com/policy/policy_sub/2026/10/30/3DNGNQ3LSJDO3M3C56QUQZF4FY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "인니증시 강등경고에 중앙은행 \"단기 충격\"…대통령 동생 \"심각\" 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261030082500104?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-10-29"
+      },
+      {
+        "title": "[오늘 트럼프는]\"美중부사령관, 대이란 군사작전 선택지 대면 보고\" 새 창 열림",
+        "link": "https://www.news1.kr/world/usa-canada/6337675",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-10-29"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-29"
+      },
+      {
+        "title": "쏘카, '전기자전거·차량 공유 할인' 구독 패키지 접는다 새 창 열림",
+        "link": "https://www.ddaily.co.kr/page/view/2026103010071444393",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-29"
+      },
+      {
+        "title": "IT동아 새 창 열림",
+        "link": "https://it.donga.com/",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-10-29"
+      },
+      {
+        "title": "이솔루션, '공유 모빌리티 서비스' 지바이크에 리튬배터리팩 5200대 공급 새 창 열림",
+        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=88499",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-29"
+      },
+      {
+        "title": "'마마 어워즈', 올해는 일본…\"시공간 초월 음악 우주 만들겠다\" [종합] 새 창 열림",
+        "link": "https://www.hankyung.com/article/202610293047H",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "아름다운 제주, 안전한 질주로 함께 지켜요 새 창 열림",
+        "link": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=601304",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-29"
+      },
+      {
+        "title": "[부산ㆍ경남 대학 브리핑 모음(10월29일)] 국립창원대 ‘AK·횡운차’, 전... 새 창 열림",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610281501429000597",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-29"
+      },
+      {
+        "title": "인천시, AI 재난감시망 확대…범죄피해자 지원부터 겨울철 안전대책까지... 새 창 열림",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=716665",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-29"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-29"
+      },
+      {
+        "title": "‘공공 태양광부터 기후대응기금까지’…오산시, 탄소중립 기반 구축한... 새 창 열림",
+        "link": "https://www.seoul.co.kr/news/publicnews/local_govern/2026/10/30/20261030500012?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "픽업 주문 한 번이 외출의 계기가 되다, 배민의 고립·은둔 청소년 응원... 새 창 열림",
+        "link": "https://www.globalepic.co.kr/view.php?ud=20261030115949593848439a4874_29",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-29"
+      },
+      {
+        "title": "\"해킹당하면 얼마 받을까\"…韓·日 보상안 따져보니 새 창 열림",
+        "link": "https://magazine.hankyung.com/business/article/202610293281b",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-10-29"
+      },
+      {
+        "title": "에너지경제 새 창 열림",
+        "link": "https://www.ekn.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-29"
+      },
+      {
+        "title": "라온신문 새 창 열림",
+        "link": "https://www.raonnews.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-29"
+      },
+      {
+        "title": "금융위, 미소금융협의체 신설…7개사 최대 5년간 8000억 출연 새 창 열림",
+        "link": "https://www.dailian.co.kr/news/view/1708575/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "이재명의 \"개미지옥\"이 맞았다... 이러다 다 죽는다 새 창 열림",
+        "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003278012&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+        "source": "오마이뉴스",
+        "tier": "C",
+        "date": "2026-10-29"
+      }
+    ]
   }
 };
