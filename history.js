@@ -32821,5 +32821,195 @@ window.historyData = {
         "date": "2026-10-29"
       }
     ]
+  },
+  "2026-10-31": {
+    "macro": [
+      {
+        "title": "[다음주 경제] 소비자물가 얼마나 올랐을까…9월 국제수지도 발표 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261031012200002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "프랑스 시위, 그 끝엔 무엇이 기다리고 있나? [인싸M] 새 창 열림",
+        "link": "https://imnews.imbc.com/newszoomin/newsinsight/6862148_29123.html",
+        "source": "MBC",
+        "tier": "S",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "[올댓차이나] 중국인민은행, 11월2일부터 익일물 역레포 매일 실시…\"정... 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261031_0003849229",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "[투자 노하우] 현지시간 29일 뉴욕증시 3대지수 일제히 하락 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000343385?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "지방은행 연체율 1.2%로 쑥…NPL 정리 속도 따라 온도차 새 창 열림",
+        "link": "https://www.mt.co.kr/finance/2026/10/31/2026102915442791041",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "불장에 ‘빚투’도 훌쩍…금리 오르며 가계 ‘흔들’ 새 창 열림",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8700410&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "지상방산 부진에 가려진 수주 성과…한화에어로스페이스 성장 동력은 유... 새 창 열림",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500209",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "오늘 기름 넣을까...기름값 24주 연속 하락세 새 창 열림",
+        "link": "https://www.chosun.com/economy/industry-company/2026/10/31/KP6NQNZTXVCLPBNNP6RW3O2SIQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "피치, '재정건전화 난항' 프랑스 신용등급 전망 '부정적' 하향 새 창 열림",
+        "link": "https://imnews.imbc.com/news/2026/world/article/6862172_36925.html",
+        "source": "MBC",
+        "tier": "S",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "독일 10월 실업률 6.4% 유지…\"실업자 301.6만으로 4000명 늘어\" 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261031_0003849122",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-10-31"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "쏘카, '전기자전거·차량 공유 할인' 구독 패키지 접는다 새 창 열림",
+        "link": "https://www.ddaily.co.kr/page/view/2026103010071444393",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "1300년 전 아내 잃은 시인이 학 울음 듣던 그 온천, 일본 후쿠오카 ‘학... 새 창 열림",
+        "link": "https://www.segye.com/newsView/20261030506550?OutUrl=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "명동의 밤은 안전…중구, 핼러윈 ‘인파관리 종합상황실’ 새 창 열림",
+        "link": "https://www.seoul.co.kr/news/publicnews/seoul_local/news_seoul/2026/10/30/20261030500356?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "안산시의회, 공유자전거까지 무단방치 관리 강화… 보행안전 제도 개선 새 창 열림",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160274868511367",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "아름다운 제주, 안전한 질주로 함께 지켜요 새 창 열림",
+        "link": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=601304",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "\"핼러윈데이 철통 안전\"…야간 집중 관리에 곳곳서 호루라기 새 창 열림",
+        "link": "https://www.edaily.co.kr/News/Read?newsId=05762966645618168&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "안산시의회 지방의회법 연내 제정 촉구… 29일간 정례회 마무리 새 창 열림",
+        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3080878",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-30"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "‘공공 태양광부터 기후대응기금까지’…오산시, 탄소중립 기반 구축한... 새 창 열림",
+        "link": "https://www.seoul.co.kr/news/publicnews/local_govern/2026/10/30/20261030500012?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "[VC's Pick]'반도체·에너지·항공우주'…첨단산업에 투자 집중 새 창 열림",
+        "link": "https://www.edaily.co.kr/News/Read?newsId=01994246645618496&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "“음식 바닥에 둘 수 없어”…문 앞에 남겨진 배달원 ‘훈훈한 배려’ 새 창 열림",
+        "link": "https://www.joongang.co.kr/article/25474579",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "이디야커피, 하인즈와 피자·콘치즈 설기 새 창 열림",
+        "link": "https://cooknchefnews.com/news/view/1065574330207496",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "로지올 '생각대로', 퀵서비스 사업 확대…25톤급 화물까지 새 창 열림",
+        "link": "https://www.mhj21.com/news/articleView.html?idxno=254599",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "문 앞까지 마약 배송…수도권 곳곳에 뿌려진 ‘골판지 마약’ [마약택배... 새 창 열림",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8700454&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "지이코노미 새 창 열림",
+        "link": "https://www.geconomy.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-31"
+      }
+    ]
   }
 };
