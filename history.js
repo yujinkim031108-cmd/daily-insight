@@ -33011,5 +33011,167 @@ window.historyData = {
         "date": "2026-10-31"
       }
     ]
+  },
+  "2026-11-01": {
+    "macro": [
+      {
+        "title": "'AI 수익성 회의론', 증시 계속 짓누르나…美중간선거에 촉각 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261031026300008?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "코스피가 ‘AI 거품론’에 휘청인 이유는… ‘가격 호황’의 그늘 새 창 열림",
+        "link": "https://biz.chosun.com/stock/analysis-prospect/2026/10/31/HVND64KQCJBYTDHERU3XCTG66M/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "연 4%대 정기예금 2년 9개월 만에 최대... 3%대 가계대출은 급감 새 창 열림",
+        "link": "https://www.chosun.com/economy/economy_general/2026/11/01/PHGEOK22RNGQHNMRXQSSOWGTR4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "국고채 넘어선 CP 금리…“경색 아닌 키맞추기” 새 창 열림",
+        "link": "https://www.edaily.co.kr/News/Read?newsId=02112326645618496&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "5대 은행 중소기업 대출 연체율 0.6%… 9년 6개월 만에 최고 새 창 열림",
+        "link": "https://www.chosun.com/economy/economy_general/2026/11/01/L54QYJXPIZGUVGGC2JRLUB32KA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "불장에 ‘빚투’도 훌쩍…금리 오르며 가계 ‘흔들’ 새 창 열림",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8700410&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "\"AI부터 달러 ·금까지\"…거대한 부의 갈림길 속 전문가가 짚은 투자 전략 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261101_0003849524",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "韓 수출 '1조 달러' 시대 눈앞…반도체 날개 달고 11월 돌파 전망(종합) 새 창 열림",
+        "link": "https://www.news1.kr/economy/idustry-trade/6338904",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "반도체만 뜨겁고 내수는 냉랭…'소비쿠폰' 없는 정부 해법은 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261031_0003849129",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "잃어버린 미래에 분노… 거리로 나온 ‘유럽 MZ’ [세계는 지금] 새 창 열림",
+        "link": "https://www.segye.com/newsView/20261028521845?OutUrl=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-01"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "뉴스버스 새 창 열림",
+        "link": "https://www.newsverse.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "배민라이더스쿨, 국내외 건축상 수상… 이륜차 안전교육 시설 정착 새 창 열림",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=210632",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "한화는 시총 34% 늘었는데…카카오 AI 분할엔 물음표 왜? 새 창 열림",
+        "link": "https://economist.co.kr/article/view/ecn202610270060",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "에너지경제 새 창 열림",
+        "link": "https://www.ekn.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-31"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "퍼블릭뉴스통신(public news-network for TTL) 새 창 열림",
+        "link": "https://www.ttlnews.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "배민라이더스쿨, 라이더 안전 교육시설 인정..국내외 건축상 석권 새 창 열림",
+        "link": "https://kpenews.com/View.aspx?No=4291972",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "\"한국서 돈 벌기 쉽네\" 판 치더니…외국인 유학생 딱 걸렸다 새 창 열림",
+        "link": "https://www.hankyung.com/article/2026103176577",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "\"밥 잘 사주는 섹시한 누나\"…박소진 ♥직진남, 알고보니 맥심 광고 모... 새 창 열림",
+        "link": "https://www.tenasia.co.kr/article/2026103054674",
+        "source": "",
+        "tier": "D",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "배민라이더스쿨, 국내외 건축상 수상… 이륜차 안전교육 시설 정착 새 창 열림",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=210632",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "14살 소녀가 뇌졸중에 안면마비까지 '발칵'…중국, 규제 칼 들었다 새 창 열림",
+        "link": "https://www.mt.co.kr/world/2026/10/31/2026103115515441317",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-11-01"
+      }
+    ]
   }
 };
