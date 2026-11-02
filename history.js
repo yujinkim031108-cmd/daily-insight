@@ -33173,5 +33173,188 @@ window.historyData = {
         "date": "2026-11-01"
       }
     ]
+  },
+  "2026-11-02": {
+    "macro": [
+      {
+        "title": "한투증권 \"내년 코스피 목표치 8,300…올해 4분기 저점 통과\" 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261102048300008?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "[정원석의 매크로 리뷰 <45> 증시 패닉 긴급 진단] 코스피가 'AI 거품론'... 새 창 열림",
+        "link": "https://economychosun.com/site/data/html_dir/2026/10/26/2026102600022.html",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "7% 마저 넘보는 주담대 금리 …고정형 비중 늘어날까 새 창 열림",
+        "link": "https://www.mediapen.com/news/view/1134345",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "[이슈체크] 고금리에 AI 투자마저 ‘흔들’?…반도체 기댄 한국 경제 ‘... 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000342996?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "치열한 수신 경쟁에…내던 적금만 잘 내도 금리 깎아준다 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000343599?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "카카오페이, 인뱅 3사 개인사업자 대출 한곳에…금리·한도 비교 새 창 열림",
+        "link": "https://www.apnews.kr/news/articleView.html?idxno=3052692",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "'美 반도체 쇼크' 회복…코스피 5800선 넘어 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000343595?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "에너지경제 새 창 열림",
+        "link": "https://www.ekn.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "전라일보 새 창 열림",
+        "link": "https://www.jeollailbo.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "대통령 질타엔 ‘7억 AI’ 일사천리…줄줄이 샌 중수청 도면 ‘망신’ ... 새 창 열림",
+        "link": "https://www.dailian.co.kr/news/view/1709403/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-11-02"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "빔모빌리티 \"PM 지정주차제, 물리적 인프라로는 작동 어려워\" 새 창 열림",
+        "link": "https://www.electimes.com/news/articleView.html?idxno=374200",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "에너지경제 새 창 열림",
+        "link": "https://www.ekn.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "KOTRA해외시장뉴스 새 창 열림",
+        "link": "https://dream.kotra.or.kr/kotranews/index.do",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "배민라이더스쿨, 국내외 건축상 수상… 이륜차 안전교육 시설 정착 새 창 열림",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=210632",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "에브리봇, 회사 홈페이지 개편…기업 정체성 강화 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261102_0003850554",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "안산시의회, 제306회 정례회 폐회…결산안 등 45건 처리 새 창 열림",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160259698992896",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-01"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "100년째 실패한 '하늘을 나는 자동차'…머스크는 다를까? [스프] 새 창 열림",
+        "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008818632&plink=ORI&cooper=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "무주군, 소상공인 온라인마케팅 비용 최대 70만 원 지원 새 창 열림",
+        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1307396",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "‘집콕’ 할로윈에 보기 좋은 호러·스릴러 영화 3편 새 창 열림",
+        "link": "https://www.bntnews.co.kr/article/view/bnt202610260243",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "무주군, 소상공인 온라인마케팅비 최대 70만원 지원 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261102070200055?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "배민라이더스쿨, 한국건축가협회상·아키텍처 마스터프라이즈 수상 새 창 열림",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=621829",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "“만든 사람 위한 정책 같아요”···청년 정책 2000개의 착시 효과[춘... 새 창 열림",
+        "link": "https://www.khan.co.kr/article/202611020630011",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "퓨리오사AI 8200억 '잭팟'…AI·딥테크 후속투자 '활기' 새 창 열림",
+        "link": "https://www.mt.co.kr/future/2026/11/01/2026110114203334964",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-11-02"
+      }
+    ]
   }
 };
