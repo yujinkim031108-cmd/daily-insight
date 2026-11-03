@@ -33356,5 +33356,195 @@ window.historyData = {
         "date": "2026-11-02"
       }
     ]
+  },
+  "2026-11-03": {
+    "macro": [
+      {
+        "title": "10월 소비자물가 2.8% 상승…가공식품·외식 11개월만 최고 [포토] 새 창 열림",
+        "link": "https://www.etoday.co.kr/news/view/2643485",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "연합인포맥스 새 창 열림",
+        "link": "https://news.einfomax.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "영국 10월 제조업 PMI 52.8·0.9P↑…\"생산·수주 증가 가속\" 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261103_0003852693",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "하나증권, 퇴직연금 ‘ETF 모으기’ 서비스 개시...소비자 관심도 상승 새 창 열림",
+        "link": "https://www.thebigdata.co.kr/view.php?ud=202611031158565089df3c2a17b7_23",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "신용 대출 금리도 7% 코앞…증시 급락에 '빚투족' 한숨 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261103_0003852481",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-11-03"
+      },
+      {
+        "title": "회사엔 빌려주고 가게는 안 빌려준다…기업 대출 9조 늘 때 자영업자는 ... 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12194392",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "MS투데이 새 창 열림",
+        "link": "https://www.mstoday.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-03"
+      },
+      {
+        "title": "“일본은행 ‘보통의 중앙은행’으로 한걸음 내디뎠다” 새 창 열림",
+        "link": "https://www.naeil.com/news/read/607417?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "\"프라보워 지지율 바닥이지만… 군·정계 장악해 정권 위기는 아냐\" [아... 새 창 열림",
+        "link": "https://www.hankookilbo.com/news/article/A2026110110320001906?did=NA",
+        "source": "한국일보",
+        "tier": "C",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "\"백인 차별·美 이익 위협\"…트럼프, 남아공·르완다 '무관세' 혜택 중단 새 창 열림",
+        "link": "https://www.mt.co.kr/world/2026/11/03/2026110310000543831",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-11-03"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "바이라인네트워크 새 창 열림",
+        "link": "https://byline.network",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "시리즈벤처스 ‘넥서스’서 주목받은 스타트업...동남권 미래 산업 그린... 새 창 열림",
+        "link": "https://www.news2day.co.kr/article/20261102500201",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "안산시, 전동 킥보드 불법주정차 단속 요원 증원…민원 절반 감소 새 창 열림",
+        "link": "https://www.news1.kr/local/gyeonggi/6341247",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "안산시, 공유 이동수단 즉시 견인 지역 확대 시행 새 창 열림",
+        "link": "https://www.kmaeil.com/news/articleView.html?idxno=656741",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "사고 줄었는데 사망자는 늘었다? 자전거 위험한 역주행 [추적+] 새 창 열림",
+        "link": "https://www.thescoop.co.kr/news/articleView.html?idxno=312105",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "에브리봇, 회사 홈페이지 개편…기업 정체성 강화 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261102_0003850554",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "전담 인력 투입해 견인했더니…안산시, PM 방치 민원 절반 감소 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261103074300061?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-11-02"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "안산시 공유 이동수단 불법주차 민원 감소… 즉시 견인 확대 효과 새 창 열림",
+        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3081158",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "E동아 새 창 열림",
+        "link": "https://edu.donga.com/",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "[커피·음료 트렌드] 파스쿠찌, 크리스마스 시즌 음료 4종 출시 外 새 창 열림",
+        "link": "https://www.ibabynews.com/news/articleView.html?idxno=156485",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-03"
+      },
+      {
+        "title": "[단독]태평양 차기 대표에 5명 출사표…김성수·범현·최승진 '3파전' 새 창 열림",
+        "link": "https://www.edaily.co.kr/News/Read?newsId=04608406645641784&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-11-03"
+      },
+      {
+        "title": "배민라이더스쿨, 국내외 건축상 수상…안전교육 전문성 인정 새 창 열림",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=236030",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-02"
+      },
+      {
+        "title": "손님 쥔 카카오 나와라…택시기사들 노동위 판단 요청 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000343891?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-11-03"
+      },
+      {
+        "title": "美 상공회의소 등 5개 단체, USTR에 행동 촉구…\"한국, 약속 어기고 디지... 새 창 열림",
+        "link": "https://news.tvchosun.com/site/data/html_dir/2026/11/03/2026110390095.html",
+        "source": "TV조선",
+        "tier": "B",
+        "date": "2026-11-02"
+      }
+    ]
   }
 };
