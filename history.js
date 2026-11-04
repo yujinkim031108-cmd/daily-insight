@@ -33546,5 +33546,181 @@ window.historyData = {
         "date": "2026-11-02"
       }
     ]
+  },
+  "2026-11-04": {
+    "macro": [
+      {
+        "title": "10월 소비자물가 2.8% 상승… \"석유 최고가격제로 안정 흐름\" 새 창 열림",
+        "link": "https://www.mt.co.kr/economy/2026/11/04/2026110319461989810",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-11-03"
+      },
+      {
+        "title": "신현송이 지목한 성장· 물가 나왔다…추가 금리 인상할까 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261104_0003854326",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-11-03"
+      },
+      {
+        "title": "‘전월세 안심신탁’ 첫 임대인 모집… 첫 수익률은 연 4.35% 새 창 열림",
+        "link": "https://www.chosun.com/economy/real_estate/2026/11/05/72FZMEQLDRFARH2ZPGLR7OR6TI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "'긴축 여지' 열어둔 연준…한은 다시 '호미' 꺼내들까 새 창 열림",
+        "link": "https://www.dailian.co.kr/news/view/1710207/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "[컨콜] 카카오뱅크 \"카드·증권업 진출 검토…대주주 적격성 문제 지켜... 새 창 열림",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=885956",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-03"
+      },
+      {
+        "title": "비즈니스플러스 새 창 열림",
+        "link": "https://www.businessplus.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-03"
+      },
+      {
+        "title": "중간선거 경계감에 코스피·코스닥 약세 전환 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0102_202611041142103377",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-11-03"
+      },
+      {
+        "title": "트럼프 “이란 당장 공격할 이유 없을 수도…현재 전쟁 상태 아냐” 새 창 열림",
+        "link": "https://www.joongang.co.kr/article/25475641",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-11-03"
+      },
+      {
+        "title": "서울교육청 내년 예산 11.8조‥필요액 9천657억 원 미반영 새 창 열림",
+        "link": "https://imnews.imbc.com/news/2026/society/article/6863089_36918.html",
+        "source": "MBC",
+        "tier": "S",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "전 총리도, 청년들도 떠난다…뉴질랜드 ‘엑소더스’ 왜? 새 창 열림",
+        "link": "https://www.hani.co.kr/arti/international/international_general/1285657.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-11-03"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-03"
+      },
+      {
+        "title": "QR코드 찍었을 뿐인데…지갑 털리는 ‘큐싱(Quishing)’의 함정 새 창 열림",
+        "link": "https://shindonga.donga.com/3/all/13/6444712/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "에너지경제 새 창 열림",
+        "link": "https://www.ekn.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "KOTRA해외시장뉴스 새 창 열림",
+        "link": "https://dream.kotra.or.kr/kotranews/index.do",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-03"
+      },
+      {
+        "title": "이솔루션, 한전 '공유형 ESS 2차 사업' 사용전검사 통과… 상업 운전 준... 새 창 열림",
+        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=88838",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "안산시, 무단방치 PM '즉시 견인' 확대하니…민원 절반↓ 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261103_0003853016",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-11-04"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-03"
+      },
+      {
+        "title": "데일리환경 새 창 열림",
+        "link": "https://www.dailyt.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-03"
+      },
+      {
+        "title": "[단독] “다시 팔아주세요”…크라운 '미니쉘', 단종 2년 만에 돌아온다 새 창 열림",
+        "link": "https://www.etnews.com/20261104000234",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-03"
+      },
+      {
+        "title": "탈팡족 돌아와도 적자…김범석 \"일시적 역풍\" 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000344156?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-11-03"
+      },
+      {
+        "title": "THE Biz(더비즈) 새 창 열림",
+        "link": "https://www.the-biz.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-03"
+      },
+      {
+        "title": "배민라이더스쿨, 국내외 건축상 수상…안전교육 전문성 인정 새 창 열림",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=236030",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-03"
+      },
+      {
+        "title": "구미 '먹깨비' 활성화…할인쿠폰 2천장 풀고 가맹점 확대 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261104081400053?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-11-03"
+      },
+      {
+        "title": "당진시의회 산업건설위원회, 배달플랫폼 수수료 부담 소상공인·라이더... 새 창 열림",
+        "link": "https://www.idjnews.kr/news/articleView.html?idxno=303718",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-03"
+      }
+    ]
   }
 };
