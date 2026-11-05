@@ -33722,5 +33722,181 @@ window.historyData = {
         "date": "2026-11-03"
       }
     ]
+  },
+  "2026-11-05": {
+    "macro": [
+      {
+        "title": "토큰포스트 새 창 열림",
+        "link": "https://www.tokenpost.kr",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "연합인포맥스 새 창 열림",
+        "link": "https://news.einfomax.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "미국 주택가격은 오르나 주택시장은 부진 [오대정의 경제지표 읽기] 새 창 열림",
+        "link": "https://magazine.hankyung.com/business/article/202610280885b",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "[美중간선거]美금리·환율 하락 압력…한은 11월 인상 후 속도 조절 가능... 새 창 열림",
+        "link": "https://www.news1.kr/economy/trend/6341826",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "연체율 오르는 '사장님 대출 ' … 주저하는 시중은행, 질주하는 인터넷은... 새 창 열림",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/11/05/2026110500128.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "조합 돈 횡령에 사고 은폐까지… 신협, 올해 제재만 139건 새 창 열림",
+        "link": "https://biz.chosun.com/stock/finance/2026/11/04/DW6FJUN4WBCGLJOZ54D3HAWBGI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "SK바이오팜, 내년 중 '넥스트 엑스코프리' 3종 임상 '출격'(종합) 새 창 열림",
+        "link": "https://www.dailian.co.kr/news/view/1711193/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "\"이란 전쟁이 패인\"‥뉴욕증시 급등· 유가 급락 새 창 열림",
+        "link": "https://imnews.imbc.com/replay/2026/nw1200/article/6863385_36967.html",
+        "source": "MBC",
+        "tier": "S",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "반도체 호조에 韓 성장률 전망 오른다…해외IB 평균 3.7% 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000344432?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "[데스크칼럼] 숫자는 거짓말 안 한다는데…현실은 새 창 열림",
+        "link": "https://biz.heraldcorp.com/article/10926888?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-05"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "\"부산으로 부탁해요!\" 외침에 방 안이 뒤흔들렸다 새 창 열림",
+        "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003281689&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+        "source": "오마이뉴스",
+        "tier": "C",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "구미시, 무단방치 공유 킥보드 3시간 미수거 시 '강제 견인' 새 창 열림",
+        "link": "https://www.news1.kr/local/daegu-gyeongbuk/6344125",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "데일리환경 새 창 열림",
+        "link": "https://www.dailyt.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "안산시, 공유 이동수단 견인구역 확대…방치 민원 약 50% 감소 새 창 열림",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160262887799880",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "KOTRA해외시장뉴스 새 창 열림",
+        "link": "https://dream.kotra.or.kr/kotranews/index.do",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-04"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "[양주 소식]덕정별빛상점가 ‘제4회 별빛거리축제’ 개최 등 새 창 열림",
+        "link": "https://www.pressian.com/pages/articles/2026110416274514660?utm_source=naver&utm_medium=search",
+        "source": "프레시안",
+        "tier": "C",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "배민, 지역축제 협업으로 상권 활성화 지원 새 창 열림",
+        "link": "https://www.lawissue.co.kr/view.php?ud=202611051235514371204ead0791_12",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "탈팡 한다더니 \" 쿠팡 없이 못 살아\"…'역대급 기록' 나왔다 새 창 열림",
+        "link": "https://www.edaily.co.kr/News/Read?newsId=04647766645642768&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "요기요 구독 멤버십 '요기패스', 2년 새 구독자 두 배로 새 창 열림",
+        "link": "https://platum.kr/archives/297871",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "로지올, 음식 배달 을 넘어 '생각대로퀵' 사업 확대…생활물류 시장 공략 새 창 열림",
+        "link": "https://www.klnews.co.kr/news/articleView.html?idxno=323343",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "배달 수수료 상한제 재검토 촉구하는 라이더 들 새 창 열림",
+        "link": "https://www.yna.co.kr/view/PYH20261105060000013?input=1196m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "박수영 \"與 온라인 플랫폼 규제가 한미 통상 마찰 초래…청년 미래 위협... 새 창 열림",
+        "link": "https://www.newspim.com/news/view/20261105000693",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-05"
+      }
+    ]
   }
 };
