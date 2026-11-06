@@ -33898,5 +33898,181 @@ window.historyData = {
         "date": "2026-11-05"
       }
     ]
+  },
+  "2026-11-06": {
+    "macro": [
+      {
+        "title": "건설공사비- 소비자물가 상승률 격차 확대…정비사업 공사비 갈등 우려 새 창 열림",
+        "link": "https://www.donga.com/news/Economy/article/all/20261106/134977633/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "이달 최대 리스크는 '주요국 고금리 장기화'⋯\"미 중간선거 후 재정협상... 새 창 열림",
+        "link": "https://www.etoday.co.kr/news/view/2644956",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "KB국민은행, 'KB아동수당통장' 출시… 최고 연 3.1% 금리 제공 새 창 열림",
+        "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=45110",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "[블루웨이브 파급 효과] 국고채 금리, 美 중간선거 영향에 하락 마감…... 새 창 열림",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=623818",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "에너지경제 새 창 열림",
+        "link": "https://www.ekn.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "THE Biz(더비즈) 새 창 열림",
+        "link": "https://www.the-biz.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "한국금융지주, 19% 급락…실적 쇼크에 목표가↓ 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261106_0003857777",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "6월 구천피 찍고 5개월도 안돼 반토막…‘李의 장담’ 무색해져 새 창 열림",
+        "link": "https://www.donga.com/news/Economy/article/all/20261106/134977547/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "\"빚투 주식 강제매도 줄인다\"…정부, 증시 폭락에 긴급 조치 새 창 열림",
+        "link": "https://news.tvchosun.com/site/data/html_dir/2026/11/06/2026110690134.html",
+        "source": "TV조선",
+        "tier": "B",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "반도체 호황에도 좁은 청년 취업문…민간·공공 일자리 확충이 관건 새 창 열림",
+        "link": "https://www.dailian.co.kr/news/view/1711649/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-11-05"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "[2026 로보월드 지면 특별판] 서비스 로봇 주요 출품업체 새 창 열림",
+        "link": "https://www.irobotnews.com/news/articleView.html?idxno=49423",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "\"부산으로 부탁해요!\" 외침에 방 안이 뒤흔들렸다 새 창 열림",
+        "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003281689&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+        "source": "오마이뉴스",
+        "tier": "C",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "[경북시군소식]경산시, 하양 무학지구 시내버스 노선 확충 등 새 창 열림",
+        "link": "https://www.wikitree.co.kr/articles/1172113",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "자동차 아냐?…세그웨이, 안전벨트 달린 신형 전기 모터사이클 공개 새 창 열림",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=713258",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "전남대, 오는 9일 5·18광장서 '2026 잡페스타' 개최 새 창 열림",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1422533",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-05"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "KOTRA해외시장뉴스 새 창 열림",
+        "link": "https://dream.kotra.or.kr/kotranews/index.do",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "[나눔 트렌드] 중소벤처기업진흥공단, 진주 학대피해아동 가정에 500만 ... 새 창 열림",
+        "link": "https://www.ibabynews.com/news/articleView.html?idxno=156606",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "\" 쿠팡 없으면 안 돼\"…신기록 찍었다 새 창 열림",
+        "link": "https://magazine.hankyung.com/business/article/202611058864b",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "'무료배달' 전쟁서 밀려난 요기요 , 구독자 중심 서비스로 부활 신호탄 새 창 열림",
+        "link": "https://www.insight.co.kr/news/580845",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "[투데이온] 털어낸 KB·품에 안은 JB…부코핀파이낸스 289억 매각 '윈윈... 새 창 열림",
+        "link": "https://www.the-today.com/news/articleView.html?idxno=93186",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "자영업자 살린다며 배달 종사자 죽인다? 라이더 들이 청와대로 간 까닭은... 새 창 열림",
+        "link": "https://www.munhwa.com/article/11629404?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "중기부, 신산업 中企 집중 지원 약속…기술탈취 과징금 강화 추진 새 창 열림",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=2015401",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-06"
+      }
+    ]
   }
 };
