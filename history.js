@@ -34074,5 +34074,188 @@ window.historyData = {
         "date": "2026-11-06"
       }
     ]
+  },
+  "2026-11-07": {
+    "macro": [
+      {
+        "title": "토큰포스트 새 창 열림",
+        "link": "https://www.tokenpost.kr",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "씨티 \"코스피 급락에도 11월 금리 인상 전망 유지\" 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261106149800002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "뉴욕증시 급락세 진정‥10월 고용 '깜짝 증가' 새 창 열림",
+        "link": "https://imnews.imbc.com/replay/2026/nw1200/article/6863894_36967.html",
+        "source": "MBC",
+        "tier": "S",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "씨티 \"코스피 급락에도 한은 11월 금리인상…내년 2월 3.5% 전망\" 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261106_0003858390",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "[다음주 경제] 금융권 가계대출 다시 늘었나 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261107017800002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "\"저금리 믿고 집 샀는데\"…5년 만에 돌아온 고금리 청구서에 차주들 비... 새 창 열림",
+        "link": "https://www.ajunews.com/view/20261106133200528",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "국내 증시 급락하자 미국 주식으로 달려갔다…서학개미, 11월 첫 주에만... 새 창 열림",
+        "link": "https://www.khan.co.kr/article/202611071219001",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "주유소 기름값 25주 연속 하락…1,800원대 머물며 사실상 횡보 새 창 열림",
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=208702",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "‘은둔 고수’ 소문난 김대리, 주식계좌 확인해보니…“이정도면 상위... 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12201398",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "금(금값, 금시세) 11월 7일, 주말 18K 14K 등 얼마? 새 창 열림",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=624127",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-07"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "\"운전석에선 구분이 안 됐다\"…같은 하체, 다른 심장 '렉서스 올 뉴 ES' ... 새 창 열림",
+        "link": "https://www.fnnews.com/news/202611061740477531",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "\"한국시리즈 수요 확인\"… 지쿠 , 수원·대구에 공유기기 2배 늘린다 새 창 열림",
+        "link": "https://www.ddaily.co.kr/page/view/2026110617071789403",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "IT동아 새 창 열림",
+        "link": "https://it.donga.com/",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "[레저N산업] '39% 급감' 페달 자전거… 시장 주도권 쥔 'E-바이크' 새 창 열림",
+        "link": "https://www.nc.press/news/articleView.html?idxno=630396",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "지붕에 안전벨트까지…자동차 닳은 세그웨이 X 크루저 이륜차 등장 새 창 열림",
+        "link": "https://thedrive.co.kr/news/newsview.php?ncode=1065603061207252",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "삼성전자·SK하이닉스 현직자 만난다…전남대, 9일 취업박람회 개최 새 창 열림",
+        "link": "https://www.betanews.net/article/view/beta202611060015",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-06"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "\"너무 심해\" 차이나타운 참변‥배터리 화재? 뉴욕도 술렁 새 창 열림",
+        "link": "https://imnews.imbc.com/news/2026/world/article/6863771_36925.html",
+        "source": "MBC",
+        "tier": "S",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "건강한 토토라이프 만들기! 베트맨, ‘소액 구매 건전화 캠페인’ 30일까... 새 창 열림",
+        "link": "https://www.sportsseoul.com/news/read/1647746?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "또봉이통닭, 11월 배달앱 할인… 전 메뉴 3천원 할인 새 창 열림",
+        "link": "https://www.mt.co.kr/industry/2026/11/06/2026110514262922337",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "생생비즈플러스 새 창 열림",
+        "link": "https://www.livebiz.today/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "박승원 광명시장, 시민과 스마트도시 실증 현장 점검 새 창 열림",
+        "link": "https://www.livesnews.com/news/article.html?no=65742",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "“ 배달 기사가 주문 음식 먹었다” 주장에…배민 “파손 처리한 것” 새 창 열림",
+        "link": "https://www.joongang.co.kr/article/25476464",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "IT조선 새 창 열림",
+        "link": "https://it.chosun.com/",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-11-07"
+      }
+    ]
   }
 };
