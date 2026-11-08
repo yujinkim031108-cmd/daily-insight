@@ -34257,5 +34257,160 @@ window.historyData = {
         "date": "2026-11-07"
       }
     ]
+  },
+  "2026-11-08": {
+    "macro": [
+      {
+        "title": "'블루 웨이브' 여파 계속될까?…美 물가 ·코어위브 실적 주목 새 창 열림",
+        "link": "https://www.mt.co.kr/stock/2026/11/08/2026110811240385851",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "“미국 물가 부터 옵션 만기까지”…다음 주 증시 변수, 미리 대비하려면 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12201573",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "신용 만점자도 7% 육박… 인뱅 마통 금리 왜 더 높나 새 창 열림",
+        "link": "https://www.m-i.kr/news/articleView.html?idxno=2015402",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "채권금리 빠르게 내렸지만…'추격 매수냐 관망이냐' 채권시장 신중 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261106190600008?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-11-08"
+      },
+      {
+        "title": "IT조선 새 창 열림",
+        "link": "https://it.chosun.com/",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-11-08"
+      },
+      {
+        "title": "\"50대부터는 대출 많이 받지 마세요\"… 대출 없이 자산 키우는 법 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261108_0003859127",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "'실적잔치' 벌였던 대형 증권사…3분기 기저효과 현실화 새 창 열림",
+        "link": "https://www.g-enews.com/view.php?ud=202611081049154282153ddfb15a_1",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "월요신문 새 창 열림",
+        "link": "https://www.wolyo.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "내년 초등 입학생 첫 20만명대 현실화…40만명 깨진 지 3년 만에 새 창 열림",
+        "link": "https://www.hani.co.kr/arti/economy/economy_general/1286264.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "다카이치, 자기 목 베겠다던 中 총영사 추방하려 했었다 새 창 열림",
+        "link": "https://www.chosun.com/international/international_general/2026/11/08/E7JCDCY7UZHC3AA6URBF72T3Z4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-11-07"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "\"운전석에선 구분이 안 됐다\"…같은 하체, 다른 심장 '렉서스 올 뉴 ES' ... 새 창 열림",
+        "link": "https://www.fnnews.com/news/202611061740477531",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "\"야구장 이동도 두 바퀴로\"… 지쿠 , 한국시리즈 맞아 공급 2배 늘린다 새 창 열림",
+        "link": "https://news.tvchosun.com/site/data/html_dir/2026/11/07/2026110790077.html",
+        "source": "TV조선",
+        "tier": "B",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "부산MBC 새 창 열림",
+        "link": "https://busanmbc.co.kr/",
+        "source": "MBC",
+        "tier": "S",
+        "date": "2026-11-07"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "서대문구 “ 배달의민족 손잡고 일회용기 사용 줄인다” 새 창 열림",
+        "link": "https://www.munhwa.com/article/11629612?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "‘산재 은폐 처벌’ 부담 벗어난 김범석…‘탈팡’ 극복도 자신감 새 창 열림",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706847&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "NH농협카드, 생활밀착 8개 가맹점서 NH머니 10% 적립 이벤트 새 창 열림",
+        "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1106101",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-08"
+      },
+      {
+        "title": "광명시, 180억원 투입 스마트도시 조성 박차…시민과 실증 현장 점검 새 창 열림",
+        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5080678",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "광화문광장에 '한파쉼터'…서울시, 제설제 살포 1시간 이내로 단축 새 창 열림",
+        "link": "https://www.mt.co.kr/policy/2026/11/08/2026110811383410427",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "자영업자·라이더 정면충돌…“ 수수료 낮춰달라” vs “생계 위협” 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12200575",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-11-07"
+      }
+    ]
   }
 };
