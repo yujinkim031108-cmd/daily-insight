@@ -34412,5 +34412,167 @@ window.historyData = {
         "date": "2026-11-07"
       }
     ]
+  },
+  "2026-11-09": {
+    "macro": [
+      {
+        "title": "[올댓차이나] 10월 中 소비자물가 0.7%↑로 둔화…생산자 물가 는 4년만에... 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261109_0003860318",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "AI·반도체만 뜨거운 한국 경제 … 가계로 번지지 않는 성장 온기 새 창 열림",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/11/09/2026110900148.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-11-08"
+      },
+      {
+        "title": "' 금리 는 기본'…한도 없애고 허들 낮추는 수신경쟁 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000345076?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-11-08"
+      },
+      {
+        "title": "[이지혜경제쇼YO]“채권 매수 타이밍 온다”...전문가가 콕 집은 ‘브라... 새 창 열림",
+        "link": "https://www.edaily.co.kr/News/Read?newsId=02820806645644080&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-11-08"
+      },
+      {
+        "title": "고정금리는 내리고 변동금리는 오르고 … 주담대 차주들 '금리 혼란' 새 창 열림",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/11/09/2026110900103.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "“월 72만 원씩 준다고?”…전월세 안심신탁, 집주인들 참여할까 [잇슈... 새 창 열림",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8707101&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "KDI \"AI투자 중심 양호한 성장…반도체 소득효과 가계엔 아직\" 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261109067700002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "국제유가 급락에 최고가격제 출구전략 부상…정유사 부담·물가 딜레마 새 창 열림",
+        "link": "https://www.munhwa.com/article/11629906?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-08"
+      },
+      {
+        "title": "시야가 좁아지는 때... 개미투자자라면 봐야 할 세가지 숫자 새 창 열림",
+        "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003282836&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+        "source": "오마이뉴스",
+        "tier": "C",
+        "date": "2026-11-08"
+      },
+      {
+        "title": "남아공 만델라당도 민생고에 선거 참패···시민들은 “변화를 원한다... 새 창 열림",
+        "link": "https://www.khan.co.kr/article/202611091046001",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-11-09"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-08"
+      },
+      {
+        "title": "지쿠 , 수능일 아침 공유 자전거·킥보드 이용료 지원 새 창 열림",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=780104",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-08"
+      },
+      {
+        "title": "푸르메재단, 푸르메어린이재활병원 개원 10주년 기념 마라톤 행사 열어 새 창 열림",
+        "link": "https://www.rapportian.com/news/articleView.html?idxno=242167",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "공우석 서울시의원 “지하주차장·전기차 충전시설 화재 사각지대 없애... 새 창 열림",
+        "link": "https://www.seoul.co.kr/news/publicnews/local_govern/smc_movement/2026/11/09/20261109500059?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-11-08"
+      },
+      {
+        "title": "[오늘의 날씨] 남부·동해안 5~30mm 비…아침 영하권·해상 최고 5m 파도 새 창 열림",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=16271488",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-08"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-08"
+      },
+      {
+        "title": "배민 3311억·쿠팡 3008억… 배달 앱 역대 최대 과징금 새 창 열림",
+        "link": "https://www.hankyung.com/article/2026110947967",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-11-08"
+      },
+      {
+        "title": "배달앱 과징금 논란…\"공정 경쟁보다 산업 위축 우려\" 새 창 열림",
+        "link": "https://view.asiae.co.kr/article/2026110910263589210",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-08"
+      },
+      {
+        "title": "배달 라이더 유상운송보험 의무 가입 … 배달 3사 '명의도용' 적발시 계... 새 창 열림",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/11/09/2026110900089.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "현장으로 달려간 광명시 공무원들 \"시민이 체감하는 ‘스마트도시 광명... 새 창 열림",
+        "link": "https://www.pressian.com/pages/articles/2026110819464201246?utm_source=naver&utm_medium=search",
+        "source": "프레시안",
+        "tier": "C",
+        "date": "2026-11-08"
+      },
+      {
+        "title": "공정위, 배민·쿠팡에 각각 3000억 원대 과징금 부과 새 창 열림",
+        "link": "https://www.hankookilbo.com/news/article/A2026110910270001277?did=NA",
+        "source": "한국일보",
+        "tier": "C",
+        "date": "2026-11-08"
+      },
+      {
+        "title": "공정위, ‘최혜대우 요구 갑질’ 배민·쿠팡에 과징금 6319억원 ‘철퇴’ 새 창 열림",
+        "link": "https://www.hani.co.kr/arti/economy/economy_general/1286405.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-11-08"
+      }
+    ]
   }
 };
