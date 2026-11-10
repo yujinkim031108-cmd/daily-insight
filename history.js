@@ -34574,5 +34574,195 @@ window.historyData = {
         "date": "2026-11-08"
       }
     ]
+  },
+  "2026-11-10": {
+    "macro": [
+      {
+        "title": "코스피·코스닥 매수 사이드카 발동 후 상승폭 축소…오후 3%대↑ 새 창 열림",
+        "link": "https://www.edaily.co.kr/News/Read?newsId=04408326645644408&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "토큰포스트 새 창 열림",
+        "link": "https://www.tokenpost.kr",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "금융연 \"내년 韓 경제 3.1% 성장\" … 반도체 호황에도 'AI 쏠림' 경고 새 창 열림",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/11/10/2026111000226.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "주가 급락에 한은 금리 인상 브레이크 걸릴까 새 창 열림",
+        "link": "https://www.etoday.co.kr/news/view/2646235",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "IT조선 새 창 열림",
+        "link": "https://it.chosun.com/",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "[2027 금융산업] 은행 건전성 '경고등'…수익성 개선 '제한적' 새 창 열림",
+        "link": "https://www.asiatime.co.kr/article/20261110500022",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "미국 증시 상승·유가 하락에 코스피 코스닥 반등 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0102_202611101343135837",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "석유최고가 5연속 동결·유류세 인하 유지…\" 유가 내려도 더 낮추긴 부... 새 창 열림",
+        "link": "https://www.news1.kr/economy/trend/6349029",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "교부금 개편에 지하철 광고 꺼낸 서울교육청…25개 역서 \"연동제 유지\" 새 창 열림",
+        "link": "https://www.news1.kr/society/education/6348475",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "금융연구원 \"내년 韓 GDP 성장률 3.1%…2년 연속 3%대 성장 전망\" 새 창 열림",
+        "link": "https://www.news1.kr/finance/general-finance/6348905",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-11-09"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "지쿠 , 2년 연속 ‘수험생 응원 캠페인’ 새 창 열림",
+        "link": "https://sports.khan.co.kr/article/202611092345003?pt=nv",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "[단독] 카카오T에 PM 입점시켜 놓고… 자사 바이크에만 특혜 논란 새 창 열림",
+        "link": "https://www.kmib.co.kr/article/20261109501795",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "국회 심사대 오른 PM법…업계, '원동기 면허' 포함될까 우려 새 창 열림",
+        "link": "https://www.etnews.com/20261109000132",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "공우석 서울시의원 “지하주차장·전기차 충전시설 화재 사각지대 없애... 새 창 열림",
+        "link": "https://www.seoul.co.kr/news/publicnews/local_govern/smc_movement/2026/11/09/20261109500059?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "베트남 부총리 \"친환경 모빌리티 전환, 강제해선 안 돼\"…자발적 전환 ... 새 창 열림",
+        "link": "https://www.insidevina.com/news/articleView.html?idxno=44457",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "폐자동차 정밀 해체로 자원순환 확대 - 동강그린모터스 최호 대표 새 창 열림",
+        "link": "https://www.handmk.com/news/articleView.html?idxno=44879",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "AI로 음악 만들고 로봇 조작… 진로 탐색도 똑똑해졌다 새 창 열림",
+        "link": "https://www.donga.com/news/Society/article/all/20261109/134995077/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-11-10"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "서울 소방, 전국 최초 소형 배터리 소화수조 개발 추진 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20260826_0003763741",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "“다른 앱에서 더 싸게 팔지 마”…공정위, 배민·쿠팡이츠에 6319억원 ... 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12203810",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "스틸美대사 \"韓진출 美기업, 공정한 환경서 경쟁할 수 있어야\"(종합) 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261110075651001?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "[오늘의식탁] 롯데웰푸드ㆍ농심ㆍCJ프레시웨이ㆍ파리바게뜨ㆍ빙그레ㆍ... 새 창 열림",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611100815224890305",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "에너지경제 새 창 열림",
+        "link": "https://www.ekn.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "CNB뉴스 새 창 열림",
+        "link": "https://www.cnbnews.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "민주 \"배민·쿠팡 6천억 과징금 환영...시정 조치 챙길 것\" 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0101_202611101126322835",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-11-09"
+      }
+    ]
   }
 };
