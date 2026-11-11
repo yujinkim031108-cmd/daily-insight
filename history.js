@@ -34764,5 +34764,153 @@ window.historyData = {
         "date": "2026-11-09"
       }
     ]
+  },
+  "2026-11-11": {
+    "macro": [
+      {
+        "title": "AI 거품 우려에 물가 쇼크까지…월가 덮친 '이중 악재' 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261111_0003863485",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "연준 과잉 긴축, 내년 美 증시 최대 복병 부상 새 창 열림",
+        "link": "https://www.newspim.com/news/view/20261111000723",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "3.25%가 금리 정점일까 … 美 '빅스텝' 부상에 한은 긴축 향방 촉각 새 창 열림",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/11/11/2026111100111.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "은행 가계대출 큰 폭 증가...처음으로 1200조원 넘었다 새 창 열림",
+        "link": "https://www.hani.co.kr/arti/economy/economy_general/1286768.html",
+        "source": "한겨레",
+        "tier": "A",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "돈 벌기 어려워지고 부실 위험 커지고…은행권 내년 '이중고' 새 창 열림",
+        "link": "https://www.dailian.co.kr/news/view/1713298/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "코스피 보합권 안에서 상승세 ...'20만 전자' 탈환 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0102_202611111141034282",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "포인트경제 새 창 열림",
+        "link": "https://www.pointe.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "\"내년 3% 성장률 에도 불확실성 여전…수출시장·공급망 다변화해야\" 새 창 열림",
+        "link": "https://www.news1.kr/local/busan-gyeongnam/6350341",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "제주, 10월 취업자 7000명↑...도소매.숙박.음식업은 5년만에 최저 새 창 열림",
+        "link": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=601966",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-10"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "[전동킥보드 안전의 조건] 면허 인증하면 끝? 6년째 맴도는 PM법 새 창 열림",
+        "link": "https://www.bloter.net/news/articleView.html?idxno=678276",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "소형원전·양자 등 7대 미래산업…정부, 사업화 전략 점검 새 창 열림",
+        "link": "https://www.edaily.co.kr/News/Read?newsId=03890086645644736&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "주민 안전이 최우선! 화산파출소, 찾아가는 안전 홍보 전개 새 창 열림",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=625328",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "AI로 음악 만들고 로봇 조작… 진로 탐색도 똑똑해졌다 새 창 열림",
+        "link": "https://www.donga.com/news/Society/article/all/20261109/134995077/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-11-11"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "IT동아 새 창 열림",
+        "link": "https://it.donga.com/",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "배민, 타인 명의 계정 배달 차단…불법 배달 관리 강화 새 창 열림",
+        "link": "https://www.dailian.co.kr/news/view/1713435/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "[단독] “한국 배은망덕” 통상보복 요구한 미국 상원 의원, 공화당 선... 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12205220",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "IT조선 새 창 열림",
+        "link": "https://it.chosun.com/",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "비즈니스플러스 새 창 열림",
+        "link": "https://www.businessplus.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "제주 배달 앱 '먹깨비', 3번째 주문마다 '5000원' 깎아준다 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261111_0003863348",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-11-11"
+      }
+    ]
   }
 };
