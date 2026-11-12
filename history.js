@@ -34912,5 +34912,160 @@ window.historyData = {
         "date": "2026-11-11"
       }
     ]
+  },
+  "2026-11-12": {
+    "macro": [
+      {
+        "title": "美 CPI 발표에 연준 빅스텝론 부상…국채금리 급등 새 창 열림",
+        "link": "https://www.sedaily.com/article/20113432?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "테슬라 팔아 스페이스X로…서학개미 ‘머스크 제국’ 자금 이동 본격화 새 창 열림",
+        "link": "https://www.sedaily.com/article/20113434?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "홍지선 국토장관 “매물 쌓이고 거래 감소…주택가격 하락 신호” 새 창 열림",
+        "link": "https://www.etoday.co.kr/news/view/2647385",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "美 물가 예상 웃돌자 연준 '빅스텝' 가능성 부상…유가 급락에 인플레 ... 새 창 열림",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=748305",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "변동금리 고공행진속 가계대출 증가세 확대 새 창 열림",
+        "link": "https://www.naeil.com/news/read/608571?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "카카오뱅크, 4분기 큰폭의 대출 성장률 회복 기대 [베스트 애널리스트 추... 새 창 열림",
+        "link": "https://magazine.hankyung.com/business/article/202611046577b",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "EBN 새 창 열림",
+        "link": "https://www.ebn.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "“반도체 온기 언제쯤” 내년에 달라질까 새 창 열림",
+        "link": "https://magazine.hankyung.com/business/article/202611122718b",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "로고프 “AI 거품 언젠가는 고통스럽게 꺼져…한국, 재정 여력 관건 될... 새 창 열림",
+        "link": "https://www.chosun.com/economy/economy_general/2026/11/12/HK33ZOPURNDGZDF2MTJ4HTKBL4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "\"젠슨 황 해임돼도 반도체 영향 미미\"…닛케이, 0.76%↑[Asia오전] 새 창 열림",
+        "link": "https://www.mt.co.kr/world/2026/11/12/2026111210523914935",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-11-12"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "[전동킥보드 안전의 조건] 면허 인증하면 끝? 6년째 맴도는 PM법 새 창 열림",
+        "link": "https://www.bloter.net/news/articleView.html?idxno=678276",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "[테크家] 양자컴퓨터 ⑥ㅣ '기술개발 넘어 산업화로' 새 창 열림",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=626038",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "방치 전동킥보드 견인 실적 1년간 ‘0’ 새 창 열림",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710654&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "에티오피아, 내연기관차 수입금지 완화 추진 새 창 열림",
+        "link": "https://weeklytrade.co.kr/news/view.html?section=1&category=136&item=&no=102177",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-11"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "“피해 가, 개××야” 도로 달리던 러너, 경적 울리자 욕설…“혐오 대... 새 창 열림",
+        "link": "https://www.seoul.co.kr/news/society/2026/11/12/20261112500004?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "소비자 후생? 정부 후견? … 공정위의 '공정'을 묻다 새 창 열림",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=61317",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "할인한 만큼 수수료 덜 내도록…배민, 입점업주 부담 완화 새 창 열림",
+        "link": "https://www.edaily.co.kr/News/Read?newsId=02732246645645064&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "태평양 차기 대표 후보로 5명 출마[로펌라운지] 새 창 열림",
+        "link": "https://magazine.hankyung.com/business/article/202611057100b",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "배달 수수료 상한제 반대하는 배달라이더 새 창 열림",
+        "link": "https://www.news1.kr/photos/8210962",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "배민, 파트너 부담 할인 전부 수수료 에서 뺀다…연간 1100억 원 규모 부... 새 창 열림",
+        "link": "https://www.globalepic.co.kr/view.php?ud=2026111213033311454ee4ea3d05_29",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-12"
+      }
+    ]
   }
 };
