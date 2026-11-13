@@ -35067,5 +35067,188 @@ window.historyData = {
         "date": "2026-11-12"
       }
     ]
+  },
+  "2026-11-13": {
+    "macro": [
+      {
+        "title": "미일 금리격차 전망에 다시 출렁이는 엔화…달러당 160엔선 위협 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261113089700073?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "정부 \"견조한 성장세\"로 경기 진단 상향 … 민생은 여전히 온기 부족 새 창 열림",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/11/13/2026111300072.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "9월 시중 통화량 17조1000억원 늘어…증가세 둔화 새 창 열림",
+        "link": "https://www.newsway.co.kr/news/view?ud=2026111311003622029",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "美 '빅스텝' 거론에 한미 금리차 확대 우려…소비 부진에 한은 '딜레마... 새 창 열림",
+        "link": "https://www.news1.kr/economy/trend/6352332",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "은행연합회장 자리 누가 차지할까···6인 후보 면면 보니 새 창 열림",
+        "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=261054",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "가계 대출 한 달 새 6.4조↑…돈 풀리는데 부실 ‘경고등’ 켜졌다 새 창 열림",
+        "link": "https://www.dailian.co.kr/news/view/1714304/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "'젠슨 황 사임'에도 코스피·코스닥 동반상승 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0102_202611131207035042",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "[올댓차이나] 홍콩 증시, 미중 AI 갈등 우려에 사흘째 속락… H주 0.67%↓ 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261113_0003867026",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "유럽 저성장 경고한 IMF…\"프랑스 재정 정상화·개혁 병행해야\" 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261113075800009?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "“사상 첫 수출 1조 달러 눈앞” 정부 낙관론 새 창 열림",
+        "link": "https://magazine.hankyung.com/business/article/202611134801b",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-11-13"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "[단독] 공유 자전거 업체 압박?… 서울시 간부에 ‘뒷말 무성’ 새 창 열림",
+        "link": "https://www.kmib.co.kr/article/20261112502079",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "[전동킥보드 안전의 조건] 속도·연령·면허 확인 '엇갈린 해법' 새 창 열림",
+        "link": "https://www.bloter.net/news/articleView.html?idxno=678368",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "지쿠 , 전국 238개 지역 축제서 공유 모빌리티 이용량 최대 7.2배 증가 새 창 열림",
+        "link": "https://www.lawissue.co.kr/view.php?ud=202611131217204229204ead0791_12",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "남도일보 새 창 열림",
+        "link": "https://www.namdonews.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "방치 전동킥보드 견인 실적 1년간 ‘0’ 새 창 열림",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710654&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "구미 미래 모빌리티 잡엑스포에 구직자 1302명…채용관 60곳 운영 새 창 열림",
+        "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090610",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-13"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "\"배터리!\" 외친 순간 '대폭발' 화재 전 과정 '홈캠 공개' 미국도 난리 새 창 열림",
+        "link": "https://imnews.imbc.com/news/2026/world/article/6865150_36925.html",
+        "source": "MBC",
+        "tier": "S",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "배민, 외식업 운영 지원하는 AI 도구 27종 공개 새 창 열림",
+        "link": "https://www.lawissue.co.kr/view.php?ud=202611131240146346204ead0791_12",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "“가게배달 접는 게 낫다?”…공정위 배달앱 제재에 ‘역설’ 우려 나와 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12207826",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "에너지경제 새 창 열림",
+        "link": "https://www.ekn.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "현대차·기아·벤츠·BMW 등 전기 차 13종 모인 성수동 새 창 열림",
+        "link": "https://zdnet.co.kr/view/?no=20261113103112",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "국민연금 “국세청 소득자료 실시간 조회 시스템 운영” 새 창 열림",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712037&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "[단독] CES 주최 美 기술단체 \"韓, 미국 기업엔 불이익·중국엔 면죄부\" 새 창 열림",
+        "link": "https://news.tvchosun.com/site/data/html_dir/2026/11/13/2026111390128.html",
+        "source": "TV조선",
+        "tier": "B",
+        "date": "2026-11-12"
+      }
+    ]
   }
 };
