@@ -35250,5 +35250,167 @@ window.historyData = {
         "date": "2026-11-12"
       }
     ]
+  },
+  "2026-11-14": {
+    "macro": [
+      {
+        "title": "한달새 30%↓…국장보다 더 불안한 코인시장 새 창 열림",
+        "link": "https://news.bizwatch.co.kr/article/mobile/2026/11/13/0021",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "토큰포스트 새 창 열림",
+        "link": "https://www.tokenpost.kr",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "유동화증권 발행 10월 '45조' 사상 최대…예금 빼니 역성장 새 창 열림",
+        "link": "https://www.bloter.net/news/articleView.html?idxno=678573",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-14"
+      },
+      {
+        "title": "'내년 주담대 받아요'…대출 문 열렸지만 이자 부담 계속 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000346253?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-11-14"
+      },
+      {
+        "title": "[다음주 경제] 2천조원 넘긴 가계 부채, 얼마나 더 늘었을까 새 창 열림",
+        "link": "https://www.insnews.co.kr/news/articleView.html?idxno=93840",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "\" 연체 라는 비 내리면 가장 먼저 우산 걷는 은행\"…주담대 벼랑 끝 채무... 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261113_0003866602",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-11-14"
+      },
+      {
+        "title": "에너지경제 새 창 열림",
+        "link": "https://www.ekn.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "전국 휘발유 가격 26주째 내렸지만…두 달간 사실상 제자리 새 창 열림",
+        "link": "https://www.busan.com/view/busan/view.php?code=2026111411402942119",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "한국 경제 의 미래: 가계부채, IMF 협의, KDI 전망 발표 대공개 새 창 열림",
+        "link": "https://www.gokorea.kr/news/articleView.html?idxno=885609",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-14"
+      },
+      {
+        "title": "AI 혁명을 벼락치기로 공부하는 나라 [PADO] 새 창 열림",
+        "link": "https://www.mt.co.kr/world/2026/11/14/2026111317002740062",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-11-14"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "[단독] 공유 자전거 업체 압박?… 서울시 간부에 ‘뒷말 무성’ 새 창 열림",
+        "link": "https://www.kmib.co.kr/article/20261112502079",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "플랫폼 업계, 지역 상권 살린다…축제 이동 잇고 AI로 장사 돕고 새 창 열림",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=409771",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "부산MBC 새 창 열림",
+        "link": "https://busanmbc.co.kr/",
+        "source": "MBC",
+        "tier": "S",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "전기 차 대중화, 보조금 다음은 충전·AS…\"배터리 제도도 손질해야\" 새 창 열림",
+        "link": "https://zdnet.co.kr/view/?no=20261113133151",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-13"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "부천시 겨울철 안전사고 예방 위한 민관 합동 캠페인 실시 새 창 열림",
+        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3082545",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "배민發 수수료 개편, 쿠팡이츠로 확산되나 새 창 열림",
+        "link": "https://zdnet.co.kr/view/?no=20261113165818",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "AI타임스 새 창 열림",
+        "link": "https://aitimes.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-14"
+      },
+      {
+        "title": "파리바게뜨, 'PLAY 윈터팝' 광고 공개…마크 리 'Happiest' 삽입 새 창 열림",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3751583",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-14"
+      },
+      {
+        "title": "119 대신 커피 주문을 왜…세탁실 갇힌 작업자들 기막힌 탈출 새 창 열림",
+        "link": "https://www.joongang.co.kr/article/25478597",
+        "source": "중앙일보",
+        "tier": "S",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "\"3시간 자며 7년\"…10억 빚에 휘청인 설렁탕집 사장의 반전 [권용훈의 직... 새 창 열림",
+        "link": "https://www.hankyung.com/article/202610278488i",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-11-13"
+      }
+    ]
   }
 };
