@@ -35595,5 +35595,188 @@ window.historyData = {
         "date": "2026-11-15"
       }
     ]
+  },
+  "2026-11-19": {
+    "macro": [
+      {
+        "title": "토큰포스트 새 창 열림",
+        "link": "https://www.tokenpost.kr",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "KDI, 내년 성장률도 3.9% 전망…“‘K-양극화’ 대응이 숙제” 새 창 열림",
+        "link": "https://www.naeil.com/news/read/609317?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "美 금리 인상 전망 힘 실려…'R의 공포' 또 무사히 넘길까 [분석+] 새 창 열림",
+        "link": "https://www.hankyung.com/article/2026111851266",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "싸서 택한 변동금리의 역습 … 주담대 이자 부담 더 커진다 새 창 열림",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2026/11/19/2026111950128.html",
+        "source": "뉴데일리",
+        "tier": "C",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "예금금리 오르자 주담대 금리도 ‘껑충’…변동형은 6% 뚫렸다 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12213467",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "가계빚 2030조, 주담대 금리 14년래 최고…취약차주 내년 상반기 고비 새 창 열림",
+        "link": "https://www.news1.kr/economy/trend/6358691",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "원화 10% 오르면 가구당 연 16.5만원 절감…저소득층에 더 유리 새 창 열림",
+        "link": "https://www.dailian.co.kr/news/view/1717195/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "[특징주] 국제유가 급락에 정유주 동반 약세…SK이노베이션 3%대 하락 새 창 열림",
+        "link": "https://www.ajunews.com/view/20261119133349922",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "[선전 APEC]푸틴 \"러, 아태 핵심 기여국…러 거치는 '남북회랑' 적극 활... 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261119_0003874925",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-11-18"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "지쿠 , 수능일 아침 탑승자 34%·수험생 이용 52% 증가 새 창 열림",
+        "link": "https://view.asiae.co.kr/article/2026111911183257786",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "자동차사고, 급하게 합의했다가 '낭패'...금감원 \"교묘해진 보험사기 주... 새 창 열림",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=355033",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "이정연 하남시의원 “개인형 이동장치 관련 법안 현재 국회 계류중… 조... 새 창 열림",
+        "link": "https://www.seoul.co.kr/news/publicnews/local_govern/news_local/2026/11/18/20261118500318?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "에너지경제 새 창 열림",
+        "link": "https://www.ekn.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "차체 기울여 코너링 안정성 극대화… 이앤아이모빌리티, 3륜 전기 차 ‘카... 새 창 열림",
+        "link": "https://isplus.com/article/view/isp202611180181",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "산청군, 외국인 농업근로자 기숙사 내년 1월 준공…주거환경 개선 확대 새 창 열림",
+        "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5085365",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "마이크로 킥보드, ‘2026 제품안전의 날’ 산업통상부 장관상 수상 새 창 열림",
+        "link": "https://www.sentv.co.kr/article/view/sentv202611180122",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "파주시의회, 한빛고 학생들과 지역 현안·정책 개선 방안 논의 새 창 열림",
+        "link": "https://www.globalepic.co.kr/view.php?ud=2026111814470036595f69d33b22_29",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-18"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "부산창경, 스마트시티 기업 4곳 SCEWC 참가…해외 상담 369만달러 새 창 열림",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=94754",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "“본사가 점주에게 돈을 준다고?”…HFBG의 역발상 상생경영 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12212292",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "쿠팡이츠 콜센터 노동자들 노조 설립 “일방적인 근로조건 악화 더는 못... 새 창 열림",
+        "link": "https://vop.co.kr/A00001697669.html",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "요기요 , 창립 15주년 맞아 지역 아동에 간식 나눔 새 창 열림",
+        "link": "https://www.sentv.co.kr/article/view/sentv202611190109",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "인물 동정 (11월 20일) 새 창 열림",
+        "link": "https://www.inews365.com/news/article.html?no=944278",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "무안군, 축제 즐기고 배달 할인도…먹깨비 할인행사 진행 새 창 열림",
+        "link": "https://sports.donga.com/region/article/all/20261119/135053553/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-11-19"
+      }
+    ]
   }
 };
