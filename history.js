@@ -35778,5 +35778,232 @@ window.historyData = {
         "date": "2026-11-19"
       }
     ]
+  },
+  "2026-11-20": {
+    "macro": [
+      {
+        "title": "日 10월 소비자물가 2.2% 상승…쌀값은 30% 폭락 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000347795?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "토큰포스트 새 창 열림",
+        "link": "https://www.tokenpost.kr",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "남유정, 이사 3개월 만에 \"안 괜찮다\"…'영끌족' 주담대 공포 [머니팁] 새 창 열림",
+        "link": "https://www.hankyung.com/article/202611209874v",
+        "source": "한국경제",
+        "tier": "A",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "[자산관리와 절세] 남의 성과급이 내 대출이자를 올린다 새 창 열림",
+        "link": "https://theviewers.co.kr/View.aspx?No=4322174",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "집값 오르자 1인당 주담대 다시 늘었다… 30대 비중 역대 최대 새 창 열림",
+        "link": "https://www.seoul.co.kr/news/economy/2026/11/20/20261120500152?wlog_tag3=naver",
+        "source": "서울신문",
+        "tier": "B",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "은행권 연체 율 0.59%로 상승… 기업 대출 이어 가계 대출 도 연체 증가세 새 창 열림",
+        "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=45484",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "월요신문 새 창 열림",
+        "link": "https://www.wolyo.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "농축산물 급락에 10월 생산자물가 석달 만에 하락 새 창 열림",
+        "link": "https://www.busan.com/view/busan/view.php?code=2026112013083148392",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "엔비디아 호실적·앤트로픽 상장 성공…그래도 증시 급락, 5가지 이유 새 창 열림",
+        "link": "https://www.mt.co.kr/world/2026/11/20/2026112010484726594",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "연준 부의장 “AI 투자, 당장은 물가 자극” 새 창 열림",
+        "link": "https://www.naeil.com/news/read/609481?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-19"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "[오토 뉴스브리핑]제네시스, ‘2026 LA 오토쇼’ 참가…‘G80 하이브리드... 새 창 열림",
+        "link": "https://www.asiatime.co.kr/article/20261120500239",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "'후반기ERA 6.59' KBO홀드왕의 일본行…'소뱅' 불펜ERA 2.26인데→냉정한... 새 창 열림",
+        "link": "https://www.sportschosun.com/baseball/2026-11-20/202611200100128350011992",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "성남시, 무단 방치 킥보드 내년 3월부터 강제 수거 새 창 열림",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718303&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "KOTRA해외시장뉴스 새 창 열림",
+        "link": "https://dream.kotra.or.kr/kotranews/index.do",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "[기고] 모빌리티 혁명, 기술보다 안전체계가 먼저다 새 창 열림",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363742973",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "아산시의회, 제269회 제2차 정례회 개회 예정 새 창 열림",
+        "link": "https://www.newstnt.com/news/articleView.html?idxno=729446",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-19"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "\"성적 대상화\" 뭇매 맞더니…'노출 논란' 시드니 스위니, 차기 본드걸 유... 새 창 열림",
+        "link": "https://www.mydaily.co.kr/page/view/2026112012474924335",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "딴지일보 새 창 열림",
+        "link": "https://www.ddanzi.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "배민·뚜레쥬르, 연말 케이크 '홀리데이 푸파나잇' 사전예약 판매 새 창 열림",
+        "link": "https://sports.hankooki.com/news/articleView.html?idxno=6943936",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "수수료 낮추면 점주 부담은?…배달앱 비용조사 청원 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261120_0003876459",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "팔레트 찾고 엘리베이터 타는 로봇…삼성물산 'AI 네이티브 건설사' 속... 새 창 열림",
+        "link": "https://www.news1.kr/realestate/general/6360646",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "바이라인네트워크 새 창 열림",
+        "link": "https://byline.network",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "고립청년 회복, 첫 만남 이후가 과제…송국클럽하우스의 지원 현장 새 창 열림",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=748729",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "\"3.3% 시대 끝\" 내년부터 프리랜서 원천징수세율 2.2%로…국회 잠정 합의 새 창 열림",
+        "link": "https://www.sejungilbo.com/news/articleView.html?idxno=61197",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-20"
+      }
+    ],
+    "pm_overseas": [
+      {
+        "title": "Bike Share in the Land of the Motorbike: How Vietnam Is Making Room for Bikes",
+        "link": "https://micromobility.substack.com/p/bike-share-in-the-land-of-the-motorbike",
+        "source": "Micromobility Substack",
+        "tier": "",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "MMA26 Comes to a Close: Startup Awards, Drone Delivery and a Day to Remember",
+        "link": "https://micromobility.substack.com/p/mma26-comes-to-a-close-startup-awards",
+        "source": "Micromobility Substack",
+        "tier": "",
+        "date": "2026-11-16"
+      },
+      {
+        "title": "MMA26 Day 1 Is a Wrap: Launches, Test Tracks and a Ride to Lime HQ",
+        "link": "https://micromobility.substack.com/p/mma26-day-1-is-a-wrap-launches-test",
+        "source": "Micromobility Substack",
+        "tier": "",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "⏳ The Final Stretch! Just 2 Days Until Micromobility America",
+        "link": "https://micromobility.substack.com/p/the-final-stretch-just-2-days-until",
+        "source": "Micromobility Substack",
+        "tier": "",
+        "date": "2026-11-09"
+      },
+      {
+        "title": "Inside Micromobility America 2026: What to Expect",
+        "link": "https://micromobility.substack.com/p/inside-micromobility-america-2026",
+        "source": "Micromobility Substack",
+        "tier": "",
+        "date": "2026-11-07"
+      }
+    ]
   }
 };
