@@ -36005,5 +36005,225 @@ window.historyData = {
         "date": "2026-11-07"
       }
     ]
+  },
+  "2026-11-21": {
+    "macro": [
+      {
+        "title": "“그때 집 살 걸 그랬어요”…전셋값 급등에 세입자 ‘발동동’ [김경민... 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12214655",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-11-21"
+      },
+      {
+        "title": "한은 11월 0.25%p 인상·동결 전망 맞서 새 창 열림",
+        "link": "https://www.tokenpost.kr/news/economy/441892",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "코스피 4,900선 붕괴...미국 물가·한은 금통위 '주목' 새 창 열림",
+        "link": "https://www.ytn.co.kr/_ln/0102_202611211303456578",
+        "source": "YTN",
+        "tier": "A",
+        "date": "2026-11-21"
+      },
+      {
+        "title": "[다음주 경제] 숨 고르기 한 기준금리, 인상할까…한은 성장률 전망은 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261121014700002?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-11-21"
+      },
+      {
+        "title": "1000만원 맡기면 이자 차이 고작 2000원…2금융 예금 매력 '뚝' 새 창 열림",
+        "link": "https://www.mt.co.kr/finance/2026/11/21/2026112012204455689",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-11-21"
+      },
+      {
+        "title": "[국감AS] \"소득 제자리, 대출 은 늘어\"…주금공 보금자리론 이달 금리 인... 새 창 열림",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7195050",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-21"
+      },
+      {
+        "title": "나경원 \"코스피 5% 폭락, 시총 3천460조 증발…李정권, 국민 돈 물어내라... 새 창 열림",
+        "link": "https://www.imaeil.com/page/view/2026112113124209923",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "주유소 기름값 27주째 하락… 하락 폭은 미미 새 창 열림",
+        "link": "https://www.chosun.com/economy/economy_general/2026/11/21/V7L5VFC72RBE3LWJDYEPCR5DBU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-11-21"
+      },
+      {
+        "title": "[그린 칼럼] '수출 1조 달러'는 출발선 ··· '외발자전거' 반도체 이후... 새 창 열림",
+        "link": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=308116",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "경력 기회 불만 21%…미국 자발적 퇴사율 2.1% 새 창 열림",
+        "link": "https://www.tokenpost.kr/news/economy/441861",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-20"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "스마트비즈 새 창 열림",
+        "link": "https://www.smartbizn.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "지쿠 , 수능일 아침 탑승자 34%, 수험생 이용 52% 증가 새 창 열림",
+        "link": "https://sports.khan.co.kr/article/202611200705003?pt=nv",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "용인특례시 특수학교 간담회 개최 새 창 열림",
+        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3083660",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "세종시 자전거도로 안전 문제,정책·예산으로 풀어야 새 창 열림",
+        "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003286891&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+        "source": "오마이뉴스",
+        "tier": "C",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "[베트남 주간 이슈] 삼양식품 1,311억 쏘고 삼성·한 전기 술 보폭 넓히는... 새 창 열림",
+        "link": "https://www.insidevina.com/news/articleView.html?idxno=44562",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "아산시의회, 2027년 예산·소상공인 지원·도시재생 현안 집중 심사 새 창 열림",
+        "link": "https://www.aflnews.co.kr/news/articleView.html?idxno=332130",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-21"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "11등신 비키니 입고…WNBA 커닝햄, '빅토리아 시크릿' 이어 '007 본드걸'... 새 창 열림",
+        "link": "https://www.mydaily.co.kr/page/view/2026112107144448643",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "IT동아 새 창 열림",
+        "link": "https://it.donga.com/",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "겨울 바람 쌩쌩, 연말 분위기 입은 뷰티 신상[패션·뷰티 HOT신상] 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261120_0003877212",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-11-21"
+      },
+      {
+        "title": "배달비는 무료인데 왜 음식값은 올랐을까[박상영의 경제본색](25) 새 창 열림",
+        "link": "https://weekly.khan.co.kr/article/202611201510001",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "팔레트 찾고 엘리베이터 타는 로봇…삼성물산 'AI 네이티브 건설사' 속... 새 창 열림",
+        "link": "https://www.news1.kr/realestate/general/6360646",
+        "source": "뉴스1",
+        "tier": "B",
+        "date": "2026-11-21"
+      },
+      {
+        "title": "[CEO 리더십] 김범석 우아한형제들 대표, 주문 전에 움직이는 배민 만든... 새 창 열림",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=302281",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "'규제, 그리고 새로운 기회' 엑솔라가 제시한 리텐션과 유저 확장의 가... 새 창 열림",
+        "link": "https://www.inven.co.kr/webzine/news/?news=323670",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-20"
+      }
+    ],
+    "pm_overseas": [
+      {
+        "title": "The Industry Showed Up Again. Thank You, San Francisco.",
+        "link": "https://micromobility.substack.com/p/the-industry-showed-up-again-thank",
+        "source": "Micromobility Substack",
+        "tier": "",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "Bike Share in the Land of the Motorbike: How Vietnam Is Making Room for Bikes",
+        "link": "https://micromobility.substack.com/p/bike-share-in-the-land-of-the-motorbike",
+        "source": "Micromobility Substack",
+        "tier": "",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "MMA26 Comes to a Close: Startup Awards, Drone Delivery and a Day to Remember",
+        "link": "https://micromobility.substack.com/p/mma26-comes-to-a-close-startup-awards",
+        "source": "Micromobility Substack",
+        "tier": "",
+        "date": "2026-11-16"
+      },
+      {
+        "title": "MMA26 Day 1 Is a Wrap: Launches, Test Tracks and a Ride to Lime HQ",
+        "link": "https://micromobility.substack.com/p/mma26-day-1-is-a-wrap-launches-test",
+        "source": "Micromobility Substack",
+        "tier": "",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "⏳ The Final Stretch! Just 2 Days Until Micromobility America",
+        "link": "https://micromobility.substack.com/p/the-final-stretch-just-2-days-until",
+        "source": "Micromobility Substack",
+        "tier": "",
+        "date": "2026-11-09"
+      }
+    ]
   }
 };
