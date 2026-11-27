@@ -36415,5 +36415,181 @@ window.historyData = {
         "date": "2026-11-25"
       }
     ]
+  },
+  "2026-11-27": {
+    "macro": [
+      {
+        "title": "곡물값 반등 오름폭은 제한 남미 파종순항 상승세 약화 새 창 열림",
+        "link": "https://www.chukkyung.co.kr/news/articleView.html?idxno=83896",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "원·달러 환율 1340원대 유지 새 창 열림",
+        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3084523",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "서울 아파트 경매 두달새 58% 늘어… 금리 인상에 '영끌족' 한숨 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261127_0003886277",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "\"수출 1조달러? 그게 무슨 소용!\"…나라만 부자, 국민은 가난 새 창 열림",
+        "link": "https://news.jtbc.co.kr/article/NB12330159?influxDiv=NAVER",
+        "source": "JTBC",
+        "tier": "A",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "가계 ·기업 대출 다 줄었는데…보험사 연체율 왜 오르나 새 창 열림",
+        "link": "https://www.mk.co.kr/article/12220087",
+        "source": "매일경제",
+        "tier": "B",
+        "date": "2026-11-27"
+      },
+      {
+        "title": "부산 가계 대출 ‘마이너스’로… 연체 율은 0.73%로 개선 새 창 열림",
+        "link": "https://www.viva100.com/article/20261127500393",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-27"
+      },
+      {
+        "title": "삼성전자, 정규·특별배당 합쳐 직전 분기 대비 12.3배 '역대급 규모' 새 창 열림",
+        "link": "https://www.wikileaks-kr.org/news/articleView.html?idxno=195390",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "롤러코스터 장세에 시장점검 나선 정부 \"공매도 특이동향 없어\" 새 창 열림",
+        "link": "https://www.hankookilbo.com/news/article/A2026112710530005221?did=NA",
+        "source": "한국일보",
+        "tier": "C",
+        "date": "2026-11-27"
+      },
+      {
+        "title": "[그래픽] 한은 올해 성장률 전망 3.9%로 상향…반도체 호황이 기여 새 창 열림",
+        "link": "https://www.newsis.com/view/NISI20261127_0002304229",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "[다음 주 경제일정] 젠슨 황, 美 의회 청문회 출석…美 11월 고용지표도... 새 창 열림",
+        "link": "https://biz.sbs.co.kr/article_hub/20000349299?division=NAVER",
+        "source": "SBS",
+        "tier": "A",
+        "date": "2026-11-26"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "[최기자 시승기] \"중형 넘보는 크기와 디지털·효율로 무장\"...현대차 '디... 새 창 열림",
+        "link": "https://www.g-enews.com/view.php?ud=20261118162326613031a5c2dd38_1",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "[전격시사] 박용진 규제합리화위원회 부위원장 - “계파 갈등보다 허위... 새 창 열림",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723197&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "11월 3주차 국내 ESG 핫클립 새 창 열림",
+        "link": "https://www.impacton.net/news/articleView.html?idxno=30831",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "세종 스마트시티 첫 대단지 '엘 수자인' 27일 견본주택 개관 새 창 열림",
+        "link": "https://www.asiatime.co.kr/article/20261127500223",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "대전 유성구의회 행감 마무리…골목상권·청년·생활안전 점검 새 창 열림",
+        "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2316662",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-26"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "가입자 1460만, 생활 이동수단이 된 PM···“규제 넘어 ‘공존의 해법... 새 창 열림",
+        "link": "https://sports.khan.co.kr/article/202611260744003?pt=nv",
+        "source": "경향신문",
+        "tier": "A",
+        "date": "2026-11-27"
+      },
+      {
+        "title": "퍼블릭뉴스통신(public news-network for TTL) 새 창 열림",
+        "link": "https://www.ttlnews.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "소비자연맹 “배달앱 입점 음식점 68.9% 이중 가격…포장에 배달가 적용... 새 창 열림",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8724539&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-11-27"
+      },
+      {
+        "title": "\"같은 메뉴인데 배달앱이 더 비싸다?\"…45곳 중 31곳 '이중가격' 새 창 열림",
+        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=321147",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "EBN 새 창 열림",
+        "link": "https://www.ebn.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "강진군, 이동노동자 겨울나기 지원 새 창 열림",
+        "link": "https://www.naeil.com/news/read/610383?ref=naver",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "오현주 광주시의원, 지역화폐 연계 소비촉진 대책 촉구 새 창 열림",
+        "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1108127",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-26"
+      }
+    ]
   }
 };
