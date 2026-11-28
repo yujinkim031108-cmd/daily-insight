@@ -36591,5 +36591,204 @@ window.historyData = {
         "date": "2026-11-26"
       }
     ]
+  },
+  "2026-11-28": {
+    "macro": [
+      {
+        "title": "임대료 규제, 주택난의 해결책일까 원인일까…스페인의 교훈[딥다이브] 새 창 열림",
+        "link": "https://www.donga.com/news/Economy/article/all/20261127/135103081/1",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-11-27"
+      },
+      {
+        "title": "고금리·AI 거품론·美 관세… 반도체 호황 속 '삼각파도' 대비해야 새 창 열림",
+        "link": "https://www.thescoop.co.kr/news/articleView.html?idxno=312440",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-27"
+      },
+      {
+        "title": "[김남현의 채권썰] 4.1% 성장과 3.75%에 찍힌 점…증시·연준도 부담 새 창 열림",
+        "link": "https://www.etoday.co.kr/news/view/2654191",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-28"
+      },
+      {
+        "title": "반도체發 고성장…한은 긴축 딜레마[반도체 호황의 역설①] 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261127_0003886733",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-11-28"
+      },
+      {
+        "title": "대출 은 주춤, 예금은 썰물… 인천 금융권 3분기 여수신 ‘동반 위축’ 새 창 열림",
+        "link": "https://www.kyeongin.com/article/1775556",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-28"
+      },
+      {
+        "title": "반도체 호황의 역설… 물가 잡으려 올린 금리에 서민들 ‘삼중고’ 새 창 열림",
+        "link": "https://www.donga.com/news/Economy/article/all/20261127/135106378/2",
+        "source": "동아일보",
+        "tier": "S",
+        "date": "2026-11-28"
+      },
+      {
+        "title": "연합인포맥스 새 창 열림",
+        "link": "https://news.einfomax.co.kr/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-28"
+      },
+      {
+        "title": "전국 주유소 기름값 28주 연속 하락...서울 휘발유 1800원대 새 창 열림",
+        "link": "https://www.dailian.co.kr/news/view/1720823/?sc=Naver",
+        "source": "데일리안",
+        "tier": "C",
+        "date": "2026-11-27"
+      },
+      {
+        "title": "중국의 눈부신 부상 뒤편 반중 활동가들... '우리 목소리가 묻히고 있다... 새 창 열림",
+        "link": "https://www.bbc.com/korean/articles/cm5y1j34q6dxo?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-27"
+      },
+      {
+        "title": "세계 네 번째 수출 '1조 달러'라는데…왜 이렇게 서민들은 살기 힘든가... 새 창 열림",
+        "link": "https://www.pressian.com/pages/articles/2026112718090556059?utm_source=naver&utm_medium=search",
+        "source": "프레시안",
+        "tier": "C",
+        "date": "2026-11-27"
+      }
+    ],
+    "pm_domestic": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-27"
+      },
+      {
+        "title": "[최기자 시승기] \"중형 넘보는 크기와 디지털·효율로 무장\"...현대차 '디... 새 창 열림",
+        "link": "https://www.g-enews.com/view.php?ud=20261118162326613031a5c2dd38_1",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-27"
+      },
+      {
+        "title": "미국, 전기자전거 배터리 안전기준 연방 의무화 눈앞 새 창 열림",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=718980",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-27"
+      },
+      {
+        "title": "스마트비즈 새 창 열림",
+        "link": "https://www.smartbizn.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-27"
+      },
+      {
+        "title": "강원 어린이놀이시설 관리 사각 해소…도의회 안전 조례 통과 새 창 열림",
+        "link": "https://www.yna.co.kr/view/AKR20261127129500062?input=1195m",
+        "source": "연합뉴스",
+        "tier": "S",
+        "date": "2026-11-27"
+      }
+    ],
+    "ebike_delivery": [
+      {
+        "title": "© NAVER Corp. 새 창 열림",
+        "link": "https://www.navercorp.com/",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-27"
+      },
+      {
+        "title": "모빌리티 기업이 왜 도시를 실험할까? 새 창 열림",
+        "link": "https://www.mt.co.kr/opinion/2026/11/28/2026112615064075262",
+        "source": "머니투데이",
+        "tier": "B",
+        "date": "2026-11-28"
+      },
+      {
+        "title": "미 국무부 “공정위, 미 기업 공격해 한미동맹 훼손…대응 검토” 새 창 열림",
+        "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8725087&ref=A",
+        "source": "KBS",
+        "tier": "S",
+        "date": "2026-11-27"
+      },
+      {
+        "title": "美국무부, 韓 공정위 쿠팡 제재 공개 압박…\"한미동맹 위협, 대응 검토... 새 창 열림",
+        "link": "https://www.newsis.com/view/NISX20261128_0003886956",
+        "source": "뉴시스",
+        "tier": "B",
+        "date": "2026-11-27"
+      },
+      {
+        "title": "세금 107억, '대구로' 5년 만에 종료...지자체 '공공배달앱' 실효성 논란 새 창 열림",
+        "link": "https://www.pn.or.kr/news/articleView.html?idxno=34452",
+        "source": "",
+        "tier": "D",
+        "date": "2026-11-27"
+      },
+      {
+        "title": "월급은 짧고 밤은 길다… 졸린 눈 부릅뜨는 ‘야간 경제’ 새 창 열림",
+        "link": "https://www.chosun.com/national/weekend/2026/11/28/HRHLQ4HJPZHTZN577EO6R3W5VI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+        "source": "조선일보",
+        "tier": "S",
+        "date": "2026-11-28"
+      },
+      {
+        "title": "[韓 IT열전]⑤김범수와 카카오(하)…다시 돌아온 창업자의 시간 새 창 열림",
+        "link": "https://www.edaily.co.kr/News/Read?newsId=01610486645650312&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+        "source": "이데일리",
+        "tier": "B",
+        "date": "2026-11-28"
+      }
+    ],
+    "pm_overseas": [
+      {
+        "title": "🇩🇪 Announcing Micromobility Europe 2027 - Returning to Berlin 🎉",
+        "link": "https://micromobility.substack.com/p/announcing-micromobility-europe-2027",
+        "source": "Micromobility Substack",
+        "tier": "",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "San Francisco, What a Homecoming!",
+        "link": "https://micromobility.substack.com/p/san-francisco-what-a-homecoming",
+        "source": "Micromobility Substack",
+        "tier": "",
+        "date": "2026-11-23"
+      },
+      {
+        "title": "The Industry Showed Up Again. Thank You, San Francisco.",
+        "link": "https://micromobility.substack.com/p/the-industry-showed-up-again-thank",
+        "source": "Micromobility Substack",
+        "tier": "",
+        "date": "2026-11-20"
+      },
+      {
+        "title": "Bike Share in the Land of the Motorbike: How Vietnam Is Making Room for Bikes",
+        "link": "https://micromobility.substack.com/p/bike-share-in-the-land-of-the-motorbike",
+        "source": "Micromobility Substack",
+        "tier": "",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "MMA26 Comes to a Close: Startup Awards, Drone Delivery and a Day to Remember",
+        "link": "https://micromobility.substack.com/p/mma26-comes-to-a-close-startup-awards",
+        "source": "Micromobility Substack",
+        "tier": "",
+        "date": "2026-11-16"
+      }
+    ]
   }
 };
